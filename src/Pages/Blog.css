@@ -1,0 +1,39 @@
+.blog-section {
+  font-family: "Heebo", sans-serif;
+  background-color: #f0f7fc;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.blog-card {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.blog-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #21243d;
+}
+
+.blog-info {
+  font-size: 0.9rem;
+  color: #555;
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.blog-card p {
+  font-size: 0.95rem;
+  color: #333;
+  line-height: 1.4;
+}

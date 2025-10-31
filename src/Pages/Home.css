@@ -1,0 +1,99 @@
+/* --- Tipografia específica do Home --- */
+h1 {
+  font-size: 2.7rem;
+  color: #21243d;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #333;
+  line-height: 1.6;
+  margin-top: 1rem;
+}
+
+/* --- Botão primário --- */
+.btn-primary {
+  background-color: #ff6464;
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-top: 35px;
+}
+
+.btn-primary:hover {
+  background-color: #ff6469;
+  transform: translateY(-2px);
+}
+
+.btn-primary:focus {
+  outline: 2px solid #ff6469;
+  outline-offset: 2px;
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+  background-color: #ff6469;
+}
+
+/* --- Layout principal --- */
+.home {
+  /* 🔹 Agora o container global cuida do espaçamento lateral */
+  margin-top: 10rem;
+}
+
+.home-grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4rem;
+  flex-wrap: wrap;
+}
+
+.home-text {
+  flex: 2;
+  min-width: 300px;
+}
+
+.home-img {
+  flex: 1; /* metade do tamanho do texto */
+  min-width: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.home-img img {
+  width: 100%;
+  max-width: 350px; /* controla o tamanho máximo da imagem */
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  object-fit: cover;
+}
+
+/* --- Responsividade --- */
+@media (max-width: 768px) {
+  .home {
+    margin-top: 150px;
+  }
+
+  .home-grid {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
+  .btn-primary {
+    font-size: 1rem;
+  }
+}

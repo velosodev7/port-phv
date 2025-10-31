@@ -1,0 +1,59 @@
+.header {
+  background-color: #fff;
+
+  padding: 1rem 0; /* espaçamento vertical geral */
+}
+
+/* 🔹 Removido max-width, margin e padding — agora o .container faz isso */
+.header-container {
+  max-width: 1085px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  align-items: center; /* 🔹 Centraliza verticalmente logo e nav */
+  justify-content: space-between;
+}
+
+/* --- Logo --- */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo img {
+  height: 100px;
+  margin: 0;
+  padding: 0;
+}
+
+/* --- Navegação --- */
+.nav ul {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav a:hover {
+  color: #007bff;
+}
+
+/* --- Responsivo --- */
+@media (max-width: 768px) {
+  .nav ul {
+    display: none;
+  }
+
+  .logo h1 {
+    font-size: 1.2rem;
+  }
+}
