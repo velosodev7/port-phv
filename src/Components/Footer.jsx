@@ -4,11 +4,11 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <footer className="footer">
+    <footer id="footer" className="footer">
       <div className="footer-container">
         <div className="social-icons">
           <a
-            href="https://facebook.com"
+            href="https://www.facebook.com/phvnunes/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Facebook"
@@ -17,7 +17,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/phvnunes/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
@@ -35,7 +35,16 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://linkedin.com"
+            href="https://wa.me/5522997733025"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="whatsapp"
+          >
+            <img src="/whatsapp-icon.png" alt="whatsapp" />
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/pedrohsveloso/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
