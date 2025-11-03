@@ -1,8 +1,12 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
+
 import "./Home.css";
 import fotoHome from "../assets/foto-perfil.png";
 
 const Home = () => {
+  const navigate = useNavigate();
+
   return (
     <section className="home">
       {/* 🔹 Container global + grid específica do Home */}
@@ -23,7 +27,9 @@ const Home = () => {
             sempre buscando aprendizado contínuo.
           </p>
 
-          <button className="btn-primary">Download Resumo</button>
+          <button className="btn-primary" onClick={() => navigate("/sobre")}>
+            Saiba mais sobre mim
+          </button>
         </div>
 
         <div className="home-img">

@@ -1,4 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
+
 import Header from "./Components/Header.jsx";
 import Footer from "./Components/Footer.jsx";
 
@@ -6,6 +8,7 @@ import Home from "./Pages/Home.jsx";
 import Projetos from "./Pages/Projetos.jsx";
 import Blog from "./Pages/Blog.jsx";
 import Contato from "./Pages/Contato.jsx";
+import Sobre from "./Pages/Sobre";
 
 function App() {
   return (
@@ -34,6 +37,7 @@ function App() {
           <Route path="/projetos" element={<Projetos />} />
           <Route path="/contato" element={<Contato />} />
           <Route path="*" element={<h2>Página não encontrada 😕</h2>} />
+          <Route path="/sobre" element={<Sobre />} />
         </Routes>
       </main>
 
