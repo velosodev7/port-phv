@@ -26,15 +26,6 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://twitter.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Twitter"
-          >
-            <img src="/twitter.svg" alt="Twitter" />
-          </a>
-
-          <a
             href="https://wa.me/5522997733025"
             target="_blank"
             rel="noopener noreferrer"
