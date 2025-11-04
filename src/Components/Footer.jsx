@@ -26,12 +26,12 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://wa.me/5522997733025"
+            href="https://github.com/velosodev7"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="whatsapp"
+            aria-label="GitHub"
           >
-            <img src="/whatsapp-icon.png" alt="whatsapp" />
+            <img src="/github.svg" alt="GitHub" />
           </a>
 
           <a
