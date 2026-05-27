@@ -1,71 +1,44 @@
-import React from "react";
+import MetaBlock from "../Components/ui/MetaBlock.jsx";
+import SectionHeader from "../Components/ui/SectionHeader.jsx";
+import Bio from "../Components/sobre/Bio.jsx";
+import Processo from "../Components/sobre/Processo.jsx";
+import Formacao from "../Components/sobre/Formacao.jsx";
+import { meta } from "../data/meta.js";
 import "./Sobre.css";
 
-import { FaLaptopCode, FaGraduationCap, FaRocket } from "react-icons/fa";
-
-function Sobre() {
+const Sobre = () => {
   return (
-    <section className="sobre-section">
-      <div className="sobre-container">
-        <h1 className="sobre-titulo">Sobre Mim</h1>
-        <div className="sobre-conteudo">
-          <div className="sobre-texto">
-            <h2>
-              Olá, eu sou <span className="nome-destaque">Pedro Veloso</span> !
-            </h2>
-            <p>
-              Sou <strong>estudante de Desenvolvimento Full Stack</strong> e
-              apaixonado por tecnologia, inovação e pela construção de soluções
-              que unem design e funcionalidade. Estou em constante aprendizado,
-              explorando o ecossistema JavaScript — desde o{" "}
-              <strong>frontend com React</strong> até o{" "}
-              <strong>backend com Node.js</strong>.
-            </p>
-            <p>
-              Meu objetivo é me tornar um desenvolvedor completo, capaz de
-              transformar ideias em aplicações modernas, rápidas e intuitivas.
-              Além do código, gosto de entender o impacto real que a tecnologia
-              pode causar na vida das pessoas.
-            </p>
-            <p>
-              Quando não estou programando, estou estudando novas ferramentas,
-              aprimorando meus projetos pessoais ou explorando boas práticas de
-              UI/UX para entregar experiências cada vez melhores.
-            </p>
-          </div>
+    <section className="sobre">
+      <div className="container">
+        <MetaBlock
+          documento={meta.documento}
+          assunto="§01 · SOBRE"
+          status={null}
+        />
 
-          <div className="sobre-icones">
-            <div className="icone-box">
-              <FaGraduationCap size={40} />
-              <h3>Formação</h3>
-              <p>
-                Estudante de Desenvolvimento Full Stack — focado em React,
-                Node.js e bancos de dados.
-              </p>
-            </div>
+        <SectionHeader index="01" title="Sobre" kicker="QUEM É PEDRO" />
+        <Bio />
 
-            <div className="icone-box">
-              <FaLaptopCode size={40} />
-              <h3>Habilidades</h3>
-              <p>
-                HTML, CSS, JavaScript, React, Node.js, Git, Firebase, e
-                metodologias ágeis.
-              </p>
-            </div>
+        <div className="sobre-bloco">
+          <SectionHeader
+            index="01.A"
+            title="Processo de trabalho"
+            kicker="COMO ENTREGO"
+          />
+          <Processo />
+        </div>
 
-            <div className="icone-box">
-              <FaRocket size={40} />
-              <h3>Objetivo</h3>
-              <p>
-                Atuar como desenvolvedor full stack e crescer profissionalmente
-                em projetos desafiadores.
-              </p>
-            </div>
-          </div>
+        <div className="sobre-bloco">
+          <SectionHeader
+            index="01.B"
+            title="Formação"
+            kicker="LINHA DO TEMPO"
+          />
+          <Formacao />
         </div>
       </div>
     </section>
   );
-}
+};
 
 export default Sobre;

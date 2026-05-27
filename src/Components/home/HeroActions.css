@@ -1,0 +1,58 @@
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-top: var(--space-4);
+}
+
+.hero-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-mono);
+  font-size: var(--fs-small);
+  letter-spacing: var(--ls-mono);
+  text-transform: uppercase;
+  padding: 14px 22px;
+  border-radius: var(--radius-sm);
+  transition: background-color var(--transition-base),
+    color var(--transition-base),
+    border-color var(--transition-base),
+    transform var(--transition-fast);
+}
+
+.hero-cta--primary {
+  background-color: var(--accent);
+  color: var(--bg);
+  border: 1px solid var(--accent);
+}
+
+.hero-cta--primary:hover {
+  background-color: var(--accent-hover);
+  border-color: var(--accent-hover);
+  color: var(--bg);
+  transform: translateY(-1px);
+}
+
+.hero-cta--ghost {
+  background-color: transparent;
+  color: var(--text);
+  border: 1px solid var(--border-strong);
+}
+
+.hero-cta--ghost:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.hero-cta.is-disabled {
+  color: var(--text-dim);
+  border-color: var(--border);
+  cursor: not-allowed;
+}
+
+.hero-cta.is-disabled:hover {
+  color: var(--text-dim);
+  border-color: var(--border);
+  transform: none;
+}
