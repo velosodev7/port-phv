@@ -1,0 +1,34 @@
+.hero {
+  padding-top: var(--space-4);
+  padding-bottom: var(--space-6);
+}
+
+.hero-inner {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-name {
+  margin-top: var(--space-3);
+}
+
+.hero-tagline {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: var(--fs-tagline);
+  line-height: var(--lh-snug);
+  color: var(--text);
+  max-width: 720px;
+  margin-top: var(--space-4);
+}
+
+.hero-tagline .accent {
+  font-style: italic;
+}
+
+@media (max-width: 720px) {
+  .hero {
+    padding-top: var(--space-3);
+    padding-bottom: var(--space-5);
+  }
+}

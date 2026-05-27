@@ -1,43 +1,7 @@
-import React from "react";
-import { useNavigate } from "react-router-dom";
-
-import "./Home.css";
-import fotoHome from "../assets/foto-perfil.png";
+import Hero from "../Components/home/Hero.jsx";
 
 const Home = () => {
-  const navigate = useNavigate();
-
-  return (
-    <section className="home">
-      {/* 🔹 Container global + grid específica do Home */}
-      <div className="container home-grid">
-        <div className="home-text">
-          <h1>
-            Olá, eu sou Pedro Veloso
-            <br />
-            Desenvolvedor Full-stack!
-          </h1>
-
-          <p>
-            Atuo como desenvolvedor full stack, construindo soluções web
-            completas.
-            <br />
-            Meu foco é código limpo, performance e experiências de usuário,
-            <br />
-            sempre buscando aprendizado contínuo.
-          </p>
-
-          <button className="btn-primary" onClick={() => navigate("/sobre")}>
-            Saiba mais sobre mim
-          </button>
-        </div>
-
-        <div className="home-img">
-          <img src={fotoHome} alt="Pedro Veloso - Desenvolvedor Full Stack" />
-        </div>
-      </div>
-    </section>
-  );
+  return <Hero />;
 };
 
 export default Home;

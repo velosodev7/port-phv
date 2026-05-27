@@ -1,0 +1,40 @@
+.tech-chip {
+  display: grid;
+  grid-template-columns: 14px 1fr auto;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) 0;
+  border-top: 1px solid var(--border);
+}
+
+.tech-chip__dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.tech-chip__dot.is-strong {
+  background-color: var(--accent);
+}
+
+.tech-chip__dot.is-mid {
+  background-color: var(--text-muted);
+}
+
+.tech-chip__dot.is-soft {
+  background-color: var(--text-dim);
+}
+
+.tech-chip__name {
+  font-family: var(--font-sans);
+  font-size: var(--fs-body);
+  color: var(--text);
+}
+
+.tech-chip__level {
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  text-transform: uppercase;
+  color: var(--text-dim);
+}

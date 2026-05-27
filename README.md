@@ -1,104 +1,101 @@
-# 🖥️ Portfólio Pessoal - React + Vite
+# Portfólio — Pedro Veloso
 
+> Site pessoal de Pedro Veloso, desenvolvedor full-stack.
+> Identidade editorial em tema escuro, foco em comunicar stack técnica e processo de trabalho.
 
-https://phvdev.vercel.app/
-
-> Meu primeiro projeto utilizando **React** e **Vite**, criado para apresentar minhas habilidades e projetos de forma organizada e responsiva.
-
----
-
-## 🚀 Descrição do Projeto
-
-Este é um **portfólio pessoal** desenvolvido com **React** e **Vite**, marcando meu **primeiro projeto usando estas tecnologias modernas**.  
-O objetivo principal é **apresentar meus projetos, habilidades e informações de contato**, utilizando boas práticas de desenvolvimento web, responsividade e interatividade.
-
-O projeto serve como **base de aprendizado** para futuras aplicações em React, incluindo componentes reutilizáveis, rotas, e estilização moderna com CSS puro.
+**Produção:** [www.phvdev.com.br](https://www.phvdev.com.br)
 
 ---
 
-## 💡 Funcionalidades
+## Sobre o projeto
 
-- Página inicial com apresentação pessoal.
-- Seção de projetos com detalhes e links externos.
-- Seção de blog ou posts (opcional).
-- Contato com links para email e redes sociais.
-- Layout totalmente responsivo.
-- Navegação entre páginas sem recarregar (React Router + Vite).
-- Primeiro projeto com **componentização e organização de pastas**.
+Portfólio reescrito do zero com foco em três coisas:
 
----
+- **Comunicar valor técnico** — stack visível no hero, projetos com problema/papel/stack/links em vez de só thumbnail.
+- **Identidade editorial em dark mode** — tipografia mista (serif display + sans corpo + mono metadados), acento coral, sem gradientes decorativos.
+- **Construção limpa** — design tokens em CSS variables, componentes pequenos e dedicados, dados separados do markup em `src/data/`.
 
-## 🛠️ Tecnologias Utilizadas
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-- **React**: Biblioteca para criar interfaces reativas.
-- **Vite**: Build tool moderna, super rápida para desenvolvimento.
-- **HTML5 & CSS3**: Estrutura e estilização.
-- **JavaScript**: Lógica e interatividade.
-- **React Router**: Navegação SPA (opcional).
+Cada commit em `main` dispara deploy automático em produção, então o repositório também serve como exemplo do meu fluxo de trabalho (versionamento, revisão, deploy contínuo).
 
 ---
 
-## 📁 Estrutura do Projeto
+## Stack
 
-port-phv/
-├─ public/ # Arquivos estáticos (imagens, ícones)
-├─ src/
-│ ├─ components/ # Componentes React reutilizáveis
-│ ├─ pages/ # Páginas principais
-│ ├─ App.jsx # Componente principal
-│ ├─ main.jsx # Entrada do Vite/React
-│ └─ index.css # Estilos globais
-├─ package.json # Dependências e scripts
-└─ vite.config.js # Configuração do Vite
+- **React 19** + **Vite 7**
+- **React Router 7** para roteamento
+- **react-icons** (feather) para ícones
+- **CSS puro com design tokens** em CSS variables (sem Tailwind)
+- Fontes via Google Fonts no `<link>`: **Instrument Serif**, **Inter**, **JetBrains Mono**
 
 ---
 
-## ⚡ Como Rodar Localmente
+## Estrutura
 
-## ## 1. Clone o repositório:
-
-```bash
-git clone <URL-do-repositório>
+```
+src/
+├── App.jsx              # rotas isoladas
+├── main.jsx
+├── index.css            # importa tokens + reset + global
+├── styles/
+│   ├── tokens.css       # cores, tipografia, espaçamento
+│   ├── reset.css        # reset mínimo
+│   └── global.css       # body dark, container, utilitários
+├── data/
+│   ├── meta.js          # bloco // DOCUMENTO/ASSUNTO/STATUS + tagline + seções
+│   ├── contact.js       # email, github, linkedin, cv
+│   ├── projects.js      # array de projetos
+│   ├── stack.js         # categorias de tecnologias
+│   └── posts.js         # artigos do blog (vazio enquanto não houver)
+├── Components/
+│   ├── Header.jsx       # nav sticky com hambúrguer mobile
+│   ├── Footer.jsx       # minimal: copyright + voltar ao topo
+│   ├── ui/              # MetaBlock, AvailabilityStatus, EditorialName,
+│   │                    # SectionHeader, CoralAccent
+│   ├── home/            # Hero, HeroActions
+│   ├── sobre/           # Bio, Processo, Formacao
+│   ├── projetos/        # ProjectCard, ProjectList
+│   ├── stack/           # StackCategory, TechChip
+│   ├── blog/            # EmptyState
+│   └── contato/         # ContactList, ContactItem
+└── Pages/
+    ├── Home.jsx         # Hero
+    ├── Sobre.jsx        # Bio + Processo + Formação
+    ├── Projetos.jsx     # ProjectList
+    ├── Stack.jsx        # categorias agrupadas
+    ├── Blog.jsx         # EmptyState
+    ├── Contato.jsx      # ContactList
+    └── NotFound.jsx     # 404 estilizada
 ```
 
-## 2. Entre na pasta do projeto:
+---
 
+## Rodando localmente
+
+```bash
+git clone https://github.com/velosodev7/port-phv.git
 cd port-phv
-
-## 3. Instale as dependências:
-
 npm install
+npm run dev          # http://localhost:5173
+npm run build        # produção
+npm run preview      # serve a build
+npm run lint
+```
 
-## 4. Inicie o servidor de desenvolvimento:
+---
 
-npm run dev
+## Atualizando conteúdo sem mexer no JSX
 
-## 5. Abra o link que aparece no terminal (geralmente http://localhost:5173) no navegador.
+A maior parte do conteúdo está em `src/data/`:
 
-## 🎯 Objetivos de Aprendizado
+- **Projetos novos** → adicionar entrada em `projects.js` seguindo o shape existente (`id`, `titulo`, `problema`, `papel`, `stack[]`, `github`, `demo`, `imagem`, `ano`, `tipo`).
+- **Stack** → editar `stack.js` ajustando categorias e níveis (`proficiente`, `intermediário`, `estudando`).
+- **Tagline e status** → editar `meta.js`.
+- **Contato** → editar `contact.js` (incluindo o `cv` quando o PDF estiver disponível).
 
-Compreender a arquitetura de projetos React + Vite.
+---
 
-Criar componentes reutilizáveis e páginas organizadas.
+## Contato
 
-Trabalhar com navegação SPA usando React Router.
-
-Desenvolver layouts responsivos e modernos.
-
-Familiarizar-se com o fluxo de versionamento Git e GitHub.
-
-## 📬 Contato
-
-Email: seu-email@exemplo.com
-
-LinkedIn: Seu Perfil
-
-GitHub: Seu Perfil
-
-Este projeto marca meu primeiro passo no desenvolvimento front-end moderno, servindo como base para futuros projetos em React e aprimoramento das minhas habilidades web.
+- **E-mail:** [pedrovelosonunes@gmail.com](mailto:pedrovelosonunes@gmail.com)
+- **GitHub:** [@velosodev7](https://github.com/velosodev7)
+- **LinkedIn:** [/in/pedrohsveloso](https://www.linkedin.com/in/pedrohsveloso/)

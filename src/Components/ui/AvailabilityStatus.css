@@ -1,0 +1,43 @@
+.availability {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  text-transform: uppercase;
+}
+
+.availability-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  background-color: var(--status);
+  box-shadow: 0 0 0 0 var(--status);
+}
+
+.availability.is-active .availability-dot {
+  animation: availability-pulse 2.4s ease-out infinite;
+}
+
+.availability.is-inactive .availability-dot {
+  background-color: var(--text-dim);
+  animation: none;
+}
+
+@keyframes availability-pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(168, 224, 99, 0.55);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(168, 224, 99, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(168, 224, 99, 0);
+  }
+}
+
+.availability-label {
+  color: var(--text);
+}

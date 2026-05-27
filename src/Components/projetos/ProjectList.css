@@ -1,0 +1,12 @@
+.project-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.project-list__empty {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: var(--fs-tagline);
+  color: var(--text-muted);
+  margin: 0;
+}
