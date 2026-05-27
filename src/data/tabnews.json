@@ -1,4 +1,115 @@
 {
-  "updated_at": null,
-  "posts": []
+  "updated_at": "2026-05-27T15:58:07.318Z",
+  "posts": [
+    {
+      "id": "d39864d5-677a-4862-8301-97c18955d19c",
+      "title": "Pitch: 12 Anos e criei meu SO.",
+      "slug": "12-anos-e-criei-meu-so",
+      "owner_username": "LucasPR",
+      "source_url": null,
+      "tabcoins": 47,
+      "children_deep_count": 19,
+      "published_at": "2026-05-26T17:31:26.314Z",
+      "url": "https://www.tabnews.com.br/LucasPR/12-anos-e-criei-meu-so"
+    },
+    {
+      "id": "50041581-2304-4a59-a87f-86f6c041bf61",
+      "title": "Pitch: Desenvolvi um mod para Minecraft que pesquisa e renderiza vídeos do YouTube usando FFmpeg e yt-dlp (RadioMC)",
+      "slug": "desenvolvi-um-mod-para-minecraft-que-pesquisa-e-renderiza-videos-do-youtube-usando-ffmpeg-e-yt-dlp-radiomc",
+      "owner_username": "gatosmias",
+      "source_url": "https://modrinth.com/mod/radiomc",
+      "tabcoins": 17,
+      "children_deep_count": 1,
+      "published_at": "2026-05-26T10:52:07.241Z",
+      "url": "https://www.tabnews.com.br/gatosmias/desenvolvi-um-mod-para-minecraft-que-pesquisa-e-renderiza-videos-do-youtube-usando-ffmpeg-e-yt-dlp-radiomc"
+    },
+    {
+      "id": "307f3baa-6059-4386-8d44-cc1194a8aad1",
+      "title": "Pitch: Darto 1.0.0 foi lançado 🚀",
+      "slug": "darto-1-0-0-foi-lancado",
+      "owner_username": "evandersondev",
+      "source_url": "https://darto-docs.vercel.app/",
+      "tabcoins": 12,
+      "children_deep_count": 6,
+      "published_at": "2026-05-26T12:30:42.663Z",
+      "url": "https://www.tabnews.com.br/evandersondev/darto-1-0-0-foi-lancado"
+    },
+    {
+      "id": "9caeecb3-cab5-4c3b-9919-85749951559d",
+      "title": "O Preço Real do Token: Por que Gigantes da Tecnologia Estão Descobrindo que a IA Custa Mais que Humanos",
+      "slug": "o-preco-real-do-token-por-que-gigantes-da-tecnologia-estao-descobrindo-que-a-ia-custa-mais-que-humanos",
+      "owner_username": "KerubinDev",
+      "source_url": "https://kerubindev.substack.com/p/o-preco-real-do-token-por-que-gigantes",
+      "tabcoins": 10,
+      "children_deep_count": 4,
+      "published_at": "2026-05-26T16:37:03.142Z",
+      "url": "https://www.tabnews.com.br/KerubinDev/o-preco-real-do-token-por-que-gigantes-da-tecnologia-estao-descobrindo-que-a-ia-custa-mais-que-humanos"
+    },
+    {
+      "id": "35a3d3ac-781c-4356-bb7a-d45d6ebca8c0",
+      "title": "Pitch: TryPost: open source social media scheduler",
+      "slug": "trypost-open-source-social-media-scheduler",
+      "owner_username": "paulocastellano",
+      "source_url": null,
+      "tabcoins": 9,
+      "children_deep_count": 6,
+      "published_at": "2026-05-26T23:14:48.486Z",
+      "url": "https://www.tabnews.com.br/paulocastellano/trypost-open-source-social-media-scheduler"
+    },
+    {
+      "id": "a6351e55-64b3-4d38-9d55-18e25ad81793",
+      "title": "Como Criar uma Skill Recursiva que Melhora a Si Mesma e o Harness",
+      "slug": "como-criar-uma-skill-recursiva-que-melhora-a-si-mesma-e-o-harness",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/skill-recursiva-feedback-loop-harness",
+      "tabcoins": 7,
+      "children_deep_count": 1,
+      "published_at": "2026-05-27T00:48:29.182Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/como-criar-uma-skill-recursiva-que-melhora-a-si-mesma-e-o-harness"
+    },
+    {
+      "id": "19d58a2b-6959-4bdf-8f77-b6158ee5c7bf",
+      "title": "Brasileiro de apenas 12 anos cria sistema operacional gráfico do zero, sem usar Linux como base",
+      "slug": "brasileiro-de-apenas-12-anos-cria-sistema-operacional-grafico-do-zero-sem-usar-linux-como-base",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.tabnews.com.br/LucasPR/12-anos-e-criei-meu-so",
+      "tabcoins": 7,
+      "children_deep_count": 0,
+      "published_at": "2026-05-27T14:32:36.786Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/brasileiro-de-apenas-12-anos-cria-sistema-operacional-grafico-do-zero-sem-usar-linux-como-base"
+    },
+    {
+      "id": "548d064c-4084-49bb-9844-cd2fc4146d33",
+      "title": "Pitch: Construí uma ferramenta opensource que avalia o fit entre seu currículo e uma vaga",
+      "slug": "construi-uma-ferramenta-opensource-que-avalia-o-fit-entre-seu-curriculo-e-uma-vaga",
+      "owner_username": "b4st3r",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-05-27T00:29:21.296Z",
+      "url": "https://www.tabnews.com.br/b4st3r/construi-uma-ferramenta-opensource-que-avalia-o-fit-entre-seu-curriculo-e-uma-vaga"
+    },
+    {
+      "id": "b554426d-6bed-4c1d-b121-9efe22c671de",
+      "title": "Plugei o mesmo site em 7 rastreadores de citação por IA. Nenhum bateu com o outro.",
+      "slug": "plugei-o-mesmo-site-em-7-rastreadores-de-citacao-por-ia-nenhum-bateu-com-o-outro",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/7-rastreadores-citacoes-ia-numeros-diferentes/",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-05-27T12:00:03.953Z",
+      "url": "https://www.tabnews.com.br/kenimo49/plugei-o-mesmo-site-em-7-rastreadores-de-citacao-por-ia-nenhum-bateu-com-o-outro"
+    },
+    {
+      "id": "55cdc719-54db-48d4-90eb-f83655e264ff",
+      "title": "Desenvolvedor Web em 2026: qual caminho ainda vale a pena?",
+      "slug": "desenvolvedor-web-em-2026-qual-caminho-ainda-vale-a-pena",
+      "owner_username": "pereira299",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-05-26T22:04:37.862Z",
+      "url": "https://www.tabnews.com.br/pereira299/desenvolvedor-web-em-2026-qual-caminho-ainda-vale-a-pena"
+    }
+  ]
 }
