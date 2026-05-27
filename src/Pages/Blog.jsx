@@ -1,8 +1,7 @@
 import MetaBlock from "../Components/ui/MetaBlock.jsx";
 import SectionHeader from "../Components/ui/SectionHeader.jsx";
-import EmptyState from "../Components/blog/EmptyState.jsx";
+import BlogTabNews from "../Components/blog/BlogTabNews.jsx";
 import { meta } from "../data/meta.js";
-import { posts } from "../data/posts.js";
 import "./Blog.css";
 
 const Blog = () => {
@@ -21,11 +20,7 @@ const Blog = () => {
           kicker="ANOTAÇÕES E ARTIGOS"
         />
 
-        {posts.length === 0 ? (
-          <EmptyState />
-        ) : (
-          <p>Listagem de posts virá quando houver conteúdo.</p>
-        )}
+        <BlogTabNews />
       </div>
     </section>
   );
