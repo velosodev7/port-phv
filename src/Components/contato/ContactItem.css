@@ -66,6 +66,7 @@ a.contact-item:hover .contact-item__icon {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  word-break: break-word;
 }
 
 a.contact-item:hover .contact-item__value {
@@ -111,5 +112,22 @@ a.contact-item:hover .contact-item__arrow {
   .contact-item__value {
     font-size: 20px;
     white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
+}
+
+@media (max-width: 400px) {
+  .contact-item {
+    grid-template-columns: 28px 1fr auto;
+    gap: var(--space-2);
+  }
+
+  .contact-item__index {
+    display: none;
+  }
+
+  .contact-item__value {
+    font-size: 18px;
   }
 }
