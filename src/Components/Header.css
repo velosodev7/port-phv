@@ -1,59 +1,147 @@
 .header {
-  background-color: #fff;
-
-  padding: 1rem 0; /* espaçamento vertical geral */
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background-color: rgba(10, 10, 10, 0.85);
+  backdrop-filter: saturate(140%) blur(12px);
+  -webkit-backdrop-filter: saturate(140%) blur(12px);
+  border-bottom: 1px solid var(--border);
 }
 
-/* 🔹 Removido max-width, margin e padding — agora o .container faz isso */
-.header-container {
-  max-width: 1085px;
-  margin: 0 auto;
-  padding: 0 2rem;
-  display: flex;
-  align-items: center; /* 🔹 Centraliza verticalmente logo e nav */
-  justify-content: space-between;
-}
-
-/* --- Logo --- */
-.logo {
+.header-inner {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  justify-content: space-between;
+  gap: var(--space-3);
+  min-height: 64px;
 }
 
-.logo img {
-  height: 100px;
-  margin: 0;
-  padding: 0;
+.header-mark {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 10px;
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  text-transform: uppercase;
+  color: var(--text);
 }
 
-/* --- Navegação --- */
-.nav ul {
-  display: flex;
-  gap: 2rem;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.nav a {
-  text-decoration: none;
-  color: #333;
+.header-mark__name {
   font-weight: 500;
-  transition: color 0.3s ease;
 }
 
-.nav a:hover {
-  color: #007bff;
+.header-mark__role {
+  color: var(--text-dim);
 }
 
-/* --- Responsivo --- */
-@media (max-width: 768px) {
-  .nav ul {
-    display: none;
+.header-mark:hover {
+  color: var(--accent);
+}
+
+.header-mark:hover .header-mark__role {
+  color: var(--accent);
+}
+
+.header-nav ul {
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+}
+
+.header-link {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding: 6px 0;
+  border-bottom: 1px solid transparent;
+  transition: color var(--transition-fast),
+    border-color var(--transition-fast);
+}
+
+.header-link__index {
+  color: var(--text-dim);
+  font-size: 10px;
+}
+
+.header-link:hover,
+.header-link.is-active {
+  color: var(--text);
+  border-bottom-color: var(--accent);
+}
+
+.header-link:hover .header-link__index,
+.header-link.is-active .header-link__index {
+  color: var(--accent);
+}
+
+.header-burger {
+  display: none;
+  width: 36px;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+}
+
+.header-burger__bar {
+  display: block;
+  width: 16px;
+  height: 1.5px;
+  background-color: var(--text);
+  transition: transform var(--transition-base),
+    opacity var(--transition-base);
+}
+
+.header-burger.is-open .header-burger__bar:nth-child(1) {
+  transform: translateY(3.5px) rotate(45deg);
+}
+
+.header-burger.is-open .header-burger__bar:nth-child(2) {
+  transform: translateY(-3px) rotate(-45deg);
+}
+
+@media (max-width: 820px) {
+  .header-burger {
+    display: inline-flex;
   }
 
-  .logo h1 {
-    font-size: 1.2rem;
+  .header-nav {
+    position: fixed;
+    inset: 64px 0 0 0;
+    background-color: var(--bg);
+    border-top: 1px solid var(--border);
+    transform: translateY(-8px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity var(--transition-base),
+      transform var(--transition-base);
+  }
+
+  .header-nav.is-open {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .header-nav ul {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-2);
+    padding: var(--space-4) var(--container-pad);
+  }
+
+  .header-link {
+    font-size: 14px;
+    padding: 10px 0;
   }
 }

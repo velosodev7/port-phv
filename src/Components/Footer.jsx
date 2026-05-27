@@ -1,50 +1,27 @@
-import React from "react";
-import { Link } from "react-router-dom";
 import "./Footer.css";
 
 const Footer = () => {
+  const year = new Date().getFullYear();
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   return (
-    <footer id="footer" className="footer">
-      <div className="footer-container">
-        <div className="social-icons">
-          <a
-            href="https://www.facebook.com/phvnunes/"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Facebook"
-          >
-            <img src="/facebook.svg" alt="Facebook" />
-          </a>
-
-          <a
-            href="https://www.instagram.com/phvnunes/"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Instagram"
-          >
-            <img src="/instagram.svg" alt="Instagram" />
-          </a>
-
-          <a
-            href="https://github.com/velosodev7"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="GitHub"
-          >
-            <img src="/github.svg" alt="GitHub" />
-          </a>
-
-          <a
-            href="https://www.linkedin.com/in/pedrohsveloso/"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="LinkedIn"
-          >
-            <img src="/linkedin.svg" alt="LinkedIn" />
-          </a>
-        </div>
-        {/* Copyright */}
-        <p className="copyright">© 2025 All rights reserved</p>
+    <footer className="footer">
+      <div className="container footer-inner">
+        <p className="footer-copy">
+          © {year} Pedro Veloso · phvdev.com.br
+        </p>
+        <button
+          type="button"
+          className="footer-top"
+          onClick={scrollToTop}
+          aria-label="Voltar ao topo da página"
+        >
+          <span>Voltar ao topo</span>
+          <span aria-hidden="true">↑</span>
+        </button>
       </div>
     </footer>
   );

@@ -1,38 +1,38 @@
 .footer {
-  padding: 2rem 1rem;
-  text-align: center;
-  color: #fff;
+  border-top: 1px solid var(--border);
+  padding: var(--space-3) 0;
+  margin-top: var(--space-6);
 }
 
-.footer-container {
+.footer-inner {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  gap: 1rem; /* Espaço entre ícones e copyright */
+  justify-content: space-between;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  text-transform: uppercase;
+  color: var(--text-muted);
 }
 
-/* Ícones das redes sociais */
-.social-icons {
-  display: flex;
-  gap: 2rem;
-  justify-content: center;
-  align-items: center;
-}
-
-.social-icons a img {
-  width: 32px;
-  height: 32px;
-  transition: transform 0.3s ease, opacity 0.3s ease;
-}
-
-.social-icons a:hover img {
-  transform: translateY(-4px);
-  opacity: 0.8;
-}
-
-/* Copyright */
-.footer p {
-  font-size: 0.9rem;
-  color: #aaa;
+.footer-copy {
   margin: 0;
+}
+
+.footer-top {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-muted);
+  font-family: inherit;
+  font-size: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  transition: color var(--transition-fast);
+}
+
+.footer-top:hover {
+  color: var(--accent);
 }

@@ -1,0 +1,26 @@
+.editorial-name {
+  font-family: var(--font-serif);
+  font-size: var(--fs-display);
+  line-height: 0.9;
+  letter-spacing: var(--ls-display);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.editorial-name__first {
+  font-style: normal;
+}
+
+.editorial-name__last {
+  font-style: italic;
+  align-self: flex-end;
+  color: var(--text);
+}
+
+@media (max-width: 720px) {
+  .editorial-name__last {
+    align-self: flex-start;
+  }
+}

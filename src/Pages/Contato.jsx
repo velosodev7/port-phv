@@ -1,55 +1,34 @@
-// src/pages/Contato.jsx
-import React, { useEffect } from "react";
-import { FaArrowDown } from "react-icons/fa";
+import MetaBlock from "../Components/ui/MetaBlock.jsx";
+import SectionHeader from "../Components/ui/SectionHeader.jsx";
+import ContactList from "../Components/contato/ContactList.jsx";
+import { meta } from "../data/meta.js";
+import "./Contato.css";
 
-function Contato() {
-  useEffect(() => {
-    // rola suavemente até o footer ao entrar na página
-    const footer = document.getElementById("footer");
-    if (footer) {
-      footer.scrollIntoView({ behavior: "smooth" });
-    }
-  }, []);
-
+const Contato = () => {
   return (
-    <section
-      style={{
-        padding: "4rem 1rem",
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-        justifyContent: "center",
-        textAlign: "center",
-      }}
-    >
-      <h1>Entre em Contato</h1>
-      <p>Veja abaixo nossas formas de contato!</p>
+    <section className="contato-page">
+      <div className="container">
+        <MetaBlock
+          documento={meta.documento}
+          assunto="§05 · CONTATO"
+          status={meta.status}
+        />
 
-      {/* Seta animada apontando para o footer */}
-      <div
-        style={{
-          marginTop: "1rem",
-          animation: "bounce 1.5s infinite",
-        }}
-      >
-        <FaArrowDown size={40} color="#007bff" />
+        <SectionHeader
+          index="05"
+          title="Contato"
+          kicker="ONDE ME ENCONTRAR"
+        />
+
+        <p className="contato-page__intro">
+          Estou aberto a conversas sobre projetos e colaborações.
+          A forma mais rápida de me alcançar é por <span className="accent">e-mail</span>.
+        </p>
+
+        <ContactList />
       </div>
-
-      <style>{`
-        @keyframes bounce {
-          0%, 20%, 50%, 80%, 100% {
-            transform: translateY(0);
-          }
-          40% {
-            transform: translateY(-10px);
-          }
-          60% {
-            transform: translateY(-5px);
-          }
-        }
-      `}</style>
     </section>
   );
-}
+};
 
 export default Contato;

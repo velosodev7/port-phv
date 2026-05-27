@@ -1,0 +1,115 @@
+.contact-item {
+  display: grid;
+  grid-template-columns: 80px 32px 1fr auto;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-3) 0;
+  border-top: 1px solid var(--border);
+  color: var(--text);
+  transition: color var(--transition-fast),
+    border-color var(--transition-fast),
+    padding var(--transition-fast);
+}
+
+.contact-item:last-child {
+  border-bottom: 1px solid var(--border);
+}
+
+.contact-item__index {
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  color: var(--text-dim);
+}
+
+a.contact-item:hover .contact-item__index {
+  color: var(--accent);
+}
+
+.contact-item__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  transition: color var(--transition-fast);
+}
+
+a.contact-item:hover .contact-item__icon {
+  color: var(--accent);
+}
+
+.contact-item__icon svg {
+  width: 22px;
+  height: 22px;
+}
+
+.contact-item__body {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.contact-item__label {
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+
+.contact-item__value {
+  font-family: var(--font-serif);
+  font-size: var(--fs-h3);
+  color: var(--text);
+  line-height: 1.1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+a.contact-item:hover .contact-item__value {
+  color: var(--accent);
+}
+
+.contact-item__hint {
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  color: var(--text-dim);
+  margin-top: 4px;
+}
+
+.contact-item__arrow {
+  font-family: var(--font-mono);
+  font-size: 18px;
+  color: var(--text-muted);
+  transition: transform var(--transition-base),
+    color var(--transition-fast);
+}
+
+a.contact-item:hover .contact-item__arrow {
+  color: var(--accent);
+  transform: translateX(4px);
+}
+
+.contact-item.is-disabled {
+  color: var(--text-dim);
+}
+
+.contact-item.is-disabled .contact-item__value {
+  color: var(--text-dim);
+  font-style: italic;
+}
+
+@media (max-width: 540px) {
+  .contact-item {
+    grid-template-columns: 60px 28px 1fr auto;
+    gap: var(--space-1);
+  }
+
+  .contact-item__value {
+    font-size: 20px;
+    white-space: normal;
+  }
+}
