@@ -19,7 +19,7 @@
   gap: var(--space-5) var(--space-4);
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   .stack-page__grid {
     grid-template-columns: 1fr;
     gap: var(--space-4);

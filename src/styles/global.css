@@ -1,3 +1,8 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
 body {
   font-family: var(--font-sans);
   font-size: var(--fs-body);
@@ -5,6 +10,11 @@ body {
   color: var(--text);
   background-color: var(--bg);
   text-rendering: optimizeLegibility;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 h1,

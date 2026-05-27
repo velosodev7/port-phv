@@ -34,3 +34,10 @@
     gap: var(--space-1);
   }
 }
+
+@media (max-width: 400px) {
+  .meta-row {
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+}
