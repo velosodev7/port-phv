@@ -1,104 +1,16 @@
 {
-  "updated_at": "2026-05-28T12:20:37.115Z",
+  "updated_at": "2026-05-29T12:09:49.562Z",
   "posts": [
-    {
-      "id": "a6351e55-64b3-4d38-9d55-18e25ad81793",
-      "title": "Como Criar uma Skill Recursiva que Melhora a Si Mesma e o Harness",
-      "slug": "como-criar-uma-skill-recursiva-que-melhora-a-si-mesma-e-o-harness",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/skill-recursiva-feedback-loop-harness",
-      "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-05-27T00:48:29.182Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/como-criar-uma-skill-recursiva-que-melhora-a-si-mesma-e-o-harness"
-    },
-    {
-      "id": "19d58a2b-6959-4bdf-8f77-b6158ee5c7bf",
-      "title": "Brasileiro de apenas 12 anos cria sistema operacional gráfico do zero, sem usar Linux como base",
-      "slug": "brasileiro-de-apenas-12-anos-cria-sistema-operacional-grafico-do-zero-sem-usar-linux-como-base",
-      "owner_username": "NewsletterOficial",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 17,
-      "published_at": "2026-05-27T14:32:36.786Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/brasileiro-de-apenas-12-anos-cria-sistema-operacional-grafico-do-zero-sem-usar-linux-como-base"
-    },
-    {
-      "id": "a004c074-ccaf-46e1-a6ab-95c019e8d0fe",
-      "title": "O problema de não ter senso crítico",
-      "slug": "o-problema-de-nao-ter-senso-critico",
-      "owner_username": "Silva97",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 7,
-      "published_at": "2026-05-27T20:54:23.321Z",
-      "url": "https://www.tabnews.com.br/Silva97/o-problema-de-nao-ter-senso-critico"
-    },
-    {
-      "id": "548d064c-4084-49bb-9844-cd2fc4146d33",
-      "title": "Pitch: Construí uma ferramenta opensource que avalia o fit entre seu currículo e uma vaga",
-      "slug": "construi-uma-ferramenta-opensource-que-avalia-o-fit-entre-seu-curriculo-e-uma-vaga",
-      "owner_username": "b4st3r",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 3,
-      "published_at": "2026-05-27T00:29:21.296Z",
-      "url": "https://www.tabnews.com.br/b4st3r/construi-uma-ferramenta-opensource-que-avalia-o-fit-entre-seu-curriculo-e-uma-vaga"
-    },
-    {
-      "id": "b554426d-6bed-4c1d-b121-9efe22c671de",
-      "title": "Plugei o mesmo site em 7 rastreadores de citação por IA. Nenhum bateu com o outro.",
-      "slug": "plugei-o-mesmo-site-em-7-rastreadores-de-citacao-por-ia-nenhum-bateu-com-o-outro",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/7-rastreadores-citacoes-ia-numeros-diferentes/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-05-27T12:00:03.953Z",
-      "url": "https://www.tabnews.com.br/kenimo49/plugei-o-mesmo-site-em-7-rastreadores-de-citacao-por-ia-nenhum-bateu-com-o-outro"
-    },
-    {
-      "id": "2b6af760-456a-4601-a736-8b066a136ed8",
-      "title": "Testei LLMs locais, gratuitos e pagos para traduzir PDFs via BabelDOC (E parei de gastar com modelos flagship)",
-      "slug": "testei-llms-locais-gratuitos-e-pagos-para-traduzir-pdfs-via-babeldoc-e-parei-de-gastar-com-modelos-flagship",
-      "owner_username": "Oletros",
-      "source_url": "https://github.com/funstory-ai/BabelDOC",
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-05-27T14:26:08.623Z",
-      "url": "https://www.tabnews.com.br/Oletros/testei-llms-locais-gratuitos-e-pagos-para-traduzir-pdfs-via-babeldoc-e-parei-de-gastar-com-modelos-flagship"
-    },
-    {
-      "id": "24720945-3f47-4631-87e3-f3e6371a3be0",
-      "title": "A grande ressaca da IA, sim enfiar chat em tudo está destruindo o seu produto",
-      "slug": "a-grande-ressaca-da-ia-por-que-enfiar-chat-em-tudo-esta-destruindo-o-seu-produto",
-      "owner_username": "KerubinDev",
-      "source_url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "tabcoins": 3,
-      "children_deep_count": 3,
-      "published_at": "2026-05-27T20:26:24.913Z",
-      "url": "https://www.tabnews.com.br/KerubinDev/a-grande-ressaca-da-ia-por-que-enfiar-chat-em-tudo-esta-destruindo-o-seu-produto"
-    },
     {
       "id": "a8037e5c-5276-4fb4-9e37-c39511a6e096",
       "title": "Por que tantos desenvolvedores ficam depressivos?",
       "slug": "por-que-tantos-desenvolvedores-ficam-depressivos",
       "owner_username": "jblf1mclarendev",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
+      "tabcoins": 14,
+      "children_deep_count": 3,
       "published_at": "2026-05-28T01:40:34.584Z",
       "url": "https://www.tabnews.com.br/jblf1mclarendev/por-que-tantos-desenvolvedores-ficam-depressivos"
-    },
-    {
-      "id": "23d5590c-0bd7-4cdd-a6ac-d0bdedc68a85",
-      "title": "Ajuda com teste fechado para aplicativo android.",
-      "slug": "ajuda-com-teste-fechado-para-aplicativo-android",
-      "owner_username": "kenpark2009",
-      "source_url": "https://kmsystems.dev/omnitranslator/",
-      "tabcoins": 2,
-      "children_deep_count": 2,
-      "published_at": "2026-05-28T09:45:52.370Z",
-      "url": "https://www.tabnews.com.br/kenpark2009/ajuda-com-teste-fechado-para-aplicativo-android"
     },
     {
       "id": "965a6210-7b22-4c96-8867-3ee65222456b",
@@ -106,10 +18,98 @@
       "slug": "pitch-estou-desenvolvendo-meu-proprio-os-de-verdade",
       "owner_username": "AfonsoDolmen",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
+      "tabcoins": 11,
+      "children_deep_count": 12,
       "published_at": "2026-05-28T11:32:27.453Z",
       "url": "https://www.tabnews.com.br/AfonsoDolmen/pitch-estou-desenvolvendo-meu-proprio-os-de-verdade"
+    },
+    {
+      "id": "aeba6718-5c6b-441c-9fa0-79e177b7d08e",
+      "title": "O que é necessário para construir um SO",
+      "slug": "o-que-e-necessario-para-construir-um-so",
+      "owner_username": "z3roPrp4",
+      "source_url": null,
+      "tabcoins": 7,
+      "children_deep_count": 9,
+      "published_at": "2026-05-28T15:24:16.396Z",
+      "url": "https://www.tabnews.com.br/z3roPrp4/o-que-e-necessario-para-construir-um-so"
+    },
+    {
+      "id": "6764a7b8-3862-4679-bd41-a08418a2aba7",
+      "title": "Produzir conteúdo no TabNews é produzir algo descartável",
+      "slug": "oque-realmente-importa",
+      "owner_username": "Escudo",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 9,
+      "published_at": "2026-05-28T16:41:18.531Z",
+      "url": "https://www.tabnews.com.br/Escudo/oque-realmente-importa"
+    },
+    {
+      "id": "199c5cc5-308c-4fd0-8c74-bef2a48ee329",
+      "title": "Como eu construí um app de estudos completo (arquitetura, segurança, privacidade e os bugs que quase me mataram)",
+      "slug": "como-eu-construi-um-app-de-estudos-completo-arquitetura-seguranca-privacidade-e-os-bugs-que-quase-me-mataram",
+      "owner_username": "miuna",
+      "source_url": "https://cth.jp/artigos/mayinab-arquitetura",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-05-28T22:58:16.267Z",
+      "url": "https://www.tabnews.com.br/miuna/como-eu-construi-um-app-de-estudos-completo-arquitetura-seguranca-privacidade-e-os-bugs-que-quase-me-mataram"
+    },
+    {
+      "id": "1de694da-0dc9-4aed-9ab0-e3b400a27653",
+      "title": "16 GB de RAM ainda dão conta para desenvolvimento em 2026? Ou a IA mudou o jogo?",
+      "slug": "16-gb-de-ram-ainda-dao-conta-para-desenvolvimento-em-2026-ou-a-ia-mudou-o-jogo",
+      "owner_username": "cassiocsantana",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 6,
+      "published_at": "2026-05-28T17:05:30.619Z",
+      "url": "https://www.tabnews.com.br/cassiocsantana/16-gb-de-ram-ainda-dao-conta-para-desenvolvimento-em-2026-ou-a-ia-mudou-o-jogo"
+    },
+    {
+      "id": "be8b7f84-991b-44c3-bbf6-4716cb11ace0",
+      "title": "YouTube vai rotular automaticamente conteúdo gerado por IA",
+      "slug": "youtube-vai-rotular-automaticamente-conteudo-gerado-por-ia",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-05-28T14:42:09.655Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/youtube-vai-rotular-automaticamente-conteudo-gerado-por-ia"
+    },
+    {
+      "id": "d290c1bb-7f9a-41ba-9368-4e4de1172e19",
+      "title": "[Provocação] Newsletter do Filipe Deschamps esnoba o TabNews",
+      "slug": "provocacao-newsletter-do-filipe-deschamps-esnoba-o-tabnews",
+      "owner_username": "docanto",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-05-28T14:49:40.241Z",
+      "url": "https://www.tabnews.com.br/docanto/provocacao-newsletter-do-filipe-deschamps-esnoba-o-tabnews"
+    },
+    {
+      "id": "cdb64f70-e584-44c6-a510-8a099cae6549",
+      "title": "Pitch: DD - Diário Dela",
+      "slug": "pitch-dd-diario-dela",
+      "owner_username": "JeielMiranda",
+      "source_url": "https://jeielmiranda.com.br/blog/dd-diario-dela/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-05-29T11:49:01.531Z",
+      "url": "https://www.tabnews.com.br/JeielMiranda/pitch-dd-diario-dela"
+    },
+    {
+      "id": "e33dab47-caa3-4e0a-941e-4ce7644cd0dd",
+      "title": "Pitch: Não achei um framework Go production-ready para agentes de IA. Então construí um.",
+      "slug": "nao-achei-um-framework-go-production-ready-para-agentes-de-ia-entao-construi-um",
+      "owner_username": "wmoraes",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-05-29T04:57:01.326Z",
+      "url": "https://www.tabnews.com.br/wmoraes/nao-achei-um-framework-go-production-ready-para-agentes-de-ia-entao-construi-um"
     }
   ]
 }
