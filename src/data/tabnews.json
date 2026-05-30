@@ -1,13 +1,101 @@
 {
-  "updated_at": "2026-05-29T12:09:49.562Z",
+  "updated_at": "2026-05-30T10:44:40.793Z",
   "posts": [
+    {
+      "id": "199c5cc5-308c-4fd0-8c74-bef2a48ee329",
+      "title": "Como eu construí um app de estudos completo (arquitetura, segurança, privacidade e os bugs que quase me mataram)",
+      "slug": "como-eu-construi-um-app-de-estudos-completo-arquitetura-seguranca-privacidade-e-os-bugs-que-quase-me-mataram",
+      "owner_username": "miuna",
+      "source_url": "https://cth.jp/artigos/mayinab-arquitetura",
+      "tabcoins": 9,
+      "children_deep_count": 0,
+      "published_at": "2026-05-28T22:58:16.267Z",
+      "url": "https://www.tabnews.com.br/miuna/como-eu-construi-um-app-de-estudos-completo-arquitetura-seguranca-privacidade-e-os-bugs-que-quase-me-mataram"
+    },
+    {
+      "id": "a8f73247-147d-4e3d-8df1-cfdced666e54",
+      "title": "Diferentes estilos de trabalho de um Desenvolvedor de Software: Indústria vs SoftwareHouse",
+      "slug": "diferentes-estilos-de-trabalho-de-um-desenvolvedor-de-software-industria-vs-softwarehouse",
+      "owner_username": "htlw",
+      "source_url": null,
+      "tabcoins": 7,
+      "children_deep_count": 1,
+      "published_at": "2026-05-29T18:48:03.290Z",
+      "url": "https://www.tabnews.com.br/htlw/diferentes-estilos-de-trabalho-de-um-desenvolvedor-de-software-industria-vs-softwarehouse"
+    },
+    {
+      "id": "c38296be-0e5b-4c98-b667-e8f83b0ec586",
+      "title": "Pitch: Estou criando um WAF OSS pro meu PaaS",
+      "slug": "estou-criando-um-waf-oss-pro-meu-paas",
+      "owner_username": "VictorBona",
+      "source_url": "https://github.com/guaracloud/purple-wolf",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-05-29T17:39:46.338Z",
+      "url": "https://www.tabnews.com.br/VictorBona/estou-criando-um-waf-oss-pro-meu-paas"
+    },
+    {
+      "id": "debb84b5-4cfa-45c7-9007-25b5f0a44918",
+      "title": "Além do Hype: Como montei minha Stack Dev com OpenCode Go, DeepSeek V4 e Kimi K2.6",
+      "slug": "alem-do-hype-como-montei-minha-stack-dev-com-opencode-go-deepseek-v4-e-kimi-k2-6",
+      "owner_username": "LuizGustavoWT",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-05-30T01:12:49.807Z",
+      "url": "https://www.tabnews.com.br/LuizGustavoWT/alem-do-hype-como-montei-minha-stack-dev-com-opencode-go-deepseek-v4-e-kimi-k2-6"
+    },
+    {
+      "id": "58c932fc-a75c-46a7-903d-82a0ee1df7c8",
+      "title": "A Ironia do IBSEC: Usando táticas de Phishing e Engenharia Social para te vender curso de Cybersec",
+      "slug": "a-ironia-do-ibsec-usando-taticas-de-phishing-e-engenharia-social-para-te-vender-curso-de-cybersec",
+      "owner_username": "macnator",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 5,
+      "published_at": "2026-05-30T00:57:48.294Z",
+      "url": "https://www.tabnews.com.br/macnator/a-ironia-do-ibsec-usando-taticas-de-phishing-e-engenharia-social-para-te-vender-curso-de-cybersec"
+    },
+    {
+      "id": "fdac3b69-de11-4abb-8c2c-a09dd33f64fd",
+      "title": "[LINUX] Construindo uma CLI que implementa customizações de uma forma segura, simples e com erros bem visíveis",
+      "slug": "linux-construindo-uma-cli-que-implementa-customizacoes-de-uma-forma-segura-simples-e-com-erros-bem-visiveis",
+      "owner_username": "NicolasAsafe",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-05-30T00:17:45.608Z",
+      "url": "https://www.tabnews.com.br/NicolasAsafe/linux-construindo-uma-cli-que-implementa-customizacoes-de-uma-forma-segura-simples-e-com-erros-bem-visiveis"
+    },
+    {
+      "id": "609bee89-2212-422a-8592-311cf8b0f686",
+      "title": "HTTP para o Backend",
+      "slug": "http-para-o-backend",
+      "owner_username": "araujodkk",
+      "source_url": "https://www.youtube.com/watch?v=a3C1DMswClQ",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-05-29T23:49:21.258Z",
+      "url": "https://www.tabnews.com.br/araujodkk/http-para-o-backend"
+    },
+    {
+      "id": "a004c074-ccaf-46e1-a6ab-95c019e8d0fe",
+      "title": "O problema de não ter senso crítico",
+      "slug": "o-problema-de-nao-ter-senso-critico",
+      "owner_username": "Silva97",
+      "source_url": null,
+      "tabcoins": 38,
+      "children_deep_count": 24,
+      "published_at": "2026-05-27T20:54:23.321Z",
+      "url": "https://www.tabnews.com.br/Silva97/o-problema-de-nao-ter-senso-critico"
+    },
     {
       "id": "a8037e5c-5276-4fb4-9e37-c39511a6e096",
       "title": "Por que tantos desenvolvedores ficam depressivos?",
       "slug": "por-que-tantos-desenvolvedores-ficam-depressivos",
       "owner_username": "jblf1mclarendev",
       "source_url": null,
-      "tabcoins": 14,
+      "tabcoins": 25,
       "children_deep_count": 3,
       "published_at": "2026-05-28T01:40:34.584Z",
       "url": "https://www.tabnews.com.br/jblf1mclarendev/por-que-tantos-desenvolvedores-ficam-depressivos"
@@ -19,97 +107,9 @@
       "owner_username": "AfonsoDolmen",
       "source_url": null,
       "tabcoins": 11,
-      "children_deep_count": 12,
+      "children_deep_count": 13,
       "published_at": "2026-05-28T11:32:27.453Z",
       "url": "https://www.tabnews.com.br/AfonsoDolmen/pitch-estou-desenvolvendo-meu-proprio-os-de-verdade"
-    },
-    {
-      "id": "aeba6718-5c6b-441c-9fa0-79e177b7d08e",
-      "title": "O que é necessário para construir um SO",
-      "slug": "o-que-e-necessario-para-construir-um-so",
-      "owner_username": "z3roPrp4",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 9,
-      "published_at": "2026-05-28T15:24:16.396Z",
-      "url": "https://www.tabnews.com.br/z3roPrp4/o-que-e-necessario-para-construir-um-so"
-    },
-    {
-      "id": "6764a7b8-3862-4679-bd41-a08418a2aba7",
-      "title": "Produzir conteúdo no TabNews é produzir algo descartável",
-      "slug": "oque-realmente-importa",
-      "owner_username": "Escudo",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 9,
-      "published_at": "2026-05-28T16:41:18.531Z",
-      "url": "https://www.tabnews.com.br/Escudo/oque-realmente-importa"
-    },
-    {
-      "id": "199c5cc5-308c-4fd0-8c74-bef2a48ee329",
-      "title": "Como eu construí um app de estudos completo (arquitetura, segurança, privacidade e os bugs que quase me mataram)",
-      "slug": "como-eu-construi-um-app-de-estudos-completo-arquitetura-seguranca-privacidade-e-os-bugs-que-quase-me-mataram",
-      "owner_username": "miuna",
-      "source_url": "https://cth.jp/artigos/mayinab-arquitetura",
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-05-28T22:58:16.267Z",
-      "url": "https://www.tabnews.com.br/miuna/como-eu-construi-um-app-de-estudos-completo-arquitetura-seguranca-privacidade-e-os-bugs-que-quase-me-mataram"
-    },
-    {
-      "id": "1de694da-0dc9-4aed-9ab0-e3b400a27653",
-      "title": "16 GB de RAM ainda dão conta para desenvolvimento em 2026? Ou a IA mudou o jogo?",
-      "slug": "16-gb-de-ram-ainda-dao-conta-para-desenvolvimento-em-2026-ou-a-ia-mudou-o-jogo",
-      "owner_username": "cassiocsantana",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 6,
-      "published_at": "2026-05-28T17:05:30.619Z",
-      "url": "https://www.tabnews.com.br/cassiocsantana/16-gb-de-ram-ainda-dao-conta-para-desenvolvimento-em-2026-ou-a-ia-mudou-o-jogo"
-    },
-    {
-      "id": "be8b7f84-991b-44c3-bbf6-4716cb11ace0",
-      "title": "YouTube vai rotular automaticamente conteúdo gerado por IA",
-      "slug": "youtube-vai-rotular-automaticamente-conteudo-gerado-por-ia",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-05-28T14:42:09.655Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/youtube-vai-rotular-automaticamente-conteudo-gerado-por-ia"
-    },
-    {
-      "id": "d290c1bb-7f9a-41ba-9368-4e4de1172e19",
-      "title": "[Provocação] Newsletter do Filipe Deschamps esnoba o TabNews",
-      "slug": "provocacao-newsletter-do-filipe-deschamps-esnoba-o-tabnews",
-      "owner_username": "docanto",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-05-28T14:49:40.241Z",
-      "url": "https://www.tabnews.com.br/docanto/provocacao-newsletter-do-filipe-deschamps-esnoba-o-tabnews"
-    },
-    {
-      "id": "cdb64f70-e584-44c6-a510-8a099cae6549",
-      "title": "Pitch: DD - Diário Dela",
-      "slug": "pitch-dd-diario-dela",
-      "owner_username": "JeielMiranda",
-      "source_url": "https://jeielmiranda.com.br/blog/dd-diario-dela/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-05-29T11:49:01.531Z",
-      "url": "https://www.tabnews.com.br/JeielMiranda/pitch-dd-diario-dela"
-    },
-    {
-      "id": "e33dab47-caa3-4e0a-941e-4ce7644cd0dd",
-      "title": "Pitch: Não achei um framework Go production-ready para agentes de IA. Então construí um.",
-      "slug": "nao-achei-um-framework-go-production-ready-para-agentes-de-ia-entao-construi-um",
-      "owner_username": "wmoraes",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-05-29T04:57:01.326Z",
-      "url": "https://www.tabnews.com.br/wmoraes/nao-achei-um-framework-go-production-ready-para-agentes-de-ia-entao-construi-um"
     }
   ]
 }
