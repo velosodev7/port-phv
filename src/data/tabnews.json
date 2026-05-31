@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-05-30T10:44:40.793Z",
+  "updated_at": "2026-05-31T10:52:31.753Z",
   "posts": [
     {
-      "id": "199c5cc5-308c-4fd0-8c74-bef2a48ee329",
-      "title": "Como eu construí um app de estudos completo (arquitetura, segurança, privacidade e os bugs que quase me mataram)",
-      "slug": "como-eu-construi-um-app-de-estudos-completo-arquitetura-seguranca-privacidade-e-os-bugs-que-quase-me-mataram",
-      "owner_username": "miuna",
-      "source_url": "https://cth.jp/artigos/mayinab-arquitetura",
-      "tabcoins": 9,
-      "children_deep_count": 0,
-      "published_at": "2026-05-28T22:58:16.267Z",
-      "url": "https://www.tabnews.com.br/miuna/como-eu-construi-um-app-de-estudos-completo-arquitetura-seguranca-privacidade-e-os-bugs-que-quase-me-mataram"
-    },
-    {
-      "id": "a8f73247-147d-4e3d-8df1-cfdced666e54",
-      "title": "Diferentes estilos de trabalho de um Desenvolvedor de Software: Indústria vs SoftwareHouse",
-      "slug": "diferentes-estilos-de-trabalho-de-um-desenvolvedor-de-software-industria-vs-softwarehouse",
-      "owner_username": "htlw",
+      "id": "ac714421-7069-4a47-9eec-9097da560f3d",
+      "title": "Recusei um projeto porque não acredito em \"software em uma semana\". Qual a opinião de vocês?",
+      "slug": "recusei-um-projeto-porque-nao-acredito-em-software-em-uma-semana-qual-a-opiniao-de-voces",
+      "owner_username": "mirainikko",
       "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-05-29T18:48:03.290Z",
-      "url": "https://www.tabnews.com.br/htlw/diferentes-estilos-de-trabalho-de-um-desenvolvedor-de-software-industria-vs-softwarehouse"
+      "tabcoins": 6,
+      "children_deep_count": 7,
+      "published_at": "2026-05-30T12:36:16.275Z",
+      "url": "https://www.tabnews.com.br/mirainikko/recusei-um-projeto-porque-nao-acredito-em-software-em-uma-semana-qual-a-opiniao-de-voces"
     },
     {
-      "id": "c38296be-0e5b-4c98-b667-e8f83b0ec586",
-      "title": "Pitch: Estou criando um WAF OSS pro meu PaaS",
-      "slug": "estou-criando-um-waf-oss-pro-meu-paas",
-      "owner_username": "VictorBona",
-      "source_url": "https://github.com/guaracloud/purple-wolf",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-05-29T17:39:46.338Z",
-      "url": "https://www.tabnews.com.br/VictorBona/estou-criando-um-waf-oss-pro-meu-paas"
-    },
-    {
-      "id": "debb84b5-4cfa-45c7-9007-25b5f0a44918",
-      "title": "Além do Hype: Como montei minha Stack Dev com OpenCode Go, DeepSeek V4 e Kimi K2.6",
-      "slug": "alem-do-hype-como-montei-minha-stack-dev-com-opencode-go-deepseek-v4-e-kimi-k2-6",
-      "owner_username": "LuizGustavoWT",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-05-30T01:12:49.807Z",
-      "url": "https://www.tabnews.com.br/LuizGustavoWT/alem-do-hype-como-montei-minha-stack-dev-com-opencode-go-deepseek-v4-e-kimi-k2-6"
-    },
-    {
-      "id": "58c932fc-a75c-46a7-903d-82a0ee1df7c8",
-      "title": "A Ironia do IBSEC: Usando táticas de Phishing e Engenharia Social para te vender curso de Cybersec",
-      "slug": "a-ironia-do-ibsec-usando-taticas-de-phishing-e-engenharia-social-para-te-vender-curso-de-cybersec",
-      "owner_username": "macnator",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 5,
-      "published_at": "2026-05-30T00:57:48.294Z",
-      "url": "https://www.tabnews.com.br/macnator/a-ironia-do-ibsec-usando-taticas-de-phishing-e-engenharia-social-para-te-vender-curso-de-cybersec"
-    },
-    {
-      "id": "fdac3b69-de11-4abb-8c2c-a09dd33f64fd",
-      "title": "[LINUX] Construindo uma CLI que implementa customizações de uma forma segura, simples e com erros bem visíveis",
-      "slug": "linux-construindo-uma-cli-que-implementa-customizacoes-de-uma-forma-segura-simples-e-com-erros-bem-visiveis",
-      "owner_username": "NicolasAsafe",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-05-30T00:17:45.608Z",
-      "url": "https://www.tabnews.com.br/NicolasAsafe/linux-construindo-uma-cli-que-implementa-customizacoes-de-uma-forma-segura-simples-e-com-erros-bem-visiveis"
-    },
-    {
-      "id": "609bee89-2212-422a-8592-311cf8b0f686",
-      "title": "HTTP para o Backend",
-      "slug": "http-para-o-backend",
-      "owner_username": "araujodkk",
-      "source_url": "https://www.youtube.com/watch?v=a3C1DMswClQ",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-05-29T23:49:21.258Z",
-      "url": "https://www.tabnews.com.br/araujodkk/http-para-o-backend"
-    },
-    {
-      "id": "a004c074-ccaf-46e1-a6ab-95c019e8d0fe",
-      "title": "O problema de não ter senso crítico",
-      "slug": "o-problema-de-nao-ter-senso-critico",
-      "owner_username": "Silva97",
-      "source_url": null,
-      "tabcoins": 38,
-      "children_deep_count": 24,
-      "published_at": "2026-05-27T20:54:23.321Z",
-      "url": "https://www.tabnews.com.br/Silva97/o-problema-de-nao-ter-senso-critico"
-    },
-    {
-      "id": "a8037e5c-5276-4fb4-9e37-c39511a6e096",
-      "title": "Por que tantos desenvolvedores ficam depressivos?",
-      "slug": "por-que-tantos-desenvolvedores-ficam-depressivos",
-      "owner_username": "jblf1mclarendev",
-      "source_url": null,
-      "tabcoins": 25,
+      "id": "f8bd0a96-d790-428b-b7ad-0063ac904c07",
+      "title": "Lancei o Jynx, um app pra achar gente pra jogar junto, e construí quase tudo com IA (Claude Code)",
+      "slug": "lancei-o-jynx-um-app-pra-achar-gente-pra-jogar-junto-e-construi-quase-tudo-com-ia-claude-code",
+      "owner_username": "JynxGroup",
+      "source_url": "https://jynx.app",
+      "tabcoins": 6,
       "children_deep_count": 3,
-      "published_at": "2026-05-28T01:40:34.584Z",
-      "url": "https://www.tabnews.com.br/jblf1mclarendev/por-que-tantos-desenvolvedores-ficam-depressivos"
+      "published_at": "2026-05-30T14:52:02.223Z",
+      "url": "https://www.tabnews.com.br/JynxGroup/lancei-o-jynx-um-app-pra-achar-gente-pra-jogar-junto-e-construi-quase-tudo-com-ia-claude-code"
     },
     {
-      "id": "965a6210-7b22-4c96-8867-3ee65222456b",
-      "title": "[PITCH] Estou desenvolvendo meu próprio OS (de verdade)",
-      "slug": "pitch-estou-desenvolvendo-meu-proprio-os-de-verdade",
-      "owner_username": "AfonsoDolmen",
+      "id": "f8ea087b-38ab-4fe1-85d1-169079e0682a",
+      "title": "Pitch: Como fornecer notícias em tempo real para o seu Agente de IA",
+      "slug": "como-fornecer-noticias-em-tempo-real-para-o-seu-agente-de-ia",
+      "owner_username": "bmx",
+      "source_url": "https://dailyjournal.news/vozes/noticias-em-tempo-real-para-agente-de-ia",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-05-30T15:07:52.129Z",
+      "url": "https://www.tabnews.com.br/bmx/como-fornecer-noticias-em-tempo-real-para-o-seu-agente-de-ia"
+    },
+    {
+      "id": "b629c9a0-980c-4a39-8a9a-2fe3be35a29e",
+      "title": "[E-BOOK]: AI Native Developer - Desvendando as Camadas de AI",
+      "slug": "e-book-ai-native-developer-desvendando-as-camadas-de-ai",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/desvendando-as-camadas-de-ai",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-05-30T23:10:43.873Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/e-book-ai-native-developer-desvendando-as-camadas-de-ai"
+    },
+    {
+      "id": "57f63b11-2c6a-4943-adf9-ad1e89d59445",
+      "title": "Uma IA consegue entender a mente humana?",
+      "slug": "uma-ia-consegue-entender-a-mente-humana",
+      "owner_username": "KerubinDev",
+      "source_url": "https://kerubindev.substack.com/p/flexia-como-uma-ia-aprende-a-ensinar",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-05-30T19:01:25.795Z",
+      "url": "https://www.tabnews.com.br/KerubinDev/uma-ia-consegue-entender-a-mente-humana"
+    },
+    {
+      "id": "aef85b54-46ea-4652-bac7-1580194f1066",
+      "title": "Pitch: Uma skill.md de autocrítica focada no que o usuário precisa: Uma IA que não decide e executa sozinha",
+      "slug": "uma-skill-md-de-autocritica-focada-no-que-o-usuario-precisa-uma-ia-que-nao-decide-e-executa-sozinha",
+      "owner_username": "peterson047",
+      "source_url": "https://github.com/Peterson047/autocritc-skill",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-05-30T16:45:23.220Z",
+      "url": "https://www.tabnews.com.br/peterson047/uma-skill-md-de-autocritica-focada-no-que-o-usuario-precisa-uma-ia-que-nao-decide-e-executa-sozinha"
+    },
+    {
+      "id": "fa51fa15-c9d1-4edf-85c9-51fa1c679616",
+      "title": "PITCH: Construí uma plataforma gratuita para Radiologia e Residência Médica usando IA. Agora enfrento um problema inesperado.",
+      "slug": "construi-uma-plataforma-gratuita-para-radiologia-e-residencia-medica-usando-ia-agora-enfrento-um-problema-inesperado",
+      "owner_username": "Radiolife",
+      "source_url": "https://radventure.com.br/",
+      "tabcoins": 3,
+      "children_deep_count": 8,
+      "published_at": "2026-05-30T11:47:11.710Z",
+      "url": "https://www.tabnews.com.br/Radiolife/construi-uma-plataforma-gratuita-para-radiologia-e-residencia-medica-usando-ia-agora-enfrento-um-problema-inesperado"
+    },
+    {
+      "id": "f46c03f4-c504-4517-8fce-f95179c6578f",
+      "title": "Quando a IA vira promessa fácil: a desinformação por trás dos “gurus” da tecnologia",
+      "slug": "quando-a-ia-vira-promessa-facil-a-desinformacao-por-tras-dos-gurus-da-tecnologia",
+      "owner_username": "cassiocsantana",
       "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 13,
-      "published_at": "2026-05-28T11:32:27.453Z",
-      "url": "https://www.tabnews.com.br/AfonsoDolmen/pitch-estou-desenvolvendo-meu-proprio-os-de-verdade"
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-05-30T22:28:47.837Z",
+      "url": "https://www.tabnews.com.br/cassiocsantana/quando-a-ia-vira-promessa-facil-a-desinformacao-por-tras-dos-gurus-da-tecnologia"
+    },
+    {
+      "id": "35fa9b1b-2896-4705-8582-84ae8a554a32",
+      "title": "Têm mulheres aqui no TabNews?",
+      "slug": "tem-mulheres-aqui-no-tabnews",
+      "owner_username": "jbg",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 3,
+      "published_at": "2026-05-30T15:46:08.731Z",
+      "url": "https://www.tabnews.com.br/jbg/tem-mulheres-aqui-no-tabnews"
+    },
+    {
+      "id": "6a0708a6-4c56-4b06-b95e-2081a76dabfe",
+      "title": "Pitch: React Calculator EPX: atualização após 3 anos",
+      "slug": "react-calculator-epx-atualizacao-apos-3-anos",
+      "owner_username": "dnts0",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-05-31T03:48:30.337Z",
+      "url": "https://www.tabnews.com.br/dnts0/react-calculator-epx-atualizacao-apos-3-anos"
     }
   ]
 }
