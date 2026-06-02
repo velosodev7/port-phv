@@ -1,47 +1,14 @@
 {
-  "updated_at": "2026-06-01T14:52:38.433Z",
+  "updated_at": "2026-06-02T12:35:21.946Z",
   "posts": [
-    {
-      "id": "f1e53650-84e3-4ee0-b682-c1555886199a",
-      "title": "👁️A Caixa Preta do World ID👁️:  Como o Worldcoin Operou no Brasil Antes da CPI da Íris Intervir - Operação da Tools for Humanity em SP - 400 Mil Íris em Periferias 🚨⚠️",
-      "slug": "a-caixa-preta-do-world-id-como-o-worldcoin-operou-no-brasil-antes-da-cpi-da-iris-intervir-operacao-da-tools-for-humanity-em-sp-400-mil-iris-em-perife",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/mblog/mrj/a-caixa-preta-do-world-id-como-o-worldcoin-operou-no-brasil-antes-da-cpi-da-iris-intervir-operacao-da-tools-for-humanity-em-sp-400-mil-iris-em-periferias",
-      "tabcoins": 11,
-      "children_deep_count": 4,
-      "published_at": "2026-05-31T14:06:47.147Z",
-      "url": "https://www.tabnews.com.br/MrJ/a-caixa-preta-do-world-id-como-o-worldcoin-operou-no-brasil-antes-da-cpi-da-iris-intervir-operacao-da-tools-for-humanity-em-sp-400-mil-iris-em-perife"
-    },
-    {
-      "id": "aa160689-befc-47fd-aa18-72c7f9e1a9ef",
-      "title": "Pare de usar Git Stash pra trocar de branch. Existe algo muito melhor.",
-      "slug": "pare-de-usar-git-stash-pra-trocar-de-branch-existe-algo-muito-melhor",
-      "owner_username": "willybr",
-      "source_url": null,
-      "tabcoins": 9,
-      "children_deep_count": 3,
-      "published_at": "2026-06-01T00:12:39.785Z",
-      "url": "https://www.tabnews.com.br/willybr/pare-de-usar-git-stash-pra-trocar-de-branch-existe-algo-muito-melhor"
-    },
-    {
-      "id": "5ba54403-e83b-47cd-8119-8d555d56c782",
-      "title": "Shadow AI: O seu firewall está cego e o seu código fonte já vazou (via ChatGPT)",
-      "slug": "shadow-ai-o-seu-firewall-esta-cego-e-o-seu-codigo-fonte-ja-vazou-via-chatgpt",
-      "owner_username": "EvandroCarvalho",
-      "source_url": "https://landingfymax.com.br",
-      "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-05-31T15:20:20.620Z",
-      "url": "https://www.tabnews.com.br/EvandroCarvalho/shadow-ai-o-seu-firewall-esta-cego-e-o-seu-codigo-fonte-ja-vazou-via-chatgpt"
-    },
     {
       "id": "07baf546-6045-4f9b-838d-50f9cd09f7cd",
       "title": "PewDiePie, YouTuber com mais de 110 milhões de inscritos, lança plataforma de IA open-source como alternativa ao ChatGPT e Claude",
       "slug": "pewdiepie-youtuber-com-mais-de-110-milhoes-de-inscritos-lanca-plataforma-de-ia-open-source-como-alternativa-ao-chatgpt-e-claude",
       "owner_username": "NewsletterOficial",
       "source_url": "https://www.dexerto.com/youtube/pewdiepie-just-launched-his-answer-to-chatgpt-and-its-completely-free-3370091/",
-      "tabcoins": 6,
-      "children_deep_count": 2,
+      "tabcoins": 15,
+      "children_deep_count": 6,
       "published_at": "2026-06-01T14:00:30.068Z",
       "url": "https://www.tabnews.com.br/NewsletterOficial/pewdiepie-youtuber-com-mais-de-110-milhoes-de-inscritos-lanca-plataforma-de-ia-open-source-como-alternativa-ao-chatgpt-e-claude"
     },
@@ -51,54 +18,54 @@
       "slug": "skills-do-claude-code-consomem-tokens-mesmo-sem-disparar-medi-5-skills-em-7-horas-os-3-que-nunca-rodaram-comeram-11-por-cento-da-conta",
       "owner_username": "kenimo49",
       "source_url": "https://kenimoto.dev/pt/blog/skills-3-dormentes-18-tokens/",
-      "tabcoins": 6,
-      "children_deep_count": 1,
+      "tabcoins": 10,
+      "children_deep_count": 3,
       "published_at": "2026-06-01T12:00:04.688Z",
       "url": "https://www.tabnews.com.br/kenimo49/skills-do-claude-code-consomem-tokens-mesmo-sem-disparar-medi-5-skills-em-7-horas-os-3-que-nunca-rodaram-comeram-11-por-cento-da-conta"
     },
     {
-      "id": "272b657c-706a-4f52-a5af-b3ed3f1279a0",
-      "title": "Usando CSV em vez de JSON para reduzir consumo de tokens e reduzir o custo de AI apps",
-      "slug": "usando-csv-em-vez-de-json-para-reduzir-consumo-de-tokens-e-reduzir-o-custo",
-      "owner_username": "TiagoRosaDaCosta",
+      "id": "23a1b1ef-2638-410c-89a8-ad3b0509a779",
+      "title": "[Segurança] Aviso de segurança para galera do VSCode + Remote - SSH",
+      "slug": "seguranca-aviso-de-seguranca-para-galera-do-vscode-remote-ssh",
+      "owner_username": "viewer",
+      "source_url": "https://medium.com/@hijack-everything/post-compromise-rce-in-vs-code-remote-ssh-turning-developer-access-into-cloud-compromise-048eed10ad44",
+      "tabcoins": 6,
+      "children_deep_count": 7,
+      "published_at": "2026-06-01T16:12:55.519Z",
+      "url": "https://www.tabnews.com.br/viewer/seguranca-aviso-de-seguranca-para-galera-do-vscode-remote-ssh"
+    },
+    {
+      "id": "f3ae9ea7-944f-4080-8e1e-8b4c167a2ec3",
+      "title": "Pitch: Como estruturamos um SaaS  no Edge para custar quase R$ 0 de infra no lançamento",
+      "slug": "como-estruturamos-um-saas-no-edge-para-custar-quase-r-0-de-infra-no-lancamento",
+      "owner_username": "Dorvo",
       "source_url": null,
       "tabcoins": 5,
       "children_deep_count": 2,
-      "published_at": "2026-05-31T15:31:46.631Z",
-      "url": "https://www.tabnews.com.br/TiagoRosaDaCosta/usando-csv-em-vez-de-json-para-reduzir-consumo-de-tokens-e-reduzir-o-custo"
+      "published_at": "2026-06-02T01:36:11.723Z",
+      "url": "https://www.tabnews.com.br/Dorvo/como-estruturamos-um-saas-no-edge-para-custar-quase-r-0-de-infra-no-lancamento"
     },
     {
-      "id": "8663d732-8ae6-4223-9931-31d928990150",
-      "title": "🧠Como fiz uma Micro-LLM de 0.5B atingir 100% de acurácia matemática usando Raciocínio Latente e TV-DSL - Benchmark + Space + HuggingFace",
-      "slug": "como-fiz-uma-micro-llm-de-0-5b-atingir-100-por-cento-de-acuracia-matematica-usando-raciocinio-latente-e-tv-dsl-benchmark-space-huggingface",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/mblog/mrj/como-fiz-uma-micro-llm-de-05b-atingir-100-de-acuracia-matematica-usando-raciocinio-latente-e-tv-dsl-benchmark-space-huggingface",
+      "id": "a52406a1-4886-4b62-8707-fff65cde1aff",
+      "title": "Clube do Livro: Designing Data Intensive Applications",
+      "slug": "clube-do-livro-designing-data-intensive-applications",
+      "owner_username": "willybr",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-06-01T22:44:51.485Z",
+      "url": "https://www.tabnews.com.br/willybr/clube-do-livro-designing-data-intensive-applications"
+    },
+    {
+      "id": "da90088c-ac1e-4829-9733-31bc1b1c9603",
+      "title": "Meta estaria desenvolvendo pingente com IA",
+      "slug": "meta-estaria-desenvolvendo-pingente-com-ia",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
       "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-05-31T23:20:41.375Z",
-      "url": "https://www.tabnews.com.br/MrJ/como-fiz-uma-micro-llm-de-0-5b-atingir-100-por-cento-de-acuracia-matematica-usando-raciocinio-latente-e-tv-dsl-benchmark-space-huggingface"
-    },
-    {
-      "id": "cd3b422f-ec69-4f1c-bbc6-4ea7dc419d09",
-      "title": "Criei uma linguagem de programação usando C.",
-      "slug": "criei-uma-linguagem-de-programacao-usando-c",
-      "owner_username": "DevzinVini",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-06-01T00:03:28.925Z",
-      "url": "https://www.tabnews.com.br/DevzinVini/criei-uma-linguagem-de-programacao-usando-c"
-    },
-    {
-      "id": "d708f20a-4670-4607-8328-1ccb5d8396e9",
-      "title": "Como eu melhorei a organização dos meus Apps no Homelab pessoal",
-      "slug": "como-eu-melhorei-a-organizacao-dos-meus-apps-no-homelab-pessoal",
-      "owner_username": "ivanmicai",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-05-31T16:30:47.303Z",
-      "url": "https://www.tabnews.com.br/ivanmicai/como-eu-melhorei-a-organizacao-dos-meus-apps-no-homelab-pessoal"
+      "children_deep_count": 4,
+      "published_at": "2026-06-01T14:58:07.273Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/meta-estaria-desenvolvendo-pingente-com-ia"
     },
     {
       "id": "09dbb408-4641-437c-8b4c-ba9d2b6d82ad",
@@ -106,10 +73,43 @@
       "slug": "openai-lanca-rosalind-biodefense-para-viabilizar-aplicacoes-defensivas-de-ia-na-saude-publica",
       "owner_username": "NewsletterOficial",
       "source_url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 5,
+      "children_deep_count": 1,
       "published_at": "2026-06-01T14:50:06.760Z",
       "url": "https://www.tabnews.com.br/NewsletterOficial/openai-lanca-rosalind-biodefense-para-viabilizar-aplicacoes-defensivas-de-ia-na-saude-publica"
+    },
+    {
+      "id": "54b81569-77f4-49d1-beb8-844f0d4bad0e",
+      "title": "Empresas dos EUA começam a racionar uso de IA após disparada do custo dos tokens",
+      "slug": "empresas-dos-eua-comecam-a-racionar-uso-de-ia-apos-disparada-do-custo-dos-tokens",
+      "owner_username": "NewsletterOficial",
+      "source_url": "http://archive.today/2026.05.29-011047/https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-06-01T14:26:04.914Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/empresas-dos-eua-comecam-a-racionar-uso-de-ia-apos-disparada-do-custo-dos-tokens"
+    },
+    {
+      "id": "3653db45-c7f4-4dc5-907d-62ab2a7c8558",
+      "title": "Microsoft ameaça pesquisador de segurança Nightmare Eclipse com ação judicial após divulgação pública de vulnerabilidades sem correção em produtos como Windows Defender e Bitlocker",
+      "slug": "microsoft-ameaca-pesquisador-de-seguranca-nightmare-eclipse-com-acao-judicial-apos-divulgacao-publica-de-vulnerabilidades-sem-correcao-em-produtos-como-windo",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://tech.yahoo.com/cybersecurity/articles/microsoft-under-fire-threatening-security-170339694.html?guccounter=1",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-06-01T14:34:05.540Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/microsoft-ameaca-pesquisador-de-seguranca-nightmare-eclipse-com-acao-judicial-apos-divulgacao-publica-de-vulnerabilidades-sem-correcao-em-produtos-como-windo"
+    },
+    {
+      "id": "f99b5bb7-45a0-4c80-84cc-fb23be6274c6",
+      "title": "O que aprendi tentando criar uma extensão para o VS Code usando Yeoman (não é um tutorial)",
+      "slug": "o-que-aprendi-tentando-criar-uma-extensao-para-o-vs-code-usando-yeoman-nao-e-um-tutorial",
+      "owner_username": "odavileal",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-06-01T14:18:40.746Z",
+      "url": "https://www.tabnews.com.br/odavileal/o-que-aprendi-tentando-criar-uma-extensao-para-o-vs-code-usando-yeoman-nao-e-um-tutorial"
     }
   ]
 }
