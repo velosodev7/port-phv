@@ -24,6 +24,16 @@
   color: var(--text-muted);
 }
 
+.section-header__command {
+  color: var(--terminal-green);
+  text-shadow: var(--terminal-glow);
+}
+
+.section-header__command::before {
+  content: "$ ";
+  color: var(--terminal-green-dim);
+}
+
 .section-header__title {
   font-family: var(--font-serif);
   font-size: var(--fs-h2);

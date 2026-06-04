@@ -11,6 +11,15 @@
   --border: #1e1e1e;
   --border-strong: #2a2a2a;
 
+  /* Terminal / CRT — textura "dev" pontual (híbrido) */
+  --terminal-green: #4ee36b;
+  --terminal-green-dim: rgba(78, 227, 107, 0.65);
+  --terminal-glow: 0 0 6px rgba(78, 227, 107, 0.45);
+  --terminal-bg: #07120a;
+  --scanline: rgba(78, 227, 107, 0.025);
+  --grid-dot: rgba(78, 227, 107, 0.22);
+  --grid-size: 30px;
+
   --font-serif: "Instrument Serif", "Playfair Display", Georgia, serif;
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;

@@ -2,3 +2,8 @@
   padding-top: var(--space-4);
   padding-bottom: var(--space-6);
 }
+
+/* Dentro da janela de terminal, o feed não precisa do próprio respiro superior */
+.term-window .blog-tabnews {
+  margin-top: 0;
+}

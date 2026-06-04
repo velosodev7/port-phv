@@ -15,6 +15,7 @@
   flex-shrink: 0;
   background-color: var(--status);
   box-shadow: 0 0 0 0 var(--status);
+  filter: drop-shadow(0 0 4px var(--status));
 }
 
 .availability.is-active .availability-dot {

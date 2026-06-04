@@ -4,38 +4,32 @@ const itens = [
   {
     id: "negocio",
     titulo: "Entender a regra de negócio",
-    descricao:
-      "Antes de abrir o editor, busco entender qual problema real estou resolvendo e quem usa o que vou construir. Código bom resolve regra de negócio — não só passa lint.",
+    descricao: "Entendo qual problema real estou resolvendo antes de abrir o editor.",
   },
   {
     id: "automacao",
     titulo: "Automatizar o que se repete",
-    descricao:
-      "Identifico tarefas repetitivas e automatizo — scripts, hooks, fluxos de deploy, integrações. Tempo poupado vira tempo para resolver problemas que importam.",
+    descricao: "Tarefas repetitivas viram scripts, hooks e fluxos de deploy.",
   },
   {
     id: "ui",
     titulo: "UI como parte do código",
-    descricao:
-      "Componentes pequenos, tokens centralizados, acessibilidade básica desde o início (alt, aria-label, foco visível, contraste).",
+    descricao: "Componentes pequenos, tokens centralizados, acessibilidade desde o início.",
   },
   {
     id: "git",
     titulo: "Versionamento disciplinado",
-    descricao:
-      "Git e GitHub em todo projeto, com branches por feature, commits descritivos e histórico legível. Este portfólio segue o mesmo fluxo.",
+    descricao: "Branches por feature, commits descritivos, histórico legível.",
   },
   {
     id: "review",
     titulo: "Revisão antes de mergear",
-    descricao:
-      "Reviso meu próprio diff antes de subir, leio criticamente o que vai entrar em produção e refatoro o que não faz sentido manter.",
+    descricao: "Reviso meu próprio diff antes de subir para produção.",
   },
   {
     id: "deploy",
     titulo: "Deploy contínuo",
-    descricao:
-      "Acostumado a pipelines onde merge na main vira deploy automático. Aprendi a tratar produção com cuidado — e a confiar no que entrego.",
+    descricao: "Merge na main vira deploy automático — produção tratada com cuidado.",
   },
 ];
 
