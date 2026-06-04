@@ -33,7 +33,7 @@ export const projects = [
     papel: "Solo · Design + Código",
     stack: ["Next.js 16", "TypeScript", "Tailwind v4", "Motion", "Google Sheets"],
     github: null,
-    demo: null,
+    demo: "https://edrofood.vercel.app/lp",
     imagem: null,
     ano: 2026,
     tipo: "cliente",
