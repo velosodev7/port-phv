@@ -14,7 +14,6 @@ const Hero = () => {
           <MetaBlock
             documento={meta.documento}
             assunto={meta.assunto}
-            status={meta.status}
           />
         </TerminalWindow>
 

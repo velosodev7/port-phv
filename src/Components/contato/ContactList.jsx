@@ -1,11 +1,9 @@
-import { FiMail, FiGithub, FiLinkedin, FiDownload } from "react-icons/fi";
+import { FiMail, FiGithub, FiLinkedin } from "react-icons/fi";
 import ContactItem from "./ContactItem.jsx";
 import { contact } from "../../data/contact.js";
 import "./ContactList.css";
 
 const ContactList = () => {
-  const cvAvailable = Boolean(contact.cv);
-
   return (
     <div className="contact-list">
       <ContactItem
@@ -32,16 +30,6 @@ const ContactList = () => {
         href={contact.linkedin.url}
         icon={FiLinkedin}
         external
-      />
-
-      <ContactItem
-        index="04"
-        label="Currículo"
-        value={cvAvailable ? "Baixar CV" : "Em breve"}
-        href={cvAvailable ? contact.cv : null}
-        icon={FiDownload}
-        disabled={!cvAvailable}
-        hint={cvAvailable ? "PDF" : "Será disponibilizado em breve"}
       />
     </div>
   );

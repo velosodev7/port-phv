@@ -45,18 +45,6 @@
   color: var(--accent);
 }
 
-.hero-cta.is-disabled {
-  color: var(--text-dim);
-  border-color: var(--border);
-  cursor: not-allowed;
-}
-
-.hero-cta.is-disabled:hover {
-  color: var(--text-dim);
-  border-color: var(--border);
-  transform: none;
-}
-
 @media (max-width: 540px) {
   .hero-actions {
     flex-direction: column;

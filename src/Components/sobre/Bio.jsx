@@ -16,8 +16,7 @@ const Bio = () => {
         Mais do que escrever código, gosto de{" "}
         <CoralAccent>resolver problemas</CoralAccent>: entender o contexto do
         produto, identificar o que dá pra automatizar e propor soluções que
-        economizam tempo. Cada projeto é tratado como produto. Se tem um projeto,
-        colaboração ou só uma boa conversa sobre engenharia, dá um toque.
+        economizam tempo. Cada projeto é tratado como produto, não como tarefa.
       </p>
     </div>
   );
