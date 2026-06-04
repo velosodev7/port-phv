@@ -20,7 +20,7 @@ export const projects = [
     papel: "Solo · Full-stack",
     stack: ["Python", "FastAPI", "TMDB API", "JS Vanilla", "Vercel"],
     github: "https://github.com/velosodev7/popkorn",
-    demo: "https://popkorn.vercel.app",
+    demo: "https://popkorndev.com.br",
     imagem: null,
     ano: 2025,
     tipo: "estudo",
