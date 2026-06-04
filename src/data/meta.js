@@ -1,10 +1,6 @@
 export const meta = {
   documento: "PORTFÓLIO 2026",
   assunto: "PEDRO VELOSO · DESENVOLVEDOR FULL-STACK",
-  status: {
-    label: "ABERTO A CONVERSAS",
-    active: true,
-  },
   tagline: [
     { text: "Construindo produtos web com " },
     { text: "React", accent: true },
