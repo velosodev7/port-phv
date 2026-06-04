@@ -1,16 +1,27 @@
 {
-  "updated_at": "2026-06-03T13:10:13.133Z",
+  "updated_at": "2026-06-04T11:45:30.867Z",
   "posts": [
     {
-      "id": "f3ae9ea7-944f-4080-8e1e-8b4c167a2ec3",
-      "title": "Pitch: Como estruturamos um SaaS  no Edge para custar quase R$ 0 de infra no lançamento",
-      "slug": "como-estruturamos-um-saas-no-edge-para-custar-quase-r-0-de-infra-no-lancamento",
-      "owner_username": "Dorvo",
+      "id": "73328562-fe54-41c0-8f45-70a395e2a24f",
+      "title": "OmniVoice é o ElevenLabs Opensource",
+      "slug": "voce-nao-precisa-mais-do-eleven-labs",
+      "owner_username": "peterson047",
+      "source_url": "https://medium.com/p/c39606994ab0",
+      "tabcoins": 12,
+      "children_deep_count": 9,
+      "published_at": "2026-06-03T00:45:10.285Z",
+      "url": "https://www.tabnews.com.br/peterson047/voce-nao-precisa-mais-do-eleven-labs"
+    },
+    {
+      "id": "e3f6814f-e5df-4313-9a76-03e5439069fb",
+      "title": "AI-SD: A Nova Era do Desenvolvimento de Software",
+      "slug": "ai-sd-a-nova-era-do-desenvolvimento-de-software",
+      "owner_username": "odevpensador",
       "source_url": null,
-      "tabcoins": 21,
-      "children_deep_count": 12,
-      "published_at": "2026-06-02T01:36:11.723Z",
-      "url": "https://www.tabnews.com.br/Dorvo/como-estruturamos-um-saas-no-edge-para-custar-quase-r-0-de-infra-no-lancamento"
+      "tabcoins": 8,
+      "children_deep_count": 3,
+      "published_at": "2026-06-03T00:19:52.780Z",
+      "url": "https://www.tabnews.com.br/odevpensador/ai-sd-a-nova-era-do-desenvolvimento-de-software"
     },
     {
       "id": "2a434fb9-6369-4f1e-a13f-84ccf879eaad",
@@ -19,31 +30,64 @@
       "owner_username": "maoliofc",
       "source_url": null,
       "tabcoins": 6,
-      "children_deep_count": 2,
+      "children_deep_count": 3,
       "published_at": "2026-06-03T10:13:28.796Z",
       "url": "https://www.tabnews.com.br/maoliofc/como-reduzir-custo-de-ia-em-producao-sem-perder-controle"
     },
     {
-      "id": "1ff864ef-dade-4018-b7b9-2e6ed2c378b9",
-      "title": "[CLAUDE.MD] Template de 12 regras para IA não quebrar seu código (sim, mais um...)",
-      "slug": "claude-md-template-de-12-regras-para-ia-nao-quebrar-seu-codigo-sim-mais-um",
-      "owner_username": "Oletros",
-      "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "id": "f56edd7d-7968-478c-944c-8db27f2d8554",
+      "title": "Como fazer pentest na prática",
+      "slug": "como-fazer-pentest-na-pratica",
+      "owner_username": "Silva97",
+      "source_url": null,
       "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-06-02T14:36:58.436Z",
-      "url": "https://www.tabnews.com.br/Oletros/claude-md-template-de-12-regras-para-ia-nao-quebrar-seu-codigo-sim-mais-um"
+      "children_deep_count": 3,
+      "published_at": "2026-06-03T14:18:20.897Z",
+      "url": "https://www.tabnews.com.br/Silva97/como-fazer-pentest-na-pratica"
     },
     {
-      "id": "73328562-fe54-41c0-8f45-70a395e2a24f",
-      "title": "OmniVoice é o ElevenLabs Opensource",
-      "slug": "voce-nao-precisa-mais-do-eleven-labs",
-      "owner_username": "peterson047",
-      "source_url": "https://medium.com/p/c39606994ab0",
+      "id": "22b958c2-02a6-4647-af64-4f1d270826d3",
+      "title": "AI me tirou uma parte da programação que eu gostava",
+      "slug": "ai-me-tirou-uma-parte-da-programacao-que-eu-gostava",
+      "owner_username": "danieldia",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 12,
+      "published_at": "2026-06-03T13:22:44.835Z",
+      "url": "https://www.tabnews.com.br/danieldia/ai-me-tirou-uma-parte-da-programacao-que-eu-gostava"
+    },
+    {
+      "id": "0510baff-fb31-41ba-b3f6-2354c3856051",
+      "title": "Eu melhorei a habilidade \"Grill-Me\" do Matt Pocock em \"3 vezes\" e ela substituiu meu Modo de Planejamento.",
+      "slug": "eu-melhorei-a-habilidade-grill-me-do-matt-pocock-em-3-vezes-e-ela-substituiu-meu-modo-de-planejamento",
+      "owner_username": "marlonPassos",
+      "source_url": null,
       "tabcoins": 5,
-      "children_deep_count": 3,
-      "published_at": "2026-06-03T00:45:10.285Z",
-      "url": "https://www.tabnews.com.br/peterson047/voce-nao-precisa-mais-do-eleven-labs"
+      "children_deep_count": 2,
+      "published_at": "2026-06-03T12:52:18.149Z",
+      "url": "https://www.tabnews.com.br/marlonPassos/eu-melhorei-a-habilidade-grill-me-do-matt-pocock-em-3-vezes-e-ela-substituiu-meu-modo-de-planejamento"
+    },
+    {
+      "id": "adb01e7b-6e11-4fc2-aaa7-a87ccc069e60",
+      "title": "Criei um agente de IA open-source que vira \"engenheiro full-stack\" em qualquer plataforma (ChatGPT, Claude, Copilot, Cursor)",
+      "slug": "criei-um-agente-de-ia-open-source-que-vira-engenheiro-full-stack-em-qualquer-plataforma-chatgpt-claude-copilot-cursor",
+      "owner_username": "Ricar66",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-06-03T22:27:55.954Z",
+      "url": "https://www.tabnews.com.br/Ricar66/criei-um-agente-de-ia-open-source-que-vira-engenheiro-full-stack-em-qualquer-plataforma-chatgpt-claude-copilot-cursor"
+    },
+    {
+      "id": "ded97655-43b6-46f4-9fd6-5197ee26fddd",
+      "title": "Integração de loja com blockchain do telegram usando PHP",
+      "slug": "integracao-de-loja-com-blockchain-do-telegram-usando-php",
+      "owner_username": "faustinopsy",
+      "source_url": "https://www.phpclasses.org/package/13731.html",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-06-03T22:12:09.171Z",
+      "url": "https://www.tabnews.com.br/faustinopsy/integracao-de-loja-com-blockchain-do-telegram-usando-php"
     },
     {
       "id": "26467ef2-54b0-446b-bc90-2d7f3273f98d",
@@ -57,59 +101,15 @@
       "url": "https://www.tabnews.com.br/kenimo49/os-5-crawlers-de-ia-que-mais-bateram-nos-meus-sites-em-30-dias-o-que-os-logs-revelaram-sobre-llmo"
     },
     {
-      "id": "ea6061f2-362a-499b-aa95-18d60258752b",
-      "title": "Pitch: Cariockko: Uma solução Open Source e Customizável para a Prática de Inglês",
-      "slug": "cariockko-uma-solucao-open-source-e-customizavel-para-a-pratica-de-ingles",
-      "owner_username": "araujgom",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-03T02:40:01.313Z",
-      "url": "https://www.tabnews.com.br/araujgom/cariockko-uma-solucao-open-source-e-customizavel-para-a-pratica-de-ingles"
-    },
-    {
-      "id": "e3f6814f-e5df-4313-9a76-03e5439069fb",
-      "title": "AI-SD: A Nova Era do Desenvolvimento de Software",
-      "slug": "ai-sd-a-nova-era-do-desenvolvimento-de-software",
-      "owner_username": "odevpensador",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-03T00:19:52.780Z",
-      "url": "https://www.tabnews.com.br/odevpensador/ai-sd-a-nova-era-do-desenvolvimento-de-software"
-    },
-    {
-      "id": "e2825030-d22d-4adf-848d-00b09ecbe609",
-      "title": "Athena: desenvolvendo um app mobile pelo celular, com Flutter e muitos tropeços no caminho",
-      "slug": "athena-desenvolvendo-um-app-mobile-pelo-celular-com-flutter-e-muitos-tropecos-no-caminho",
-      "owner_username": "JuanGuerra",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-02T18:36:39.373Z",
-      "url": "https://www.tabnews.com.br/JuanGuerra/athena-desenvolvendo-um-app-mobile-pelo-celular-com-flutter-e-muitos-tropecos-no-caminho"
-    },
-    {
-      "id": "0510baff-fb31-41ba-b3f6-2354c3856051",
-      "title": "Eu melhorei a habilidade \"Grill-Me\" do Matt Pocock em \"3 vezes\" e ela substituiu meu Modo de Planejamento.",
-      "slug": "eu-melhorei-a-habilidade-grill-me-do-matt-pocock-em-3-vezes-e-ela-substituiu-meu-modo-de-planejamento",
-      "owner_username": "marlonPassos",
+      "id": "6558b856-02e8-45bf-ae58-677243f0206b",
+      "title": "4 meses do meu ERP/SaaS em produção: O mercado me empurrou pra onde eu não esperava",
+      "slug": "4-meses-do-meu-erp-saas-em-producao-o-mercado-me-empurrou-pra-onde-eu-nao-esperava",
+      "owner_username": "AndersonBuntoSistemas",
       "source_url": null,
       "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-06-03T12:52:18.149Z",
-      "url": "https://www.tabnews.com.br/marlonPassos/eu-melhorei-a-habilidade-grill-me-do-matt-pocock-em-3-vezes-e-ela-substituiu-meu-modo-de-planejamento"
-    },
-    {
-      "id": "bb5e152d-bb2e-48d3-83ee-2314213c6bcf",
-      "title": "Índice Sardinha: Uma Calculadora Educativa de Paridade de Poder de Compra",
-      "slug": "indice-sardinha-uma-calculadora-educativa-de-paridade-de-poder-de-compra",
-      "owner_username": "sauloFerroMaciel",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-06-02T15:57:51.674Z",
-      "url": "https://www.tabnews.com.br/sauloFerroMaciel/indice-sardinha-uma-calculadora-educativa-de-paridade-de-poder-de-compra"
+      "children_deep_count": 4,
+      "published_at": "2026-06-03T18:05:06.574Z",
+      "url": "https://www.tabnews.com.br/AndersonBuntoSistemas/4-meses-do-meu-erp-saas-em-producao-o-mercado-me-empurrou-pra-onde-eu-nao-esperava"
     }
   ]
 }
