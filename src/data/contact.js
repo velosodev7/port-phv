@@ -8,5 +8,4 @@ export const contact = {
     user: "pedrohsveloso",
     url: "https://www.linkedin.com/in/pedrohsveloso/",
   },
-  cv: null,
 };

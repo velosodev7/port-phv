@@ -12,7 +12,6 @@ const Contato = () => {
         <MetaBlock
           documento={meta.documento}
           assunto="§05 · CONTATO"
-          status={meta.status}
         />
 
         <SectionHeader
@@ -22,8 +21,9 @@ const Contato = () => {
         />
 
         <p className="contato-page__intro">
-          Estou aberto a conversas sobre projetos e colaborações.
-          A forma mais rápida de me alcançar é por <span className="accent">e-mail</span>.
+          A forma mais rápida de me alcançar é por{" "}
+          <span className="accent">e-mail</span>. GitHub e LinkedIn também estão
+          logo abaixo.
         </p>
 
         <TerminalWindow title="$ contato --links">
