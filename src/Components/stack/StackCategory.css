@@ -14,7 +14,13 @@
   font-family: var(--font-mono);
   font-size: var(--fs-meta);
   letter-spacing: var(--ls-mono);
-  color: var(--accent);
+  color: var(--terminal-green);
+  text-shadow: var(--terminal-glow);
+}
+
+.stack-category__index::before {
+  content: "> ";
+  color: var(--terminal-green-dim);
 }
 
 .stack-category__title {

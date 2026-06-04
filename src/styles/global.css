@@ -67,6 +67,48 @@ a:hover {
   font-style: italic;
 }
 
+/* Dot-matrix técnico (blueprint) — padrão fixo e fraco atrás do conteúdo */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: radial-gradient(
+    circle,
+    var(--grid-dot) 1.4px,
+    transparent 1.8px
+  );
+  background-size: var(--grid-size) var(--grid-size);
+}
+
+/* Scanline CRT global — bem sutil, atrás do conteúdo, não captura clique */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    var(--scanline) 0,
+    var(--scanline) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body::after {
+    display: none;
+  }
+}
+
 ::selection {
   background-color: var(--accent);
   color: var(--bg);
