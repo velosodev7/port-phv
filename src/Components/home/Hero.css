@@ -8,6 +8,54 @@
   flex-direction: column;
 }
 
+.hero-terminal {
+  max-width: min(620px, 100%);
+}
+
+.hero-prompt {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  margin-top: var(--space-4);
+  margin-bottom: calc(-1 * var(--space-1));
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  text-transform: uppercase;
+  color: var(--terminal-green);
+  text-shadow: var(--terminal-glow);
+}
+
+.hero-prompt__cmd::before {
+  content: "$ ";
+  color: var(--terminal-green-dim);
+}
+
+.hero-prompt__cursor {
+  width: 8px;
+  height: 1em;
+  margin-left: 4px;
+  background-color: var(--terminal-green);
+  box-shadow: var(--terminal-glow);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hero-prompt__cursor {
+    animation: hero-cursor-blink 1.1s steps(1) infinite;
+  }
+}
+
+@keyframes hero-cursor-blink {
+  0%,
+  50% {
+    opacity: 1;
+  }
+  50.01%,
+  100% {
+    opacity: 0;
+  }
+}
+
 .hero-name {
   margin-top: var(--space-3);
 }

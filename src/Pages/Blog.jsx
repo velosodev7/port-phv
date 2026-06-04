@@ -1,5 +1,6 @@
 import MetaBlock from "../Components/ui/MetaBlock.jsx";
 import SectionHeader from "../Components/ui/SectionHeader.jsx";
+import TerminalWindow from "../Components/ui/TerminalWindow.jsx";
 import BlogTabNews from "../Components/blog/BlogTabNews.jsx";
 import { meta } from "../data/meta.js";
 import "./Blog.css";
@@ -20,7 +21,9 @@ const Blog = () => {
           kicker="ANOTAÇÕES E ARTIGOS"
         />
 
-        <BlogTabNews />
+        <TerminalWindow title="$ cat ~/blog">
+          <BlogTabNews />
+        </TerminalWindow>
       </div>
     </section>
   );

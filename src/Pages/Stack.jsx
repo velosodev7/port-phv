@@ -1,5 +1,6 @@
 import MetaBlock from "../Components/ui/MetaBlock.jsx";
 import SectionHeader from "../Components/ui/SectionHeader.jsx";
+import TerminalWindow from "../Components/ui/TerminalWindow.jsx";
 import StackCategory from "../Components/stack/StackCategory.jsx";
 import { meta } from "../data/meta.js";
 import { stack } from "../data/stack.js";
@@ -27,17 +28,19 @@ const Stack = () => {
           cinza claro para intermediário, cinza escuro para em estudo.
         </p>
 
-        <div className="stack-page__grid">
-          {stack.map((category, i) => (
-            <StackCategory
-              key={category.id}
-              id={category.id}
-              label={category.label}
-              items={category.items}
-              index={String(i + 1).padStart(2, "0")}
-            />
-          ))}
-        </div>
+        <TerminalWindow title="$ stack --list">
+          <div className="stack-page__grid">
+            {stack.map((category, i) => (
+              <StackCategory
+                key={category.id}
+                id={category.id}
+                label={category.label}
+                items={category.items}
+                index={String(i + 1).padStart(2, "0")}
+              />
+            ))}
+          </div>
+        </TerminalWindow>
       </div>
     </section>
   );

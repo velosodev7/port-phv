@@ -1,5 +1,6 @@
 import MetaBlock from "../Components/ui/MetaBlock.jsx";
 import SectionHeader from "../Components/ui/SectionHeader.jsx";
+import TerminalWindow from "../Components/ui/TerminalWindow.jsx";
 import ProjectList from "../Components/projetos/ProjectList.jsx";
 import { meta } from "../data/meta.js";
 import "./Projetos.css";
@@ -20,7 +21,9 @@ const Projetos = () => {
           kicker="O QUE VENHO CONSTRUINDO"
         />
 
-        <ProjectList />
+        <TerminalWindow title="$ ls ~/projetos" className="projetos-terminal">
+          <ProjectList />
+        </TerminalWindow>
       </div>
     </section>
   );

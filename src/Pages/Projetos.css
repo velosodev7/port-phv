@@ -2,3 +2,12 @@
   padding-top: var(--space-4);
   padding-bottom: var(--space-6);
 }
+
+/* Ajuste de respiro dentro da janela de terminal (bordas tratadas no TerminalWindow) */
+.projetos-terminal .project-card:first-child {
+  padding-top: var(--space-2);
+}
+
+.projetos-terminal .project-card:last-child {
+  padding-bottom: var(--space-2);
+}
