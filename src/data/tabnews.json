@@ -1,49 +1,71 @@
 {
-  "updated_at": "2026-06-04T11:45:30.867Z",
+  "updated_at": "2026-06-05T11:56:46.614Z",
   "posts": [
     {
-      "id": "73328562-fe54-41c0-8f45-70a395e2a24f",
-      "title": "OmniVoice é o ElevenLabs Opensource",
-      "slug": "voce-nao-precisa-mais-do-eleven-labs",
-      "owner_username": "peterson047",
-      "source_url": "https://medium.com/p/c39606994ab0",
-      "tabcoins": 12,
-      "children_deep_count": 9,
-      "published_at": "2026-06-03T00:45:10.285Z",
-      "url": "https://www.tabnews.com.br/peterson047/voce-nao-precisa-mais-do-eleven-labs"
+      "id": "10d0878d-1f01-4a6a-8bce-dc9685b79bcf",
+      "title": "Design de Sistemas para Editores Colaborativos: Google Docs e Figma em Profundidade",
+      "slug": "design-de-sistemas-para-editores-colaborativos-google-docs-e-figma-em-profundidade",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/collaborative-editor-system-design",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-06-05T01:09:04.418Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/design-de-sistemas-para-editores-colaborativos-google-docs-e-figma-em-profundidade"
     },
     {
-      "id": "e3f6814f-e5df-4313-9a76-03e5439069fb",
-      "title": "AI-SD: A Nova Era do Desenvolvimento de Software",
-      "slug": "ai-sd-a-nova-era-do-desenvolvimento-de-software",
-      "owner_username": "odevpensador",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 3,
-      "published_at": "2026-06-03T00:19:52.780Z",
-      "url": "https://www.tabnews.com.br/odevpensador/ai-sd-a-nova-era-do-desenvolvimento-de-software"
+      "id": "93255f30-b44e-4123-b542-2b5738baaf41",
+      "title": "🏗️ CROM lança Wiki - O Caos de Abrir o Servidor para Estranhos - Relato Prático 🛠️ Procura Parceiros Sérios para Codar? Precisa de acesso a IA e VPS ? Venha Entender o Fluxo na Nossa Nova Plataforma",
+      "slug": "crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en",
+      "owner_username": "MrJ",
+      "source_url": "https://wiki.crom.run/",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-06-04T23:16:16.755Z",
+      "url": "https://www.tabnews.com.br/MrJ/crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en"
     },
     {
-      "id": "2a434fb9-6369-4f1e-a13f-84ccf879eaad",
-      "title": "Como reduzir custo de IA",
-      "slug": "como-reduzir-custo-de-ia-em-producao-sem-perder-controle",
-      "owner_username": "maoliofc",
+      "id": "4e3d3297-5f84-4c11-9def-6772579d7f10",
+      "title": "Eu criei minhas próprias funções da libc do \"zero\"!",
+      "slug": "eu-criei-minhas-proprias-funcoes-da-libc-do-zero",
+      "owner_username": "ciproterona",
       "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-06-03T10:13:28.796Z",
-      "url": "https://www.tabnews.com.br/maoliofc/como-reduzir-custo-de-ia-em-producao-sem-perder-controle"
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-06-04T18:42:01.769Z",
+      "url": "https://www.tabnews.com.br/ciproterona/eu-criei-minhas-proprias-funcoes-da-libc-do-zero"
     },
     {
-      "id": "f56edd7d-7968-478c-944c-8db27f2d8554",
-      "title": "Como fazer pentest na prática",
-      "slug": "como-fazer-pentest-na-pratica",
-      "owner_username": "Silva97",
+      "id": "eb7db4ec-9a21-480f-87a4-388498d08c09",
+      "title": "Se você é dev, você já deveria estar utilizando um gerenciador de senhas",
+      "slug": "se-voce-e-dev-voce-ja-deveria-estar-utilizando-um-gerenciador-de-senhas",
+      "owner_username": "rutkowskigustavo",
+      "source_url": "https://www.youtube.com/watch?v=TtAH6xGbvIQ&pp=ygUZZmxvdyBwb2RjYXN0IGdhYnJpZWwgcGF0bw%3D%3D",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-06-05T00:05:31.506Z",
+      "url": "https://www.tabnews.com.br/rutkowskigustavo/se-voce-e-dev-voce-ja-deveria-estar-utilizando-um-gerenciador-de-senhas"
+    },
+    {
+      "id": "9e764f0d-f19d-4475-a58e-0c96504eec27",
+      "title": "SearchMe Opensource — Encontre parceiros de negócio no TabNews usando IA local (e o feriado que eu jurei que não trabalharia)",
+      "slug": "searchme-encontre-parceiros-de-negocio-no-tabnews-usando-ia-local-e-o-feriado-que-eu-jurei-que-nao-trabalharia",
+      "owner_username": "macnator",
       "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-06-03T14:18:20.897Z",
-      "url": "https://www.tabnews.com.br/Silva97/como-fazer-pentest-na-pratica"
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-06-04T17:02:16.575Z",
+      "url": "https://www.tabnews.com.br/macnator/searchme-encontre-parceiros-de-negocio-no-tabnews-usando-ia-local-e-o-feriado-que-eu-jurei-que-nao-trabalharia"
+    },
+    {
+      "id": "f259abcc-7c46-495f-8479-d6d4cc2af515",
+      "title": "Quando IA mistura codigo, imagem e video, o verdadeiro trabalho vira versionar intencao",
+      "slug": "quando-ia-mistura-codigo-imagem-e-video-o-verdadeiro-trabalho-vira-versionar-intencao",
+      "owner_username": "Centelha",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-05T03:49:26.738Z",
+      "url": "https://www.tabnews.com.br/Centelha/quando-ia-mistura-codigo-imagem-e-video-o-verdadeiro-trabalho-vira-versionar-intencao"
     },
     {
       "id": "22b958c2-02a6-4647-af64-4f1d270826d3",
@@ -51,21 +73,21 @@
       "slug": "ai-me-tirou-uma-parte-da-programacao-que-eu-gostava",
       "owner_username": "danieldia",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 12,
+      "tabcoins": 7,
+      "children_deep_count": 14,
       "published_at": "2026-06-03T13:22:44.835Z",
       "url": "https://www.tabnews.com.br/danieldia/ai-me-tirou-uma-parte-da-programacao-que-eu-gostava"
     },
     {
-      "id": "0510baff-fb31-41ba-b3f6-2354c3856051",
-      "title": "Eu melhorei a habilidade \"Grill-Me\" do Matt Pocock em \"3 vezes\" e ela substituiu meu Modo de Planejamento.",
-      "slug": "eu-melhorei-a-habilidade-grill-me-do-matt-pocock-em-3-vezes-e-ela-substituiu-meu-modo-de-planejamento",
-      "owner_username": "marlonPassos",
+      "id": "2a434fb9-6369-4f1e-a13f-84ccf879eaad",
+      "title": "Como reduzir custo de IA",
+      "slug": "como-reduzir-custo-de-ia-em-producao-sem-perder-controle",
+      "owner_username": "maoliofc",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-06-03T12:52:18.149Z",
-      "url": "https://www.tabnews.com.br/marlonPassos/eu-melhorei-a-habilidade-grill-me-do-matt-pocock-em-3-vezes-e-ela-substituiu-meu-modo-de-planejamento"
+      "tabcoins": 7,
+      "children_deep_count": 3,
+      "published_at": "2026-06-03T10:13:28.796Z",
+      "url": "https://www.tabnews.com.br/maoliofc/como-reduzir-custo-de-ia-em-producao-sem-perder-controle"
     },
     {
       "id": "adb01e7b-6e11-4fc2-aaa7-a87ccc069e60",
@@ -73,21 +95,10 @@
       "slug": "criei-um-agente-de-ia-open-source-que-vira-engenheiro-full-stack-em-qualquer-plataforma-chatgpt-claude-copilot-cursor",
       "owner_username": "Ricar66",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
+      "tabcoins": 7,
+      "children_deep_count": 2,
       "published_at": "2026-06-03T22:27:55.954Z",
       "url": "https://www.tabnews.com.br/Ricar66/criei-um-agente-de-ia-open-source-que-vira-engenheiro-full-stack-em-qualquer-plataforma-chatgpt-claude-copilot-cursor"
-    },
-    {
-      "id": "ded97655-43b6-46f4-9fd6-5197ee26fddd",
-      "title": "Integração de loja com blockchain do telegram usando PHP",
-      "slug": "integracao-de-loja-com-blockchain-do-telegram-usando-php",
-      "owner_username": "faustinopsy",
-      "source_url": "https://www.phpclasses.org/package/13731.html",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-03T22:12:09.171Z",
-      "url": "https://www.tabnews.com.br/faustinopsy/integracao-de-loja-com-blockchain-do-telegram-usando-php"
     },
     {
       "id": "26467ef2-54b0-446b-bc90-2d7f3273f98d",
@@ -95,21 +106,10 @@
       "slug": "os-5-crawlers-de-ia-que-mais-bateram-nos-meus-sites-em-30-dias-o-que-os-logs-revelaram-sobre-llmo",
       "owner_username": "kenimo49",
       "source_url": "https://kenimoto.dev/pt/blog/cinco-crawlers-ia-bateram-meu-site-30-dias/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
+      "tabcoins": 7,
+      "children_deep_count": 5,
       "published_at": "2026-06-03T12:00:03.926Z",
       "url": "https://www.tabnews.com.br/kenimo49/os-5-crawlers-de-ia-que-mais-bateram-nos-meus-sites-em-30-dias-o-que-os-logs-revelaram-sobre-llmo"
-    },
-    {
-      "id": "6558b856-02e8-45bf-ae58-677243f0206b",
-      "title": "4 meses do meu ERP/SaaS em produção: O mercado me empurrou pra onde eu não esperava",
-      "slug": "4-meses-do-meu-erp-saas-em-producao-o-mercado-me-empurrou-pra-onde-eu-nao-esperava",
-      "owner_username": "AndersonBuntoSistemas",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 4,
-      "published_at": "2026-06-03T18:05:06.574Z",
-      "url": "https://www.tabnews.com.br/AndersonBuntoSistemas/4-meses-do-meu-erp-saas-em-producao-o-mercado-me-empurrou-pra-onde-eu-nao-esperava"
     }
   ]
 }
