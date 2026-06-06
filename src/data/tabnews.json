@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-05T11:56:46.614Z",
+  "updated_at": "2026-06-06T10:50:04.909Z",
   "posts": [
+    {
+      "id": "93255f30-b44e-4123-b542-2b5738baaf41",
+      "title": "🏗️ CROM lança Wiki - O Caos de Abrir o Servidor para Estranhos - Relato Prático 🛠️ Procura Parceiros Sérios para Codar? Precisa de acesso a IA e VPS ? Venha Entender o Fluxo na Nossa Nova Plataforma",
+      "slug": "crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en",
+      "owner_username": "MrJ",
+      "source_url": "https://wiki.crom.run/",
+      "tabcoins": 10,
+      "children_deep_count": 2,
+      "published_at": "2026-06-04T23:16:16.755Z",
+      "url": "https://www.tabnews.com.br/MrJ/crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en"
+    },
     {
       "id": "10d0878d-1f01-4a6a-8bce-dc9685b79bcf",
       "title": "Design de Sistemas para Editores Colaborativos: Google Docs e Figma em Profundidade",
@@ -8,31 +19,64 @@
       "owner_username": "andersonlimadev",
       "source_url": "https://lemon.dev.br/pt/blog/collaborative-editor-system-design",
       "tabcoins": 5,
-      "children_deep_count": 1,
+      "children_deep_count": 2,
       "published_at": "2026-06-05T01:09:04.418Z",
       "url": "https://www.tabnews.com.br/andersonlimadev/design-de-sistemas-para-editores-colaborativos-google-docs-e-figma-em-profundidade"
     },
     {
-      "id": "93255f30-b44e-4123-b542-2b5738baaf41",
-      "title": "🏗️ CROM lança Wiki - O Caos de Abrir o Servidor para Estranhos - Relato Prático 🛠️ Procura Parceiros Sérios para Codar? Precisa de acesso a IA e VPS ? Venha Entender o Fluxo na Nossa Nova Plataforma",
-      "slug": "crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en",
-      "owner_username": "MrJ",
-      "source_url": "https://wiki.crom.run/",
+      "id": "2c30c880-60b0-4d71-815e-03955de20268",
+      "title": "Como um deficiente visual hacker usa o computador? Mostrei na prática!",
+      "slug": "como-um-deficiente-visual-hacker-usa-o-computador-mostrei-na-pratica",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": "https://youtu.be/gfvjJhhXnho",
       "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-06-04T23:16:16.755Z",
-      "url": "https://www.tabnews.com.br/MrJ/crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en"
+      "children_deep_count": 0,
+      "published_at": "2026-06-05T19:41:12.442Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/como-um-deficiente-visual-hacker-usa-o-computador-mostrei-na-pratica"
     },
     {
-      "id": "4e3d3297-5f84-4c11-9def-6772579d7f10",
-      "title": "Eu criei minhas próprias funções da libc do \"zero\"!",
-      "slug": "eu-criei-minhas-proprias-funcoes-da-libc-do-zero",
-      "owner_username": "ciproterona",
-      "source_url": null,
-      "tabcoins": 5,
+      "id": "3af838a9-087e-468e-bd7f-28d8e2656cc2",
+      "title": "Colab PDF Reader & Translator  | Projeto Open Source",
+      "slug": "colab-pdf-reader-e-translator-projeto-open-source",
+      "owner_username": "rodrigocoa",
+      "source_url": "https://github.com/rodrigochavesoa/colab-pdf-reader",
+      "tabcoins": 4,
       "children_deep_count": 1,
-      "published_at": "2026-06-04T18:42:01.769Z",
-      "url": "https://www.tabnews.com.br/ciproterona/eu-criei-minhas-proprias-funcoes-da-libc-do-zero"
+      "published_at": "2026-06-06T01:40:26.545Z",
+      "url": "https://www.tabnews.com.br/rodrigocoa/colab-pdf-reader-e-translator-projeto-open-source"
+    },
+    {
+      "id": "8044215a-312a-4f7c-8417-2656cf25a1e8",
+      "title": "A lista encadeada do kernel Linux e a arte de fazer o impossível em C",
+      "slug": "a-lista-encadeada-do-kernel-linux-e-a-arte-de-fazer-o-impossivel-em-c",
+      "owner_username": "clacerda",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-06-05T20:44:30.223Z",
+      "url": "https://www.tabnews.com.br/clacerda/a-lista-encadeada-do-kernel-linux-e-a-arte-de-fazer-o-impossivel-em-c"
+    },
+    {
+      "id": "d94e5f33-480c-4d9c-87f9-e3c1244a8bd7",
+      "title": "Pluguei o Claude num MCP de Chaos. Matou staging 4 vezes pra achar um bug que ignorávamos há 6 meses.",
+      "slug": "pluguei-o-claude-num-mcp-de-chaos-matou-staging-4-vezes-pra-achar-um-bug-que-ignoravamos-ha-6-meses",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/claude-chaos-engineering-mcp-matou-staging-4-vezes/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-06-05T12:00:05.271Z",
+      "url": "https://www.tabnews.com.br/kenimo49/pluguei-o-claude-num-mcp-de-chaos-matou-staging-4-vezes-pra-achar-um-bug-que-ignoravamos-ha-6-meses"
+    },
+    {
+      "id": "534aba27-40e4-4199-8039-df95d2c952ce",
+      "title": "Pitch: Desenvolvi minha linguagem de programação.",
+      "slug": "desenvolvi-minha-linguagem-de-programacao",
+      "owner_username": "DevzinVini",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-06-05T23:35:08.388Z",
+      "url": "https://www.tabnews.com.br/DevzinVini/desenvolvi-minha-linguagem-de-programacao"
     },
     {
       "id": "eb7db4ec-9a21-480f-87a4-388498d08c09",
@@ -41,31 +85,20 @@
       "owner_username": "rutkowskigustavo",
       "source_url": "https://www.youtube.com/watch?v=TtAH6xGbvIQ&pp=ygUZZmxvdyBwb2RjYXN0IGdhYnJpZWwgcGF0bw%3D%3D",
       "tabcoins": 3,
-      "children_deep_count": 1,
+      "children_deep_count": 7,
       "published_at": "2026-06-05T00:05:31.506Z",
       "url": "https://www.tabnews.com.br/rutkowskigustavo/se-voce-e-dev-voce-ja-deveria-estar-utilizando-um-gerenciador-de-senhas"
     },
     {
-      "id": "9e764f0d-f19d-4475-a58e-0c96504eec27",
-      "title": "SearchMe Opensource — Encontre parceiros de negócio no TabNews usando IA local (e o feriado que eu jurei que não trabalharia)",
-      "slug": "searchme-encontre-parceiros-de-negocio-no-tabnews-usando-ia-local-e-o-feriado-que-eu-jurei-que-nao-trabalharia",
-      "owner_username": "macnator",
+      "id": "4e3d3297-5f84-4c11-9def-6772579d7f10",
+      "title": "Eu criei minhas próprias funções da libc do \"zero\"!",
+      "slug": "eu-criei-minhas-proprias-funcoes-da-libc-do-zero",
+      "owner_username": "ciproterona",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-06-04T17:02:16.575Z",
-      "url": "https://www.tabnews.com.br/macnator/searchme-encontre-parceiros-de-negocio-no-tabnews-usando-ia-local-e-o-feriado-que-eu-jurei-que-nao-trabalharia"
-    },
-    {
-      "id": "f259abcc-7c46-495f-8479-d6d4cc2af515",
-      "title": "Quando IA mistura codigo, imagem e video, o verdadeiro trabalho vira versionar intencao",
-      "slug": "quando-ia-mistura-codigo-imagem-e-video-o-verdadeiro-trabalho-vira-versionar-intencao",
-      "owner_username": "Centelha",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-05T03:49:26.738Z",
-      "url": "https://www.tabnews.com.br/Centelha/quando-ia-mistura-codigo-imagem-e-video-o-verdadeiro-trabalho-vira-versionar-intencao"
+      "tabcoins": 11,
+      "children_deep_count": 2,
+      "published_at": "2026-06-04T18:42:01.769Z",
+      "url": "https://www.tabnews.com.br/ciproterona/eu-criei-minhas-proprias-funcoes-da-libc-do-zero"
     },
     {
       "id": "22b958c2-02a6-4647-af64-4f1d270826d3",
@@ -73,43 +106,10 @@
       "slug": "ai-me-tirou-uma-parte-da-programacao-que-eu-gostava",
       "owner_username": "danieldia",
       "source_url": null,
-      "tabcoins": 7,
+      "tabcoins": 8,
       "children_deep_count": 14,
       "published_at": "2026-06-03T13:22:44.835Z",
       "url": "https://www.tabnews.com.br/danieldia/ai-me-tirou-uma-parte-da-programacao-que-eu-gostava"
-    },
-    {
-      "id": "2a434fb9-6369-4f1e-a13f-84ccf879eaad",
-      "title": "Como reduzir custo de IA",
-      "slug": "como-reduzir-custo-de-ia-em-producao-sem-perder-controle",
-      "owner_username": "maoliofc",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 3,
-      "published_at": "2026-06-03T10:13:28.796Z",
-      "url": "https://www.tabnews.com.br/maoliofc/como-reduzir-custo-de-ia-em-producao-sem-perder-controle"
-    },
-    {
-      "id": "adb01e7b-6e11-4fc2-aaa7-a87ccc069e60",
-      "title": "Criei um agente de IA open-source que vira \"engenheiro full-stack\" em qualquer plataforma (ChatGPT, Claude, Copilot, Cursor)",
-      "slug": "criei-um-agente-de-ia-open-source-que-vira-engenheiro-full-stack-em-qualquer-plataforma-chatgpt-claude-copilot-cursor",
-      "owner_username": "Ricar66",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 2,
-      "published_at": "2026-06-03T22:27:55.954Z",
-      "url": "https://www.tabnews.com.br/Ricar66/criei-um-agente-de-ia-open-source-que-vira-engenheiro-full-stack-em-qualquer-plataforma-chatgpt-claude-copilot-cursor"
-    },
-    {
-      "id": "26467ef2-54b0-446b-bc90-2d7f3273f98d",
-      "title": "Os 5 crawlers de IA que mais bateram nos meus sites em 30 dias - o que os logs revelaram sobre LLMO",
-      "slug": "os-5-crawlers-de-ia-que-mais-bateram-nos-meus-sites-em-30-dias-o-que-os-logs-revelaram-sobre-llmo",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/cinco-crawlers-ia-bateram-meu-site-30-dias/",
-      "tabcoins": 7,
-      "children_deep_count": 5,
-      "published_at": "2026-06-03T12:00:03.926Z",
-      "url": "https://www.tabnews.com.br/kenimo49/os-5-crawlers-de-ia-que-mais-bateram-nos-meus-sites-em-30-dias-o-que-os-logs-revelaram-sobre-llmo"
     }
   ]
 }
