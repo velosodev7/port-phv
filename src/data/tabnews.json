@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-06-06T10:50:04.909Z",
+  "updated_at": "2026-06-07T11:02:27.775Z",
   "posts": [
     {
-      "id": "93255f30-b44e-4123-b542-2b5738baaf41",
-      "title": "🏗️ CROM lança Wiki - O Caos de Abrir o Servidor para Estranhos - Relato Prático 🛠️ Procura Parceiros Sérios para Codar? Precisa de acesso a IA e VPS ? Venha Entender o Fluxo na Nossa Nova Plataforma",
-      "slug": "crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en",
-      "owner_username": "MrJ",
-      "source_url": "https://wiki.crom.run/",
-      "tabcoins": 10,
-      "children_deep_count": 2,
-      "published_at": "2026-06-04T23:16:16.755Z",
-      "url": "https://www.tabnews.com.br/MrJ/crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en"
-    },
-    {
-      "id": "10d0878d-1f01-4a6a-8bce-dc9685b79bcf",
-      "title": "Design de Sistemas para Editores Colaborativos: Google Docs e Figma em Profundidade",
-      "slug": "design-de-sistemas-para-editores-colaborativos-google-docs-e-figma-em-profundidade",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/collaborative-editor-system-design",
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-06-05T01:09:04.418Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/design-de-sistemas-para-editores-colaborativos-google-docs-e-figma-em-profundidade"
-    },
-    {
-      "id": "2c30c880-60b0-4d71-815e-03955de20268",
-      "title": "Como um deficiente visual hacker usa o computador? Mostrei na prática!",
-      "slug": "como-um-deficiente-visual-hacker-usa-o-computador-mostrei-na-pratica",
-      "owner_username": "JuanMathewsRebelloSantos",
-      "source_url": "https://youtu.be/gfvjJhhXnho",
-      "tabcoins": 5,
+      "id": "50dee32d-2e30-4842-8b74-4b1936d1aedb",
+      "title": "Agente de código precisa de contrato de trabalho, não de mais prompt",
+      "slug": "agente-de-codigo-precisa-de-contrato-de-trabalho-nao-de-mais-prompt",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 2,
       "children_deep_count": 0,
-      "published_at": "2026-06-05T19:41:12.442Z",
-      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/como-um-deficiente-visual-hacker-usa-o-computador-mostrei-na-pratica"
+      "published_at": "2026-06-07T07:01:52.893Z",
+      "url": "https://www.tabnews.com.br/Centelha/agente-de-codigo-precisa-de-contrato-de-trabalho-nao-de-mais-prompt"
+    },
+    {
+      "id": "210139da-c15d-477e-b47c-d61cab4fe041",
+      "title": "Você é uma fraude?",
+      "slug": "voce-e-uma-fraude",
+      "owner_username": "OhMyDoc",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-06-07T00:23:49.273Z",
+      "url": "https://www.tabnews.com.br/OhMyDoc/voce-e-uma-fraude"
+    },
+    {
+      "id": "7617a062-f854-44ee-8d63-e8d0920e6bdd",
+      "title": "Como excluir conexões de forma mais rápida no linkedin?",
+      "slug": "como-excluir-conexoes-de-forma-mais-rapida-no-linkedin",
+      "owner_username": "Anderson",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 2,
+      "published_at": "2026-06-06T23:46:54.196Z",
+      "url": "https://www.tabnews.com.br/Anderson/como-excluir-conexoes-de-forma-mais-rapida-no-linkedin"
     },
     {
       "id": "3af838a9-087e-468e-bd7f-28d8e2656cc2",
@@ -46,37 +46,59 @@
       "url": "https://www.tabnews.com.br/rodrigocoa/colab-pdf-reader-e-translator-projeto-open-source"
     },
     {
+      "id": "4e3d3297-5f84-4c11-9def-6772579d7f10",
+      "title": "Eu criei minhas próprias funções da libc do \"zero\"!",
+      "slug": "eu-criei-minhas-proprias-funcoes-da-libc-do-zero",
+      "owner_username": "ciproterona",
+      "source_url": null,
+      "tabcoins": 13,
+      "children_deep_count": 8,
+      "published_at": "2026-06-04T18:42:01.769Z",
+      "url": "https://www.tabnews.com.br/ciproterona/eu-criei-minhas-proprias-funcoes-da-libc-do-zero"
+    },
+    {
       "id": "8044215a-312a-4f7c-8417-2656cf25a1e8",
       "title": "A lista encadeada do kernel Linux e a arte de fazer o impossível em C",
       "slug": "a-lista-encadeada-do-kernel-linux-e-a-arte-de-fazer-o-impossivel-em-c",
       "owner_username": "clacerda",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
+      "tabcoins": 11,
+      "children_deep_count": 6,
       "published_at": "2026-06-05T20:44:30.223Z",
       "url": "https://www.tabnews.com.br/clacerda/a-lista-encadeada-do-kernel-linux-e-a-arte-de-fazer-o-impossivel-em-c"
     },
     {
-      "id": "d94e5f33-480c-4d9c-87f9-e3c1244a8bd7",
-      "title": "Pluguei o Claude num MCP de Chaos. Matou staging 4 vezes pra achar um bug que ignorávamos há 6 meses.",
-      "slug": "pluguei-o-claude-num-mcp-de-chaos-matou-staging-4-vezes-pra-achar-um-bug-que-ignoravamos-ha-6-meses",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/claude-chaos-engineering-mcp-matou-staging-4-vezes/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-06-05T12:00:05.271Z",
-      "url": "https://www.tabnews.com.br/kenimo49/pluguei-o-claude-num-mcp-de-chaos-matou-staging-4-vezes-pra-achar-um-bug-que-ignoravamos-ha-6-meses"
+      "id": "93255f30-b44e-4123-b542-2b5738baaf41",
+      "title": "🏗️ CROM lança Wiki - O Caos de Abrir o Servidor para Estranhos - Relato Prático 🛠️ Procura Parceiros Sérios para Codar? Precisa de acesso a IA e VPS ? Venha Entender o Fluxo na Nossa Nova Plataforma",
+      "slug": "crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en",
+      "owner_username": "MrJ",
+      "source_url": "https://wiki.crom.run/",
+      "tabcoins": 11,
+      "children_deep_count": 2,
+      "published_at": "2026-06-04T23:16:16.755Z",
+      "url": "https://www.tabnews.com.br/MrJ/crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en"
     },
     {
-      "id": "534aba27-40e4-4199-8039-df95d2c952ce",
-      "title": "Pitch: Desenvolvi minha linguagem de programação.",
-      "slug": "desenvolvi-minha-linguagem-de-programacao",
-      "owner_username": "DevzinVini",
-      "source_url": null,
-      "tabcoins": 2,
+      "id": "2c30c880-60b0-4d71-815e-03955de20268",
+      "title": "Como um deficiente visual hacker usa o computador? Mostrei na prática!",
+      "slug": "como-um-deficiente-visual-hacker-usa-o-computador-mostrei-na-pratica",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": "https://youtu.be/gfvjJhhXnho",
+      "tabcoins": 6,
       "children_deep_count": 0,
-      "published_at": "2026-06-05T23:35:08.388Z",
-      "url": "https://www.tabnews.com.br/DevzinVini/desenvolvi-minha-linguagem-de-programacao"
+      "published_at": "2026-06-05T19:41:12.442Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/como-um-deficiente-visual-hacker-usa-o-computador-mostrei-na-pratica"
+    },
+    {
+      "id": "10d0878d-1f01-4a6a-8bce-dc9685b79bcf",
+      "title": "Design de Sistemas para Editores Colaborativos: Google Docs e Figma em Profundidade",
+      "slug": "design-de-sistemas-para-editores-colaborativos-google-docs-e-figma-em-profundidade",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/collaborative-editor-system-design",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-06-05T01:09:04.418Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/design-de-sistemas-para-editores-colaborativos-google-docs-e-figma-em-profundidade"
     },
     {
       "id": "eb7db4ec-9a21-480f-87a4-388498d08c09",
@@ -84,32 +106,10 @@
       "slug": "se-voce-e-dev-voce-ja-deveria-estar-utilizando-um-gerenciador-de-senhas",
       "owner_username": "rutkowskigustavo",
       "source_url": "https://www.youtube.com/watch?v=TtAH6xGbvIQ&pp=ygUZZmxvdyBwb2RjYXN0IGdhYnJpZWwgcGF0bw%3D%3D",
-      "tabcoins": 3,
+      "tabcoins": 4,
       "children_deep_count": 7,
       "published_at": "2026-06-05T00:05:31.506Z",
       "url": "https://www.tabnews.com.br/rutkowskigustavo/se-voce-e-dev-voce-ja-deveria-estar-utilizando-um-gerenciador-de-senhas"
-    },
-    {
-      "id": "4e3d3297-5f84-4c11-9def-6772579d7f10",
-      "title": "Eu criei minhas próprias funções da libc do \"zero\"!",
-      "slug": "eu-criei-minhas-proprias-funcoes-da-libc-do-zero",
-      "owner_username": "ciproterona",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 2,
-      "published_at": "2026-06-04T18:42:01.769Z",
-      "url": "https://www.tabnews.com.br/ciproterona/eu-criei-minhas-proprias-funcoes-da-libc-do-zero"
-    },
-    {
-      "id": "22b958c2-02a6-4647-af64-4f1d270826d3",
-      "title": "AI me tirou uma parte da programação que eu gostava",
-      "slug": "ai-me-tirou-uma-parte-da-programacao-que-eu-gostava",
-      "owner_username": "danieldia",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 14,
-      "published_at": "2026-06-03T13:22:44.835Z",
-      "url": "https://www.tabnews.com.br/danieldia/ai-me-tirou-uma-parte-da-programacao-que-eu-gostava"
     }
   ]
 }
