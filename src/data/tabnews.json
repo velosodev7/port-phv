@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-06-07T11:02:27.775Z",
+  "updated_at": "2026-06-08T12:59:54.511Z",
   "posts": [
+    {
+      "id": "40151788-9b29-4853-ab79-2c3cb3b356b2",
+      "title": "Como usei IA para criar uma Central da Copa 2026, e por que isso não foi “só pedir para a IA fazer”",
+      "slug": "como-usei-ia-para-criar-uma-central-da-copa-2026-e-por-que-isso-nao-foi-so-pedir-para-a-ia-fazer",
+      "owner_username": "lucassdr",
+      "source_url": null,
+      "tabcoins": 13,
+      "children_deep_count": 5,
+      "published_at": "2026-06-07T13:13:49.650Z",
+      "url": "https://www.tabnews.com.br/lucassdr/como-usei-ia-para-criar-uma-central-da-copa-2026-e-por-que-isso-nao-foi-so-pedir-para-a-ia-fazer"
+    },
+    {
+      "id": "9f6e61dd-03c2-4bbd-a741-32d9dd802331",
+      "title": "WSL - Onde estão os arquivos?",
+      "slug": "wsl-onde-estao-os-arquivos",
+      "owner_username": "AnselmoBD",
+      "source_url": "https://www.oxigenai.com/2026/06/wsl-onde-estao-os-arquivos.html",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-06-08T00:46:07.448Z",
+      "url": "https://www.tabnews.com.br/AnselmoBD/wsl-onde-estao-os-arquivos"
+    },
+    {
+      "id": "42f947d3-bfcf-45c7-bdc6-9c338a7c4734",
+      "title": "SSR vs CSR: Quando Cada Abordagem Faz Sentido",
+      "slug": "ssr-vs-csr-quando-cada-abordagem-faz-sentido",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/nextjs/ssr-vs-csr-quando-usar-server-side-client-side-rendering",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-06-08T12:06:01.595Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/ssr-vs-csr-quando-cada-abordagem-faz-sentido"
+    },
+    {
+      "id": "3ff967b8-8d4f-4a42-8302-4601a8f85281",
+      "title": "Dividir para proteger",
+      "slug": "dividir-para-proteger",
+      "owner_username": "Silva97",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-06-08T05:37:29.026Z",
+      "url": "https://www.tabnews.com.br/Silva97/dividir-para-proteger"
+    },
+    {
+      "id": "f64baea3-1d6a-46f0-ae89-aba40db22917",
+      "title": "Como criar um emulador de NES - Arquitetura do NES",
+      "slug": "como-criar-um-emulador-de-nes-arquitetura-do-nes",
+      "owner_username": "odevzin",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-06-07T21:53:16.567Z",
+      "url": "https://www.tabnews.com.br/odevzin/como-criar-um-emulador-de-nes-arquitetura-do-nes"
+    },
+    {
+      "id": "86fb8f58-fa9a-43ee-be4d-73ec664a87cd",
+      "title": "Como trabalhar com vários agentes de IA em paralelo - Cursor e Claude Code",
+      "slug": "como-trabalhar-com-varios-agentes-de-ia-em-paralelo-cursor-e-claude-code",
+      "owner_username": "willybr",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-06-08T11:38:13.729Z",
+      "url": "https://www.tabnews.com.br/willybr/como-trabalhar-com-varios-agentes-de-ia-em-paralelo-cursor-e-claude-code"
+    },
+    {
+      "id": "f639694b-d7d1-4f77-b43e-d70e8e237438",
+      "title": "Claude Chat me fez perder tempo e eu tive que corrigir até a lista de erros dele",
+      "slug": "claude-chat-me-fez-perder-tempo-e-eu-tive-que-corrigir-ate-a-lista-de-erros-dele",
+      "owner_username": "danieldia",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-08T12:43:55.362Z",
+      "url": "https://www.tabnews.com.br/danieldia/claude-chat-me-fez-perder-tempo-e-eu-tive-que-corrigir-ate-a-lista-de-erros-dele"
+    },
+    {
+      "id": "3b834477-86da-498a-848b-65b0e54bd65a",
+      "title": "WebSockets na Prática: Sistema de Notificações em Tempo Real com Node.js e React",
+      "slug": "websockets-na-pratica-sistema-de-notificacoes-em-tempo-real-com-node-js-e-react",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/websockets-notificacoes-tempo-real-nodejs-react",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-08T12:03:24.248Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/websockets-na-pratica-sistema-de-notificacoes-em-tempo-real-com-node-js-e-react"
+    },
+    {
+      "id": "0691a1d3-8a65-4133-a2fa-93745906b6cf",
+      "title": "Construí o RAG que mandaram fazer (Voyage + vector DB + busca semântica). Depois deletei tudo: o grep venceu.",
+      "slug": "construi-o-rag-que-mandaram-fazer-voyage-vector-db-busca-semantica-depois-deletei-tudo-o-grep-venceu",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/construi-rag-deletei-grep-venceu/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-08T12:00:05.059Z",
+      "url": "https://www.tabnews.com.br/kenimo49/construi-o-rag-que-mandaram-fazer-voyage-vector-db-busca-semantica-depois-deletei-tudo-o-grep-venceu"
+    },
     {
       "id": "50dee32d-2e30-4842-8b74-4b1936d1aedb",
       "title": "Agente de código precisa de contrato de trabalho, não de mais prompt",
       "slug": "agente-de-codigo-precisa-de-contrato-de-trabalho-nao-de-mais-prompt",
       "owner_username": "Centelha",
       "source_url": null,
-      "tabcoins": 2,
+      "tabcoins": 5,
       "children_deep_count": 0,
       "published_at": "2026-06-07T07:01:52.893Z",
       "url": "https://www.tabnews.com.br/Centelha/agente-de-codigo-precisa-de-contrato-de-trabalho-nao-de-mais-prompt"
-    },
-    {
-      "id": "210139da-c15d-477e-b47c-d61cab4fe041",
-      "title": "Você é uma fraude?",
-      "slug": "voce-e-uma-fraude",
-      "owner_username": "OhMyDoc",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-06-07T00:23:49.273Z",
-      "url": "https://www.tabnews.com.br/OhMyDoc/voce-e-uma-fraude"
-    },
-    {
-      "id": "7617a062-f854-44ee-8d63-e8d0920e6bdd",
-      "title": "Como excluir conexões de forma mais rápida no linkedin?",
-      "slug": "como-excluir-conexoes-de-forma-mais-rapida-no-linkedin",
-      "owner_username": "Anderson",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 2,
-      "published_at": "2026-06-06T23:46:54.196Z",
-      "url": "https://www.tabnews.com.br/Anderson/como-excluir-conexoes-de-forma-mais-rapida-no-linkedin"
-    },
-    {
-      "id": "3af838a9-087e-468e-bd7f-28d8e2656cc2",
-      "title": "Colab PDF Reader & Translator  | Projeto Open Source",
-      "slug": "colab-pdf-reader-e-translator-projeto-open-source",
-      "owner_username": "rodrigocoa",
-      "source_url": "https://github.com/rodrigochavesoa/colab-pdf-reader",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-06-06T01:40:26.545Z",
-      "url": "https://www.tabnews.com.br/rodrigocoa/colab-pdf-reader-e-translator-projeto-open-source"
-    },
-    {
-      "id": "4e3d3297-5f84-4c11-9def-6772579d7f10",
-      "title": "Eu criei minhas próprias funções da libc do \"zero\"!",
-      "slug": "eu-criei-minhas-proprias-funcoes-da-libc-do-zero",
-      "owner_username": "ciproterona",
-      "source_url": null,
-      "tabcoins": 13,
-      "children_deep_count": 8,
-      "published_at": "2026-06-04T18:42:01.769Z",
-      "url": "https://www.tabnews.com.br/ciproterona/eu-criei-minhas-proprias-funcoes-da-libc-do-zero"
-    },
-    {
-      "id": "8044215a-312a-4f7c-8417-2656cf25a1e8",
-      "title": "A lista encadeada do kernel Linux e a arte de fazer o impossível em C",
-      "slug": "a-lista-encadeada-do-kernel-linux-e-a-arte-de-fazer-o-impossivel-em-c",
-      "owner_username": "clacerda",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 6,
-      "published_at": "2026-06-05T20:44:30.223Z",
-      "url": "https://www.tabnews.com.br/clacerda/a-lista-encadeada-do-kernel-linux-e-a-arte-de-fazer-o-impossivel-em-c"
-    },
-    {
-      "id": "93255f30-b44e-4123-b542-2b5738baaf41",
-      "title": "🏗️ CROM lança Wiki - O Caos de Abrir o Servidor para Estranhos - Relato Prático 🛠️ Procura Parceiros Sérios para Codar? Precisa de acesso a IA e VPS ? Venha Entender o Fluxo na Nossa Nova Plataforma",
-      "slug": "crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en",
-      "owner_username": "MrJ",
-      "source_url": "https://wiki.crom.run/",
-      "tabcoins": 11,
-      "children_deep_count": 2,
-      "published_at": "2026-06-04T23:16:16.755Z",
-      "url": "https://www.tabnews.com.br/MrJ/crom-lanca-wiki-o-caos-de-abrir-o-servidor-para-estranhos-relato-pratico-procura-parceiros-serios-para-codar-precisa-de-acesso-a-ia-e-vps-venha-en"
-    },
-    {
-      "id": "2c30c880-60b0-4d71-815e-03955de20268",
-      "title": "Como um deficiente visual hacker usa o computador? Mostrei na prática!",
-      "slug": "como-um-deficiente-visual-hacker-usa-o-computador-mostrei-na-pratica",
-      "owner_username": "JuanMathewsRebelloSantos",
-      "source_url": "https://youtu.be/gfvjJhhXnho",
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-06-05T19:41:12.442Z",
-      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/como-um-deficiente-visual-hacker-usa-o-computador-mostrei-na-pratica"
-    },
-    {
-      "id": "10d0878d-1f01-4a6a-8bce-dc9685b79bcf",
-      "title": "Design de Sistemas para Editores Colaborativos: Google Docs e Figma em Profundidade",
-      "slug": "design-de-sistemas-para-editores-colaborativos-google-docs-e-figma-em-profundidade",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/collaborative-editor-system-design",
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-06-05T01:09:04.418Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/design-de-sistemas-para-editores-colaborativos-google-docs-e-figma-em-profundidade"
-    },
-    {
-      "id": "eb7db4ec-9a21-480f-87a4-388498d08c09",
-      "title": "Se você é dev, você já deveria estar utilizando um gerenciador de senhas",
-      "slug": "se-voce-e-dev-voce-ja-deveria-estar-utilizando-um-gerenciador-de-senhas",
-      "owner_username": "rutkowskigustavo",
-      "source_url": "https://www.youtube.com/watch?v=TtAH6xGbvIQ&pp=ygUZZmxvdyBwb2RjYXN0IGdhYnJpZWwgcGF0bw%3D%3D",
-      "tabcoins": 4,
-      "children_deep_count": 7,
-      "published_at": "2026-06-05T00:05:31.506Z",
-      "url": "https://www.tabnews.com.br/rutkowskigustavo/se-voce-e-dev-voce-ja-deveria-estar-utilizando-um-gerenciador-de-senhas"
     }
   ]
 }
