@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-08T12:59:54.511Z",
+  "updated_at": "2026-06-09T11:54:04.985Z",
   "posts": [
     {
-      "id": "40151788-9b29-4853-ab79-2c3cb3b356b2",
-      "title": "Como usei IA para criar uma Central da Copa 2026, e por que isso não foi “só pedir para a IA fazer”",
-      "slug": "como-usei-ia-para-criar-uma-central-da-copa-2026-e-por-que-isso-nao-foi-so-pedir-para-a-ia-fazer",
-      "owner_username": "lucassdr",
+      "id": "4d38171f-b76d-4d5b-b6b9-97ebb7623ee9",
+      "title": "NPM, PNPM, Yarn e Bun: qual a diferença afinal?",
+      "slug": "npm-pnpm-yarn-e-bun-qual-a-diferenca-afinal",
+      "owner_username": "codevjuan",
       "source_url": null,
-      "tabcoins": 13,
-      "children_deep_count": 5,
-      "published_at": "2026-06-07T13:13:49.650Z",
-      "url": "https://www.tabnews.com.br/lucassdr/como-usei-ia-para-criar-uma-central-da-copa-2026-e-por-que-isso-nao-foi-so-pedir-para-a-ia-fazer"
+      "tabcoins": 10,
+      "children_deep_count": 4,
+      "published_at": "2026-06-08T14:07:21.513Z",
+      "url": "https://www.tabnews.com.br/codevjuan/npm-pnpm-yarn-e-bun-qual-a-diferenca-afinal"
     },
     {
       "id": "9f6e61dd-03c2-4bbd-a741-32d9dd802331",
@@ -18,10 +18,43 @@
       "slug": "wsl-onde-estao-os-arquivos",
       "owner_username": "AnselmoBD",
       "source_url": "https://www.oxigenai.com/2026/06/wsl-onde-estao-os-arquivos.html",
-      "tabcoins": 6,
-      "children_deep_count": 1,
+      "tabcoins": 10,
+      "children_deep_count": 3,
       "published_at": "2026-06-08T00:46:07.448Z",
       "url": "https://www.tabnews.com.br/AnselmoBD/wsl-onde-estao-os-arquivos"
+    },
+    {
+      "id": "3b834477-86da-498a-848b-65b0e54bd65a",
+      "title": "WebSockets na Prática: Sistema de Notificações em Tempo Real com Node.js e React",
+      "slug": "websockets-na-pratica-sistema-de-notificacoes-em-tempo-real-com-node-js-e-react",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/websockets-notificacoes-tempo-real-nodejs-react",
+      "tabcoins": 7,
+      "children_deep_count": 0,
+      "published_at": "2026-06-08T12:03:24.248Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/websockets-na-pratica-sistema-de-notificacoes-em-tempo-real-com-node-js-e-react"
+    },
+    {
+      "id": "3072f302-a9d8-4552-8bf9-ba7d180a5c3d",
+      "title": "Desenvolvendo um aplicativo para busca visual de produtos",
+      "slug": "desenvolvendo-um-aplicativo-para-busca-visual-de-produtos",
+      "owner_username": "dirs",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-06-08T21:04:34.322Z",
+      "url": "https://www.tabnews.com.br/dirs/desenvolvendo-um-aplicativo-para-busca-visual-de-produtos"
+    },
+    {
+      "id": "e437fd5b-b3fe-4774-b4a9-7de8828aeebb",
+      "title": "Pitch: Criando um Appliance DNS Recursivo Otimizado para ISPs (Rocky Linux + Unbound + Dashboard 3D)",
+      "slug": "criando-um-appliance-dns-recursivo-otimizado-para-isps-rocky-linux-unbound-dashboard-3d",
+      "owner_username": "DevairFernandes",
+      "source_url": "https://dns.sentineldns.uk",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-06-09T02:41:12.564Z",
+      "url": "https://www.tabnews.com.br/DevairFernandes/criando-um-appliance-dns-recursivo-otimizado-para-isps-rocky-linux-unbound-dashboard-3d"
     },
     {
       "id": "42f947d3-bfcf-45c7-bdc6-9c338a7c4734",
@@ -35,15 +68,26 @@
       "url": "https://www.tabnews.com.br/mrmsoares/ssr-vs-csr-quando-cada-abordagem-faz-sentido"
     },
     {
-      "id": "3ff967b8-8d4f-4a42-8302-4601a8f85281",
-      "title": "Dividir para proteger",
-      "slug": "dividir-para-proteger",
-      "owner_username": "Silva97",
-      "source_url": null,
-      "tabcoins": 3,
+      "id": "4e531934-b0ff-4479-8178-16011b9cdd7e",
+      "title": "GitHub desativa 73 repositórios da Microsoft após detectar infecção pelo worm Miasma",
+      "slug": "github-desativa-73-repositorios-da-microsoft-apos-detectar-infeccao-pelo-worm-miasma",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.theregister.com/security/2026/06/08/github-nukes-70-microsoft-repos-amid-suspected-worm-attack/5252169",
+      "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-06-08T05:37:29.026Z",
-      "url": "https://www.tabnews.com.br/Silva97/dividir-para-proteger"
+      "published_at": "2026-06-09T11:14:40.635Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/github-desativa-73-repositorios-da-microsoft-apos-detectar-infeccao-pelo-worm-miasma"
+    },
+    {
+      "id": "40151788-9b29-4853-ab79-2c3cb3b356b2",
+      "title": "Como usei IA para criar uma Central da Copa 2026, e por que isso não foi “só pedir para a IA fazer”",
+      "slug": "como-usei-ia-para-criar-uma-central-da-copa-2026-e-por-que-isso-nao-foi-so-pedir-para-a-ia-fazer",
+      "owner_username": "lucassdr",
+      "source_url": null,
+      "tabcoins": 12,
+      "children_deep_count": 14,
+      "published_at": "2026-06-07T13:13:49.650Z",
+      "url": "https://www.tabnews.com.br/lucassdr/como-usei-ia-para-criar-uma-central-da-copa-2026-e-por-que-isso-nao-foi-so-pedir-para-a-ia-fazer"
     },
     {
       "id": "f64baea3-1d6a-46f0-ae89-aba40db22917",
@@ -51,54 +95,10 @@
       "slug": "como-criar-um-emulador-de-nes-arquitetura-do-nes",
       "owner_username": "odevzin",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
+      "tabcoins": 8,
+      "children_deep_count": 2,
       "published_at": "2026-06-07T21:53:16.567Z",
       "url": "https://www.tabnews.com.br/odevzin/como-criar-um-emulador-de-nes-arquitetura-do-nes"
-    },
-    {
-      "id": "86fb8f58-fa9a-43ee-be4d-73ec664a87cd",
-      "title": "Como trabalhar com vários agentes de IA em paralelo - Cursor e Claude Code",
-      "slug": "como-trabalhar-com-varios-agentes-de-ia-em-paralelo-cursor-e-claude-code",
-      "owner_username": "willybr",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-06-08T11:38:13.729Z",
-      "url": "https://www.tabnews.com.br/willybr/como-trabalhar-com-varios-agentes-de-ia-em-paralelo-cursor-e-claude-code"
-    },
-    {
-      "id": "f639694b-d7d1-4f77-b43e-d70e8e237438",
-      "title": "Claude Chat me fez perder tempo e eu tive que corrigir até a lista de erros dele",
-      "slug": "claude-chat-me-fez-perder-tempo-e-eu-tive-que-corrigir-ate-a-lista-de-erros-dele",
-      "owner_username": "danieldia",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-08T12:43:55.362Z",
-      "url": "https://www.tabnews.com.br/danieldia/claude-chat-me-fez-perder-tempo-e-eu-tive-que-corrigir-ate-a-lista-de-erros-dele"
-    },
-    {
-      "id": "3b834477-86da-498a-848b-65b0e54bd65a",
-      "title": "WebSockets na Prática: Sistema de Notificações em Tempo Real com Node.js e React",
-      "slug": "websockets-na-pratica-sistema-de-notificacoes-em-tempo-real-com-node-js-e-react",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/websockets-notificacoes-tempo-real-nodejs-react",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-08T12:03:24.248Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/websockets-na-pratica-sistema-de-notificacoes-em-tempo-real-com-node-js-e-react"
-    },
-    {
-      "id": "0691a1d3-8a65-4133-a2fa-93745906b6cf",
-      "title": "Construí o RAG que mandaram fazer (Voyage + vector DB + busca semântica). Depois deletei tudo: o grep venceu.",
-      "slug": "construi-o-rag-que-mandaram-fazer-voyage-vector-db-busca-semantica-depois-deletei-tudo-o-grep-venceu",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/construi-rag-deletei-grep-venceu/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-08T12:00:05.059Z",
-      "url": "https://www.tabnews.com.br/kenimo49/construi-o-rag-que-mandaram-fazer-voyage-vector-db-busca-semantica-depois-deletei-tudo-o-grep-venceu"
     },
     {
       "id": "50dee32d-2e30-4842-8b74-4b1936d1aedb",
