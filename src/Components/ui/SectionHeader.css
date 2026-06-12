@@ -17,7 +17,13 @@
 }
 
 .section-header__index {
-  color: var(--accent);
+  color: var(--game-primary);
+  text-shadow: var(--game-glow);
+}
+
+.section-header__index::before {
+  content: "▸ ";
+  color: var(--game-primary-dim);
 }
 
 .section-header__kicker {
@@ -35,10 +41,10 @@
 }
 
 .section-header__title {
-  font-family: var(--font-serif);
-  font-size: var(--fs-h2);
-  line-height: var(--lh-snug);
-  letter-spacing: var(--ls-display);
+  font-family: var(--font-pixel);
+  font-size: clamp(20px, 3.4vw, 34px);
+  line-height: 1.25;
+  letter-spacing: 0.01em;
   color: var(--text);
   margin: 0;
 }

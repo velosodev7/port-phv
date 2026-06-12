@@ -1,0 +1,44 @@
+.fx-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  letter-spacing: var(--ls-mono);
+  text-transform: uppercase;
+  color: var(--text-muted);
+  background-color: transparent;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: color var(--transition-fast), border-color var(--transition-fast);
+}
+
+.fx-toggle:hover,
+.fx-toggle:focus-visible {
+  color: var(--text);
+  border-color: var(--game-primary);
+}
+
+.fx-toggle:focus-visible {
+  outline: 2px solid var(--game-primary);
+  outline-offset: 2px;
+}
+
+.fx-toggle__led {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--text-dim);
+  box-shadow: none;
+}
+
+.fx-toggle.is-on .fx-toggle__led {
+  background-color: var(--game-primary);
+  box-shadow: var(--game-glow);
+}
+
+.fx-toggle.is-on {
+  color: var(--text);
+}

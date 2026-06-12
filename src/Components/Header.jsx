@@ -26,6 +26,17 @@ const Header = () => {
           <span className="header-mark__role">// FULL-STACK</span>
         </Link>
 
+        <p className="header-hud" aria-hidden="true">
+          <span className="header-hud__group">
+            <span className="header-hud__label">HP</span>
+            <span className="header-hud__bar header-hud__bar--hp" />
+          </span>
+          <span className="header-hud__group">
+            <span className="header-hud__label">XP</span>
+            <span className="header-hud__bar header-hud__bar--xp" />
+          </span>
+        </p>
+
         <button
           type="button"
           className={`header-burger${open ? " is-open" : ""}`}
@@ -52,7 +63,7 @@ const Header = () => {
                     `header-link${isActive ? " is-active" : ""}`
                   }
                 >
-                  <span className="header-link__index">§{section.id}</span>
+                  <span className="header-link__index">{section.id}</span>
                   <span className="header-link__label">{section.label}</span>
                 </NavLink>
               </li>

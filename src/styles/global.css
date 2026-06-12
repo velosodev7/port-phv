@@ -109,6 +109,18 @@ body::after {
   }
 }
 
+/* Toggle de efeitos (FxToggle): desliga a scanline CRT e todas as animações.
+   Controlado pelo atributo data-fx no <html>. */
+html[data-fx="off"] body::after {
+  display: none;
+}
+
+html[data-fx="off"] *,
+html[data-fx="off"] *::before,
+html[data-fx="off"] *::after {
+  animation: none !important;
+}
+
 ::selection {
   background-color: var(--accent);
   color: var(--bg);

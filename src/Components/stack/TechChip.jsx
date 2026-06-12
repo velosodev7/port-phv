@@ -1,17 +1,21 @@
 import "./TechChip.css";
 
-const levelDot = {
-  proficiente: "is-strong",
-  intermediário: "is-mid",
-  estudando: "is-soft",
+const levelMeta = {
+  proficiente: { label: "EQUIPADO", cls: "is-equipped", fill: 100 },
+  intermediário: { label: "DESBLOQUEADO", cls: "is-unlocked", fill: 60 },
+  estudando: { label: "EM XP", cls: "is-locked", fill: 25 },
 };
 
 const TechChip = ({ name, level }) => {
+  const meta = levelMeta[level] ?? levelMeta.estudando;
+
   return (
-    <li className="tech-chip" title={`Nível: ${level}`}>
-      <span className={`tech-chip__dot ${levelDot[level] ?? "is-soft"}`} aria-hidden="true" />
-      <span className="tech-chip__name">{name}</span>
-      <span className="tech-chip__level">{level}</span>
+    <li className={`inv-item ${meta.cls}`} title={`Nível: ${level}`}>
+      <span className="inv-item__name">{name}</span>
+      <span className="inv-item__status">{meta.label}</span>
+      <span className="inv-item__xp" aria-hidden="true">
+        <span className="inv-item__xp-fill" style={{ width: `${meta.fill}%` }} />
+      </span>
     </li>
   );
 };

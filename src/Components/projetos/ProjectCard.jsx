@@ -2,65 +2,77 @@ import { FiGithub, FiExternalLink } from "react-icons/fi";
 import "./ProjectCard.css";
 
 const tipoLabel = {
-  estudo: "Projeto de estudo",
-  cliente: "Projeto de cliente",
-  freelance: "Freelance",
+  estudo: "Missão secundária",
+  cliente: "Missão principal",
+  freelance: "Missão freelance",
 };
 
-const ProjectCard = ({ project }) => {
+const ProjectCard = ({ project, fase }) => {
   const { titulo, problema, papel, stack, github, demo, imagem, ano, tipo } =
     project;
 
+  const jogavel = Boolean(demo);
+  const isBoss = tipo === "cliente";
+
   return (
-    <article className="project-card">
-      <div className="project-card__meta">
-        <span className="project-card__ano">{ano}</span>
-        <span className="project-card__tipo">{tipoLabel[tipo] ?? tipo}</span>
+    <article className={`stage-card${isBoss ? " stage-card--boss" : ""}`}>
+      <div className="stage-card__top">
+        <span className="stage-card__fase">FASE {fase}</span>
+        <span
+          className={`stage-card__status${
+            jogavel ? " is-clear" : " is-locked"
+          }`}
+        >
+          {jogavel ? "★ JOGÁVEL" : "● EM DEV"}
+        </span>
       </div>
 
-      <div className="project-card__body">
-        <h3 className="project-card__title">{titulo}</h3>
-        <p className="project-card__problema">{problema}</p>
-        <p className="project-card__papel">{papel}</p>
+      <div className="stage-card__meta">
+        <span className="stage-card__ano">{ano}</span>
+        <span className="stage-card__tipo">{tipoLabel[tipo] ?? tipo}</span>
+      </div>
 
-        <ul className="project-card__stack" aria-label="Stack do projeto">
-          {stack.map((tech) => (
-            <li key={tech} className="project-card__chip">
-              {tech}
-            </li>
-          ))}
-        </ul>
+      <h3 className="stage-card__title">{titulo}</h3>
+      <p className="stage-card__problema">{problema}</p>
+      <p className="stage-card__papel">{papel}</p>
 
-        <div className="project-card__links">
-          {github && (
-            <a
-              href={github}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="project-card__link"
-              aria-label={`Ver código de ${titulo} no GitHub`}
-            >
-              <FiGithub aria-hidden="true" />
-              <span>Código</span>
-            </a>
-          )}
-          {demo && (
-            <a
-              href={demo}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="project-card__link"
-              aria-label={`Abrir demo de ${titulo}`}
-            >
-              <FiExternalLink aria-hidden="true" />
-              <span>Demo</span>
-            </a>
-          )}
-        </div>
+      <ul className="stage-card__stack" aria-label="Stack do projeto">
+        {stack.map((tech) => (
+          <li key={tech} className="stage-card__chip">
+            {tech}
+          </li>
+        ))}
+      </ul>
+
+      <div className="stage-card__links">
+        {demo && (
+          <a
+            href={demo}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="stage-card__link stage-card__link--play"
+            aria-label={`Abrir demo de ${titulo}`}
+          >
+            <FiExternalLink aria-hidden="true" />
+            <span>Jogar demo</span>
+          </a>
+        )}
+        {github && (
+          <a
+            href={github}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="stage-card__link"
+            aria-label={`Ver código de ${titulo} no GitHub`}
+          >
+            <FiGithub aria-hidden="true" />
+            <span>Código</span>
+          </a>
+        )}
       </div>
 
       {imagem && (
-        <div className="project-card__thumb">
+        <div className="stage-card__thumb">
           <img src={imagem} alt={`Thumbnail do projeto ${titulo}`} loading="lazy" />
         </div>
       )}
