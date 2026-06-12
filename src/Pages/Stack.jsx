@@ -12,23 +12,23 @@ const Stack = () => {
       <div className="container">
         <MetaBlock
           documento={meta.documento}
-          assunto="§03 · STACK"
+          assunto="ROOM 03 · STACK"
           status={null}
         />
 
         <SectionHeader
           index="03"
-          title="Stack"
-          kicker="TECNOLOGIAS QUE USO"
+          title="Inventário"
+          kicker="ITENS E HABILIDADES"
         />
 
         <p className="stack-page__intro">
-          Categorias organizadas por nível atual. O ponto colorido indica
-          proficiência — <span className="accent">coral</span> para proficiente,{" "}
-          cinza claro para intermediário, cinza escuro para em estudo.
+          Itens organizados por categoria. O status indica domínio —{" "}
+          <span className="accent">EQUIPADO</span> para proficiente,{" "}
+          DESBLOQUEADO para intermediário, EM XP para o que ainda estudo.
         </p>
 
-        <TerminalWindow title="$ stack --list">
+        <TerminalWindow title="$ inventory --list">
           <div className="stack-page__grid">
             {stack.map((category, i) => (
               <StackCategory

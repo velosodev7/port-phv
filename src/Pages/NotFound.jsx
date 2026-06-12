@@ -5,17 +5,15 @@ const NotFound = () => {
   return (
     <section className="notfound">
       <div className="container notfound-inner">
-        <p className="notfound-code">// ERRO 404</p>
-        <h1 className="notfound-title">
-          Página não <em>encontrada</em>
-        </h1>
+        <p className="notfound-code">// GAME OVER · ERRO 404</p>
+        <h1 className="notfound-title">Fase não encontrada</h1>
         <p className="notfound-text">
-          A rota que você procurou não existe (ainda). Volte para o início e
-          escolha uma seção do menu.
+          Essa sala não existe (ainda). Use o continue e escolha uma fase no
+          menu.
         </p>
         <Link to="/" className="notfound-link">
-          <span>Voltar ao início</span>
-          <span aria-hidden="true">→</span>
+          <span aria-hidden="true">▸</span>
+          <span>Continue · voltar ao início</span>
         </Link>
       </div>
     </section>

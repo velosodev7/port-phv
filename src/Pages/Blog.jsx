@@ -11,17 +11,17 @@ const Blog = () => {
       <div className="container">
         <MetaBlock
           documento={meta.documento}
-          assunto="§04 · BLOG"
+          assunto="ROOM 04 · BLOG"
           status={null}
         />
 
         <SectionHeader
           index="04"
-          title="Blog"
-          kicker="ANOTAÇÕES E ARTIGOS"
+          title="Logs"
+          kicker="DIÁRIO DE BORDO"
         />
 
-        <TerminalWindow title="$ cat ~/blog">
+        <TerminalWindow title="$ tail -f ~/logs/blog">
           <BlogTabNews />
         </TerminalWindow>
       </div>

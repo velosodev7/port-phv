@@ -13,8 +13,12 @@ const ProjectList = () => {
 
   return (
     <div className="project-list">
-      {projects.map((project) => (
-        <ProjectCard key={project.id} project={project} />
+      {projects.map((project, i) => (
+        <ProjectCard
+          key={project.id}
+          project={project}
+          fase={String(i + 1).padStart(2, "0")}
+        />
       ))}
     </div>
   );

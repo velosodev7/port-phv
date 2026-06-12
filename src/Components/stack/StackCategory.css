@@ -14,18 +14,19 @@
   font-family: var(--font-mono);
   font-size: var(--fs-meta);
   letter-spacing: var(--ls-mono);
-  color: var(--terminal-green);
-  text-shadow: var(--terminal-glow);
+  color: var(--game-primary);
+  text-shadow: var(--game-glow);
 }
 
 .stack-category__index::before {
   content: "> ";
-  color: var(--terminal-green-dim);
+  color: var(--game-primary-dim);
 }
 
 .stack-category__title {
-  font-family: var(--font-serif);
-  font-size: var(--fs-h3);
+  font-family: var(--font-pixel);
+  font-size: clamp(13px, 1.8vw, 16px);
+  line-height: 1.4;
   margin: 0;
   color: var(--text);
 }

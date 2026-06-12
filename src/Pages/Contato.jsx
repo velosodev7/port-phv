@@ -11,22 +11,22 @@ const Contato = () => {
       <div className="container">
         <MetaBlock
           documento={meta.documento}
-          assunto="§05 · CONTATO"
+          assunto="ROOM 05 · CONTATO"
         />
 
         <SectionHeader
           index="05"
-          title="Contato"
-          kicker="ONDE ME ENCONTRAR"
+          title="Continue?"
+          kicker="SELECIONE UM CONTATO"
         />
 
         <p className="contato-page__intro">
-          A forma mais rápida de me alcançar é por{" "}
+          Fim de jogo? Não — só o começo. A rota mais rápida é o{" "}
           <span className="accent">e-mail</span>. GitHub e LinkedIn também estão
           logo abaixo.
         </p>
 
-        <TerminalWindow title="$ contato --links">
+        <TerminalWindow title="$ contact --select">
           <ContactList />
         </TerminalWindow>
       </div>

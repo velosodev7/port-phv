@@ -15,6 +15,11 @@
   border-bottom: 1px solid var(--border);
 }
 
+a.contact-item:focus-visible {
+  outline: 2px solid var(--game-primary);
+  outline-offset: 2px;
+}
+
 .contact-item__index {
   font-family: var(--font-mono);
   font-size: var(--fs-meta);
@@ -22,8 +27,9 @@
   color: var(--text-dim);
 }
 
-a.contact-item:hover .contact-item__index {
-  color: var(--accent);
+a.contact-item:hover .contact-item__index,
+a.contact-item:focus-visible .contact-item__index {
+  color: var(--game-primary);
 }
 
 .contact-item__icon {
@@ -34,8 +40,9 @@ a.contact-item:hover .contact-item__index {
   transition: color var(--transition-fast);
 }
 
-a.contact-item:hover .contact-item__icon {
-  color: var(--accent);
+a.contact-item:hover .contact-item__icon,
+a.contact-item:focus-visible .contact-item__icon {
+  color: var(--game-primary);
 }
 
 .contact-item__icon svg {
@@ -59,18 +66,19 @@ a.contact-item:hover .contact-item__icon {
 }
 
 .contact-item__value {
-  font-family: var(--font-serif);
-  font-size: var(--fs-h3);
+  font-family: var(--font-mono);
+  font-size: clamp(16px, 2vw, 20px);
   color: var(--text);
-  line-height: 1.1;
+  line-height: 1.2;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
   word-break: break-word;
 }
 
-a.contact-item:hover .contact-item__value {
-  color: var(--accent);
+a.contact-item:hover .contact-item__value,
+a.contact-item:focus-visible .contact-item__value {
+  color: var(--game-primary);
 }
 
 .contact-item__hint {
@@ -89,8 +97,9 @@ a.contact-item:hover .contact-item__value {
     color var(--transition-fast);
 }
 
-a.contact-item:hover .contact-item__arrow {
-  color: var(--accent);
+a.contact-item:hover .contact-item__arrow,
+a.contact-item:focus-visible .contact-item__arrow {
+  color: var(--game-primary);
   transform: translateX(4px);
 }
 
