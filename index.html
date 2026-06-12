@@ -6,7 +6,8 @@
 
     <title>Pedro Veloso — Desenvolvedor Full-stack</title>
 
-    <!-- Favicon (usa logo.png enquanto não há favicons dedicados) -->
+    <!-- Favicon: SVG pixel (avatar PV) com fallback PNG p/ navegadores antigos -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/png" href="/logo.png" />
     <link rel="apple-touch-icon" href="/logo.png" />
 
@@ -14,11 +15,29 @@
     <meta name="theme-color" content="#0a0a0a" />
     <meta name="color-scheme" content="dark" />
 
+    <!-- Efeitos (CRT/scanline + animações): define data-fx antes do paint p/ evitar flash.
+         Default segue o prefers-reduced-motion do SO quando não há preferência salva. -->
+    <script>
+      (function () {
+        try {
+          var v = localStorage.getItem("phv-fx");
+          if (v !== "on" && v !== "off") {
+            v = window.matchMedia("(prefers-reduced-motion: reduce)").matches
+              ? "off"
+              : "on";
+          }
+          document.documentElement.setAttribute("data-fx", v);
+        } catch (e) {
+          document.documentElement.setAttribute("data-fx", "on");
+        }
+      })();
+    </script>
+
     <!-- Fontes (carregadas via <link>, nunca via @import) -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Press+Start+2P&display=swap"
       rel="stylesheet"
     />
 

@@ -12,6 +12,19 @@ export const meta = {
   ],
 };
 
+// Title Screen (Fase 1 — retro-terminal). Conteúdo real, sem imagem.
+export const titleScreen = {
+  system: "PHV-DEV · SYSTEM 2026",
+  status: "HP ████░ · XP ▓▓▓",
+  name: { first: "PEDRO", last: "VELOSO" },
+  role: "Full-stack Developer",
+  stack: ["React", "Node.js", "PostgreSQL"],
+  start: "PRESS START",
+  startTo: "/projetos",
+  startHint: "Inserir ficha · ver projetos",
+  footer: "© 2026 · phvdev.com.br",
+};
+
 export const sections = [
   { id: "01", path: "/sobre", label: "Sobre" },
   { id: "02", path: "/projetos", label: "Projetos" },

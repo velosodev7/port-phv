@@ -3,6 +3,10 @@
   padding-bottom: var(--space-6);
 }
 
+.sobre-save {
+  margin-bottom: var(--space-5);
+}
+
 .sobre-bloco {
   margin-top: var(--space-5);
 }

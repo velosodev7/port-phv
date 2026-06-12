@@ -17,16 +17,18 @@
 }
 
 .processo-numero {
-  font-family: var(--font-mono);
-  font-size: var(--fs-meta);
-  letter-spacing: var(--ls-mono);
-  color: var(--accent);
+  font-family: var(--font-pixel);
+  font-size: 11px;
+  letter-spacing: 0;
+  color: var(--game-primary);
+  text-shadow: var(--game-glow);
   margin-top: 4px;
 }
 
 .processo-conteudo h3 {
-  font-family: var(--font-serif);
+  font-family: var(--font-mono);
   font-size: var(--fs-h3);
+  font-weight: 500;
   margin: 0 0 var(--space-1);
   color: var(--text);
 }

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="'Press Start 2P', ui-monospace, monospace">
+  <!-- Fonte do card social (Open Graph). Rasterizar para PNG 1200x630 antes de usar
+       em og:image (redes sociais não renderizam SVG). -->
+  <rect width="1200" height="630" fill="#0a0a0a"/>
+
+  <!-- Scanlines sutis -->
+  <g fill="#4ee36b" opacity="0.04">
+    <rect width="1200" height="2" y="0"/>
+    <rect width="1200" height="2" y="6"/>
+    <rect width="1200" height="2" y="12"/>
+  </g>
+  <rect width="1200" height="630" fill="url(#scan)"/>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#4ee36b" opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <!-- Moldura -->
+  <rect x="24" y="24" width="1152" height="582" fill="none" stroke="#4ee36b" stroke-opacity="0.4" stroke-width="2"/>
+
+  <!-- Avatar PV (16x16 escalado) -->
+  <g transform="translate(110,195) scale(15)" shape-rendering="crispEdges">
+    <rect x="-1" y="-1" width="18" height="18" fill="#0a0a0a" stroke="#4ee36b" stroke-opacity="0.5" stroke-width="0.1"/>
+    <g fill="#4ee36b">
+      <rect x="4" y="1" width="8" height="1"/>
+      <rect x="3" y="2" width="1" height="2"/>
+      <rect x="12" y="2" width="1" height="2"/>
+      <rect x="2" y="4" width="2" height="3"/>
+      <rect x="12" y="4" width="2" height="3"/>
+    </g>
+    <g fill="#3a2f2a">
+      <rect x="4" y="2" width="8" height="2"/>
+      <rect x="4" y="4" width="8" height="1"/>
+    </g>
+    <g fill="#e8b98c">
+      <rect x="4" y="5" width="8" height="5"/>
+      <rect x="6" y="10" width="4" height="1"/>
+    </g>
+    <g fill="#1a1a1a">
+      <rect x="6" y="6" width="1" height="2"/>
+      <rect x="9" y="6" width="1" height="2"/>
+      <rect x="7" y="9" width="2" height="1"/>
+    </g>
+    <rect x="3" y="11" width="10" height="5" fill="#e8572a"/>
+    <rect x="6" y="11" width="4" height="1" fill="#b8431f"/>
+  </g>
+
+  <!-- Texto -->
+  <text x="470" y="180" fill="#4ee36b" font-size="18" letter-spacing="2">&#9656; PHV-DEV &#183; SYSTEM 2026</text>
+
+  <text x="470" y="270" fill="#f0ede6" font-size="58">PEDRO</text>
+  <text x="470" y="345" fill="#f0ede6" font-size="58">VELOSO</text>
+
+  <text x="470" y="410" fill="#888880" font-size="20" letter-spacing="3">FULL-STACK DEVELOPER</text>
+
+  <text x="470" y="460" fill="#f0ede6" font-size="20" font-family="ui-monospace, monospace">React &#183; Node.js &#183; PostgreSQL</text>
+
+  <text x="470" y="540" fill="#4ee36b" font-size="24">&#9656; PRESS START</text>
+</svg>

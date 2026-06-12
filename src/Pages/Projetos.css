@@ -3,11 +3,7 @@
   padding-bottom: var(--space-6);
 }
 
-/* Ajuste de respiro dentro da janela de terminal (bordas tratadas no TerminalWindow) */
-.projetos-terminal .project-card:first-child {
-  padding-top: var(--space-2);
-}
-
-.projetos-terminal .project-card:last-child {
-  padding-bottom: var(--space-2);
+/* A grade de fases tem respiro próprio dentro da janela de terminal */
+.projetos-terminal .project-list {
+  padding: var(--space-1) 0;
 }

@@ -1,3 +1,4 @@
+import FxToggle from "./ui/FxToggle.jsx";
 import "./Footer.css";
 
 const Footer = () => {
@@ -13,15 +14,18 @@ const Footer = () => {
         <p className="footer-copy">
           © {year} Pedro Veloso · phvdev.com.br
         </p>
-        <button
-          type="button"
-          className="footer-top"
-          onClick={scrollToTop}
-          aria-label="Voltar ao topo da página"
-        >
-          <span>Voltar ao topo</span>
-          <span aria-hidden="true">↑</span>
-        </button>
+        <div className="footer-controls">
+          <FxToggle />
+          <button
+            type="button"
+            className="footer-top"
+            onClick={scrollToTop}
+            aria-label="Voltar ao topo da página"
+          >
+            <span>Voltar ao topo</span>
+            <span aria-hidden="true">↑</span>
+          </button>
+        </div>
       </div>
     </footer>
   );

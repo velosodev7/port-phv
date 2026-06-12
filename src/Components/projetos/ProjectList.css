@@ -1,12 +1,18 @@
 .project-list {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-3);
 }
 
 .project-list__empty {
-  font-family: var(--font-serif);
-  font-style: italic;
-  font-size: var(--fs-tagline);
+  font-family: var(--font-mono);
+  font-size: var(--fs-body);
   color: var(--text-muted);
   margin: 0;
+}
+
+@media (max-width: 720px) {
+  .project-list {
+    grid-template-columns: 1fr;
+  }
 }

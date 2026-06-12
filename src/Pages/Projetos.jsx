@@ -11,17 +11,17 @@ const Projetos = () => {
       <div className="container">
         <MetaBlock
           documento={meta.documento}
-          assunto="§02 · PROJETOS"
+          assunto="ROOM 02 · PROJETOS"
           status={null}
         />
 
         <SectionHeader
           index="02"
-          title="Projetos"
-          kicker="O QUE VENHO CONSTRUINDO"
+          title="Stage Select"
+          kicker="ESCOLHA UMA FASE"
         />
 
-        <TerminalWindow title="$ ls ~/projetos" className="projetos-terminal">
+        <TerminalWindow title="$ ls ~/projetos --stages" className="projetos-terminal">
           <ProjectList />
         </TerminalWindow>
       </div>

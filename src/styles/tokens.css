@@ -19,9 +19,19 @@
   --grid-dot: rgba(78, 227, 107, 0.22);
   --grid-size: 30px;
 
+  /* Papéis de cor da UI-game (retro-terminal / Var. B → Var. A).
+     Aliases semânticos: verde = primário; coral = destaque/perigo. */
+  --game-primary: var(--terminal-green);
+  --game-primary-dim: var(--terminal-green-dim);
+  --game-glow: var(--terminal-glow);
+  --game-danger: var(--accent);
+  --game-danger-hover: var(--accent-hover);
+
   --font-serif: "Instrument Serif", "Playfair Display", Georgia, serif;
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* Fonte pixel/bitmap — somente títulos, HUD e labels (nunca corpo de texto) */
+  --font-pixel: "Press Start 2P", "VT323", ui-monospace, monospace;
 
   --fs-display: clamp(64px, 12vw, 140px);
   --fs-h2: clamp(32px, 5vw, 56px);

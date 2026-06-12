@@ -1,0 +1,67 @@
+.page-transition {
+  transform-origin: center top;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .page-transition {
+    animation: page-in 0.34s ease-out both;
+  }
+
+  /* Scanline verde varrendo a tela inteira a cada troca de rota */
+  .page-transition__scan {
+    content: "";
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 48px;
+    z-index: 60;
+    pointer-events: none;
+    background: linear-gradient(
+      to bottom,
+      transparent,
+      rgba(78, 227, 107, 0.12),
+      transparent
+    );
+    animation: page-scan 0.5s steps(14) 1 both;
+  }
+}
+
+/* Sem movimento: nada de animação nem overlay */
+.page-transition__scan {
+  display: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .page-transition__scan {
+    display: block;
+  }
+}
+
+@keyframes page-in {
+  0% {
+    opacity: 0;
+    transform: translateY(8px) scaleY(0.985);
+    filter: brightness(1.5) saturate(0.6);
+  }
+  20% {
+    opacity: 1;
+  }
+  60% {
+    filter: brightness(1.06);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+}
+
+@keyframes page-scan {
+  from {
+    transform: translateY(-48px);
+  }
+  to {
+    transform: translateY(100vh);
+  }
+}

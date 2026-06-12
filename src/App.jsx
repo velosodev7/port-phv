@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Header from "./Components/Header.jsx";
 import Footer from "./Components/Footer.jsx";
+import PageTransition from "./Components/ui/PageTransition.jsx";
 
 import Home from "./Pages/Home.jsx";
 import Sobre from "./Pages/Sobre.jsx";
@@ -16,15 +17,17 @@ function App() {
     <Router>
       <Header />
       <main>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/sobre" element={<Sobre />} />
-          <Route path="/projetos" element={<Projetos />} />
-          <Route path="/stack" element={<Stack />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/contato" element={<Contato />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
+        <PageTransition>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/sobre" element={<Sobre />} />
+            <Route path="/projetos" element={<Projetos />} />
+            <Route path="/stack" element={<Stack />} />
+            <Route path="/blog" element={<Blog />} />
+            <Route path="/contato" element={<Contato />} />
+            <Route path="*" element={<NotFound />} />
+          </Routes>
+        </PageTransition>
       </main>
       <Footer />
     </Router>
