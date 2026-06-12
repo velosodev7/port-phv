@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-06-11T12:37:45.329Z",
+  "updated_at": "2026-06-12T12:12:37.364Z",
   "posts": [
-    {
-      "id": "aed89091-c123-4062-a8b4-8d149573348e",
-      "title": "Desenvolvi um \"GPS indoor\" para pessoas com deficiência visual com óculos de realidade mista",
-      "slug": "desenvolvi-um-gps-indoor-para-pessoas-com-deficiencia-visual-com-oculos-de-realidade-mista",
-      "owner_username": "ericklucioh",
-      "source_url": null,
-      "tabcoins": 16,
-      "children_deep_count": 4,
-      "published_at": "2026-06-10T01:02:39.916Z",
-      "url": "https://www.tabnews.com.br/ericklucioh/desenvolvi-um-gps-indoor-para-pessoas-com-deficiencia-visual-com-oculos-de-realidade-mista"
-    },
-    {
-      "id": "8d70a1d6-c65a-45e5-a7ae-ce4461c8d667",
-      "title": "O passo mais valioso da revisão de código por IA não usa IA nenhuma",
-      "slug": "o-passo-mais-valioso-da-revisao-de-codigo-por-ia-nao-usa-ia-nenhuma",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/revisao-codigo-ia-passo-sem-ia-tree-sitter/",
-      "tabcoins": 5,
-      "children_deep_count": 3,
-      "published_at": "2026-06-10T12:00:03.327Z",
-      "url": "https://www.tabnews.com.br/kenimo49/o-passo-mais-valioso-da-revisao-de-codigo-por-ia-nao-usa-ia-nenhuma"
-    },
     {
       "id": "169f2bdc-5a40-4fa6-8039-28895ecbaaed",
       "title": "$7/mês por 512MB de RAM. Construí minha alternativa brasileira ao Render",
       "slug": "7-mes-por-512mb-de-ram-construi-minha-alternativa-brasileira-ao-render",
       "owner_username": "heyalmeida",
       "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
+      "tabcoins": 12,
+      "children_deep_count": 10,
       "published_at": "2026-06-11T04:43:37.718Z",
       "url": "https://www.tabnews.com.br/heyalmeida/7-mes-por-512mb-de-ram-construi-minha-alternativa-brasileira-ao-render"
     },
     {
-      "id": "3a925245-8213-4a74-988a-cd9e22865ff7",
-      "title": "[Ferramenta] Athenas Buscas: Consultas de CPF, Placa e Antecedentes em segundos + API para devs",
-      "slug": "ferramenta-athenas-buscas-consultas-de-cpf-placa-e-antecedentes-em-segundos-api-para-devs",
-      "owner_username": "athenasbuscas",
-      "source_url": "https://athenasbuscas.com/",
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-06-11T08:23:58.625Z",
-      "url": "https://www.tabnews.com.br/athenasbuscas/ferramenta-athenas-buscas-consultas-de-cpf-placa-e-antecedentes-em-segundos-api-para-devs"
+      "id": "2f3cdce7-559c-4bf8-b88b-a427b5c9ab6c",
+      "title": "Drones totalmente autônomos já estão sendo usados letalmente em combate",
+      "slug": "drones-totalmente-autonomos-ja-estao-sendo-usados-letalmente-em-combate",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://tech.slashdot.org/story/26/06/11/0031209/fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time",
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-06-11T14:52:07.950Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/drones-totalmente-autonomos-ja-estao-sendo-usados-letalmente-em-combate"
     },
     {
-      "id": "8e111cdb-8bac-4212-a46b-3429939b3cac",
-      "title": "Descobri um método pra parar de receber respostas ruins de IA e quero a opinião de vocês",
-      "slug": "descobri-um-metodo-pra-parar-de-receber-respostas-ruins-de-ia-e-quero-a-opiniao-de-voces",
-      "owner_username": "neuroniosartificiais",
-      "source_url": "https://neuroniosartificiais.com.br/como-escrever-prompt-ia-guia-definitivo/",
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-06-11T01:42:30.435Z",
-      "url": "https://www.tabnews.com.br/neuroniosartificiais/descobri-um-metodo-pra-parar-de-receber-respostas-ruins-de-ia-e-quero-a-opiniao-de-voces"
-    },
-    {
-      "id": "62b14119-4a35-49ba-95c5-e6e574233b9e",
-      "title": "Quando design, código e IA entram no mesmo loop, o review não pode parar no PR",
-      "slug": "quando-design-codigo-e-ia-entram-no-mesmo-loop-o-review-nao-pode-parar-no-pr",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-11T04:52:28.295Z",
-      "url": "https://www.tabnews.com.br/Centelha/quando-design-codigo-e-ia-entram-no-mesmo-loop-o-review-nao-pode-parar-no-pr"
-    },
-    {
-      "id": "b41f0b7e-959b-4994-9e22-c4ff1f94b635",
-      "title": "Pitch: Cariockko: Melhorando uma solução open-source para a prática de Inglês",
-      "slug": "cariockko-melhorando-uma-solucao-open-source-para-a-pratica-de-ingles",
-      "owner_username": "araujgom",
+      "id": "207be889-73ed-4b77-a159-1afff348e9e7",
+      "title": "IA do Google = menos espaço no seu PC",
+      "slug": "ia-do-google-menos-espaco-no-seu-pc",
+      "owner_username": "LeoJohnChassot",
       "source_url": null,
       "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-10T00:44:04.657Z",
-      "url": "https://www.tabnews.com.br/araujgom/cariockko-melhorando-uma-solucao-open-source-para-a-pratica-de-ingles"
-    },
-    {
-      "id": "29c039fe-623e-4aba-af02-ce1809935673",
-      "title": "DESABAFO: O que vi na TI dos anos 80 até os dias de hoje é assustador. ALERTA DE TEXTÃO!",
-      "slug": "desabafo-o-que-vi-na-ti-dos-anos-80-ate-os-dias-de-hoje-e-assustador-alerta-de-textao",
-      "owner_username": "semk",
-      "source_url": null,
-      "tabcoins": 39,
-      "children_deep_count": 26,
-      "published_at": "2026-06-09T19:23:25.689Z",
-      "url": "https://www.tabnews.com.br/semk/desabafo-o-que-vi-na-ti-dos-anos-80-ate-os-dias-de-hoje-e-assustador-alerta-de-textao"
-    },
-    {
-      "id": "4d38171f-b76d-4d5b-b6b9-97ebb7623ee9",
-      "title": "NPM, PNPM, Yarn e Bun: qual a diferença afinal?",
-      "slug": "npm-pnpm-yarn-e-bun-qual-a-diferenca-afinal",
-      "owner_username": "codevjuan",
-      "source_url": null,
-      "tabcoins": 27,
-      "children_deep_count": 8,
-      "published_at": "2026-06-08T14:07:21.513Z",
-      "url": "https://www.tabnews.com.br/codevjuan/npm-pnpm-yarn-e-bun-qual-a-diferenca-afinal"
-    },
-    {
-      "id": "3b834477-86da-498a-848b-65b0e54bd65a",
-      "title": "WebSockets na Prática: Sistema de Notificações em Tempo Real com Node.js e React",
-      "slug": "websockets-na-pratica-sistema-de-notificacoes-em-tempo-real-com-node-js-e-react",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/websockets-notificacoes-tempo-real-nodejs-react",
-      "tabcoins": 12,
       "children_deep_count": 0,
-      "published_at": "2026-06-08T12:03:24.248Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/websockets-na-pratica-sistema-de-notificacoes-em-tempo-real-com-node-js-e-react"
+      "published_at": "2026-06-11T18:49:12.866Z",
+      "url": "https://www.tabnews.com.br/LeoJohnChassot/ia-do-google-menos-espaco-no-seu-pc"
+    },
+    {
+      "id": "3ba28836-8d77-4db9-9cb7-66510c21714d",
+      "title": "Pitch: Passei meses construindo um ATS Score e descobri que ele ainda não resolve seu problema.",
+      "slug": "pitch-passei-meses-construindo-um-ats-score-e-descobri-que-ele-ainda-nao-resolve-seu-problema",
+      "owner_username": "ThalissonDamiao",
+      "source_url": "https://korecv.com",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-06-11T14:05:21.015Z",
+      "url": "https://www.tabnews.com.br/ThalissonDamiao/pitch-passei-meses-construindo-um-ats-score-e-descobri-que-ele-ainda-nao-resolve-seu-problema"
+    },
+    {
+      "id": "800e0c3f-4ec5-4a4a-9c84-eb4e2f3662a5",
+      "title": "Em breve, IA vai escrever currículos para IA ler",
+      "slug": "em-breve-ia-vai-escrever-curriculos-para-ia-ler",
+      "owner_username": "ale3xandr3lUsis",
+      "source_url": "https://www.korecv.com/blog/o-que-e-ats-como-funciona-como-vencer",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-06-11T14:25:39.263Z",
+      "url": "https://www.tabnews.com.br/ale3xandr3lUsis/em-breve-ia-vai-escrever-curriculos-para-ia-ler"
+    },
+    {
+      "id": "773afcd5-2752-4ae5-8903-8f0a7b53c552",
+      "title": "Pitch: Construindo uma linguagem de programação chamada Su",
+      "slug": "construindo-uma-linguagem-funcional-chamada-su",
+      "owner_username": "cardosource",
+      "source_url": "https://github.com/cardosource/su",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-06-11T18:37:55.316Z",
+      "url": "https://www.tabnews.com.br/cardosource/construindo-uma-linguagem-funcional-chamada-su"
+    },
+    {
+      "id": "3a40e83b-3fc7-47a4-89c7-401308424b08",
+      "title": "[ENSAIO] Não, a Inteligência Artificial não é consciente. (por Ted Chang, autor de ficcao, conhecido por \"Problema dos 3 corpos\" e \"A chegada\" e que tambem trabalhou na industria de software)",
+      "slug": "ensaio-nao-a-inteligencia-artificial-nao-e-consciente-por-ted-chang-autor-de-ficcao-conhecido-por-problema-dos-3-corpos-e-a-chegada-e-que-tambem-t",
+      "owner_username": "Oletros",
+      "source_url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=tjkl4dkX2ikVIXb7b8QUnvkarl9Q0mu0tMpAV3zZSko",
+      "tabcoins": 3,
+      "children_deep_count": 3,
+      "published_at": "2026-06-11T12:55:05.831Z",
+      "url": "https://www.tabnews.com.br/Oletros/ensaio-nao-a-inteligencia-artificial-nao-e-consciente-por-ted-chang-autor-de-ficcao-conhecido-por-problema-dos-3-corpos-e-a-chegada-e-que-tambem-t"
+    },
+    {
+      "id": "eb89067b-02d6-447e-ba18-fd573a3f1d21",
+      "title": "Filmagens originadas do Pokemon Go estão sendo utilizadas para treinar drones militares",
+      "slug": "filmagens-originadas-do-pokemon-go-foram-estao-sendo-utilizadas-para-treinar-drones-militares",
+      "owner_username": "wendryl",
+      "source_url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-06-11T12:35:51.406Z",
+      "url": "https://www.tabnews.com.br/wendryl/filmagens-originadas-do-pokemon-go-foram-estao-sendo-utilizadas-para-treinar-drones-militares"
+    },
+    {
+      "id": "2d011838-a779-4f83-b29a-c768d1bb676f",
+      "title": "Pitch: Rullst 📜🦀🌐🚀Novo framework da linguagem Rust full-stack promete fazer a revolução na programação!",
+      "slug": "rullst-novo-framework-da-linguagem-rust-full-stack-promete-fazer-a-revolucao-na-programacao",
+      "owner_username": "venelouis",
+      "source_url": "https://www.youtube.com/watch?v=gc-dDaEpaF4&t=1s",
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-06-12T01:57:27.850Z",
+      "url": "https://www.tabnews.com.br/venelouis/rullst-novo-framework-da-linguagem-rust-full-stack-promete-fazer-a-revolucao-na-programacao"
+    },
+    {
+      "id": "9d3ac329-e5a1-4bca-9333-bd7400f3c727",
+      "title": "SSR vs CSR: Quando Cada Abordagem Faz Sentido (e Quando Não Faz)",
+      "slug": "ssr-vs-csr-quando-cada-abordagem-faz-sentido-e-quando-nao-faz",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/nextjs/ssr-vs-csr-quando-usar-server-side-client-side-rendering-1781265716094",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-12T12:03:10.330Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/ssr-vs-csr-quando-cada-abordagem-faz-sentido-e-quando-nao-faz"
     }
   ]
 }
