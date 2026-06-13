@@ -56,10 +56,14 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
 
 ### Maiores (alto retorno, mais esforço)
 
-- [ ] **Self-host das fontes** — `index.html:36-42` carrega 4 famílias do Google Fonts
-      render-blocking. A Fase 0 do `retro-terminal-spec.md` já previa self-host
-      (`public/fonts/*.woff2` + `@font-face` + `font-display: swap` + preload da fonte
-      do Hero). MAIOR ganho de LCP. Remover `<link>`/`preconnect` do Google depois.
+- [x] **Self-host das fontes** — ✅ branch `feat/perf-fonts-splitting-icons`.
+      8 woff2 (subset **latin** apenas — pt-BR cabe em U+0000-00FF + pontuação geral;
+      latin-ext descartado, poupa ~250KB de Inter) em `public/fonts/`, `@font-face`
+      com `font-display: swap` em `src/styles/fonts.css` (importado 1º em `index.css`).
+      `index.html` agora faz **preload** das 2 fontes do Title Screen/LCP da home
+      (Press Start 2P + JetBrains Mono 400); `<link>`/`preconnect` do Google removidos.
+      Gerado por `/tmp/build-fonts.mjs` (descartável). Render conferido via Puppeteer
+      (0 requests 404, fontes da página loaded).
 - [x] **Meta/title por rota** — ✅ branch `feat/prerender-meta-por-rota`. Componente
       `src/Components/ui/Seo.jsx` usa metadata nativa do React 19 (title/description/
       canonical/OG/Twitter por rota), alimentado por `seo` em `src/data/meta.js`.
@@ -72,11 +76,17 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
       duplicaria meta). `npm run build` = `vite build && node scripts/prerender.mjs`.
       No cliente: `main.jsx` usa `createRoot` (não hidrata — conteúdo é animado;
       0 erros de hidratação) → crawlers veem HTML estático, usuário vê o app montar.
-- [ ] **Code splitting** — `src/App.jsx` importa as 7 páginas estaticamente
-      (bundle único ~265KB). `React.lazy` + `Suspense` por rota; `manualChunks` no
-      `vite.config.js` para chunk de vendor estável (cache).
+- [x] **Code splitting** — ✅ mesma branch. `src/App.jsx` usa `React.lazy` +
+      `Suspense` para as 7 páginas (cada rota = chunk próprio). `vite.config.js`
+      ganhou `manualChunks` **em forma de função** (o array por nome de pacote
+      deixava o react-dom-client da React 19 cair no chunk do app) → `react-vendor`
+      ~226KB/72KB gzip, estável e cacheável entre deploys; chunk shared do app caiu
+      p/ ~10KB. Home agora carrega vendor + ~17KB de app em vez do bundle único.
 - [x] **JSON-LD** `Person` + `WebSite` — ✅ no `<Seo>` (usa links de `src/data/contact.js`).
-- [ ] **Reduzir `logo.png`** (2272×1797, 166KB) — gerar apple-touch-icon 180×180 dedicado.
+- [x] **Reduzir `logo.png`** — ✅ mesma branch. `logo.png` (2272×1797, 166KB) era
+      usado só como favicon-PNG e apple-touch-icon. Removido; rasterizados de
+      `favicon.svg` (nearest-neighbor, pixel-art crisp): `apple-touch-icon.png`
+      180×180 (~600B) e `favicon-48.png` 48×48 (~525B). `index.html` aponta p/ eles.
 
 ### Itens menores / dívida anotada
 
@@ -108,8 +118,13 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
   "Sobre — Pedro Veloso". Conferir crawlers no LinkedIn Post Inspector /
   [opengraph.xyz](https://www.opengraph.xyz).
 
-### Próximos (Maiores restantes — independentes)
+### Próximos
 
-- Self-host das fontes (maior ganho de LCP), code splitting (`React.lazy` +
-  `manualChunks`), reduzir `logo.png` + apple-touch-icon dedicado. Nenhum bloqueia
-  o outro; podem ir a qualquer momento. Ver lista detalhada acima.
+> Os 3 "Maiores" restantes (self-host fontes, code splitting, ícones) foram
+> feitos na branch `feat/perf-fonts-splitting-icons` — **falta validar no ar**
+> após o merge. Pós-deploy: conferir no Network do DevTools que as woff2 vêm de
+> `/fonts/`, que `react-vendor-*.js` carrega separado e que `apple-touch-icon.png`
+> aparece. Rodar Lighthouse p/ medir o ganho de LCP.
+
+Só sobram itens menores / dívida anotada (ver seção acima): reduced-motion dos
+Typewriter, listener de Enter no Hero, soft-404, `EditorialName` dead code.

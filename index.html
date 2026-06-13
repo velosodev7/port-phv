@@ -9,10 +9,11 @@
          baked no HTML pelo prerender. Nada de title estático aqui, para não
          duplicar o que o React injeta. Ver src/Components/ui/Seo.jsx. -->
 
-    <!-- Favicon: SVG pixel (avatar PV) com fallback PNG p/ navegadores antigos -->
+    <!-- Favicon: SVG pixel (avatar) com fallback PNG 48×48 p/ navegadores antigos.
+         apple-touch-icon dedicado 180×180 (ambos rasterizados de favicon.svg). -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="icon" type="image/png" href="/logo.png" />
-    <link rel="apple-touch-icon" href="/logo.png" />
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
     <!-- Tema do navegador (mobile chrome / safari) -->
     <meta name="theme-color" content="#0a0a0a" />
@@ -36,12 +37,22 @@
       })();
     </script>
 
-    <!-- Fontes (carregadas via <link>, nunca via @import) -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Fontes self-hosted (woff2 latin em public/fonts/, @font-face em
+         src/styles/fonts.css). Preload das duas fontes do Title Screen / LCP da
+         home: o logo pixel (Press Start 2P) e as linhas HUD/mono (JetBrains Mono). -->
     <link
-      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Press+Start+2P&display=swap"
-      rel="stylesheet"
+      rel="preload"
+      href="/fonts/press-start-2p-400-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/fonts/jetbrains-mono-400-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
     />
 
     <!-- SEO global (não varia por rota). description/OG/Twitter ficam no <Seo>. -->
