@@ -34,8 +34,10 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
+  /* Idle hop com arco real: descanso → agacha → sobe → ápice → aterrissa.
+     steps(1) mantém o snap de sprite (cada keyframe = um quadro). */
   .pixel-avatar__svg {
-    animation: pixel-avatar-hop 1.4s steps(1) infinite alternate;
+    animation: pixel-avatar-hop 2.4s steps(1) infinite;
   }
 
   /* Hover: gira uma volta com stutter de pixel (sobrepõe o hop) */
@@ -44,11 +46,11 @@
   }
 
   .pixel-avatar__eyes-open {
-    animation: pixel-avatar-eyes-open 4.2s steps(1) infinite;
+    animation: pixel-avatar-eyes-open 5s steps(1) infinite;
   }
 
   .pixel-avatar__eyes-shut {
-    animation: pixel-avatar-eyes-shut 4.2s steps(1) infinite;
+    animation: pixel-avatar-eyes-shut 5s steps(1) infinite;
   }
 }
 
@@ -64,25 +66,64 @@
   }
 }
 
+/* translateY = altura, scaleY = squash/stretch (pivô em 50% 60%, perto dos pés) */
 @keyframes pixel-avatar-hop {
-  from {
-    transform: translateY(0);
+  0%,
+  32% {
+    transform: translateY(0) scaleY(1);
   }
-  to {
-    transform: translateY(-3px);
+  38% {
+    /* antecipação: agacha antes de pular */
+    transform: translateY(1px) scaleY(0.9);
+  }
+  50% {
+    /* impulso: sobe esticando */
+    transform: translateY(-5px) scaleY(1.06);
+  }
+  60% {
+    /* ápice: segura no alto */
+    transform: translateY(-6px) scaleY(1);
+  }
+  72% {
+    transform: translateY(-4px) scaleY(1);
+  }
+  84% {
+    /* aterrissagem: squash no chão */
+    transform: translateY(1px) scaleY(0.88);
+  }
+  90%,
+  100% {
+    transform: translateY(0) scaleY(1);
   }
 }
 
 @keyframes pixel-avatar-eyes-open {
   0%,
-  92% {
+  44% {
     opacity: 1;
   }
-  93%,
-  97% {
+  45%,
+  47% {
     opacity: 0;
   }
-  98%,
+  48%,
+  90% {
+    opacity: 1;
+  }
+  /* double-blink no fim do ciclo */
+  91%,
+  93% {
+    opacity: 0;
+  }
+  94%,
+  95% {
+    opacity: 1;
+  }
+  96%,
+  98% {
+    opacity: 0;
+  }
+  99%,
   100% {
     opacity: 1;
   }
@@ -90,14 +131,30 @@
 
 @keyframes pixel-avatar-eyes-shut {
   0%,
-  92% {
+  44% {
     opacity: 0;
   }
-  93%,
-  97% {
+  45%,
+  47% {
     opacity: 1;
   }
-  98%,
+  48%,
+  90% {
+    opacity: 0;
+  }
+  91%,
+  93% {
+    opacity: 1;
+  }
+  94%,
+  95% {
+    opacity: 0;
+  }
+  96%,
+  98% {
+    opacity: 1;
+  }
+  99%,
   100% {
     opacity: 0;
   }
