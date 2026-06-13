@@ -91,21 +91,25 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
 
 ## Como retomar
 
-> **Quick wins:** já mergeados em `main` e **em produção** (commit `29a7b0c`).
-> **Prerender + meta-por-rota + JSON-LD:** na branch `feat/prerender-meta-por-rota`
-> (lint+build limpos, validado local), **ainda não mergeado/deployado**.
+> **TUDO EM PRODUÇÃO.** Quick wins (`29a7b0c`) + prerender/meta-por-rota/JSON-LD
+> (`01ae326`) mergeados em `main` e validados no ar (títulos por rota, canonical,
+> OG, JSON-LD e conteúdo no HTML estático conferidos via curl).
 
-1. Revisar e mergear `feat/prerender-meta-por-rota` em `main` (dispara Vercel).
-   - **Atenção Vercel/Puppeteer:** o build agora roda `node scripts/prerender.mjs`,
-     que precisa do Chromium baixado pelo Puppeteer. `.puppeteerrc.cjs` aponta o
-     cache p/ `.cache/puppeteer` (dentro do projeto) p/ sobreviver ao cache de
-     `node_modules` da Vercel. **Se o 1º build falhar** por navegador ausente, rodar
-     `npx puppeteer browsers install chrome` no build (postinstall) ou conferir o
-     cache. Build que falha **não derruba** o deploy atual — prod fica no último ok.
-   - Pós-deploy: `curl -sL https://www.phvdev.com.br/sobre | grep '<title>'` deve
-     mostrar "Sobre — Pedro Veloso"; conferir canonical/OG por rota e crawlers
-     (LinkedIn Post Inspector, [opengraph.xyz](https://www.opengraph.xyz)).
-2. **Maiores restantes:** self-host das fontes (maior ganho de LCP), code splitting,
-   reduzir `logo.png` + apple-touch-icon. Independentes — podem ir a qualquer momento.
-3. Validar build local antes de push: `npm run build` (vite + prerender) deve passar
-   e gerar `dist/<rota>/index.html` para as 6 rotas.
+### Build & deploy (estado atual)
+
+- `npm run build` = `vite build && node scripts/prerender.mjs`. O prerender usa
+  **caminho duplo de Chromium**: local = `puppeteer` cheio; **Vercel/CI =
+  `@sparticuz/chromium` + `puppeteer-core`** (o puppeteer cheio baixa mas NÃO sobe
+  no build da Vercel — falta `libnspr4.so`/libs; o @sparticuz traz embutidas).
+  Detecção por `process.env.VERCEL`/`CI` em `scripts/prerender.mjs:launchBrowser`.
+- `.puppeteerrc.cjs`: cache em `.cache/puppeteer` + `skipDownload` na Vercel/CI.
+- Validar antes de push: `npm run build` gera `dist/<rota>/index.html` p/ as 6 rotas.
+- Pós-deploy: `curl -s https://www.phvdev.com.br/sobre | grep '<title>'` →
+  "Sobre — Pedro Veloso". Conferir crawlers no LinkedIn Post Inspector /
+  [opengraph.xyz](https://www.opengraph.xyz).
+
+### Próximos (Maiores restantes — independentes)
+
+- Self-host das fontes (maior ganho de LCP), code splitting (`React.lazy` +
+  `manualChunks`), reduzir `logo.png` + apple-touch-icon dedicado. Nenhum bloqueia
+  o outro; podem ir a qualquer momento. Ver lista detalhada acima.
