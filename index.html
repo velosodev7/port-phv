@@ -4,7 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Pedro Veloso — Desenvolvedor Full-stack</title>
+    <!-- Title, description, canonical e Open Graph/Twitter são por rota:
+         renderizados pelo componente Seo (metadata nativa do React 19) e
+         baked no HTML pelo prerender. Nada de title estático aqui, para não
+         duplicar o que o React injeta. Ver src/Components/ui/Seo.jsx. -->
 
     <!-- Favicon: SVG pixel (avatar PV) com fallback PNG p/ navegadores antigos -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -41,38 +44,12 @@
       rel="stylesheet"
     />
 
-    <!-- SEO -->
-    <meta
-      name="description"
-      content="Portfólio de Pedro Veloso, desenvolvedor full-stack focado em React, Node.js e PostgreSQL. Projetos, stack técnica e contato."
-    />
+    <!-- SEO global (não varia por rota). description/OG/Twitter ficam no <Seo>. -->
     <meta
       name="keywords"
       content="Pedro Veloso, desenvolvedor full-stack, React, Node.js, PostgreSQL, portfólio, phvdev"
     />
     <meta name="author" content="Pedro Veloso" />
-
-    <!-- Open Graph / Redes Sociais -->
-    <meta property="og:title" content="Pedro Veloso — Desenvolvedor Full-stack" />
-    <meta
-      property="og:description"
-      content="Construindo produtos web com React, Node.js e PostgreSQL. Foco em performance, DX e entregas previsíveis."
-    />
-    <meta property="og:image" content="https://www.phvdev.com.br/og-card.png" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:image:type" content="image/png" />
-    <meta property="og:url" content="https://www.phvdev.com.br" />
-    <meta property="og:type" content="website" />
-    <meta property="og:locale" content="pt_BR" />
-
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Pedro Veloso — Desenvolvedor Full-stack" />
-    <meta
-      name="twitter:description"
-      content="Construindo produtos web com React, Node.js e PostgreSQL. Foco em performance, DX e entregas previsíveis."
-    />
-    <meta name="twitter:image" content="https://www.phvdev.com.br/og-card.png" />
   </head>
   <body>
     <div id="root"></div>

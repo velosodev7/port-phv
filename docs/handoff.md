@@ -60,17 +60,22 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
       render-blocking. A Fase 0 do `retro-terminal-spec.md` já previa self-host
       (`public/fonts/*.woff2` + `@font-face` + `font-display: swap` + preload da fonte
       do Hero). MAIOR ganho de LCP. Remover `<link>`/`preconnect` do Google depois.
-- [ ] **Meta/title por rota** — hoje todas as rotas têm o mesmo `<title>`/description.
-      Usar tags nativas do React 19 (hoist) ou `react-helmet-async`, alimentado por
-      `src/data/meta.js` (já tem `sections`). Resolve canibalização de indexação.
-      Adicionar `<link rel="canonical">` por rota junto.
-- [ ] **Prerender estático** (vite-react-ssg ou similar) — SPA hoje serve HTML vazio;
-      crawlers sem JS (LinkedIn/IA) veem página em branco. 6 rotas estáticas = ROI alto.
-      Resolve a raiz e facilita meta-por-rota + JSON-LD.
-- [ ] **Code splitting** — `src/App.jsx:7-13` importa as 7 páginas estaticamente
-      (bundle único 262KB). `React.lazy` + `Suspense` por rota; `manualChunks` no
+- [x] **Meta/title por rota** — ✅ branch `feat/prerender-meta-por-rota`. Componente
+      `src/Components/ui/Seo.jsx` usa metadata nativa do React 19 (title/description/
+      canonical/OG/Twitter por rota), alimentado por `seo` em `src/data/meta.js`.
+      `<Seo>` único dentro do Router resolve a rota. index.html não tem mais title/OG
+      estáticos (evita duplicação).
+- [x] **Prerender estático** — ✅ mesma branch. `scripts/prerender.mjs` sobe
+      `vite preview` e usa Puppeteer (Chromium próprio, portável p/ Vercel) p/
+      renderizar as 6 rotas e gravar `dist/<rota>/index.html` com HTML completo +
+      meta. Captura do shell pristino e grava no fim (senão o fallback de SPA
+      duplicaria meta). `npm run build` = `vite build && node scripts/prerender.mjs`.
+      No cliente: `main.jsx` usa `createRoot` (não hidrata — conteúdo é animado;
+      0 erros de hidratação) → crawlers veem HTML estático, usuário vê o app montar.
+- [ ] **Code splitting** — `src/App.jsx` importa as 7 páginas estaticamente
+      (bundle único ~265KB). `React.lazy` + `Suspense` por rota; `manualChunks` no
       `vite.config.js` para chunk de vendor estável (cache).
-- [ ] **JSON-LD** `Person` + `WebSite` (usar links de `src/data/contact.js`).
+- [x] **JSON-LD** `Person` + `WebSite` — ✅ no `<Seo>` (usa links de `src/data/contact.js`).
 - [ ] **Reduzir `logo.png`** (2272×1797, 166KB) — gerar apple-touch-icon 180×180 dedicado.
 
 ### Itens menores / dívida anotada
@@ -86,13 +91,21 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
 
 ## Como retomar
 
-> Quick wins já estão na branch `fix/seo-perf-quickwins` (lint+build limpos), ainda
-> **não mergeados/deployados**. Próximo passo é revisar/mergear e atacar os **Maiores**.
+> **Quick wins:** já mergeados em `main` e **em produção** (commit `29a7b0c`).
+> **Prerender + meta-por-rota + JSON-LD:** na branch `feat/prerender-meta-por-rota`
+> (lint+build limpos, validado local), **ainda não mergeado/deployado**.
 
-1. Revisar a branch `fix/seo-perf-quickwins` e mergear em `main` (dispara Vercel).
-   Validar pós-deploy: `og-card.png`, `robots.txt`, `sitemap.xml` acessíveis em prod;
-   preview social no [opengraph.xyz](https://www.opengraph.xyz) ou debugger do LinkedIn.
-2. Decidir sobre os **Maiores** — sugestão: prerender + meta-por-rota juntos
-   (um habilita o outro). Pode valer perguntar ao Pedro a prioridade.
-3. Deploy: merge em `main` + push (dispara Vercel). Validar com
-   `curl -sL .../ | grep assets/index-` (hash bate com build local).
+1. Revisar e mergear `feat/prerender-meta-por-rota` em `main` (dispara Vercel).
+   - **Atenção Vercel/Puppeteer:** o build agora roda `node scripts/prerender.mjs`,
+     que precisa do Chromium baixado pelo Puppeteer. `.puppeteerrc.cjs` aponta o
+     cache p/ `.cache/puppeteer` (dentro do projeto) p/ sobreviver ao cache de
+     `node_modules` da Vercel. **Se o 1º build falhar** por navegador ausente, rodar
+     `npx puppeteer browsers install chrome` no build (postinstall) ou conferir o
+     cache. Build que falha **não derruba** o deploy atual — prod fica no último ok.
+   - Pós-deploy: `curl -sL https://www.phvdev.com.br/sobre | grep '<title>'` deve
+     mostrar "Sobre — Pedro Veloso"; conferir canonical/OG por rota e crawlers
+     (LinkedIn Post Inspector, [opengraph.xyz](https://www.opengraph.xyz)).
+2. **Maiores restantes:** self-host das fontes (maior ganho de LCP), code splitting,
+   reduzir `logo.png` + apple-touch-icon. Independentes — podem ir a qualquer momento.
+3. Validar build local antes de push: `npm run build` (vite + prerender) deve passar
+   e gerar `dist/<rota>/index.html` para as 6 rotas.

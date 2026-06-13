@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Header from "./Components/Header.jsx";
 import Footer from "./Components/Footer.jsx";
+import Seo from "./Components/ui/Seo.jsx";
 import PageTransition from "./Components/ui/PageTransition.jsx";
 
 import Home from "./Pages/Home.jsx";
@@ -15,6 +16,7 @@ import NotFound from "./Pages/NotFound.jsx";
 function App() {
   return (
     <Router>
+      <Seo />
       <Header />
       <main>
         <PageTransition>

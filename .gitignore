@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Chromium baixado pelo Puppeteer (ver .puppeteerrc.cjs)
+.cache
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -23,3 +26,7 @@ dist-ssr
 *.sln
 *.sw?
 
+
+# Config local do Claude Code / scratch (não versionar)
+.claude/
+prompt.md
