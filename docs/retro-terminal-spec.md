@@ -176,6 +176,15 @@ Layout-alvo (texto real, não imagem, para tudo que importa):
 
 ---
 
-## Decisões em aberto (não bloqueiam a Fase 1)
-- Sprite/mascote próprio: adiar para Fase 6 (Var. A). Var. B roda sem sprite.
-- SFX 8-bit: opcional, sempre mudo por padrão com toggle. Só se houver tempo.
+## Decisões tomadas (antes "em aberto")
+
+- **Sprite/mascote próprio — IMPLEMENTADO.** O `PixelAvatar` (PV em pixel-art
+  16×16 via SVG, `crispEdges`) entra no Title Screen com idle hop + piscar.
+  É decorativo (`aria-hidden`), 100% CSS e respeita `prefers-reduced-motion`.
+  Antecipado da Fase 6 sem custo de assets de imagem.
+- **SFX 8-bit — ADIADO (decisão de 2026-06-13).** Não implementar nesta entrega.
+  Motivos: custo/payoff baixo; o `FxToggle` (CRT/FX) já cobre a expectativa de
+  "controle de efeitos"; autoplay-block dos browsers exige gesto do usuário e
+  adiciona complexidade de UX; sem assets de áudio o bundle e o escopo ficam
+  enxutos. Reabrir só numa fase de polimento dedicada, e sempre mudo por padrão
+  com toggle "SOM: ON/OFF" próprio.
