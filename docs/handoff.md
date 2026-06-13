@@ -76,12 +76,16 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
       duplicaria meta). `npm run build` = `vite build && node scripts/prerender.mjs`.
       No cliente: `main.jsx` usa `createRoot` (não hidrata — conteúdo é animado;
       0 erros de hidratação) → crawlers veem HTML estático, usuário vê o app montar.
-- [x] **Code splitting** — ✅ mesma branch. `src/App.jsx` usa `React.lazy` +
-      `Suspense` para as 7 páginas (cada rota = chunk próprio). `vite.config.js`
-      ganhou `manualChunks` **em forma de função** (o array por nome de pacote
-      deixava o react-dom-client da React 19 cair no chunk do app) → `react-vendor`
-      ~226KB/72KB gzip, estável e cacheável entre deploys; chunk shared do app caiu
-      p/ ~10KB. Home agora carrega vendor + ~17KB de app em vez do bundle único.
+- [x] **Code splitting** — ✅ só o split de **vendor** (não por rota). `vite.config.js`
+      tem `manualChunks` **em forma de função** (o array por nome de pacote deixava o
+      react-dom-client da React 19 cair no chunk do app) → `react-vendor` ~226KB/72KB
+      gzip, estável e cacheável entre deploys. As páginas são importadas
+      **estaticamente** (índice ~38KB/12KB gzip com todas elas).
+      ⚠️ **`React.lazy` por rota foi REVERTIDO** (branch `fix/cls-mount`): com prerender,
+      o chunk da rota não está pronto no 1º commit do `createRoot` → `Suspense`
+      pintava o fallback vazio sobre o HTML estático, **colapsando o layout
+      (footer pulava) e gerando CLS 0.146**. As páginas somam ~30KB, então o split
+      por rota rendia pouco e custava CLS. Ver nota em `src/App.jsx`.
 - [x] **JSON-LD** `Person` + `WebSite` — ✅ no `<Seo>` (usa links de `src/data/contact.js`).
 - [x] **Reduzir `logo.png`** — ✅ mesma branch. `logo.png` (2272×1797, 166KB) era
       usado só como favicon-PNG e apple-touch-icon. Removido; rasterizados de
@@ -129,13 +133,24 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
   "Sobre — Pedro Veloso". Conferir crawlers no LinkedIn Post Inspector /
   [opengraph.xyz](https://www.opengraph.xyz).
 
+### Lighthouse + CLS (feito)
+
+Medido em produção (mobile emulado) após self-host + split de vendor: **Perf 91-92,
+LCP 1.8-2.0s, TBT 10-30ms, FCP 1.7-1.8s** — tudo verde. Único ponto fraco era
+**CLS ~0.15**. Investigado (`fix/cls-mount`):
+
+- Origem: o `React.lazy` por rota (ver acima). Com `min-height` reservado nas linhas
+  do Title Screen (`Hero.css`: `.title-logo__line` 1.1em, `.title-system`/`.title-role`/
+  `.title-stack` 1.5em) os micro-shifts de texto zeraram; o shift dominante (footer
+  0.136) era o `Suspense` fallback colapsando o conteúdo pré-renderizado.
+- `hydrateRoot` foi testado e **descartado**: React error #418 (mismatch do conteúdo
+  animado) → cai pra client-render (mesmo CLS) e ainda quebrava o boot (reveals presos).
+  Confirma a escolha do `createRoot` no `main.jsx`.
+- Fix: reverter o `React.lazy` (páginas estáticas) + min-heights. Resultado local
+  pós-fix: **Perf 97, CLS 0.007** (/), 0.0001 (/sobre), 0.0004 (/projetos).
+
 ### Próximos
 
-> Os 3 "Maiores" restantes (self-host fontes, code splitting, ícones) foram
-> feitos na branch `feat/perf-fonts-splitting-icons` — **falta validar no ar**
-> após o merge. Pós-deploy: conferir no Network do DevTools que as woff2 vêm de
-> `/fonts/`, que `react-vendor-*.js` carrega separado e que `apple-touch-icon.png`
-> aparece. Rodar Lighthouse p/ medir o ganho de LCP.
-
-Só sobram itens menores / dívida anotada (ver seção acima): reduced-motion dos
-Typewriter, listener de Enter no Hero, soft-404, `EditorialName` dead code.
+Backlog de perf/SEO essencialmente zerado. Só sobram, de propósito (ver "Itens
+menores / dívida anotada"): `useFx` `getServerSnapshot` (SSR-only) e o soft-404
+(exigiria serverless na Vercel). Sem pendências bloqueantes.

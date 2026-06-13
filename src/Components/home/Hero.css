@@ -33,8 +33,10 @@
   justify-content: center;
   gap: var(--space-1) var(--space-2);
   margin: 0;
+  min-height: 1.5em; /* reserva a linha p/ o boot vazio não reflowar (CLS) */
   font-family: var(--font-mono);
   font-size: var(--fs-meta);
+  line-height: 1.5;
   letter-spacing: var(--ls-mono);
   text-transform: uppercase;
   color: var(--game-primary-dim);
@@ -62,12 +64,17 @@
 
 .title-logo__line {
   white-space: nowrap;
+  /* line-height do .title-logo é 1.1 → reserva exatamente 1 linha por nome
+     para o boot vazio ter a mesma altura do estado digitado (CLS). */
+  min-height: 1.1em;
 }
 
 .title-role {
   margin: 0;
+  min-height: 1.5em; /* reserva a linha p/ o boot (CLS) */
   font-family: var(--font-mono);
   font-size: var(--fs-small);
+  line-height: 1.5;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--text-muted);
@@ -80,8 +87,10 @@
   justify-content: center;
   gap: 0 var(--space-2);
   margin: 0;
+  min-height: 1.5em; /* reserva a linha p/ o boot (CLS) */
   font-family: var(--font-mono);
   font-size: var(--fs-small);
+  line-height: 1.5;
   color: var(--text);
 }
 
