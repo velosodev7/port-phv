@@ -12,19 +12,13 @@
 }
 
 .charsheet__avatar {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 64px;
-  height: 64px;
   flex-shrink: 0;
-  font-family: var(--font-pixel);
-  font-size: 18px;
-  color: var(--game-primary);
-  text-shadow: var(--game-glow);
-  background-color: var(--bg);
-  border: 1px solid var(--game-primary-dim);
-  border-radius: var(--radius-sm);
+}
+
+/* O PixelAvatar traz a própria moldura; aqui só ajustamos a escala ao card. */
+.charsheet__avatar .pixel-avatar {
+  width: 72px;
+  padding: 8px;
 }
 
 .charsheet__stats {

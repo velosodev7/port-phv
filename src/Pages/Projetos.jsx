@@ -18,7 +18,7 @@ const Projetos = () => {
         <SectionHeader
           index="02"
           title="Stage Select"
-          kicker="ESCOLHA UMA FASE"
+          command="select-stage --all"
         />
 
         <TerminalWindow title="$ ls ~/projetos --stages" className="projetos-terminal">

@@ -19,7 +19,7 @@ const Stack = () => {
         <SectionHeader
           index="03"
           title="Inventário"
-          kicker="ITENS E HABILIDADES"
+          command="inventory --equipped"
         />
 
         <p className="stack-page__intro">

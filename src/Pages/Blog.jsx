@@ -18,7 +18,7 @@ const Blog = () => {
         <SectionHeader
           index="04"
           title="Logs"
-          kicker="DIÁRIO DE BORDO"
+          command="git log --oneline"
         />
 
         <TerminalWindow title="$ tail -f ~/logs/blog">

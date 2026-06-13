@@ -1,3 +1,4 @@
+import PixelAvatar from "../home/PixelAvatar.jsx";
 import "./CharacterSheet.css";
 
 const stats = [
@@ -24,9 +25,9 @@ const CharacterSheet = () => {
   return (
     <div className="charsheet">
       <div className="charsheet__id">
-        <span className="charsheet__avatar" aria-hidden="true">
-          PV
-        </span>
+        <div className="charsheet__avatar">
+          <PixelAvatar />
+        </div>
         <dl className="charsheet__stats">
           {stats.map(([key, value]) => (
             <div className="charsheet__row" key={key}>

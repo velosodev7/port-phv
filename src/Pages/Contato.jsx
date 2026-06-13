@@ -17,7 +17,7 @@ const Contato = () => {
         <SectionHeader
           index="05"
           title="Continue?"
-          kicker="SELECIONE UM CONTATO"
+          command="./connect.sh"
         />
 
         <p className="contato-page__intro">

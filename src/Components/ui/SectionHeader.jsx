@@ -1,3 +1,4 @@
+import Typewriter from "./Typewriter.jsx";
 import "./SectionHeader.css";
 
 const SectionHeader = ({ index, title, kicker, command }) => {
@@ -6,7 +7,9 @@ const SectionHeader = ({ index, title, kicker, command }) => {
       <div className="section-header__top">
         <span className="section-header__index">§{index}</span>
         {command ? (
-          <span className="section-header__command">{command}</span>
+          <span className="section-header__command">
+            <Typewriter text={command} speed={34} startDelay={180} />
+          </span>
         ) : (
           kicker && <span className="section-header__kicker">{kicker}</span>
         )}
