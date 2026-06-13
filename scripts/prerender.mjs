@@ -6,8 +6,12 @@
 // Resultado: crawlers e scrapers (LinkedIn, etc.) recebem HTML completo + SEO
 // correto por rota, sem depender de execução de JS.
 //
-// Usa o Chromium que o Puppeteer baixa no `npm install` — funciona igual no
-// macOS local e no build da Vercel (que não tem Google Chrome).
+// Caminho duplo de Chromium:
+//   - Local: `puppeteer` (cheio) com o Chromium baixado no `npm install`.
+//   - Vercel/CI: `@sparticuz/chromium` + `puppeteer-core`. O Chromium do
+//     puppeteer cheio baixa, mas NÃO sobe no build da Vercel (falta libnspr4.so
+//     e cia); o @sparticuz traz um Chromium com as libs embutidas.
+// Detecta o ambiente por `process.env.VERCEL` / `CI`.
 //
 // Uso:
 //   node scripts/prerender.mjs              → todas as rotas
@@ -17,7 +21,6 @@ import { spawn } from "node:child_process";
 import { existsSync, mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import puppeteer from "puppeteer";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
@@ -86,6 +89,26 @@ async function renderRoute(browser, route) {
   }
 }
 
+// Sobe o Chromium certo p/ o ambiente (ver cabeçalho). Imports dinâmicos para
+// não exigir os dois conjuntos de pacotes em todo lugar.
+async function launchBrowser() {
+  const onVercel = !!process.env.VERCEL || !!process.env.CI;
+  if (onVercel) {
+    const { default: chromium } = await import("@sparticuz/chromium");
+    const { default: puppeteer } = await import("puppeteer-core");
+    return puppeteer.launch({
+      args: [...chromium.args, "--no-sandbox"],
+      executablePath: await chromium.executablePath(),
+      headless: chromium.headless,
+    });
+  }
+  const { default: puppeteer } = await import("puppeteer");
+  return puppeteer.launch({
+    headless: true,
+    args: ["--no-sandbox", "--disable-gpu"],
+  });
+}
+
 function writeRoute(route, html) {
   const outDir = route === "/" ? DIST : join(DIST, route);
   mkdirSync(outDir, { recursive: true });
@@ -104,10 +127,7 @@ let exitCode = 0;
 let browser;
 try {
   await waitForServer(`${ORIGIN}/`);
-  browser = await puppeteer.launch({
-    headless: true,
-    args: ["--no-sandbox", "--disable-gpu"],
-  });
+  browser = await launchBrowser();
   console.log(`prerender: ${routes.length} rota(s) via ${ORIGIN}`);
   // Fase 1: captura tudo do shell pristino (sem gravar — ver renderRoute).
   const captured = [];
