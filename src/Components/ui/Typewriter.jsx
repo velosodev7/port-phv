@@ -38,12 +38,14 @@ const Typewriter = ({
   };
 
   useEffect(() => {
+    // Texto novo recomeça a digitação e volta a poder disparar onDone.
+    doneRef.current = false;
     if (reduce) {
       setCount(text.length);
       finish();
       return;
     }
-    if (!active || doneRef.current) return;
+    if (!active) return;
     setCount(0);
     let i = 0;
     let intervalId;

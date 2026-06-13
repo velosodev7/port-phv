@@ -16,6 +16,7 @@ const Blog = () => {
         />
 
         <SectionHeader
+          as="h1"
           index="04"
           title="Logs"
           command="git log --oneline"

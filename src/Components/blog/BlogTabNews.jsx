@@ -20,9 +20,9 @@ const BlogTabNews = () => {
   if (isEmpty) {
     return (
       <div className="blog-tabnews blog-tabnews--empty">
-        <p className="blog-tabnews__kicker">// CARREGANDO</p>
+        <p className="blog-tabnews__kicker">// FEED</p>
         <p className="blog-tabnews__empty-text">
-          Carregando notícias <em>em breve</em>…
+          Nenhuma publicação ainda.
         </p>
       </div>
     );

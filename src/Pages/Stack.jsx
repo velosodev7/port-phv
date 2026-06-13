@@ -17,6 +17,7 @@ const Stack = () => {
         />
 
         <SectionHeader
+          as="h1"
           index="03"
           title="Inventário"
           command="inventory --equipped"

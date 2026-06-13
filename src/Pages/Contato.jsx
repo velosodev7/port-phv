@@ -15,6 +15,7 @@ const Contato = () => {
         />
 
         <SectionHeader
+          as="h1"
           index="05"
           title="Continue?"
           command="./connect.sh"

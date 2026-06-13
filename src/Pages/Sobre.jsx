@@ -18,7 +18,7 @@ const Sobre = () => {
           status={null}
         />
 
-        <SectionHeader index="01" title="Save File" command="whoami" />
+        <SectionHeader as="h1" index="01" title="Save File" command="whoami" />
 
         <TerminalWindow title="$ cat ~/save/pedro.dat" className="sobre-save">
           <CharacterSheet />

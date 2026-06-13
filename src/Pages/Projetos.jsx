@@ -16,6 +16,7 @@ const Projetos = () => {
         />
 
         <SectionHeader
+          as="h1"
           index="02"
           title="Stage Select"
           command="select-stage --all"

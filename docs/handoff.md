@@ -33,29 +33,26 @@ Tudo com lint + build limpos. `prompt.md` e `.claude/` ficaram fora dos commits 
 
 Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito ainda.**
 
-### Quick wins (alto impacto, ~15-20 min) — começar por aqui
+### Quick wins (alto impacto, ~15-20 min) — ✅ FEITOS na branch `fix/seo-perf-quickwins`
 
-- [ ] **og:image / twitter:image com URL absoluta** — `index.html:61,72` usam
-      `/logo.png` (relativo). Redes sociais não resolvem → preview sem imagem.
-      Trocar por `https://www.phvdev.com.br/og-card.png`.
-- [ ] **Gerar `public/og-card.png` 1200×630** a partir de `public/og-card.svg`
-      (o SVG existe mas não funciona como og:image; comentário no arquivo já pedia
-      rasterizar). Adicionar `og:image:width/height/type`.
-- [ ] **Criar `public/robots.txt`** (Allow + linha `Sitemap:`) e
-      **`public/sitemap.xml`** com as 6 rotas (`/`, `/sobre`, `/projetos`,
-      `/stack`, `/blog`, `/contato`).
-- [ ] **`<h1>` por página interna** — Sobre/Projetos/Stack/Blog/Contato começam
-      no `<h2>` do SectionHeader, sem h1. Existe `src/Components/ui/EditorialName.jsx`
-      (um `<h1>`) que é **dead code** — provavelmente era o h1 planejado; promover/usar.
-- [ ] **BUG [alto] reset do `doneRef` no Typewriter** — `src/Components/ui/Typewriter.jsx`.
-      `doneRef` nunca volta a `false`; se `text` mudar após concluído, trava no texto
-      antigo e não re-dispara `onDone`. Latente (textos hoje são estáticos), mas corrigir:
-      resetar `doneRef.current = false` no início do efeito e remover a guarda
-      `doneRef.current` do early-return.
-- [ ] **`BlogTabNews` "CARREGANDO" enganoso** (`BlogTabNews.jsx:20-29`) — dado é
-      estático, nunca "carrega". Trocar texto do estado vazio para "Nenhuma publicação ainda".
-- [ ] **`cursor: pointer` no PixelAvatar** (`PixelAvatar.css:12`) mas não é clicável —
-      remover o cursor (ou tornar botão real).
+- [x] **og:image / twitter:image com URL absoluta** — `index.html` agora usa
+      `https://www.phvdev.com.br/og-card.png` + `og:image:width/height/type`.
+- [x] **Gerar `public/og-card.png` 1200×630** a partir de `public/og-card.svg`.
+      Rasterizado via headless Chrome (ImageMagick não renderiza a fonte Press Start 2P;
+      Chrome carrega a fonte do Google Fonts). Render conferido visualmente. SVG mantido
+      como fonte editável.
+- [x] **`public/robots.txt`** (Allow + `Sitemap:`) e **`public/sitemap.xml`**
+      com as 6 rotas criados.
+- [x] **`<h1>` por página interna** — `SectionHeader` ganhou prop `as` (default `h2`);
+      o 1º header de Sobre/Projetos/Stack/Blog/Contato agora é `as="h1"`. (Home/Hero já
+      tinha h1.) `EditorialName.jsx` **continua dead code** — não promovido porque o
+      conteúdo dele é o nome "Pedro Veloso", inadequado p/ headings internos. Candidato
+      a remoção (junto do `.css`) numa próxima limpeza.
+- [x] **BUG reset do `doneRef` no Typewriter** — corrigido: `doneRef.current = false`
+      no início do efeito; guarda removida do early-return.
+- [x] **`BlogTabNews` "CARREGANDO" enganoso** — estado vazio agora diz
+      "Nenhuma publicação ainda." (kicker `// FEED`).
+- [x] **`cursor: pointer` no PixelAvatar** — removido.
 
 ### Maiores (alto retorno, mais esforço)
 
@@ -89,10 +86,13 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
 
 ## Como retomar
 
-1. `git checkout main && git pull` (confirmar que nada novo entrou).
-2. Criar branch p/ os fixes: `git checkout -b fix/seo-perf-quickwins`.
-3. Atacar os **Quick wins** na ordem da lista. Build/lint a cada passo.
-4. Decidir sobre os **Maiores** — sugestão: prerender + meta-por-rota juntos
+> Quick wins já estão na branch `fix/seo-perf-quickwins` (lint+build limpos), ainda
+> **não mergeados/deployados**. Próximo passo é revisar/mergear e atacar os **Maiores**.
+
+1. Revisar a branch `fix/seo-perf-quickwins` e mergear em `main` (dispara Vercel).
+   Validar pós-deploy: `og-card.png`, `robots.txt`, `sitemap.xml` acessíveis em prod;
+   preview social no [opengraph.xyz](https://www.opengraph.xyz) ou debugger do LinkedIn.
+2. Decidir sobre os **Maiores** — sugestão: prerender + meta-por-rota juntos
    (um habilita o outro). Pode valer perguntar ao Pedro a prioridade.
-5. Deploy: merge em `main` + push (dispara Vercel). Validar com
+3. Deploy: merge em `main` + push (dispara Vercel). Validar com
    `curl -sL .../ | grep assets/index-` (hash bate com build local).

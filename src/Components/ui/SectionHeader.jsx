@@ -1,7 +1,7 @@
 import Typewriter from "./Typewriter.jsx";
 import "./SectionHeader.css";
 
-const SectionHeader = ({ index, title, kicker, command }) => {
+const SectionHeader = ({ index, title, kicker, command, as = "h2" }) => {
   return (
     <header className="section-header">
       <div className="section-header__top">
@@ -14,7 +14,11 @@ const SectionHeader = ({ index, title, kicker, command }) => {
           kicker && <span className="section-header__kicker">{kicker}</span>
         )}
       </div>
-      <h2 className="section-header__title">{title}</h2>
+      {as === "h1" ? (
+        <h1 className="section-header__title">{title}</h1>
+      ) : (
+        <h2 className="section-header__title">{title}</h2>
+      )}
     </header>
   );
 };
