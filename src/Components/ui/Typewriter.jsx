@@ -41,8 +41,12 @@ const Typewriter = ({
     // Texto novo recomeça a digitação e volta a poder disparar onDone.
     doneRef.current = false;
     if (reduce) {
+      // Sem animação: mostra o texto cheio na hora. Só dispara onDone quando
+      // é a vez desta linha (active), para a sequência de boot avançar em
+      // ordem — em vez de todas as linhas chamarem onDone de uma vez no mount
+      // (que só funcionava por causa do Math.max em advanceTo).
       setCount(text.length);
-      finish();
+      if (active) finish();
       return;
     }
     if (!active) return;

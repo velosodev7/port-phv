@@ -90,12 +90,23 @@ Resultado da análise feita em 2026-06-13. Priorizado. **Nada disso está feito 
 
 ### Itens menores / dívida anotada
 
-- Reduced-motion: os 5 Typewriter do Hero chamam `onDone` no mount simultaneamente;
-  funciona só por causa do `Math.max` no `advanceTo` — frágil, não urgente.
-- Listener de Enter no Hero usa allowlist por `tagName` (frágil p/ `role=button`,
-  `contenteditable`) — baixo risco hoje.
+- [x] Reduced-motion: o `Typewriter` agora só dispara `onDone` quando `active`
+  (branch `chore/divida-menor`). A sequência de boot avança em ordem mesmo sem
+  animação, sem depender do `Math.max` em `advanceTo`. Verificado via Puppeteer
+  com `prefers-reduced-motion: reduce` (Title Screen chega ao estado final:
+  avatar + ações + PRESS START visíveis).
+- [x] Listener de Enter no Hero: troquei a allowlist por `tagName` por
+  `el.closest('a, button, input, textarea, select, [role="button"], [role="link"],
+  [contenteditable="true"]')` + `el.isContentEditable` — cobre interativos
+  customizados. (mesma branch)
+- [x] `EditorialName` dead code removido (`.jsx` + `.css`) — não era importado em
+  lugar nenhum. (mesma branch)
 - `useFx` `getServerSnapshot` retorna `true` fixo — só importaria se migrar p/ SSR.
+  **Não tocado** (o prerender é client-render via Puppeteer; getServerSnapshot
+  nem é exercido). Deixado de propósito.
 - Rota inexistente devolve 200 (soft 404) em vez de 404 — impacto SEO pequeno.
+  **Não tocado**: exigiria função serverless / config na Vercel p/ status 404 num
+  SPA estático; retorno não justifica hoje.
 
 ---
 

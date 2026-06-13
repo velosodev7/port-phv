@@ -34,8 +34,16 @@ const Hero = () => {
   useEffect(() => {
     const onKey = (e) => {
       if (e.key !== "Enter") return;
-      const tag = document.activeElement?.tagName;
-      if (tag === "A" || tag === "BUTTON" || tag === "INPUT" || tag === "TEXTAREA") {
+      // Se o foco está num elemento que já usa o Enter (link, botão, campo,
+      // ou um interativo customizado por role/contenteditable), não sequestra.
+      const el = document.activeElement;
+      if (
+        el &&
+        (el.isContentEditable ||
+          el.closest(
+            'a, button, input, textarea, select, [role="button"], [role="link"], [contenteditable="true"]'
+          ))
+      ) {
         return;
       }
       e.preventDefault();
