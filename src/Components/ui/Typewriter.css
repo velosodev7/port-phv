@@ -1,0 +1,29 @@
+.typewriter {
+  display: inline;
+}
+
+.typewriter__cursor {
+  display: inline-block;
+  margin-left: 0.08em;
+  color: var(--game-primary);
+  font-weight: 700;
+  text-shadow: var(--game-glow);
+}
+
+/* Enquanto digita o cursor fica sólido; ao terminar (.is-done) ele pisca. */
+@media (prefers-reduced-motion: no-preference) {
+  .typewriter__cursor.is-done {
+    animation: typewriter-blink 1.05s steps(1) infinite;
+  }
+}
+
+@keyframes typewriter-blink {
+  0%,
+  50% {
+    opacity: 1;
+  }
+  50.01%,
+  100% {
+    opacity: 0;
+  }
+}

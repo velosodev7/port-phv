@@ -18,7 +18,7 @@ export const titleScreen = {
   status: "HP ████░ · XP ▓▓▓",
   name: { first: "PEDRO", last: "VELOSO" },
   role: "Full-stack Developer",
-  stack: ["React", "Node.js", "PostgreSQL"],
+  stack: ["React", "Node.js", "JavaScript", "Python"],
   start: "PRESS START",
   startTo: "/projetos",
   startHint: "Inserir ficha · ver projetos",
