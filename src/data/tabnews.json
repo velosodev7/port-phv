@@ -1,13 +1,68 @@
 {
-  "updated_at": "2026-06-20T11:09:36.475Z",
+  "updated_at": "2026-06-21T11:39:24.061Z",
   "posts": [
+    {
+      "id": "3a604172-39db-4bc4-854e-b56d48df0a14",
+      "title": "Vocês usam a API do TabNews para alguma coisa? (+ versão nova da biblioteca da API do TabNews para Kotlin e alerta da defesa civil)",
+      "slug": "voces-usam-a-api-do-tabnews-para-alguma-coisa-versao-nova-da-biblioteca-da-api-do-tabnews-para-kotlin-e-alerta-da-defesa-civil",
+      "owner_username": "rphlfc",
+      "source_url": "https://github.com/rphlfc/tabnews-kotlin",
+      "tabcoins": 7,
+      "children_deep_count": 4,
+      "published_at": "2026-06-20T14:56:42.250Z",
+      "url": "https://www.tabnews.com.br/rphlfc/voces-usam-a-api-do-tabnews-para-alguma-coisa-versao-nova-da-biblioteca-da-api-do-tabnews-para-kotlin-e-alerta-da-defesa-civil"
+    },
+    {
+      "id": "e8a403c8-9a23-465b-84af-c80d07c6a4cc",
+      "title": "Pitch: Sparrow: o orquestrador que comecei a construir porque cansei do buraco entre Docker Compose, Swarm e Kubernetes",
+      "slug": "sparrow-o-orquestrador-que-comecei-a-construir-porque-cansei-do-buraco-entre-docker-compose-swarm-e-kubernetes",
+      "owner_username": "andeerc",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-06-20T16:25:50.103Z",
+      "url": "https://www.tabnews.com.br/andeerc/sparrow-o-orquestrador-que-comecei-a-construir-porque-cansei-do-buraco-entre-docker-compose-swarm-e-kubernetes"
+    },
+    {
+      "id": "3b8cd895-4c8b-40f7-9ec3-c0be069022be",
+      "title": "Pitch: Do \"Dev Raiz\" ao uso de IA via CLI: Como criei um Token Monitor local para gerenciar custos de LLMs",
+      "slug": "do-dev-raiz-ao-uso-de-ia-via-cli-como-criei-um-token-monitor-local-para-gerenciar-custos-de-llms",
+      "owner_username": "abnerfc01",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-21T10:47:22.462Z",
+      "url": "https://www.tabnews.com.br/abnerfc01/do-dev-raiz-ao-uso-de-ia-via-cli-como-criei-um-token-monitor-local-para-gerenciar-custos-de-llms"
+    },
+    {
+      "id": "5af129ef-7327-4e7c-8b42-bcd0e07a351e",
+      "title": "# Proposta: Vamos criar \"Páginas Vivas\" e evoluir conteúdos históricos? (Exemplo: IA + Engajamento)",
+      "slug": "proposta-vamos-criar-paginas-vivas-e-evoluir-conteudos-historicos-exemplo-ia-engajamento",
+      "owner_username": "loremipsun",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-21T00:12:54.615Z",
+      "url": "https://www.tabnews.com.br/loremipsun/proposta-vamos-criar-paginas-vivas-e-evoluir-conteudos-historicos-exemplo-ia-engajamento"
+    },
+    {
+      "id": "50cac6ac-e78e-4664-bb0e-6b66656e3914",
+      "title": "Como construir uma equipe de agentes de IA e desenvolver seu primeiro jogo em menos de 2 horas",
+      "slug": "como-construir-uma-equipe-de-agentes-de-ia-e-desenvolver-seu-primeiro-jogo-em-menos-de-2-horas",
+      "owner_username": "AlliTerhorst",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-06-20T09:47:05.269Z",
+      "url": "https://www.tabnews.com.br/AlliTerhorst/como-construir-uma-equipe-de-agentes-de-ia-e-desenvolver-seu-primeiro-jogo-em-menos-de-2-horas"
+    },
     {
       "id": "04aeb508-7974-432f-8c40-e1b5c0d1c304",
       "title": "Pitch: Lançamento da Quarta Edição do Meu Livro de Desenvolvimento para Web em Java",
       "slug": "pitch-lancamento-da-quarta-edicao-do-meu-livro-de-desenvolvimento-para-web-em-java",
       "owner_username": "davidbuzatto",
       "source_url": null,
-      "tabcoins": 11,
+      "tabcoins": 14,
       "children_deep_count": 5,
       "published_at": "2026-06-19T15:43:46.298Z",
       "url": "https://www.tabnews.com.br/davidbuzatto/pitch-lancamento-da-quarta-edicao-do-meu-livro-de-desenvolvimento-para-web-em-java"
@@ -18,10 +73,32 @@
       "slug": "docker-para-devs-do-dockerfile-ao-docker-compose-em-producao",
       "owner_username": "mrmsoares",
       "source_url": "https://www.vivodecodigo.com.br/infra/docker-dockerfile-docker-compose-producao-guia-pratico",
-      "tabcoins": 9,
-      "children_deep_count": 2,
+      "tabcoins": 11,
+      "children_deep_count": 4,
       "published_at": "2026-06-19T12:02:57.576Z",
       "url": "https://www.tabnews.com.br/mrmsoares/docker-para-devs-do-dockerfile-ao-docker-compose-em-producao"
+    },
+    {
+      "id": "ee131357-47f8-4e3e-a1b6-a09de3622da7",
+      "title": "Pitch: Como uma agenda de papel e grupos de WhatsApp nos levaram a criar uma TravelTech para gestão de excursões",
+      "slug": "como-uma-agenda-de-papel-e-grupos-de-whatsapp-nos-levaram-a-criar-uma-traveltech-para-gestao-de-excursoes",
+      "owner_username": "orides",
+      "source_url": "https://viagilize.com.br",
+      "tabcoins": 9,
+      "children_deep_count": 1,
+      "published_at": "2026-06-19T19:24:16.002Z",
+      "url": "https://www.tabnews.com.br/orides/como-uma-agenda-de-papel-e-grupos-de-whatsapp-nos-levaram-a-criar-uma-traveltech-para-gestao-de-excursoes"
+    },
+    {
+      "id": "4df51e45-5635-4b6b-bc6e-0e2f5342591d",
+      "title": "Descontinuação do \"X-\" em cabeçalhos HTTP personalizados, porquê isso é importante para você e o que fazer (RFC 6648).",
+      "slug": "descontinuacao-do-x-em-cabecalhos-http-personalizados-porque-isso-e-importante-para-voce-e-o-que-fazer-rfc-6648",
+      "owner_username": "allbertuu",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 1,
+      "published_at": "2026-06-18T14:58:13.517Z",
+      "url": "https://www.tabnews.com.br/allbertuu/descontinuacao-do-x-em-cabecalhos-http-personalizados-porque-isso-e-importante-para-voce-e-o-que-fazer-rfc-6648"
     },
     {
       "id": "d6d9da7e-ea5e-4e96-aef3-b55d54c6bf9e",
@@ -33,83 +110,6 @@
       "children_deep_count": 1,
       "published_at": "2026-06-19T00:45:32.476Z",
       "url": "https://www.tabnews.com.br/kevinjh07/transformei-uma-tv-box-parada-em-um-homelab-de-observabilidade"
-    },
-    {
-      "id": "ee131357-47f8-4e3e-a1b6-a09de3622da7",
-      "title": "Pitch: Como uma agenda de papel e grupos de WhatsApp nos levaram a criar uma TravelTech para gestão de excursões",
-      "slug": "como-uma-agenda-de-papel-e-grupos-de-whatsapp-nos-levaram-a-criar-uma-traveltech-para-gestao-de-excursoes",
-      "owner_username": "orides",
-      "source_url": "https://viagilize.com.br",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-19T19:24:16.002Z",
-      "url": "https://www.tabnews.com.br/orides/como-uma-agenda-de-papel-e-grupos-de-whatsapp-nos-levaram-a-criar-uma-traveltech-para-gestao-de-excursoes"
-    },
-    {
-      "id": "f72d4b2a-081d-43b4-8ea0-b247e2ee9e3c",
-      "title": "Coloquei 7 agentes de IA no cron diário. 2 ficaram em silêncio por 18 dias. Tracing não pegou. Um contrato de exit code pegou.",
-      "slug": "coloquei-7-agentes-de-ia-no-cron-diario-2-ficaram-em-silencio-por-18-dias-tracing-nao-pegou-um-contrato-de-exit-code-pegou",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/cron-7-agentes-silent-18-dias/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-19T12:00:03.612Z",
-      "url": "https://www.tabnews.com.br/kenimo49/coloquei-7-agentes-de-ia-no-cron-diario-2-ficaram-em-silencio-por-18-dias-tracing-nao-pegou-um-contrato-de-exit-code-pegou"
-    },
-    {
-      "id": "4ae22e5d-1910-4e72-b133-3dff7ac5f36d",
-      "title": "Quando a Informática Tinha Alma e os Computadores Obedeciam a Você (Não ao Vale do Silício)",
-      "slug": "quando-a-informatica-tinha-alma-e-os-computadores-obedeciam-a-voce-nao-ao-vale-do-silicio",
-      "owner_username": "gorpo85",
-      "source_url": "https://comuniq.xyz/post.php?t=1284",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-06-19T20:58:44.534Z",
-      "url": "https://www.tabnews.com.br/gorpo85/quando-a-informatica-tinha-alma-e-os-computadores-obedeciam-a-voce-nao-ao-vale-do-silicio"
-    },
-    {
-      "id": "fa62c120-ba20-4e2b-8973-2509c3f4881d",
-      "title": "Primeira campanha real criada por alguém que não era eu",
-      "slug": "primeira-campanha-real-criada-por-alguem-que-nao-era-eu",
-      "owner_username": "obrenoalvim",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-06-19T20:44:40.947Z",
-      "url": "https://www.tabnews.com.br/obrenoalvim/primeira-campanha-real-criada-por-alguem-que-nao-era-eu"
-    },
-    {
-      "id": "b1fc6fcb-4d80-4154-957a-5a2b65388204",
-      "title": "Projetando Armazenamento de Arquivos em Escala: Como Funciona a Sincronização e o Upload de Dropbox e Google Drive",
-      "slug": "projetando-armazenamento-de-arquivos-em-escala-como-funciona-a-sincronizacao-e-o-upload-de-dropbox-e-google-drive",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/file-storage-system-design",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-19T22:36:41.378Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/projetando-armazenamento-de-arquivos-em-escala-como-funciona-a-sincronizacao-e-o-upload-de-dropbox-e-google-drive"
-    },
-    {
-      "id": "567170b7-01fc-4757-a13f-0f4bb318d5b9",
-      "title": "Para voltar a ensinar, precisasse aprender novamente",
-      "slug": "para-voltar-a-ensinar-precisasse-aprender-novamente",
-      "owner_username": "sauloFerroMaciel",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-19T22:33:48.446Z",
-      "url": "https://www.tabnews.com.br/sauloFerroMaciel/para-voltar-a-ensinar-precisasse-aprender-novamente"
-    },
-    {
-      "id": "6ba1bf90-530b-4edc-b038-cfcfdd16536d",
-      "title": "Como Cheguei a R$ 10 Mil de MRR em 5 Meses (Sem Revelar Meu SaaS)",
-      "slug": "como-cheguei-a-r-10-mil-de-mrr-em-5-meses-sem-revelar-meu-saas",
-      "owner_username": "naorevelo01",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 9,
-      "published_at": "2026-06-18T02:49:37.486Z",
-      "url": "https://www.tabnews.com.br/naorevelo01/como-cheguei-a-r-10-mil-de-mrr-em-5-meses-sem-revelar-meu-saas"
     }
   ]
 }
