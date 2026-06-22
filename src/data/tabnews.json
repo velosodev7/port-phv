@@ -1,27 +1,71 @@
 {
-  "updated_at": "2026-06-21T11:39:24.061Z",
+  "updated_at": "2026-06-22T14:29:14.302Z",
   "posts": [
     {
-      "id": "3a604172-39db-4bc4-854e-b56d48df0a14",
-      "title": "Vocês usam a API do TabNews para alguma coisa? (+ versão nova da biblioteca da API do TabNews para Kotlin e alerta da defesa civil)",
-      "slug": "voces-usam-a-api-do-tabnews-para-alguma-coisa-versao-nova-da-biblioteca-da-api-do-tabnews-para-kotlin-e-alerta-da-defesa-civil",
-      "owner_username": "rphlfc",
-      "source_url": "https://github.com/rphlfc/tabnews-kotlin",
-      "tabcoins": 7,
-      "children_deep_count": 4,
-      "published_at": "2026-06-20T14:56:42.250Z",
-      "url": "https://www.tabnews.com.br/rphlfc/voces-usam-a-api-do-tabnews-para-alguma-coisa-versao-nova-da-biblioteca-da-api-do-tabnews-para-kotlin-e-alerta-da-defesa-civil"
-    },
-    {
-      "id": "e8a403c8-9a23-465b-84af-c80d07c6a4cc",
-      "title": "Pitch: Sparrow: o orquestrador que comecei a construir porque cansei do buraco entre Docker Compose, Swarm e Kubernetes",
-      "slug": "sparrow-o-orquestrador-que-comecei-a-construir-porque-cansei-do-buraco-entre-docker-compose-swarm-e-kubernetes",
-      "owner_username": "andeerc",
+      "id": "4ba63ca7-b1c8-459c-ad27-8c4a26a3082b",
+      "title": "Agente de código precisa de orçamento, não só de prompt",
+      "slug": "agente-de-codigo-precisa-de-orcamento-nao-so-de-prompt",
+      "owner_username": "Centelha",
       "source_url": null,
       "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-06-22T03:46:51.442Z",
+      "url": "https://www.tabnews.com.br/Centelha/agente-de-codigo-precisa-de-orcamento-nao-so-de-prompt"
+    },
+    {
+      "id": "1292ea99-14ae-4613-a3e1-a375a384ddb7",
+      "title": "Pitch: A IA esquece tudo a cada sessão nova. Resolvi com 2 regras e um arquivo de texto",
+      "slug": "a-ia-esquece-tudo-a-cada-sessao-nova-resolvi-com-2-regras-e-um-arquivo-de-texto",
+      "owner_username": "obrenoalvim",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 3,
+      "published_at": "2026-06-22T01:32:41.771Z",
+      "url": "https://www.tabnews.com.br/obrenoalvim/a-ia-esquece-tudo-a-cada-sessao-nova-resolvi-com-2-regras-e-um-arquivo-de-texto"
+    },
+    {
+      "id": "dbc3d3dc-4a32-4dc2-9c1c-1624ad622196",
+      "title": "vibeOS: o experimento de Steve Sanderson com um sistema operacional movido por IA",
+      "slug": "vibeos-o-experimento-de-steve-sanderson-com-um-sistema-operacional-movido-por-ia",
+      "owner_username": "gsrbr",
+      "source_url": "https://www.youtube.com/watch?v=zh6fMtL_cSM",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-06-21T21:06:02.303Z",
+      "url": "https://www.tabnews.com.br/gsrbr/vibeos-o-experimento-de-steve-sanderson-com-um-sistema-operacional-movido-por-ia"
+    },
+    {
+      "id": "d8872a29-9c5c-4b69-bb1d-327d992d9fbe",
+      "title": "Linux 7.2 remove completamente função “strncpy()” do kernel após seis anos de trabalho e 362 commits",
+      "slug": "linux-7-2-remove-completamente-funcao-strncpy-do-kernel-apos-seis-anos-de-trabalho-e-362-commits",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://linux.slashdot.org/story/26/06/21/1810200/after-six-years-of-work-and-over-360-patches-linux-72-finally-removes-bug-prone-strncpy",
+      "tabcoins": 2,
       "children_deep_count": 0,
-      "published_at": "2026-06-20T16:25:50.103Z",
-      "url": "https://www.tabnews.com.br/andeerc/sparrow-o-orquestrador-que-comecei-a-construir-porque-cansei-do-buraco-entre-docker-compose-swarm-e-kubernetes"
+      "published_at": "2026-06-22T14:27:27.882Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/linux-7-2-remove-completamente-funcao-strncpy-do-kernel-apos-seis-anos-de-trabalho-e-362-commits"
+    },
+    {
+      "id": "329ba9fd-fa37-41a4-9eeb-2affcbcf5fbc",
+      "title": "IA está fazendo muita gente acreditar que sabe programar sem entender o que fez",
+      "slug": "ia-esta-fazendo-muita-gente-acreditar-que-sabe-programar-sem-entender-o-que-fez",
+      "owner_username": "Eduardamirandafilho",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-06-22T02:57:00.673Z",
+      "url": "https://www.tabnews.com.br/Eduardamirandafilho/ia-esta-fazendo-muita-gente-acreditar-que-sabe-programar-sem-entender-o-que-fez"
+    },
+    {
+      "id": "36a6ea69-1282-4cb5-90da-d3d5fd99bf93",
+      "title": "API Gateway Patterns: Autenticação, Rate Limiting e Caching com Node.js",
+      "slug": "api-gateway-patterns-autenticacao-rate-limiting-e-caching-com-node-js",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/api-gateway-patterns-autenticacao-rate-limiting-caching-nodejs",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-22T12:03:46.135Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/api-gateway-patterns-autenticacao-rate-limiting-e-caching-com-node-js"
     },
     {
       "id": "3b8cd895-4c8b-40f7-9ec3-c0be069022be",
@@ -29,32 +73,10 @@
       "slug": "do-dev-raiz-ao-uso-de-ia-via-cli-como-criei-um-token-monitor-local-para-gerenciar-custos-de-llms",
       "owner_username": "abnerfc01",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-21T10:47:22.462Z",
-      "url": "https://www.tabnews.com.br/abnerfc01/do-dev-raiz-ao-uso-de-ia-via-cli-como-criei-um-token-monitor-local-para-gerenciar-custos-de-llms"
-    },
-    {
-      "id": "5af129ef-7327-4e7c-8b42-bcd0e07a351e",
-      "title": "# Proposta: Vamos criar \"Páginas Vivas\" e evoluir conteúdos históricos? (Exemplo: IA + Engajamento)",
-      "slug": "proposta-vamos-criar-paginas-vivas-e-evoluir-conteudos-historicos-exemplo-ia-engajamento",
-      "owner_username": "loremipsun",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-21T00:12:54.615Z",
-      "url": "https://www.tabnews.com.br/loremipsun/proposta-vamos-criar-paginas-vivas-e-evoluir-conteudos-historicos-exemplo-ia-engajamento"
-    },
-    {
-      "id": "50cac6ac-e78e-4664-bb0e-6b66656e3914",
-      "title": "Como construir uma equipe de agentes de IA e desenvolver seu primeiro jogo em menos de 2 horas",
-      "slug": "como-construir-uma-equipe-de-agentes-de-ia-e-desenvolver-seu-primeiro-jogo-em-menos-de-2-horas",
-      "owner_username": "AlliTerhorst",
-      "source_url": null,
       "tabcoins": 4,
       "children_deep_count": 1,
-      "published_at": "2026-06-20T09:47:05.269Z",
-      "url": "https://www.tabnews.com.br/AlliTerhorst/como-construir-uma-equipe-de-agentes-de-ia-e-desenvolver-seu-primeiro-jogo-em-menos-de-2-horas"
+      "published_at": "2026-06-21T10:47:22.462Z",
+      "url": "https://www.tabnews.com.br/abnerfc01/do-dev-raiz-ao-uso-de-ia-via-cli-como-criei-um-token-monitor-local-para-gerenciar-custos-de-llms"
     },
     {
       "id": "04aeb508-7974-432f-8c40-e1b5c0d1c304",
@@ -68,48 +90,26 @@
       "url": "https://www.tabnews.com.br/davidbuzatto/pitch-lancamento-da-quarta-edicao-do-meu-livro-de-desenvolvimento-para-web-em-java"
     },
     {
-      "id": "e6d145b7-e0b4-4594-8596-af82759bb9b8",
-      "title": "Docker para Devs: do Dockerfile ao docker-compose em Produção",
-      "slug": "docker-para-devs-do-dockerfile-ao-docker-compose-em-producao",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/infra/docker-dockerfile-docker-compose-producao-guia-pratico",
-      "tabcoins": 11,
-      "children_deep_count": 4,
-      "published_at": "2026-06-19T12:02:57.576Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/docker-para-devs-do-dockerfile-ao-docker-compose-em-producao"
-    },
-    {
       "id": "ee131357-47f8-4e3e-a1b6-a09de3622da7",
       "title": "Pitch: Como uma agenda de papel e grupos de WhatsApp nos levaram a criar uma TravelTech para gestão de excursões",
       "slug": "como-uma-agenda-de-papel-e-grupos-de-whatsapp-nos-levaram-a-criar-uma-traveltech-para-gestao-de-excursoes",
       "owner_username": "orides",
       "source_url": "https://viagilize.com.br",
-      "tabcoins": 9,
+      "tabcoins": 10,
       "children_deep_count": 1,
       "published_at": "2026-06-19T19:24:16.002Z",
       "url": "https://www.tabnews.com.br/orides/como-uma-agenda-de-papel-e-grupos-de-whatsapp-nos-levaram-a-criar-uma-traveltech-para-gestao-de-excursoes"
     },
     {
-      "id": "4df51e45-5635-4b6b-bc6e-0e2f5342591d",
-      "title": "Descontinuação do \"X-\" em cabeçalhos HTTP personalizados, porquê isso é importante para você e o que fazer (RFC 6648).",
-      "slug": "descontinuacao-do-x-em-cabecalhos-http-personalizados-porque-isso-e-importante-para-voce-e-o-que-fazer-rfc-6648",
-      "owner_username": "allbertuu",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 1,
-      "published_at": "2026-06-18T14:58:13.517Z",
-      "url": "https://www.tabnews.com.br/allbertuu/descontinuacao-do-x-em-cabecalhos-http-personalizados-porque-isso-e-importante-para-voce-e-o-que-fazer-rfc-6648"
-    },
-    {
-      "id": "d6d9da7e-ea5e-4e96-aef3-b55d54c6bf9e",
-      "title": "Pitch: Transformei uma TV Box parada em um Homelab de Observabilidade",
-      "slug": "transformei-uma-tv-box-parada-em-um-homelab-de-observabilidade",
-      "owner_username": "kevinjh07",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-06-19T00:45:32.476Z",
-      "url": "https://www.tabnews.com.br/kevinjh07/transformei-uma-tv-box-parada-em-um-homelab-de-observabilidade"
+      "id": "3a604172-39db-4bc4-854e-b56d48df0a14",
+      "title": "Vocês usam a API do TabNews para alguma coisa? (+ versão nova da biblioteca da API do TabNews para Kotlin e alerta da defesa civil)",
+      "slug": "voces-usam-a-api-do-tabnews-para-alguma-coisa-versao-nova-da-biblioteca-da-api-do-tabnews-para-kotlin-e-alerta-da-defesa-civil",
+      "owner_username": "rphlfc",
+      "source_url": "https://github.com/rphlfc/tabnews-kotlin",
+      "tabcoins": 9,
+      "children_deep_count": 7,
+      "published_at": "2026-06-20T14:56:42.250Z",
+      "url": "https://www.tabnews.com.br/rphlfc/voces-usam-a-api-do-tabnews-para-alguma-coisa-versao-nova-da-biblioteca-da-api-do-tabnews-para-kotlin-e-alerta-da-defesa-civil"
     }
   ]
 }
