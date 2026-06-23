@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T14:29:14.302Z",
+  "updated_at": "2026-06-23T11:53:35.031Z",
   "posts": [
     {
       "id": "4ba63ca7-b1c8-459c-ad27-8c4a26a3082b",
@@ -7,10 +7,76 @@
       "slug": "agente-de-codigo-precisa-de-orcamento-nao-so-de-prompt",
       "owner_username": "Centelha",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 2,
+      "tabcoins": 6,
+      "children_deep_count": 6,
       "published_at": "2026-06-22T03:46:51.442Z",
       "url": "https://www.tabnews.com.br/Centelha/agente-de-codigo-precisa-de-orcamento-nao-so-de-prompt"
+    },
+    {
+      "id": "8946e08e-8e6e-4f78-8f6c-bb114d59ee60",
+      "title": "🏗️ A Jornada do crom-agente: Como Estou Construindo um Agente de IA Autônomo do Zero | Go | SDK, CLI, APP, IDE | NPM",
+      "slug": "a-jornada-do-crom-agente-como-estou-construindo-um-agente-de-ia-autonomo-do-zero",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/a-jornada-do-crom-agente-como-estou-construindo-um-agente-de-ia-autonomo-do-zero",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-06-22T23:56:58.465Z",
+      "url": "https://www.tabnews.com.br/MrJ/a-jornada-do-crom-agente-como-estou-construindo-um-agente-de-ia-autonomo-do-zero"
+    },
+    {
+      "id": "d8872a29-9c5c-4b69-bb1d-327d992d9fbe",
+      "title": "Linux 7.2 remove completamente função “strncpy()” do kernel após seis anos de trabalho e 362 commits",
+      "slug": "linux-7-2-remove-completamente-funcao-strncpy-do-kernel-apos-seis-anos-de-trabalho-e-362-commits",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://linux.slashdot.org/story/26/06/21/1810200/after-six-years-of-work-and-over-360-patches-linux-72-finally-removes-bug-prone-strncpy",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-06-22T14:27:27.882Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/linux-7-2-remove-completamente-funcao-strncpy-do-kernel-apos-seis-anos-de-trabalho-e-362-commits"
+    },
+    {
+      "id": "ce910ca3-d390-43a0-b2c2-f209c1ab6de4",
+      "title": "Pitch: O Martelo e o Prego .:. Um livro prescritivo sobre adoção de IA para empresas brasileiras",
+      "slug": "pitch-o-martelo-e-o-prego-um-livro-prescritivo-sobre-adocao-de-ia-para-empresas-brasileiras",
+      "owner_username": "rogernet",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-06-22T15:46:35.299Z",
+      "url": "https://www.tabnews.com.br/rogernet/pitch-o-martelo-e-o-prego-um-livro-prescritivo-sobre-adocao-de-ia-para-empresas-brasileiras"
+    },
+    {
+      "id": "e3857714-60e4-4e53-a98b-834a948e131f",
+      "title": "MED no Pix (Recuperação de Valores): a maioria dos resumos erra o prazo básico",
+      "slug": "med-no-pix-recuperacao-de-valores-a-maioria-dos-resumos-erra-o-prazo-basico",
+      "owner_username": "normativodev",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-23T05:23:24.107Z",
+      "url": "https://www.tabnews.com.br/normativodev/med-no-pix-recuperacao-de-valores-a-maioria-dos-resumos-erra-o-prazo-basico"
+    },
+    {
+      "id": "f6f99e05-6e14-41ba-b942-7324a110ad67",
+      "title": "Quando logs TRACE viram escrita constante no SSD",
+      "slug": "quando-logs-trace-viram-escrita-constante-no-ssd",
+      "owner_username": "elzobrito",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-23T01:38:30.251Z",
+      "url": "https://www.tabnews.com.br/elzobrito/quando-logs-trace-viram-escrita-constante-no-ssd"
+    },
+    {
+      "id": "5ef8b5a4-36f9-4144-84e7-fc57b2bae874",
+      "title": "Pitch: Conectei um SSD na minha TV Box e ela virou um servidor de mídia (e o que aprendi tentando rodar um canal de TV 24h)",
+      "slug": "conectei-um-ssd-na-minha-tv-box-e-ela-virou-um-servidor-de-midia-e-o-que-aprendi-tentando-rodar-um-canal-de-tv-24h",
+      "owner_username": "kevinjh07",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-23T00:07:59.235Z",
+      "url": "https://www.tabnews.com.br/kevinjh07/conectei-um-ssd-na-minha-tv-box-e-ela-virou-um-servidor-de-midia-e-o-que-aprendi-tentando-rodar-um-canal-de-tv-24h"
     },
     {
       "id": "1292ea99-14ae-4613-a3e1-a375a384ddb7",
@@ -19,86 +85,9 @@
       "owner_username": "obrenoalvim",
       "source_url": null,
       "tabcoins": 3,
-      "children_deep_count": 3,
+      "children_deep_count": 6,
       "published_at": "2026-06-22T01:32:41.771Z",
       "url": "https://www.tabnews.com.br/obrenoalvim/a-ia-esquece-tudo-a-cada-sessao-nova-resolvi-com-2-regras-e-um-arquivo-de-texto"
-    },
-    {
-      "id": "dbc3d3dc-4a32-4dc2-9c1c-1624ad622196",
-      "title": "vibeOS: o experimento de Steve Sanderson com um sistema operacional movido por IA",
-      "slug": "vibeos-o-experimento-de-steve-sanderson-com-um-sistema-operacional-movido-por-ia",
-      "owner_username": "gsrbr",
-      "source_url": "https://www.youtube.com/watch?v=zh6fMtL_cSM",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-06-21T21:06:02.303Z",
-      "url": "https://www.tabnews.com.br/gsrbr/vibeos-o-experimento-de-steve-sanderson-com-um-sistema-operacional-movido-por-ia"
-    },
-    {
-      "id": "d8872a29-9c5c-4b69-bb1d-327d992d9fbe",
-      "title": "Linux 7.2 remove completamente função “strncpy()” do kernel após seis anos de trabalho e 362 commits",
-      "slug": "linux-7-2-remove-completamente-funcao-strncpy-do-kernel-apos-seis-anos-de-trabalho-e-362-commits",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://linux.slashdot.org/story/26/06/21/1810200/after-six-years-of-work-and-over-360-patches-linux-72-finally-removes-bug-prone-strncpy",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-06-22T14:27:27.882Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/linux-7-2-remove-completamente-funcao-strncpy-do-kernel-apos-seis-anos-de-trabalho-e-362-commits"
-    },
-    {
-      "id": "329ba9fd-fa37-41a4-9eeb-2affcbcf5fbc",
-      "title": "IA está fazendo muita gente acreditar que sabe programar sem entender o que fez",
-      "slug": "ia-esta-fazendo-muita-gente-acreditar-que-sabe-programar-sem-entender-o-que-fez",
-      "owner_username": "Eduardamirandafilho",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-06-22T02:57:00.673Z",
-      "url": "https://www.tabnews.com.br/Eduardamirandafilho/ia-esta-fazendo-muita-gente-acreditar-que-sabe-programar-sem-entender-o-que-fez"
-    },
-    {
-      "id": "36a6ea69-1282-4cb5-90da-d3d5fd99bf93",
-      "title": "API Gateway Patterns: Autenticação, Rate Limiting e Caching com Node.js",
-      "slug": "api-gateway-patterns-autenticacao-rate-limiting-e-caching-com-node-js",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/api-gateway-patterns-autenticacao-rate-limiting-caching-nodejs",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-22T12:03:46.135Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/api-gateway-patterns-autenticacao-rate-limiting-e-caching-com-node-js"
-    },
-    {
-      "id": "3b8cd895-4c8b-40f7-9ec3-c0be069022be",
-      "title": "Pitch: Do \"Dev Raiz\" ao uso de IA via CLI: Como criei um Token Monitor local para gerenciar custos de LLMs",
-      "slug": "do-dev-raiz-ao-uso-de-ia-via-cli-como-criei-um-token-monitor-local-para-gerenciar-custos-de-llms",
-      "owner_username": "abnerfc01",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-06-21T10:47:22.462Z",
-      "url": "https://www.tabnews.com.br/abnerfc01/do-dev-raiz-ao-uso-de-ia-via-cli-como-criei-um-token-monitor-local-para-gerenciar-custos-de-llms"
-    },
-    {
-      "id": "04aeb508-7974-432f-8c40-e1b5c0d1c304",
-      "title": "Pitch: Lançamento da Quarta Edição do Meu Livro de Desenvolvimento para Web em Java",
-      "slug": "pitch-lancamento-da-quarta-edicao-do-meu-livro-de-desenvolvimento-para-web-em-java",
-      "owner_username": "davidbuzatto",
-      "source_url": null,
-      "tabcoins": 14,
-      "children_deep_count": 5,
-      "published_at": "2026-06-19T15:43:46.298Z",
-      "url": "https://www.tabnews.com.br/davidbuzatto/pitch-lancamento-da-quarta-edicao-do-meu-livro-de-desenvolvimento-para-web-em-java"
-    },
-    {
-      "id": "ee131357-47f8-4e3e-a1b6-a09de3622da7",
-      "title": "Pitch: Como uma agenda de papel e grupos de WhatsApp nos levaram a criar uma TravelTech para gestão de excursões",
-      "slug": "como-uma-agenda-de-papel-e-grupos-de-whatsapp-nos-levaram-a-criar-uma-traveltech-para-gestao-de-excursoes",
-      "owner_username": "orides",
-      "source_url": "https://viagilize.com.br",
-      "tabcoins": 10,
-      "children_deep_count": 1,
-      "published_at": "2026-06-19T19:24:16.002Z",
-      "url": "https://www.tabnews.com.br/orides/como-uma-agenda-de-papel-e-grupos-de-whatsapp-nos-levaram-a-criar-uma-traveltech-para-gestao-de-excursoes"
     },
     {
       "id": "3a604172-39db-4bc4-854e-b56d48df0a14",
@@ -107,9 +96,20 @@
       "owner_username": "rphlfc",
       "source_url": "https://github.com/rphlfc/tabnews-kotlin",
       "tabcoins": 9,
-      "children_deep_count": 7,
+      "children_deep_count": 11,
       "published_at": "2026-06-20T14:56:42.250Z",
       "url": "https://www.tabnews.com.br/rphlfc/voces-usam-a-api-do-tabnews-para-alguma-coisa-versao-nova-da-biblioteca-da-api-do-tabnews-para-kotlin-e-alerta-da-defesa-civil"
+    },
+    {
+      "id": "e8a403c8-9a23-465b-84af-c80d07c6a4cc",
+      "title": "Pitch: Sparrow: o orquestrador que comecei a construir porque cansei do buraco entre Docker Compose, Swarm e Kubernetes",
+      "slug": "sparrow-o-orquestrador-que-comecei-a-construir-porque-cansei-do-buraco-entre-docker-compose-swarm-e-kubernetes",
+      "owner_username": "andeerc",
+      "source_url": null,
+      "tabcoins": 9,
+      "children_deep_count": 2,
+      "published_at": "2026-06-20T16:25:50.103Z",
+      "url": "https://www.tabnews.com.br/andeerc/sparrow-o-orquestrador-que-comecei-a-construir-porque-cansei-do-buraco-entre-docker-compose-swarm-e-kubernetes"
     }
   ]
 }
