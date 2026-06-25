@@ -1,16 +1,104 @@
 {
-  "updated_at": "2026-06-24T11:39:43.363Z",
+  "updated_at": "2026-06-25T11:33:10.278Z",
   "posts": [
+    {
+      "id": "a3fa55e7-9540-45a1-9e74-64db02e28258",
+      "title": "Confiei que a IA me deixava mais rápido. Os dados dizem que fiquei mais lento",
+      "slug": "confiei-que-a-ia-me-deixava-mais-rapido-os-dados-dizem-que-fiquei-mais-lento",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/confiei-ia-mais-rapido-fiquei-mais-lento/",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-06-24T23:05:20.671Z",
+      "url": "https://www.tabnews.com.br/kenimo49/confiei-que-a-ia-me-deixava-mais-rapido-os-dados-dizem-que-fiquei-mais-lento"
+    },
+    {
+      "id": "798f8226-179e-498b-828d-d7890c9f49c1",
+      "title": "Pare de pedir para a IA \"achar bugs\" no seu projeto: Conheça o ESAA-Security",
+      "slug": "pare-de-pedir-para-a-ia-achar-bugs-no-seu-projeto-conheca-o-esaa-security",
+      "owner_username": "elzobrito",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-06-24T18:01:20.788Z",
+      "url": "https://www.tabnews.com.br/elzobrito/pare-de-pedir-para-a-ia-achar-bugs-no-seu-projeto-conheca-o-esaa-security"
+    },
+    {
+      "id": "34710580-6235-40eb-b660-f8d299aeac9e",
+      "title": "Pitch: Koda — atualização de progresso + apresentando a Harpia",
+      "slug": "koda-atualizacao-de-progresso-apresentando-a-harpia",
+      "owner_username": "Junior7i",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-06-25T04:30:53.499Z",
+      "url": "https://www.tabnews.com.br/Junior7i/koda-atualizacao-de-progresso-apresentando-a-harpia"
+    },
+    {
+      "id": "dc78d429-a8c2-4fa6-a54c-4b38e4a7428f",
+      "title": "OpenAI revela seu primeiro chip próprio de IA em parceria com a Broadcom",
+      "slug": "openai-revela-seu-primeiro-chip-proprio-de-ia-em-parceria-com-a-broadcom",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://hardware.slashdot.org/story/26/06/24/1755203/openai-unveils-first-chip-as-part-of-broadcom-deal",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-25T11:32:00.104Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/openai-revela-seu-primeiro-chip-proprio-de-ia-em-parceria-com-a-broadcom"
+    },
+    {
+      "id": "692adfe5-fb97-49ee-9fd2-b5668b5d7810",
+      "title": "Ainda sem câmera de CFTV? Sete substitutas que você provavelmente já tem",
+      "slug": "ainda-sem-camera-de-cftv-sete-substitutas-que-voce-provavelmente-ja-tem",
+      "owner_username": "Xeoma",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-25T10:41:12.498Z",
+      "url": "https://www.tabnews.com.br/Xeoma/ainda-sem-camera-de-cftv-sete-substitutas-que-voce-provavelmente-ja-tem"
+    },
+    {
+      "id": "1c52ae82-d4c2-40a0-9a9d-2fe5cf981893",
+      "title": "3 problemas que percebi sendo DevOps solo",
+      "slug": "3-problemas-que-percebi-sendo-devops-solo",
+      "owner_username": "aguillarops",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-25T05:18:51.521Z",
+      "url": "https://www.tabnews.com.br/aguillarops/3-problemas-que-percebi-sendo-devops-solo"
+    },
     {
       "id": "e3857714-60e4-4e53-a98b-834a948e131f",
       "title": "MED no Pix (Recuperação de Valores): a maioria dos resumos erra o prazo básico",
       "slug": "med-no-pix-recuperacao-de-valores-a-maioria-dos-resumos-erra-o-prazo-basico",
       "owner_username": "normativodev",
       "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 4,
+      "tabcoins": 14,
+      "children_deep_count": 7,
       "published_at": "2026-06-23T05:23:24.107Z",
       "url": "https://www.tabnews.com.br/normativodev/med-no-pix-recuperacao-de-valores-a-maioria-dos-resumos-erra-o-prazo-basico"
+    },
+    {
+      "id": "f48b4868-4e6c-4d4e-8b0c-ca844faa0b4f",
+      "title": "Como eu coloquei o Claude para fazer QA do meu SaaS sozinho",
+      "slug": "como-eu-coloquei-o-claude-para-fazer-qa-do-meu-saas-sozinho",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/en/blog/chrome-qa-loop-claude-devtools",
+      "tabcoins": 9,
+      "children_deep_count": 2,
+      "published_at": "2026-06-23T15:50:18.788Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/como-eu-coloquei-o-claude-para-fazer-qa-do-meu-saas-sozinho"
+    },
+    {
+      "id": "5ef8b5a4-36f9-4144-84e7-fc57b2bae874",
+      "title": "Pitch: Conectei um SSD na minha TV Box e ela virou um servidor de mídia (e o que aprendi tentando rodar um canal de TV 24h)",
+      "slug": "conectei-um-ssd-na-minha-tv-box-e-ela-virou-um-servidor-de-midia-e-o-que-aprendi-tentando-rodar-um-canal-de-tv-24h",
+      "owner_username": "kevinjh07",
+      "source_url": null,
+      "tabcoins": 7,
+      "children_deep_count": 2,
+      "published_at": "2026-06-23T00:07:59.235Z",
+      "url": "https://www.tabnews.com.br/kevinjh07/conectei-um-ssd-na-minha-tv-box-e-ela-virou-um-servidor-de-midia-e-o-que-aprendi-tentando-rodar-um-canal-de-tv-24h"
     },
     {
       "id": "8946e08e-8e6e-4f78-8f6c-bb114d59ee60",
@@ -22,94 +110,6 @@
       "children_deep_count": 3,
       "published_at": "2026-06-22T23:56:58.465Z",
       "url": "https://www.tabnews.com.br/MrJ/a-jornada-do-crom-agente-como-estou-construindo-um-agente-de-ia-autonomo-do-zero"
-    },
-    {
-      "id": "ad438b7f-7659-4990-9cc5-f3667fb70aa9",
-      "title": "Fiz o teste Benchmark de 23 Frameworks web! O top 5 é de frameworks na linguagem Rust! Veja os detalhes aqui!",
-      "slug": "fiz-o-teste-benchmark-de-23-frameworks-web-o-top-foram-de-frameworks-na-linguagem-rust-veja-os-detalhes-aqui",
-      "owner_username": "venelouis",
-      "source_url": "https://rullst.github.io/Benchmarks/",
-      "tabcoins": 6,
-      "children_deep_count": 5,
-      "published_at": "2026-06-23T00:49:31.599Z",
-      "url": "https://www.tabnews.com.br/venelouis/fiz-o-teste-benchmark-de-23-frameworks-web-o-top-foram-de-frameworks-na-linguagem-rust-veja-os-detalhes-aqui"
-    },
-    {
-      "id": "a373d88d-99c7-4ebb-b9d8-dfcb9cbf0f31",
-      "title": "Sakana AI, Fugu, Claude Mythos e a Orquestração disfarçada de Milagre",
-      "slug": "saka-ai-fugu-mythos-e-mais-sobre-as-estrategias-dessas-empresas",
-      "owner_username": "peterson047",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-06-23T13:15:17.080Z",
-      "url": "https://www.tabnews.com.br/peterson047/saka-ai-fugu-mythos-e-mais-sobre-as-estrategias-dessas-empresas"
-    },
-    {
-      "id": "5ef8b5a4-36f9-4144-84e7-fc57b2bae874",
-      "title": "Pitch: Conectei um SSD na minha TV Box e ela virou um servidor de mídia (e o que aprendi tentando rodar um canal de TV 24h)",
-      "slug": "conectei-um-ssd-na-minha-tv-box-e-ela-virou-um-servidor-de-midia-e-o-que-aprendi-tentando-rodar-um-canal-de-tv-24h",
-      "owner_username": "kevinjh07",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-06-23T00:07:59.235Z",
-      "url": "https://www.tabnews.com.br/kevinjh07/conectei-um-ssd-na-minha-tv-box-e-ela-virou-um-servidor-de-midia-e-o-que-aprendi-tentando-rodar-um-canal-de-tv-24h"
-    },
-    {
-      "id": "f48b4868-4e6c-4d4e-8b0c-ca844faa0b4f",
-      "title": "Como eu coloquei o Claude para fazer QA do meu SaaS sozinho",
-      "slug": "como-eu-coloquei-o-claude-para-fazer-qa-do-meu-saas-sozinho",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/en/blog/chrome-qa-loop-claude-devtools",
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-06-23T15:50:18.788Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/como-eu-coloquei-o-claude-para-fazer-qa-do-meu-saas-sozinho"
-    },
-    {
-      "id": "3275f98c-0120-45e5-99f0-336d6384d2d6",
-      "title": "O mapa que pode ajudar equipes a entender Kubernetes, GitOps e infraestrutura cloud native",
-      "slug": "o-mapa-que-pode-ajudar-equipes-a-entender-kubernetes-gitops-e-infraestrutura-cloud-native",
-      "owner_username": "SheickDasArabias",
-      "source_url": "https://www.linkedin.com/pulse/o-mapa-que-pode-ajudar-equipes-entender-kubernetes-gitops-tadeu-v6xcf/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-23T13:38:22.761Z",
-      "url": "https://www.tabnews.com.br/SheickDasArabias/o-mapa-que-pode-ajudar-equipes-a-entender-kubernetes-gitops-e-infraestrutura-cloud-native"
-    },
-    {
-      "id": "fe429f42-74eb-4370-8668-6868bd2de891",
-      "title": "Pitch: Criei o Tinder do álbum de figurinhas",
-      "slug": "criei-o-tinder-do-album-de-figurinhas",
-      "owner_username": "bugzoid",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-06-23T13:20:46.429Z",
-      "url": "https://www.tabnews.com.br/bugzoid/criei-o-tinder-do-album-de-figurinhas"
-    },
-    {
-      "id": "1f5b862d-f4d2-4008-a842-e0f23b632ab6",
-      "title": "Claude Fable 5 teria criado kernel inspirado no Windows NT em apenas 38 minutos",
-      "slug": "claude-fable-5-teria-criado-kernel-inspirado-no-windows-nt-em-apenas-38-minutos",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://tolmo.com/blog/when-the-model-writes-the-kernel/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-06-23T14:37:47.143Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/claude-fable-5-teria-criado-kernel-inspirado-no-windows-nt-em-apenas-38-minutos"
-    },
-    {
-      "id": "fdd1f788-fefe-4603-832c-b500922adfcd",
-      "title": "Direto do Japão para ajudar seu app não parecer genérico de IA",
-      "slug": "direto-do-japao-para-ajudar-seu-app-nao-parecer-generico-de-ia",
-      "owner_username": "fla02cdev",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-06-24T07:09:53.041Z",
-      "url": "https://www.tabnews.com.br/fla02cdev/direto-do-japao-para-ajudar-seu-app-nao-parecer-generico-de-ia"
     }
   ]
 }
