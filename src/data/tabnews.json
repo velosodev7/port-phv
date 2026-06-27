@@ -1,60 +1,93 @@
 {
-  "updated_at": "2026-06-26T11:39:50.416Z",
+  "updated_at": "2026-06-27T10:53:20.590Z",
   "posts": [
     {
-      "id": "e77c0824-4666-49a3-b424-52bf2ed8d846",
-      "title": "OpenCode: o agente de código que não te prende a um modelo nem manda teu código pra nuvem",
-      "slug": "opencode-o-agente-de-codigo-que-nao-te-prende-a-um-modelo-nem-manda-teu-codigo-pra-nuvem",
-      "owner_username": "wildrik",
-      "source_url": "https://www.techknow.com.br/post/opencode-alternativa-claude-code",
-      "tabcoins": 4,
-      "children_deep_count": 6,
-      "published_at": "2026-06-25T16:35:51.032Z",
-      "url": "https://www.tabnews.com.br/wildrik/opencode-o-agente-de-codigo-que-nao-te-prende-a-um-modelo-nem-manda-teu-codigo-pra-nuvem"
+      "id": "6523becd-d0e7-4696-ab75-abfab0bf8508",
+      "title": "Usando ClaudeCode/OpenCode/Equivalentes com Subagents?",
+      "slug": "usando-claudecode-opencode-equivalentes-com-subagents",
+      "owner_username": "jeffcarlosbd",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-06-26T16:54:29.426Z",
+      "url": "https://www.tabnews.com.br/jeffcarlosbd/usando-claudecode-opencode-equivalentes-com-subagents"
     },
     {
-      "id": "221b08b5-3ff6-450d-8323-a388119a7e37",
-      "title": "Deno, concorrente do Node js, permitirá criar aplicativos desktop multiplataforma",
-      "slug": "deno-concorrente-do-node-js-permitira-criar-aplicativos-desktop-multiplataforma",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.theregister.com/software/2026/06/24/deno-project-is-going-to-add-cross-platform-desktop-apps-in-next-major-update/5261388",
+      "id": "361d4d67-2ee7-46da-be95-b460c07d2d05",
+      "title": "Anotar conhecimento à mão não escala: montei um pipeline que registrou 300 fontes sozinho em 3 meses",
+      "slug": "anotar-conhecimento-a-mao-nao-escala-montei-um-pipeline-que-registrou-300-fontes-sozinho-em-3-meses",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/banco-conhecimento-300-3-meses/",
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-06-26T12:00:03.223Z",
+      "url": "https://www.tabnews.com.br/kenimo49/anotar-conhecimento-a-mao-nao-escala-montei-um-pipeline-que-registrou-300-fontes-sozinho-em-3-meses"
+    },
+    {
+      "id": "1dc49817-722c-49a9-8487-883be7bc118a",
+      "title": "Deixei a IA escrever o código. O trabalho difícil começou depois...",
+      "slug": "deixei-a-ia-escrever-o-codigo-o-trabalho-dificil-comecou-depois",
+      "owner_username": "AlliTerhorst",
+      "source_url": null,
       "tabcoins": 4,
       "children_deep_count": 1,
-      "published_at": "2026-06-25T11:46:04.554Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/deno-concorrente-do-node-js-permitira-criar-aplicativos-desktop-multiplataforma"
+      "published_at": "2026-06-26T15:41:18.428Z",
+      "url": "https://www.tabnews.com.br/AlliTerhorst/deixei-a-ia-escrever-o-codigo-o-trabalho-dificil-comecou-depois"
     },
     {
-      "id": "be9fe727-133f-45e9-9bf5-df6f88f06f97",
-      "title": "br-validators: validação de documentos + dados públicos brasileiros",
-      "slug": "br-validators-validacao-de-documentos-dados-publicos-brasileiros",
-      "owner_username": "AlexandreZanata",
-      "source_url": "https://github.com/open-data-brazil/br-validators",
+      "id": "f81ee978-cfda-48bb-bce3-aab9d979d180",
+      "title": "Pitch: phpm: um \"pnpm para PHP\" escrito em Rust, como camada sobre o Composer",
+      "slug": "phpm-um-pnpm-para-php-escrito-em-rust-como-camada-sobre-o-composer",
+      "owner_username": "lemes",
+      "source_url": "https://github.com/lemesdaniel/phpm",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-06-26T15:14:56.432Z",
+      "url": "https://www.tabnews.com.br/lemes/phpm-um-pnpm-para-php-escrito-em-rust-como-camada-sobre-o-composer"
+    },
+    {
+      "id": "d23b682d-6c34-47b5-9567-33436bf4fcdb",
+      "title": "Estratégias de Deploy: Blue-Green, Canary e Rolling Updates na Prática",
+      "slug": "estrategias-de-deploy-blue-green-canary-e-rolling-updates-na-pratica",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/infra/estrategias-deploy-blue-green-canary-rolling-updates",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-06-26T12:03:17.561Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/estrategias-de-deploy-blue-green-canary-e-rolling-updates-na-pratica"
+    },
+    {
+      "id": "5fe3d2db-9555-4b2d-8c91-fda4539f67b4",
+      "title": "Não gostei do app do meu carro EV e refiz para me atender (aberto para teste)",
+      "slug": "o-app-do-meu-carro-ev-mostrar-so-o-agora-entao-pensei-em-criar-algo-melhor-e-estou-precisando-de-pessoas-para-test",
+      "owner_username": "ivanmicai",
+      "source_url": "https://carllog.com/",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-06-26T11:38:13.112Z",
-      "url": "https://www.tabnews.com.br/AlexandreZanata/br-validators-validacao-de-documentos-dados-publicos-brasileiros"
+      "published_at": "2026-06-27T02:10:43.774Z",
+      "url": "https://www.tabnews.com.br/ivanmicai/o-app-do-meu-carro-ev-mostrar-so-o-agora-entao-pensei-em-criar-algo-melhor-e-estou-precisando-de-pessoas-para-test"
     },
     {
-      "id": "f66531f4-a8cd-4665-826f-096ccf324f2a",
-      "title": "Quando o agente mexe no código, o Git precisa contar a história",
-      "slug": "quando-o-agente-mexe-no-codigo-o-git-precisa-contar-a-historia",
-      "owner_username": "Centelha",
+      "id": "122d6d12-c189-4a55-9188-db940d6b486a",
+      "title": "Pitch: lazyovpn - um TUI pra gerenciar OpenVPN no Linux (estilo lazygit/lazydocker)",
+      "slug": "pitch-lazyovpn-um-tui-pra-gerenciar-openvpn-no-linux-estilo-lazygit-lazydocker",
+      "owner_username": "omartelo",
+      "source_url": "https://github.com/omartelo/lazyovpn",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-27T01:59:25.767Z",
+      "url": "https://www.tabnews.com.br/omartelo/pitch-lazyovpn-um-tui-pra-gerenciar-openvpn-no-linux-estilo-lazygit-lazydocker"
+    },
+    {
+      "id": "78902713-5842-46c0-8aa5-255df7f16cc3",
+      "title": "Estou desenvolvendo uma IA para proteção digital de crianças e adolescentes. Queria feedback técnico da comunidade.",
+      "slug": "estou-desenvolvendo-uma-ia-para-protecao-digital-de-criancas-e-adolescentes-queria-feedback-tecnico-da-comunidade",
+      "owner_username": "danilosoz",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-06-26T09:27:41.282Z",
-      "url": "https://www.tabnews.com.br/Centelha/quando-o-agente-mexe-no-codigo-o-git-precisa-contar-a-historia"
-    },
-    {
-      "id": "e75a16da-78c2-4e75-96b9-73c316e44e28",
-      "title": "Como criei uma CLI em Python que traduz e dubla vídeos do YouTube usando IA (Open-Source)",
-      "slug": "como-criei-uma-cli-em-python-que-traduz-e-dubla-videos-do-youtube-usando-ia-open-source",
-      "owner_username": "dilsonOcx",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-26T08:00:03.211Z",
-      "url": "https://www.tabnews.com.br/dilsonOcx/como-criei-uma-cli-em-python-que-traduz-e-dubla-videos-do-youtube-usando-ia-open-source"
+      "published_at": "2026-06-27T00:00:57.756Z",
+      "url": "https://www.tabnews.com.br/danilosoz/estou-desenvolvendo-uma-ia-para-protecao-digital-de-criancas-e-adolescentes-queria-feedback-tecnico-da-comunidade"
     },
     {
       "id": "a3fa55e7-9540-45a1-9e74-64db02e28258",
@@ -62,54 +95,21 @@
       "slug": "confiei-que-a-ia-me-deixava-mais-rapido-os-dados-dizem-que-fiquei-mais-lento",
       "owner_username": "kenimo49",
       "source_url": "https://kenimoto.dev/pt/blog/confiei-ia-mais-rapido-fiquei-mais-lento/",
-      "tabcoins": 14,
-      "children_deep_count": 1,
+      "tabcoins": 15,
+      "children_deep_count": 2,
       "published_at": "2026-06-24T23:05:20.671Z",
       "url": "https://www.tabnews.com.br/kenimo49/confiei-que-a-ia-me-deixava-mais-rapido-os-dados-dizem-que-fiquei-mais-lento"
     },
     {
-      "id": "f48b4868-4e6c-4d4e-8b0c-ca844faa0b4f",
-      "title": "Como eu coloquei o Claude para fazer QA do meu SaaS sozinho",
-      "slug": "como-eu-coloquei-o-claude-para-fazer-qa-do-meu-saas-sozinho",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/en/blog/chrome-qa-loop-claude-devtools",
-      "tabcoins": 11,
-      "children_deep_count": 2,
-      "published_at": "2026-06-23T15:50:18.788Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/como-eu-coloquei-o-claude-para-fazer-qa-do-meu-saas-sozinho"
-    },
-    {
-      "id": "a373d88d-99c7-4ebb-b9d8-dfcb9cbf0f31",
-      "title": "Sakana AI, Fugu, Claude Mythos e a Orquestração disfarçada de Milagre",
-      "slug": "saka-ai-fugu-mythos-e-mais-sobre-as-estrategias-dessas-empresas",
-      "owner_username": "peterson047",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-06-23T13:15:17.080Z",
-      "url": "https://www.tabnews.com.br/peterson047/saka-ai-fugu-mythos-e-mais-sobre-as-estrategias-dessas-empresas"
-    },
-    {
-      "id": "3275f98c-0120-45e5-99f0-336d6384d2d6",
-      "title": "O mapa que pode ajudar equipes a entender Kubernetes, GitOps e infraestrutura cloud native",
-      "slug": "o-mapa-que-pode-ajudar-equipes-a-entender-kubernetes-gitops-e-infraestrutura-cloud-native",
-      "owner_username": "SheickDasArabias",
-      "source_url": "https://www.linkedin.com/pulse/o-mapa-que-pode-ajudar-equipes-entender-kubernetes-gitops-tadeu-v6xcf/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-23T13:38:22.761Z",
-      "url": "https://www.tabnews.com.br/SheickDasArabias/o-mapa-que-pode-ajudar-equipes-a-entender-kubernetes-gitops-e-infraestrutura-cloud-native"
-    },
-    {
-      "id": "fe429f42-74eb-4370-8668-6868bd2de891",
-      "title": "Pitch: Criei o Tinder do álbum de figurinhas",
-      "slug": "criei-o-tinder-do-album-de-figurinhas",
-      "owner_username": "bugzoid",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-06-23T13:20:46.429Z",
-      "url": "https://www.tabnews.com.br/bugzoid/criei-o-tinder-do-album-de-figurinhas"
+      "id": "e77c0824-4666-49a3-b424-52bf2ed8d846",
+      "title": "OpenCode: o agente de código que não te prende a um modelo nem manda teu código pra nuvem",
+      "slug": "opencode-o-agente-de-codigo-que-nao-te-prende-a-um-modelo-nem-manda-teu-codigo-pra-nuvem",
+      "owner_username": "wildrik",
+      "source_url": "https://www.techknow.com.br/post/opencode-alternativa-claude-code",
+      "tabcoins": 7,
+      "children_deep_count": 13,
+      "published_at": "2026-06-25T16:35:51.032Z",
+      "url": "https://www.tabnews.com.br/wildrik/opencode-o-agente-de-codigo-que-nao-te-prende-a-um-modelo-nem-manda-teu-codigo-pra-nuvem"
     }
   ]
 }
