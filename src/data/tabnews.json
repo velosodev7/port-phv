@@ -1,104 +1,82 @@
 {
-  "updated_at": "2026-06-27T10:53:20.590Z",
+  "updated_at": "2026-06-28T10:59:57.675Z",
   "posts": [
     {
-      "id": "6523becd-d0e7-4696-ab75-abfab0bf8508",
-      "title": "Usando ClaudeCode/OpenCode/Equivalentes com Subagents?",
-      "slug": "usando-claudecode-opencode-equivalentes-com-subagents",
-      "owner_username": "jeffcarlosbd",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-26T16:54:29.426Z",
-      "url": "https://www.tabnews.com.br/jeffcarlosbd/usando-claudecode-opencode-equivalentes-com-subagents"
-    },
-    {
-      "id": "361d4d67-2ee7-46da-be95-b460c07d2d05",
-      "title": "Anotar conhecimento à mão não escala: montei um pipeline que registrou 300 fontes sozinho em 3 meses",
-      "slug": "anotar-conhecimento-a-mao-nao-escala-montei-um-pipeline-que-registrou-300-fontes-sozinho-em-3-meses",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/banco-conhecimento-300-3-meses/",
-      "tabcoins": 4,
+      "id": "758e889d-0de9-4bdb-964a-392c71d4c61e",
+      "title": "Será que a gente quer escrever posts para o TabNews no celular? (+ dobradinha de versão do Tabs e da biblioteca do TabNews para Kotlin e meu canarinho pistola)",
+      "slug": "sera-que-a-gente-quer-escrever-posts-para-o-tabnews-no-celular-dobradinha-de-versao-do-tabs-e-da-biblioteca-do-tabnews-para-kotlin-e-meu-canarinho-pistola",
+      "owner_username": "rphlfc",
+      "source_url": "https://play.google.com/store/apps/details?id=com.github.rphlfc.tabs",
+      "tabcoins": 7,
       "children_deep_count": 3,
-      "published_at": "2026-06-26T12:00:03.223Z",
-      "url": "https://www.tabnews.com.br/kenimo49/anotar-conhecimento-a-mao-nao-escala-montei-um-pipeline-que-registrou-300-fontes-sozinho-em-3-meses"
+      "published_at": "2026-06-27T14:33:12.179Z",
+      "url": "https://www.tabnews.com.br/rphlfc/sera-que-a-gente-quer-escrever-posts-para-o-tabnews-no-celular-dobradinha-de-versao-do-tabs-e-da-biblioteca-do-tabnews-para-kotlin-e-meu-canarinho-pistola"
     },
     {
-      "id": "1dc49817-722c-49a9-8487-883be7bc118a",
-      "title": "Deixei a IA escrever o código. O trabalho difícil começou depois...",
-      "slug": "deixei-a-ia-escrever-o-codigo-o-trabalho-dificil-comecou-depois",
-      "owner_username": "AlliTerhorst",
+      "id": "409ab7a1-db64-4a80-a30b-1fd1a948a0ae",
+      "title": "Passei quase uma hora pedindo pra IA resolver um bug. A solução veio quando parei de pedir solução.",
+      "slug": "passei-quase-uma-hora-pedindo-pra-ia-resolver-um-bug-a-solucao-veio-quando-parei-de-pedir-solucao",
+      "owner_username": "HDFreitas",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-06-26T15:41:18.428Z",
-      "url": "https://www.tabnews.com.br/AlliTerhorst/deixei-a-ia-escrever-o-codigo-o-trabalho-dificil-comecou-depois"
-    },
-    {
-      "id": "f81ee978-cfda-48bb-bce3-aab9d979d180",
-      "title": "Pitch: phpm: um \"pnpm para PHP\" escrito em Rust, como camada sobre o Composer",
-      "slug": "phpm-um-pnpm-para-php-escrito-em-rust-como-camada-sobre-o-composer",
-      "owner_username": "lemes",
-      "source_url": "https://github.com/lemesdaniel/phpm",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-06-26T15:14:56.432Z",
-      "url": "https://www.tabnews.com.br/lemes/phpm-um-pnpm-para-php-escrito-em-rust-como-camada-sobre-o-composer"
-    },
-    {
-      "id": "d23b682d-6c34-47b5-9567-33436bf4fcdb",
-      "title": "Estratégias de Deploy: Blue-Green, Canary e Rolling Updates na Prática",
-      "slug": "estrategias-de-deploy-blue-green-canary-e-rolling-updates-na-pratica",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/infra/estrategias-deploy-blue-green-canary-rolling-updates",
       "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-06-26T12:03:17.561Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/estrategias-de-deploy-blue-green-canary-e-rolling-updates-na-pratica"
+      "children_deep_count": 2,
+      "published_at": "2026-06-27T15:10:02.218Z",
+      "url": "https://www.tabnews.com.br/HDFreitas/passei-quase-uma-hora-pedindo-pra-ia-resolver-um-bug-a-solucao-veio-quando-parei-de-pedir-solucao"
+    },
+    {
+      "id": "f455587e-a9c4-4acf-a98d-85ef0d6f69c8",
+      "title": "O Programador Pragmático: como aplico seus conceitos mais de duas décadas depois da primeira leitura",
+      "slug": "o-programador-pragmatico-como-aplico-seus-conceitos-mais-de-duas-decadas-depois-da-primeira-leitura",
+      "owner_username": "JeanCarloNascimento",
+      "source_url": "https://dev.to/fullagenticstack/programador-pragmatico-como-eu-uso-apos-mais-de-2-decadas-de-ter-lido-o-livro-1b2c",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-28T10:20:15.305Z",
+      "url": "https://www.tabnews.com.br/JeanCarloNascimento/o-programador-pragmatico-como-aplico-seus-conceitos-mais-de-duas-decadas-depois-da-primeira-leitura"
+    },
+    {
+      "id": "9460e622-3315-40e3-8eab-95194dfbc05e",
+      "title": "Pitch: Jogos de LeetCode, Big O e Wordle dev no app do TabNews (iOS)",
+      "slug": "jogos-de-leetcode-big-o-e-wordle-dev-no-app-do-tabnews-ios",
+      "owner_username": "luizmellodev",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-28T02:01:23.292Z",
+      "url": "https://www.tabnews.com.br/luizmellodev/jogos-de-leetcode-big-o-e-wordle-dev-no-app-do-tabnews-ios"
+    },
+    {
+      "id": "97f2c9d4-0126-4928-a048-470afd4e7ed9",
+      "title": "Pitch: Micro serviço com integração a bancos",
+      "slug": "micro-servico-com-integracao-a-bancos",
+      "owner_username": "thyagopacher",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-28T01:51:50.730Z",
+      "url": "https://www.tabnews.com.br/thyagopacher/micro-servico-com-integracao-a-bancos"
+    },
+    {
+      "id": "7ce767b6-20d3-4339-b020-aab0dc3f0072",
+      "title": "Reformatei a última réplica do meu banco numa \"migração simples\" de disco",
+      "slug": "reformatei-a-ultima-replica-do-meu-banco-numa-migracao-simples-de-disco",
+      "owner_username": "alissonalves",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-28T01:17:17.974Z",
+      "url": "https://www.tabnews.com.br/alissonalves/reformatei-a-ultima-replica-do-meu-banco-numa-migracao-simples-de-disco"
     },
     {
       "id": "5fe3d2db-9555-4b2d-8c91-fda4539f67b4",
-      "title": "Não gostei do app do meu carro EV e refiz para me atender (aberto para teste)",
+      "title": "Pitch: Não gostei do app do meu carro EV e refiz para me atender (aberto para teste)",
       "slug": "o-app-do-meu-carro-ev-mostrar-so-o-agora-entao-pensei-em-criar-algo-melhor-e-estou-precisando-de-pessoas-para-test",
       "owner_username": "ivanmicai",
       "source_url": "https://carllog.com/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 5,
+      "children_deep_count": 1,
       "published_at": "2026-06-27T02:10:43.774Z",
       "url": "https://www.tabnews.com.br/ivanmicai/o-app-do-meu-carro-ev-mostrar-so-o-agora-entao-pensei-em-criar-algo-melhor-e-estou-precisando-de-pessoas-para-test"
-    },
-    {
-      "id": "122d6d12-c189-4a55-9188-db940d6b486a",
-      "title": "Pitch: lazyovpn - um TUI pra gerenciar OpenVPN no Linux (estilo lazygit/lazydocker)",
-      "slug": "pitch-lazyovpn-um-tui-pra-gerenciar-openvpn-no-linux-estilo-lazygit-lazydocker",
-      "owner_username": "omartelo",
-      "source_url": "https://github.com/omartelo/lazyovpn",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-27T01:59:25.767Z",
-      "url": "https://www.tabnews.com.br/omartelo/pitch-lazyovpn-um-tui-pra-gerenciar-openvpn-no-linux-estilo-lazygit-lazydocker"
-    },
-    {
-      "id": "78902713-5842-46c0-8aa5-255df7f16cc3",
-      "title": "Estou desenvolvendo uma IA para proteção digital de crianças e adolescentes. Queria feedback técnico da comunidade.",
-      "slug": "estou-desenvolvendo-uma-ia-para-protecao-digital-de-criancas-e-adolescentes-queria-feedback-tecnico-da-comunidade",
-      "owner_username": "danilosoz",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-27T00:00:57.756Z",
-      "url": "https://www.tabnews.com.br/danilosoz/estou-desenvolvendo-uma-ia-para-protecao-digital-de-criancas-e-adolescentes-queria-feedback-tecnico-da-comunidade"
-    },
-    {
-      "id": "a3fa55e7-9540-45a1-9e74-64db02e28258",
-      "title": "Confiei que a IA me deixava mais rápido. Os dados dizem que fiquei mais lento",
-      "slug": "confiei-que-a-ia-me-deixava-mais-rapido-os-dados-dizem-que-fiquei-mais-lento",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/confiei-ia-mais-rapido-fiquei-mais-lento/",
-      "tabcoins": 15,
-      "children_deep_count": 2,
-      "published_at": "2026-06-24T23:05:20.671Z",
-      "url": "https://www.tabnews.com.br/kenimo49/confiei-que-a-ia-me-deixava-mais-rapido-os-dados-dizem-que-fiquei-mais-lento"
     },
     {
       "id": "e77c0824-4666-49a3-b424-52bf2ed8d846",
@@ -106,10 +84,32 @@
       "slug": "opencode-o-agente-de-codigo-que-nao-te-prende-a-um-modelo-nem-manda-teu-codigo-pra-nuvem",
       "owner_username": "wildrik",
       "source_url": "https://www.techknow.com.br/post/opencode-alternativa-claude-code",
-      "tabcoins": 7,
-      "children_deep_count": 13,
+      "tabcoins": 9,
+      "children_deep_count": 14,
       "published_at": "2026-06-25T16:35:51.032Z",
       "url": "https://www.tabnews.com.br/wildrik/opencode-o-agente-de-codigo-que-nao-te-prende-a-um-modelo-nem-manda-teu-codigo-pra-nuvem"
+    },
+    {
+      "id": "f81ee978-cfda-48bb-bce3-aab9d979d180",
+      "title": "Pitch: phpm: um \"pnpm para PHP\" escrito em Rust, como camada sobre o Composer",
+      "slug": "phpm-um-pnpm-para-php-escrito-em-rust-como-camada-sobre-o-composer",
+      "owner_username": "lemes",
+      "source_url": "https://github.com/lemesdaniel/phpm",
+      "tabcoins": 9,
+      "children_deep_count": 4,
+      "published_at": "2026-06-26T15:14:56.432Z",
+      "url": "https://www.tabnews.com.br/lemes/phpm-um-pnpm-para-php-escrito-em-rust-como-camada-sobre-o-composer"
+    },
+    {
+      "id": "221b08b5-3ff6-450d-8323-a388119a7e37",
+      "title": "Deno, concorrente do Node js, permitirá criar aplicativos desktop multiplataforma",
+      "slug": "deno-concorrente-do-node-js-permitira-criar-aplicativos-desktop-multiplataforma",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.theregister.com/software/2026/06/24/deno-project-is-going-to-add-cross-platform-desktop-apps-in-next-major-update/5261388",
+      "tabcoins": 9,
+      "children_deep_count": 1,
+      "published_at": "2026-06-25T11:46:04.554Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/deno-concorrente-do-node-js-permitira-criar-aplicativos-desktop-multiplataforma"
     }
   ]
 }
