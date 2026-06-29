@@ -1,71 +1,82 @@
 {
-  "updated_at": "2026-06-28T10:59:57.675Z",
+  "updated_at": "2026-06-29T12:59:03.334Z",
   "posts": [
     {
-      "id": "758e889d-0de9-4bdb-964a-392c71d4c61e",
-      "title": "Será que a gente quer escrever posts para o TabNews no celular? (+ dobradinha de versão do Tabs e da biblioteca do TabNews para Kotlin e meu canarinho pistola)",
-      "slug": "sera-que-a-gente-quer-escrever-posts-para-o-tabnews-no-celular-dobradinha-de-versao-do-tabs-e-da-biblioteca-do-tabnews-para-kotlin-e-meu-canarinho-pistola",
-      "owner_username": "rphlfc",
-      "source_url": "https://play.google.com/store/apps/details?id=com.github.rphlfc.tabs",
+      "id": "af7bba8a-403d-4497-b67e-f09893b9ea89",
+      "title": "Comprei um PC com GPU pra rodar executor 'grátis'. Acabou sendo o config mais caro em 40 trials.",
+      "slug": "comprei-um-pc-com-gpu-pra-rodar-executor-gratis-acabou-sendo-o-config-mais-caro-em-40-trials",
+      "owner_username": "kenimo49",
+      "source_url": "https://doi.org/10.5281/zenodo.20978074",
       "tabcoins": 7,
-      "children_deep_count": 3,
-      "published_at": "2026-06-27T14:33:12.179Z",
-      "url": "https://www.tabnews.com.br/rphlfc/sera-que-a-gente-quer-escrever-posts-para-o-tabnews-no-celular-dobradinha-de-versao-do-tabs-e-da-biblioteca-do-tabnews-para-kotlin-e-meu-canarinho-pistola"
+      "children_deep_count": 2,
+      "published_at": "2026-06-28T12:00:03.352Z",
+      "url": "https://www.tabnews.com.br/kenimo49/comprei-um-pc-com-gpu-pra-rodar-executor-gratis-acabou-sendo-o-config-mais-caro-em-40-trials"
     },
     {
-      "id": "409ab7a1-db64-4a80-a30b-1fd1a948a0ae",
-      "title": "Passei quase uma hora pedindo pra IA resolver um bug. A solução veio quando parei de pedir solução.",
-      "slug": "passei-quase-uma-hora-pedindo-pra-ia-resolver-um-bug-a-solucao-veio-quando-parei-de-pedir-solucao",
+      "id": "aa421f7c-89a6-4242-bf43-7e0c1cdc08ef",
+      "title": "RFC 10008: O Novo Método QUERY e Sua Importância para APIs Modernas",
+      "slug": "rfc-10008-o-novo-metodo-query-e-sua-importancia-para-apis-modernas",
+      "owner_username": "IamThiagoIT",
+      "source_url": "https://www.rfc-editor.org/info/rfc10008",
+      "tabcoins": 6,
+      "children_deep_count": 0,
+      "published_at": "2026-06-28T20:34:50.866Z",
+      "url": "https://www.tabnews.com.br/IamThiagoIT/rfc-10008-o-novo-metodo-query-e-sua-importancia-para-apis-modernas"
+    },
+    {
+      "id": "ed2f5131-e53f-476b-a5f6-ab1ff90a27ae",
+      "title": "GEO (Generative Engine Optimization): a evolução do SEO e os primeiros avanços nesse novo campo de estudo",
+      "slug": "geo-generative-engine-optimization-a-evolucao-do-seo-e-os-primeiros-avancos-no-novo-campo-de-estudo",
+      "owner_username": "paladini",
+      "source_url": "https://paladini.github.io/generative-engine-optimization-basic-guide/index.html",
+      "tabcoins": 3,
+      "children_deep_count": 3,
+      "published_at": "2026-06-29T03:03:51.308Z",
+      "url": "https://www.tabnews.com.br/paladini/geo-generative-engine-optimization-a-evolucao-do-seo-e-os-primeiros-avancos-no-novo-campo-de-estudo"
+    },
+    {
+      "id": "5e8569c2-e8e3-4135-8400-dcc24c47b682",
+      "title": "Só estarás pronto para ser o teu próprio patrão depois de leres isto",
+      "slug": "so-estaras-pronto-para-ser-o-teu-proprio-patrao-depois-de-leres-isto",
+      "owner_username": "gorpo85",
+      "source_url": "https://comuniq.xyz/post?t=1330",
+      "tabcoins": 2,
+      "children_deep_count": 1,
+      "published_at": "2026-06-29T05:46:38.872Z",
+      "url": "https://www.tabnews.com.br/gorpo85/so-estaras-pronto-para-ser-o-teu-proprio-patrao-depois-de-leres-isto"
+    },
+    {
+      "id": "f52d5542-df5a-4d88-b95c-c068619b5790",
+      "title": "US$ 47.000 num fim de semana: a tempestade de 2,3 milhões de retries que o harness teria parado em 4 linhas",
+      "slug": "us-47-000-num-fim-de-semana-a-tempestade-de-2-3-milhoes-de-retries-que-o-harness-teria-parado-em-4-linhas",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/47000-fim-de-semana-tempestade-retries-harness-4-linhas/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-29T12:00:03.468Z",
+      "url": "https://www.tabnews.com.br/kenimo49/us-47-000-num-fim-de-semana-a-tempestade-de-2-3-milhoes-de-retries-que-o-harness-teria-parado-em-4-linhas"
+    },
+    {
+      "id": "8ce4b854-8aaa-476a-a233-6161b42f205d",
+      "title": "Pitch: Construindo uma ferramenta de teste de webhook: o problema, as decisões técnicas e o resultado",
+      "slug": "construindo-uma-ferramenta-de-teste-de-webhook-o-problema-as-decisoes-tecnicas-e-o-resultado",
+      "owner_username": "vittubellini",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-06-29T03:52:13.082Z",
+      "url": "https://www.tabnews.com.br/vittubellini/construindo-uma-ferramenta-de-teste-de-webhook-o-problema-as-decisoes-tecnicas-e-o-resultado"
+    },
+    {
+      "id": "6fdb0e03-3344-4db7-8584-3d9993081174",
+      "title": "O uso mais subestimado da IA não é gerar código, é revisar o seu.",
+      "slug": "o-uso-mais-subestimado-da-ia-em-php-nao-e-gerar-codigo-e-revisar-o-seu",
       "owner_username": "HDFreitas",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-06-27T15:10:02.218Z",
-      "url": "https://www.tabnews.com.br/HDFreitas/passei-quase-uma-hora-pedindo-pra-ia-resolver-um-bug-a-solucao-veio-quando-parei-de-pedir-solucao"
-    },
-    {
-      "id": "f455587e-a9c4-4acf-a98d-85ef0d6f69c8",
-      "title": "O Programador Pragmático: como aplico seus conceitos mais de duas décadas depois da primeira leitura",
-      "slug": "o-programador-pragmatico-como-aplico-seus-conceitos-mais-de-duas-decadas-depois-da-primeira-leitura",
-      "owner_username": "JeanCarloNascimento",
-      "source_url": "https://dev.to/fullagenticstack/programador-pragmatico-como-eu-uso-apos-mais-de-2-decadas-de-ter-lido-o-livro-1b2c",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-06-28T10:20:15.305Z",
-      "url": "https://www.tabnews.com.br/JeanCarloNascimento/o-programador-pragmatico-como-aplico-seus-conceitos-mais-de-duas-decadas-depois-da-primeira-leitura"
-    },
-    {
-      "id": "9460e622-3315-40e3-8eab-95194dfbc05e",
-      "title": "Pitch: Jogos de LeetCode, Big O e Wordle dev no app do TabNews (iOS)",
-      "slug": "jogos-de-leetcode-big-o-e-wordle-dev-no-app-do-tabnews-ios",
-      "owner_username": "luizmellodev",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-28T02:01:23.292Z",
-      "url": "https://www.tabnews.com.br/luizmellodev/jogos-de-leetcode-big-o-e-wordle-dev-no-app-do-tabnews-ios"
-    },
-    {
-      "id": "97f2c9d4-0126-4928-a048-470afd4e7ed9",
-      "title": "Pitch: Micro serviço com integração a bancos",
-      "slug": "micro-servico-com-integracao-a-bancos",
-      "owner_username": "thyagopacher",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-28T01:51:50.730Z",
-      "url": "https://www.tabnews.com.br/thyagopacher/micro-servico-com-integracao-a-bancos"
-    },
-    {
-      "id": "7ce767b6-20d3-4339-b020-aab0dc3f0072",
-      "title": "Reformatei a última réplica do meu banco numa \"migração simples\" de disco",
-      "slug": "reformatei-a-ultima-replica-do-meu-banco-numa-migracao-simples-de-disco",
-      "owner_username": "alissonalves",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-28T01:17:17.974Z",
-      "url": "https://www.tabnews.com.br/alissonalves/reformatei-a-ultima-replica-do-meu-banco-numa-migracao-simples-de-disco"
+      "published_at": "2026-06-29T01:41:53.344Z",
+      "url": "https://www.tabnews.com.br/HDFreitas/o-uso-mais-subestimado-da-ia-em-php-nao-e-gerar-codigo-e-revisar-o-seu"
     },
     {
       "id": "5fe3d2db-9555-4b2d-8c91-fda4539f67b4",
@@ -73,21 +84,10 @@
       "slug": "o-app-do-meu-carro-ev-mostrar-so-o-agora-entao-pensei-em-criar-algo-melhor-e-estou-precisando-de-pessoas-para-test",
       "owner_username": "ivanmicai",
       "source_url": "https://carllog.com/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
+      "tabcoins": 9,
+      "children_deep_count": 2,
       "published_at": "2026-06-27T02:10:43.774Z",
       "url": "https://www.tabnews.com.br/ivanmicai/o-app-do-meu-carro-ev-mostrar-so-o-agora-entao-pensei-em-criar-algo-melhor-e-estou-precisando-de-pessoas-para-test"
-    },
-    {
-      "id": "e77c0824-4666-49a3-b424-52bf2ed8d846",
-      "title": "OpenCode: o agente de código que não te prende a um modelo nem manda teu código pra nuvem",
-      "slug": "opencode-o-agente-de-codigo-que-nao-te-prende-a-um-modelo-nem-manda-teu-codigo-pra-nuvem",
-      "owner_username": "wildrik",
-      "source_url": "https://www.techknow.com.br/post/opencode-alternativa-claude-code",
-      "tabcoins": 9,
-      "children_deep_count": 14,
-      "published_at": "2026-06-25T16:35:51.032Z",
-      "url": "https://www.tabnews.com.br/wildrik/opencode-o-agente-de-codigo-que-nao-te-prende-a-um-modelo-nem-manda-teu-codigo-pra-nuvem"
     },
     {
       "id": "f81ee978-cfda-48bb-bce3-aab9d979d180",
@@ -101,15 +101,15 @@
       "url": "https://www.tabnews.com.br/lemes/phpm-um-pnpm-para-php-escrito-em-rust-como-camada-sobre-o-composer"
     },
     {
-      "id": "221b08b5-3ff6-450d-8323-a388119a7e37",
-      "title": "Deno, concorrente do Node js, permitirá criar aplicativos desktop multiplataforma",
-      "slug": "deno-concorrente-do-node-js-permitira-criar-aplicativos-desktop-multiplataforma",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.theregister.com/software/2026/06/24/deno-project-is-going-to-add-cross-platform-desktop-apps-in-next-major-update/5261388",
-      "tabcoins": 9,
-      "children_deep_count": 1,
-      "published_at": "2026-06-25T11:46:04.554Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/deno-concorrente-do-node-js-permitira-criar-aplicativos-desktop-multiplataforma"
+      "id": "6523becd-d0e7-4696-ab75-abfab0bf8508",
+      "title": "Usando ClaudeCode/OpenCode/Equivalentes com Subagents?",
+      "slug": "usando-claudecode-opencode-equivalentes-com-subagents",
+      "owner_username": "jeffcarlosbd",
+      "source_url": null,
+      "tabcoins": 7,
+      "children_deep_count": 3,
+      "published_at": "2026-06-26T16:54:29.426Z",
+      "url": "https://www.tabnews.com.br/jeffcarlosbd/usando-claudecode-opencode-equivalentes-com-subagents"
     }
   ]
 }
