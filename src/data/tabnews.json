@@ -1,49 +1,27 @@
 {
-  "updated_at": "2026-06-29T12:59:03.334Z",
+  "updated_at": "2026-06-30T11:39:33.703Z",
   "posts": [
     {
-      "id": "af7bba8a-403d-4497-b67e-f09893b9ea89",
-      "title": "Comprei um PC com GPU pra rodar executor 'grátis'. Acabou sendo o config mais caro em 40 trials.",
-      "slug": "comprei-um-pc-com-gpu-pra-rodar-executor-gratis-acabou-sendo-o-config-mais-caro-em-40-trials",
-      "owner_username": "kenimo49",
-      "source_url": "https://doi.org/10.5281/zenodo.20978074",
-      "tabcoins": 7,
-      "children_deep_count": 2,
-      "published_at": "2026-06-28T12:00:03.352Z",
-      "url": "https://www.tabnews.com.br/kenimo49/comprei-um-pc-com-gpu-pra-rodar-executor-gratis-acabou-sendo-o-config-mais-caro-em-40-trials"
+      "id": "86a34a94-01b8-4918-b08d-d22438310042",
+      "title": "Spec-Driven Development: quando a especificação vira a fonte da verdade, não o código",
+      "slug": "spec-driven-development-quando-a-especificacao-vira-a-fonte-da-verdade-nao-o-codigo",
+      "owner_username": "wildrik",
+      "source_url": "https://www.techknow.com.br/post/spec-driven-development",
+      "tabcoins": 4,
+      "children_deep_count": 4,
+      "published_at": "2026-06-29T21:05:04.859Z",
+      "url": "https://www.tabnews.com.br/wildrik/spec-driven-development-quando-a-especificacao-vira-a-fonte-da-verdade-nao-o-codigo"
     },
     {
-      "id": "aa421f7c-89a6-4242-bf43-7e0c1cdc08ef",
-      "title": "RFC 10008: O Novo Método QUERY e Sua Importância para APIs Modernas",
-      "slug": "rfc-10008-o-novo-metodo-query-e-sua-importancia-para-apis-modernas",
-      "owner_username": "IamThiagoIT",
-      "source_url": "https://www.rfc-editor.org/info/rfc10008",
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-06-28T20:34:50.866Z",
-      "url": "https://www.tabnews.com.br/IamThiagoIT/rfc-10008-o-novo-metodo-query-e-sua-importancia-para-apis-modernas"
-    },
-    {
-      "id": "ed2f5131-e53f-476b-a5f6-ab1ff90a27ae",
-      "title": "GEO (Generative Engine Optimization): a evolução do SEO e os primeiros avanços nesse novo campo de estudo",
-      "slug": "geo-generative-engine-optimization-a-evolucao-do-seo-e-os-primeiros-avancos-no-novo-campo-de-estudo",
-      "owner_username": "paladini",
-      "source_url": "https://paladini.github.io/generative-engine-optimization-basic-guide/index.html",
-      "tabcoins": 3,
-      "children_deep_count": 3,
-      "published_at": "2026-06-29T03:03:51.308Z",
-      "url": "https://www.tabnews.com.br/paladini/geo-generative-engine-optimization-a-evolucao-do-seo-e-os-primeiros-avancos-no-novo-campo-de-estudo"
-    },
-    {
-      "id": "5e8569c2-e8e3-4135-8400-dcc24c47b682",
-      "title": "Só estarás pronto para ser o teu próprio patrão depois de leres isto",
-      "slug": "so-estaras-pronto-para-ser-o-teu-proprio-patrao-depois-de-leres-isto",
-      "owner_username": "gorpo85",
-      "source_url": "https://comuniq.xyz/post?t=1330",
-      "tabcoins": 2,
+      "id": "9f73344a-2903-4529-a3f7-af5de1c2cc95",
+      "title": "opencode-tier-router: roteando OpenCode para o modelo certo",
+      "slug": "opencode-router-model-roteando-opencode-para-o-modelo-certo",
+      "owner_username": "MarcosBritoDev",
+      "source_url": "https://github.com/marcos2872/opencode-tier-router-plugin",
+      "tabcoins": 4,
       "children_deep_count": 1,
-      "published_at": "2026-06-29T05:46:38.872Z",
-      "url": "https://www.tabnews.com.br/gorpo85/so-estaras-pronto-para-ser-o-teu-proprio-patrao-depois-de-leres-isto"
+      "published_at": "2026-06-29T22:26:02.060Z",
+      "url": "https://www.tabnews.com.br/MarcosBritoDev/opencode-router-model-roteando-opencode-para-o-modelo-certo"
     },
     {
       "id": "f52d5542-df5a-4d88-b95c-c068619b5790",
@@ -51,65 +29,87 @@
       "slug": "us-47-000-num-fim-de-semana-a-tempestade-de-2-3-milhoes-de-retries-que-o-harness-teria-parado-em-4-linhas",
       "owner_username": "kenimo49",
       "source_url": "https://kenimoto.dev/pt/blog/47000-fim-de-semana-tempestade-retries-harness-4-linhas/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 4,
+      "children_deep_count": 1,
       "published_at": "2026-06-29T12:00:03.468Z",
       "url": "https://www.tabnews.com.br/kenimo49/us-47-000-num-fim-de-semana-a-tempestade-de-2-3-milhoes-de-retries-que-o-harness-teria-parado-em-4-linhas"
     },
     {
-      "id": "8ce4b854-8aaa-476a-a233-6161b42f205d",
-      "title": "Pitch: Construindo uma ferramenta de teste de webhook: o problema, as decisões técnicas e o resultado",
-      "slug": "construindo-uma-ferramenta-de-teste-de-webhook-o-problema-as-decisoes-tecnicas-e-o-resultado",
-      "owner_username": "vittubellini",
+      "id": "add04d25-f8d7-4629-85c7-04bc360a2c20",
+      "title": "Seu antivírus confia no steamcommunity.com. Esse foi o ponto cego que 1.980 sites pagaram",
+      "slug": "seu-antivirus-confia-no-steamcommunity-com-esse-foi-o-ponto-cego-que-1-980-sites-pagaram",
+      "owner_username": "rodrigofreire",
+      "source_url": "https://rodrigofreire.pages.dev/posts/02-anatomia-c2/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-06-29T13:49:13.884Z",
+      "url": "https://www.tabnews.com.br/rodrigofreire/seu-antivirus-confia-no-steamcommunity-com-esse-foi-o-ponto-cego-que-1-980-sites-pagaram"
+    },
+    {
+      "id": "0e6b05ad-842b-467d-a6c3-4a08e075218d",
+      "title": "Síndrome do \"Dev Lego\": Me desafiei a programar sem dependências e o resultado foi um choque de realidade.",
+      "slug": "sindrome-do-dev-lego-me-desafiei-a-programar-sem-dependencias-e-o-resultado-foi-um-choque-de-realidade",
+      "owner_username": "matheusdevlopes",
       "source_url": null,
       "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-06-29T03:52:13.082Z",
-      "url": "https://www.tabnews.com.br/vittubellini/construindo-uma-ferramenta-de-teste-de-webhook-o-problema-as-decisoes-tecnicas-e-o-resultado"
+      "children_deep_count": 1,
+      "published_at": "2026-06-30T10:58:55.771Z",
+      "url": "https://www.tabnews.com.br/matheusdevlopes/sindrome-do-dev-lego-me-desafiei-a-programar-sem-dependencias-e-o-resultado-foi-um-choque-de-realidade"
     },
     {
-      "id": "6fdb0e03-3344-4db7-8584-3d9993081174",
-      "title": "O uso mais subestimado da IA não é gerar código, é revisar o seu.",
-      "slug": "o-uso-mais-subestimado-da-ia-em-php-nao-e-gerar-codigo-e-revisar-o-seu",
-      "owner_username": "HDFreitas",
+      "id": "e4f0800d-7dac-47a7-afa9-52a164e7acb3",
+      "title": "Como construí um agregador de dados dos 5 presidenciáveis com Next.js",
+      "slug": "como-construi-um-agregador-de-dados-dos-5-presidenciaveis-com-next-js",
+      "owner_username": "carubbi",
       "source_url": null,
       "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-06-30T00:14:45.528Z",
+      "url": "https://www.tabnews.com.br/carubbi/como-construi-um-agregador-de-dados-dos-5-presidenciaveis-com-next-js"
+    },
+    {
+      "id": "b6d8e52c-e306-4933-83d2-d5d60a204a34",
+      "title": "System Design de um Banco Digital: Do Ledger ao CAP",
+      "slug": "system-design-de-um-banco-digital-do-ledger-ao-cap",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/fintech-digital-bank-system-design",
+      "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-06-29T01:41:53.344Z",
-      "url": "https://www.tabnews.com.br/HDFreitas/o-uso-mais-subestimado-da-ia-em-php-nao-e-gerar-codigo-e-revisar-o-seu"
+      "published_at": "2026-06-30T02:43:29.281Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/system-design-de-um-banco-digital-do-ledger-ao-cap"
     },
     {
-      "id": "5fe3d2db-9555-4b2d-8c91-fda4539f67b4",
-      "title": "Pitch: Não gostei do app do meu carro EV e refiz para me atender (aberto para teste)",
-      "slug": "o-app-do-meu-carro-ev-mostrar-so-o-agora-entao-pensei-em-criar-algo-melhor-e-estou-precisando-de-pessoas-para-test",
-      "owner_username": "ivanmicai",
-      "source_url": "https://carllog.com/",
-      "tabcoins": 9,
-      "children_deep_count": 2,
-      "published_at": "2026-06-27T02:10:43.774Z",
-      "url": "https://www.tabnews.com.br/ivanmicai/o-app-do-meu-carro-ev-mostrar-so-o-agora-entao-pensei-em-criar-algo-melhor-e-estou-precisando-de-pessoas-para-test"
-    },
-    {
-      "id": "f81ee978-cfda-48bb-bce3-aab9d979d180",
-      "title": "Pitch: phpm: um \"pnpm para PHP\" escrito em Rust, como camada sobre o Composer",
-      "slug": "phpm-um-pnpm-para-php-escrito-em-rust-como-camada-sobre-o-composer",
-      "owner_username": "lemes",
-      "source_url": "https://github.com/lemesdaniel/phpm",
-      "tabcoins": 9,
-      "children_deep_count": 4,
-      "published_at": "2026-06-26T15:14:56.432Z",
-      "url": "https://www.tabnews.com.br/lemes/phpm-um-pnpm-para-php-escrito-em-rust-como-camada-sobre-o-composer"
-    },
-    {
-      "id": "6523becd-d0e7-4696-ab75-abfab0bf8508",
-      "title": "Usando ClaudeCode/OpenCode/Equivalentes com Subagents?",
-      "slug": "usando-claudecode-opencode-equivalentes-com-subagents",
-      "owner_username": "jeffcarlosbd",
-      "source_url": null,
-      "tabcoins": 7,
+      "id": "ed2f5131-e53f-476b-a5f6-ab1ff90a27ae",
+      "title": "GEO (Generative Engine Optimization): a evolução do SEO e os primeiros avanços nesse novo campo de estudo",
+      "slug": "geo-generative-engine-optimization-a-evolucao-do-seo-e-os-primeiros-avancos-no-novo-campo-de-estudo",
+      "owner_username": "paladini",
+      "source_url": "https://paladini.github.io/generative-engine-optimization-basic-guide/index.html",
+      "tabcoins": 4,
       "children_deep_count": 3,
-      "published_at": "2026-06-26T16:54:29.426Z",
-      "url": "https://www.tabnews.com.br/jeffcarlosbd/usando-claudecode-opencode-equivalentes-com-subagents"
+      "published_at": "2026-06-29T03:03:51.308Z",
+      "url": "https://www.tabnews.com.br/paladini/geo-generative-engine-optimization-a-evolucao-do-seo-e-os-primeiros-avancos-no-novo-campo-de-estudo"
+    },
+    {
+      "id": "aa421f7c-89a6-4242-bf43-7e0c1cdc08ef",
+      "title": "RFC 10008: O Novo Método QUERY e Sua Importância para APIs Modernas",
+      "slug": "rfc-10008-o-novo-metodo-query-e-sua-importancia-para-apis-modernas",
+      "owner_username": "IamThiagoIT",
+      "source_url": "https://www.rfc-editor.org/info/rfc10008",
+      "tabcoins": 13,
+      "children_deep_count": 0,
+      "published_at": "2026-06-28T20:34:50.866Z",
+      "url": "https://www.tabnews.com.br/IamThiagoIT/rfc-10008-o-novo-metodo-query-e-sua-importancia-para-apis-modernas"
+    },
+    {
+      "id": "758e889d-0de9-4bdb-964a-392c71d4c61e",
+      "title": "Será que a gente quer escrever posts para o TabNews no celular? (+ dobradinha de versão do Tabs e da biblioteca do TabNews para Kotlin e meu canarinho pistola)",
+      "slug": "sera-que-a-gente-quer-escrever-posts-para-o-tabnews-no-celular-dobradinha-de-versao-do-tabs-e-da-biblioteca-do-tabnews-para-kotlin-e-meu-canarinho-pistola",
+      "owner_username": "rphlfc",
+      "source_url": "https://play.google.com/store/apps/details?id=com.github.rphlfc.tabs",
+      "tabcoins": 7,
+      "children_deep_count": 4,
+      "published_at": "2026-06-27T14:33:12.179Z",
+      "url": "https://www.tabnews.com.br/rphlfc/sera-que-a-gente-quer-escrever-posts-para-o-tabnews-no-celular-dobradinha-de-versao-do-tabs-e-da-biblioteca-do-tabnews-para-kotlin-e-meu-canarinho-pistola"
     }
   ]
 }
