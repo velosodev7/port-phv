@@ -1,27 +1,16 @@
 {
-  "updated_at": "2026-07-01T11:52:57.390Z",
+  "updated_at": "2026-07-02T11:27:17.819Z",
   "posts": [
     {
-      "id": "9671f57b-abc4-4c88-ac47-61ad774096e4",
-      "title": "[DIY/IoT] A engenharia por trás do \"Uno Elétrico\" com motor BYD do @letrajota: Projetos DIY, IoT e reprogramação de centrais automotivas",
-      "slug": "diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas",
-      "owner_username": "Oletros",
-      "source_url": "https://www.youtube.com/watch?v=RoSnycO_ywY",
-      "tabcoins": 4,
-      "children_deep_count": 4,
-      "published_at": "2026-06-30T14:54:47.296Z",
-      "url": "https://www.tabnews.com.br/Oletros/diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas"
-    },
-    {
-      "id": "5d11bfa5-a909-41d1-bc2d-e06c768b519f",
-      "title": "Como transformei um projeto \"chato\" de infraestrutura em um produto visualmente \"Cyberpunk\" (e por que o Design importa para SysAdmins)",
-      "slug": "como-transformei-um-projeto-chato-de-infraestrutura-em-um-produto-visualmente-cyberpunk-e-por-que-o-design-importa-para-sysadmins",
-      "owner_username": "DevairFernandes",
+      "id": "d01ea8ce-e4e8-4fd6-a0c1-6b029ccacd54",
+      "title": "Pitch: Passei horas na fila de espera de uma UBS, então decidi criar esse app.",
+      "slug": "pitch-passei-horas-na-fila-de-espera-de-uma-ubs-entao-decidi-criar-esse-app",
+      "owner_username": "ryansldev",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-07-01T01:50:52.241Z",
-      "url": "https://www.tabnews.com.br/DevairFernandes/como-transformei-um-projeto-chato-de-infraestrutura-em-um-produto-visualmente-cyberpunk-e-por-que-o-design-importa-para-sysadmins"
+      "tabcoins": 11,
+      "children_deep_count": 6,
+      "published_at": "2026-07-01T12:25:10.057Z",
+      "url": "https://www.tabnews.com.br/ryansldev/pitch-passei-horas-na-fila-de-espera-de-uma-ubs-entao-decidi-criar-esse-app"
     },
     {
       "id": "2f650f0d-336e-4f7a-8c47-f6ca658970d0",
@@ -29,32 +18,54 @@
       "slug": "apresentacao-do-projeto-crom-video-gen-e-miniflow-gocomo-arquitetamos-um-gerador-de-videos-autonomo-com-ia-python-e-motor-de-renderizacao-concorrente-go",
       "owner_username": "MrJ",
       "source_url": "https://crom.run/mblog/mrj/apresentacao-do-projeto-crom-video-gen-miniflow-gocomo-arquitetamos-um-gerador-de-videos-autonomo-com-ia-python-e-motor-de-renderizacao-concorrente-go",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 6,
+      "children_deep_count": 12,
       "published_at": "2026-07-01T07:05:42.992Z",
       "url": "https://www.tabnews.com.br/MrJ/apresentacao-do-projeto-crom-video-gen-e-miniflow-gocomo-arquitetamos-um-gerador-de-videos-autonomo-com-ia-python-e-motor-de-renderizacao-concorrente-go"
     },
     {
-      "id": "a3f4db00-d3db-4cab-80c3-70cd58479c3a",
-      "title": "Antes de deixar o agente rodar o setup, trate o repositório como não confiável",
-      "slug": "antes-de-deixar-o-agente-rodar-o-setup-trate-o-repositorio-como-nao-confiavel",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-01T03:43:08.935Z",
-      "url": "https://www.tabnews.com.br/Centelha/antes-de-deixar-o-agente-rodar-o-setup-trate-o-repositorio-como-nao-confiavel"
+      "id": "e81900e5-adbe-41b7-b3b0-09551166a064",
+      "title": "RAG só busca. GraphRAG raciocina. Como o LinkedIn cortou 28,6% do tempo de suporte",
+      "slug": "rag-so-busca-graphrag-raciocina-como-o-linkedin-cortou-28-6-por-cento-do-tempo-de-suporte",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/graphrag-raciocina-linkedin-suporte/",
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-07-01T12:00:04.130Z",
+      "url": "https://www.tabnews.com.br/kenimo49/rag-so-busca-graphrag-raciocina-como-o-linkedin-cortou-28-6-por-cento-do-tempo-de-suporte"
     },
     {
-      "id": "aa421f7c-89a6-4242-bf43-7e0c1cdc08ef",
-      "title": "RFC 10008: O Novo Método QUERY e Sua Importância para APIs Modernas",
-      "slug": "rfc-10008-o-novo-metodo-query-e-sua-importancia-para-apis-modernas",
-      "owner_username": "IamThiagoIT",
-      "source_url": "https://www.rfc-editor.org/info/rfc10008",
-      "tabcoins": 14,
-      "children_deep_count": 0,
-      "published_at": "2026-06-28T20:34:50.866Z",
-      "url": "https://www.tabnews.com.br/IamThiagoIT/rfc-10008-o-novo-metodo-query-e-sua-importancia-para-apis-modernas"
+      "id": "e21e222f-89df-45f2-80c6-c84ebfabc475",
+      "title": "Observatório Vera Rubin, equipado com a maior câmera digital do mundo, inicia oficialmente suas operações após quase 30 anos de planejamento",
+      "slug": "observatorio-vera-rubin-equipado-com-a-maior-camera-digital-do-mundo-inicia-oficialmente-suas-operacoes-apos-quase-30-anos-de-planejamento",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://olhardigital.com.br/2026/06/30/ciencia-e-espaco/observatorio-vera-c-rubin-inicia-o-maior-levantamento-ja-feito-sobre-o-universo/",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-07-01T14:40:12.740Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/observatorio-vera-rubin-equipado-com-a-maior-camera-digital-do-mundo-inicia-oficialmente-suas-operacoes-apos-quase-30-anos-de-planejamento"
+    },
+    {
+      "id": "73b9f408-0c28-4ae3-9188-6486e4cf22c4",
+      "title": "Como Reverter Migrations com Segurança Sem Perder Dados em Produção",
+      "slug": "como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/reverter-migrations-seguranca-sem-perder-dados-producao",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-07-01T12:03:16.911Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao"
+    },
+    {
+      "id": "78dcfe90-7e88-432c-a828-1e8103c74983",
+      "title": "O desafio de criar um SaaS B2B não está sendo só técnico",
+      "slug": "o-desafio-de-criar-um-saas-b2b-nao-esta-sendo-so-tecnico",
+      "owner_username": "Jhonny",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-07-02T00:01:02.336Z",
+      "url": "https://www.tabnews.com.br/Jhonny/o-desafio-de-criar-um-saas-b2b-nao-esta-sendo-so-tecnico"
     },
     {
       "id": "add04d25-f8d7-4629-85c7-04bc360a2c20",
@@ -68,15 +79,26 @@
       "url": "https://www.tabnews.com.br/rodrigofreire/seu-antivirus-confia-no-steamcommunity-com-esse-foi-o-ponto-cego-que-1-980-sites-pagaram"
     },
     {
-      "id": "af7bba8a-403d-4497-b67e-f09893b9ea89",
-      "title": "Comprei um PC com GPU pra rodar executor 'grátis'. Acabou sendo o config mais caro em 40 trials.",
-      "slug": "comprei-um-pc-com-gpu-pra-rodar-executor-gratis-acabou-sendo-o-config-mais-caro-em-40-trials",
-      "owner_username": "kenimo49",
-      "source_url": "https://doi.org/10.5281/zenodo.20978073",
+      "id": "b6d8e52c-e306-4933-83d2-d5d60a204a34",
+      "title": "System Design de um Banco Digital: Do Ledger ao CAP",
+      "slug": "system-design-de-um-banco-digital-do-ledger-ao-cap",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/fintech-digital-bank-system-design",
       "tabcoins": 7,
-      "children_deep_count": 4,
-      "published_at": "2026-06-28T12:00:03.352Z",
-      "url": "https://www.tabnews.com.br/kenimo49/comprei-um-pc-com-gpu-pra-rodar-executor-gratis-acabou-sendo-o-config-mais-caro-em-40-trials"
+      "children_deep_count": 1,
+      "published_at": "2026-06-30T02:43:29.281Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/system-design-de-um-banco-digital-do-ledger-ao-cap"
+    },
+    {
+      "id": "9671f57b-abc4-4c88-ac47-61ad774096e4",
+      "title": "[DIY/IoT] A engenharia por trás do \"Uno Elétrico\" com motor BYD do @letrajota: Projetos DIY, IoT e reprogramação de centrais automotivas",
+      "slug": "diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas",
+      "owner_username": "Oletros",
+      "source_url": "https://www.youtube.com/watch?v=RoSnycO_ywY",
+      "tabcoins": 6,
+      "children_deep_count": 5,
+      "published_at": "2026-06-30T14:54:47.296Z",
+      "url": "https://www.tabnews.com.br/Oletros/diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas"
     },
     {
       "id": "9f73344a-2903-4529-a3f7-af5de1c2cc95",
@@ -88,28 +110,6 @@
       "children_deep_count": 1,
       "published_at": "2026-06-29T22:26:02.060Z",
       "url": "https://www.tabnews.com.br/MarcosBritoDev/opencode-router-model-roteando-opencode-para-o-modelo-certo"
-    },
-    {
-      "id": "ed2f5131-e53f-476b-a5f6-ab1ff90a27ae",
-      "title": "GEO (Generative Engine Optimization): a evolução do SEO e os primeiros avanços nesse novo campo de estudo",
-      "slug": "geo-generative-engine-optimization-a-evolucao-do-seo-e-os-primeiros-avancos-no-novo-campo-de-estudo",
-      "owner_username": "paladini",
-      "source_url": "https://paladini.github.io/generative-engine-optimization-basic-guide/index.html",
-      "tabcoins": 5,
-      "children_deep_count": 4,
-      "published_at": "2026-06-29T03:03:51.308Z",
-      "url": "https://www.tabnews.com.br/paladini/geo-generative-engine-optimization-a-evolucao-do-seo-e-os-primeiros-avancos-no-novo-campo-de-estudo"
-    },
-    {
-      "id": "f52d5542-df5a-4d88-b95c-c068619b5790",
-      "title": "US$ 47.000 num fim de semana: a tempestade de 2,3 milhões de retries que o harness teria parado em 4 linhas",
-      "slug": "us-47-000-num-fim-de-semana-a-tempestade-de-2-3-milhoes-de-retries-que-o-harness-teria-parado-em-4-linhas",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/47000-fim-de-semana-tempestade-retries-harness-4-linhas/",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-06-29T12:00:03.468Z",
-      "url": "https://www.tabnews.com.br/kenimo49/us-47-000-num-fim-de-semana-a-tempestade-de-2-3-milhoes-de-retries-que-o-harness-teria-parado-em-4-linhas"
     }
   ]
 }
