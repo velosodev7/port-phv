@@ -1,16 +1,104 @@
 {
-  "updated_at": "2026-07-02T11:27:17.819Z",
+  "updated_at": "2026-07-03T11:26:37.347Z",
   "posts": [
+    {
+      "id": "2991cf54-7311-42e2-81ef-8beeb8c1c161",
+      "title": "Criei uma malha P2P para agentes de IA conversarem,  sem Kafka, sem Redis, sem infraestrutura",
+      "slug": "criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura",
+      "owner_username": "OceanStone",
+      "source_url": "https://github.com/andreocc/elo",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-07-02T20:10:56.045Z",
+      "url": "https://www.tabnews.com.br/OceanStone/criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura"
+    },
+    {
+      "id": "2e1cca40-4130-4452-a13c-90b820957dac",
+      "title": "Segurança pessoal no Linux",
+      "slug": "seguranca-pessoal-no-linux",
+      "owner_username": "Silva97",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-07-02T13:48:32.277Z",
+      "url": "https://www.tabnews.com.br/Silva97/seguranca-pessoal-no-linux"
+    },
+    {
+      "id": "26b38738-2802-4c7f-8965-8af7b8be847d",
+      "title": "Flutter Icons Explorer: busca e prototipagem visual de Material Icons",
+      "slug": "flutter-icons-explorer-busca-e-prototipagem-visual-de-material-icons",
+      "owner_username": "fillsanches",
+      "source_url": "https://tools.nettvo.com/flutter/",
+      "tabcoins": 2,
+      "children_deep_count": 2,
+      "published_at": "2026-07-03T02:27:46.511Z",
+      "url": "https://www.tabnews.com.br/fillsanches/flutter-icons-explorer-busca-e-prototipagem-visual-de-material-icons"
+    },
+    {
+      "id": "03371822-895a-48d5-b8b0-5dcb278d8ebe",
+      "title": "Experiência em desenvolvimento de jogos conta como experiencia em carreiras adversas da tecnologia?",
+      "slug": "experiencia-em-desenvolvimento-de-jogos-conta-como-experiencia-em-carreiras-adversas-da-tecnologia",
+      "owner_username": "GustavoSantiago",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 1,
+      "published_at": "2026-07-03T00:33:41.898Z",
+      "url": "https://www.tabnews.com.br/GustavoSantiago/experiencia-em-desenvolvimento-de-jogos-conta-como-experiencia-em-carreiras-adversas-da-tecnologia"
+    },
+    {
+      "id": "fee598e9-300f-4022-aecc-80bd09b58b1a",
+      "title": "Skill de agente também precisa passar por code review",
+      "slug": "skill-de-agente-tambem-precisa-passar-por-code-review",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-03T03:54:00.603Z",
+      "url": "https://www.tabnews.com.br/Centelha/skill-de-agente-tambem-precisa-passar-por-code-review"
+    },
     {
       "id": "d01ea8ce-e4e8-4fd6-a0c1-6b029ccacd54",
       "title": "Pitch: Passei horas na fila de espera de uma UBS, então decidi criar esse app.",
       "slug": "pitch-passei-horas-na-fila-de-espera-de-uma-ubs-entao-decidi-criar-esse-app",
       "owner_username": "ryansldev",
       "source_url": null,
-      "tabcoins": 11,
+      "tabcoins": 16,
       "children_deep_count": 6,
       "published_at": "2026-07-01T12:25:10.057Z",
       "url": "https://www.tabnews.com.br/ryansldev/pitch-passei-horas-na-fila-de-espera-de-uma-ubs-entao-decidi-criar-esse-app"
+    },
+    {
+      "id": "e81900e5-adbe-41b7-b3b0-09551166a064",
+      "title": "RAG só busca. GraphRAG raciocina. Como o LinkedIn cortou 28,6% do tempo de suporte",
+      "slug": "rag-so-busca-graphrag-raciocina-como-o-linkedin-cortou-28-6-por-cento-do-tempo-de-suporte",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/graphrag-raciocina-linkedin-suporte/",
+      "tabcoins": 10,
+      "children_deep_count": 6,
+      "published_at": "2026-07-01T12:00:04.130Z",
+      "url": "https://www.tabnews.com.br/kenimo49/rag-so-busca-graphrag-raciocina-como-o-linkedin-cortou-28-6-por-cento-do-tempo-de-suporte"
+    },
+    {
+      "id": "9671f57b-abc4-4c88-ac47-61ad774096e4",
+      "title": "[DIY/IoT] A engenharia por trás do \"Uno Elétrico\" com motor BYD do @letrajota: Projetos DIY, IoT e reprogramação de centrais automotivas",
+      "slug": "diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas",
+      "owner_username": "Oletros",
+      "source_url": "https://www.youtube.com/watch?v=RoSnycO_ywY",
+      "tabcoins": 8,
+      "children_deep_count": 6,
+      "published_at": "2026-06-30T14:54:47.296Z",
+      "url": "https://www.tabnews.com.br/Oletros/diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas"
+    },
+    {
+      "id": "73b9f408-0c28-4ae3-9188-6486e4cf22c4",
+      "title": "Como Reverter Migrations com Segurança Sem Perder Dados em Produção",
+      "slug": "como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/reverter-migrations-seguranca-sem-perder-dados-producao",
+      "tabcoins": 7,
+      "children_deep_count": 1,
+      "published_at": "2026-07-01T12:03:16.911Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao"
     },
     {
       "id": "2f650f0d-336e-4f7a-8c47-f6ca658970d0",
@@ -22,94 +110,6 @@
       "children_deep_count": 12,
       "published_at": "2026-07-01T07:05:42.992Z",
       "url": "https://www.tabnews.com.br/MrJ/apresentacao-do-projeto-crom-video-gen-e-miniflow-gocomo-arquitetamos-um-gerador-de-videos-autonomo-com-ia-python-e-motor-de-renderizacao-concorrente-go"
-    },
-    {
-      "id": "e81900e5-adbe-41b7-b3b0-09551166a064",
-      "title": "RAG só busca. GraphRAG raciocina. Como o LinkedIn cortou 28,6% do tempo de suporte",
-      "slug": "rag-so-busca-graphrag-raciocina-como-o-linkedin-cortou-28-6-por-cento-do-tempo-de-suporte",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/graphrag-raciocina-linkedin-suporte/",
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-07-01T12:00:04.130Z",
-      "url": "https://www.tabnews.com.br/kenimo49/rag-so-busca-graphrag-raciocina-como-o-linkedin-cortou-28-6-por-cento-do-tempo-de-suporte"
-    },
-    {
-      "id": "e21e222f-89df-45f2-80c6-c84ebfabc475",
-      "title": "Observatório Vera Rubin, equipado com a maior câmera digital do mundo, inicia oficialmente suas operações após quase 30 anos de planejamento",
-      "slug": "observatorio-vera-rubin-equipado-com-a-maior-camera-digital-do-mundo-inicia-oficialmente-suas-operacoes-apos-quase-30-anos-de-planejamento",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://olhardigital.com.br/2026/06/30/ciencia-e-espaco/observatorio-vera-c-rubin-inicia-o-maior-levantamento-ja-feito-sobre-o-universo/",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-01T14:40:12.740Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/observatorio-vera-rubin-equipado-com-a-maior-camera-digital-do-mundo-inicia-oficialmente-suas-operacoes-apos-quase-30-anos-de-planejamento"
-    },
-    {
-      "id": "73b9f408-0c28-4ae3-9188-6486e4cf22c4",
-      "title": "Como Reverter Migrations com Segurança Sem Perder Dados em Produção",
-      "slug": "como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/reverter-migrations-seguranca-sem-perder-dados-producao",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-01T12:03:16.911Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao"
-    },
-    {
-      "id": "78dcfe90-7e88-432c-a828-1e8103c74983",
-      "title": "O desafio de criar um SaaS B2B não está sendo só técnico",
-      "slug": "o-desafio-de-criar-um-saas-b2b-nao-esta-sendo-so-tecnico",
-      "owner_username": "Jhonny",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-07-02T00:01:02.336Z",
-      "url": "https://www.tabnews.com.br/Jhonny/o-desafio-de-criar-um-saas-b2b-nao-esta-sendo-so-tecnico"
-    },
-    {
-      "id": "add04d25-f8d7-4629-85c7-04bc360a2c20",
-      "title": "Seu antivírus confia no steamcommunity.com. Esse foi o ponto cego que 1.980 sites pagaram",
-      "slug": "seu-antivirus-confia-no-steamcommunity-com-esse-foi-o-ponto-cego-que-1-980-sites-pagaram",
-      "owner_username": "rodrigofreire",
-      "source_url": "https://rodrigofreire.pages.dev/posts/02-anatomia-c2/",
-      "tabcoins": 10,
-      "children_deep_count": 0,
-      "published_at": "2026-06-29T13:49:13.884Z",
-      "url": "https://www.tabnews.com.br/rodrigofreire/seu-antivirus-confia-no-steamcommunity-com-esse-foi-o-ponto-cego-que-1-980-sites-pagaram"
-    },
-    {
-      "id": "b6d8e52c-e306-4933-83d2-d5d60a204a34",
-      "title": "System Design de um Banco Digital: Do Ledger ao CAP",
-      "slug": "system-design-de-um-banco-digital-do-ledger-ao-cap",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/fintech-digital-bank-system-design",
-      "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-06-30T02:43:29.281Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/system-design-de-um-banco-digital-do-ledger-ao-cap"
-    },
-    {
-      "id": "9671f57b-abc4-4c88-ac47-61ad774096e4",
-      "title": "[DIY/IoT] A engenharia por trás do \"Uno Elétrico\" com motor BYD do @letrajota: Projetos DIY, IoT e reprogramação de centrais automotivas",
-      "slug": "diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas",
-      "owner_username": "Oletros",
-      "source_url": "https://www.youtube.com/watch?v=RoSnycO_ywY",
-      "tabcoins": 6,
-      "children_deep_count": 5,
-      "published_at": "2026-06-30T14:54:47.296Z",
-      "url": "https://www.tabnews.com.br/Oletros/diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas"
-    },
-    {
-      "id": "9f73344a-2903-4529-a3f7-af5de1c2cc95",
-      "title": "opencode-tier-router: roteando OpenCode para o modelo certo",
-      "slug": "opencode-router-model-roteando-opencode-para-o-modelo-certo",
-      "owner_username": "MarcosBritoDev",
-      "source_url": "https://github.com/marcos2872/opencode-tier-router-plugin",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-06-29T22:26:02.060Z",
-      "url": "https://www.tabnews.com.br/MarcosBritoDev/opencode-router-model-roteando-opencode-para-o-modelo-certo"
     }
   ]
 }
