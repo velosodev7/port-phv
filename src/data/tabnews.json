@@ -1,60 +1,71 @@
 {
-  "updated_at": "2026-07-03T11:26:37.347Z",
+  "updated_at": "2026-07-04T10:49:41.773Z",
   "posts": [
     {
-      "id": "2991cf54-7311-42e2-81ef-8beeb8c1c161",
-      "title": "Criei uma malha P2P para agentes de IA conversarem,  sem Kafka, sem Redis, sem infraestrutura",
-      "slug": "criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura",
-      "owner_username": "OceanStone",
-      "source_url": "https://github.com/andreocc/elo",
+      "id": "869c2e54-6272-4754-8b4f-909c99fd1759",
+      "title": "Tempo é dinheiro! GTA VI aceita tempo?",
+      "slug": "tempo-e-dinheiro-gta-vi-aceita-tempo",
+      "owner_username": "Andreldev",
+      "source_url": "https://www.instagram.com/maven.mapping",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-03T16:47:44.593Z",
+      "url": "https://www.tabnews.com.br/Andreldev/tempo-e-dinheiro-gta-vi-aceita-tempo"
+    },
+    {
+      "id": "aebdae40-42eb-4fb0-91c7-8ce5a4e31dd3",
+      "title": "Adicionei um 4º agente que audita meus outros agentes. Ele pegou meu Strategist enrolando há 3 semanas.",
+      "slug": "adicionei-um-4-agente-que-audita-meus-outros-agentes-ele-pegou-meu-strategist-enrolando-ha-3-semanas",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/quarto-agente-evolver-pegou-strategist-enrolando/",
       "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-07-02T20:10:56.045Z",
-      "url": "https://www.tabnews.com.br/OceanStone/criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura"
-    },
-    {
-      "id": "2e1cca40-4130-4452-a13c-90b820957dac",
-      "title": "Segurança pessoal no Linux",
-      "slug": "seguranca-pessoal-no-linux",
-      "owner_username": "Silva97",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-07-02T13:48:32.277Z",
-      "url": "https://www.tabnews.com.br/Silva97/seguranca-pessoal-no-linux"
-    },
-    {
-      "id": "26b38738-2802-4c7f-8965-8af7b8be847d",
-      "title": "Flutter Icons Explorer: busca e prototipagem visual de Material Icons",
-      "slug": "flutter-icons-explorer-busca-e-prototipagem-visual-de-material-icons",
-      "owner_username": "fillsanches",
-      "source_url": "https://tools.nettvo.com/flutter/",
-      "tabcoins": 2,
-      "children_deep_count": 2,
-      "published_at": "2026-07-03T02:27:46.511Z",
-      "url": "https://www.tabnews.com.br/fillsanches/flutter-icons-explorer-busca-e-prototipagem-visual-de-material-icons"
-    },
-    {
-      "id": "03371822-895a-48d5-b8b0-5dcb278d8ebe",
-      "title": "Experiência em desenvolvimento de jogos conta como experiencia em carreiras adversas da tecnologia?",
-      "slug": "experiencia-em-desenvolvimento-de-jogos-conta-como-experiencia-em-carreiras-adversas-da-tecnologia",
-      "owner_username": "GustavoSantiago",
-      "source_url": null,
-      "tabcoins": 2,
       "children_deep_count": 1,
-      "published_at": "2026-07-03T00:33:41.898Z",
-      "url": "https://www.tabnews.com.br/GustavoSantiago/experiencia-em-desenvolvimento-de-jogos-conta-como-experiencia-em-carreiras-adversas-da-tecnologia"
+      "published_at": "2026-07-03T12:00:03.709Z",
+      "url": "https://www.tabnews.com.br/kenimo49/adicionei-um-4-agente-que-audita-meus-outros-agentes-ele-pegou-meu-strategist-enrolando-ha-3-semanas"
     },
     {
-      "id": "fee598e9-300f-4022-aecc-80bd09b58b1a",
-      "title": "Skill de agente também precisa passar por code review",
-      "slug": "skill-de-agente-tambem-precisa-passar-por-code-review",
-      "owner_username": "Centelha",
+      "id": "95f83c91-2e4a-4a18-84ca-c5b3ee310fa0",
+      "title": "Site de viagens - Dextino",
+      "slug": "site-de-viagens-dextino",
+      "owner_username": "srvinii",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-03T03:54:00.603Z",
-      "url": "https://www.tabnews.com.br/Centelha/skill-de-agente-tambem-precisa-passar-por-code-review"
+      "published_at": "2026-07-04T05:43:07.324Z",
+      "url": "https://www.tabnews.com.br/srvinii/site-de-viagens-dextino"
+    },
+    {
+      "id": "a9856d51-7195-4d8e-a45c-31c840110c5d",
+      "title": "1 ano de Newsletter no Discord 🎉",
+      "slug": "1-ano-de-newsletter-no-discord",
+      "owner_username": "audibert",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-04T03:31:21.494Z",
+      "url": "https://www.tabnews.com.br/audibert/1-ano-de-newsletter-no-discord"
+    },
+    {
+      "id": "245da6f3-9e31-439d-8978-931c2b7d352a",
+      "title": "Pitch: Cansado de acumular abas e PDFs que nunca leio, criei meu próprio \"Jarvis\" de bolso.",
+      "slug": "pitch-cansado-de-acumular-abas-e-pdfs-que-nunca-leio-criei-meu-proprio-jarvis-de-bolso",
+      "owner_username": "Isaquesl",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-04T02:59:50.528Z",
+      "url": "https://www.tabnews.com.br/Isaquesl/pitch-cansado-de-acumular-abas-e-pdfs-que-nunca-leio-criei-meu-proprio-jarvis-de-bolso"
+    },
+    {
+      "id": "26b38738-2802-4c7f-8965-8af7b8be847d",
+      "title": "Pitch: Flutter Icons Explorer: busca e prototipagem visual de Material Icons",
+      "slug": "flutter-icons-explorer-busca-e-prototipagem-visual-de-material-icons",
+      "owner_username": "fillsanches",
+      "source_url": "https://tools.nettvo.com/flutter/",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-07-03T02:27:46.511Z",
+      "url": "https://www.tabnews.com.br/fillsanches/flutter-icons-explorer-busca-e-prototipagem-visual-de-material-icons"
     },
     {
       "id": "d01ea8ce-e4e8-4fd6-a0c1-6b029ccacd54",
@@ -79,17 +90,6 @@
       "url": "https://www.tabnews.com.br/kenimo49/rag-so-busca-graphrag-raciocina-como-o-linkedin-cortou-28-6-por-cento-do-tempo-de-suporte"
     },
     {
-      "id": "9671f57b-abc4-4c88-ac47-61ad774096e4",
-      "title": "[DIY/IoT] A engenharia por trás do \"Uno Elétrico\" com motor BYD do @letrajota: Projetos DIY, IoT e reprogramação de centrais automotivas",
-      "slug": "diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas",
-      "owner_username": "Oletros",
-      "source_url": "https://www.youtube.com/watch?v=RoSnycO_ywY",
-      "tabcoins": 8,
-      "children_deep_count": 6,
-      "published_at": "2026-06-30T14:54:47.296Z",
-      "url": "https://www.tabnews.com.br/Oletros/diy-iot-a-engenharia-por-tras-do-uno-eletrico-do-letrajota-projetos-diy-iot-e-reprogramacao-de-centrais-automotivas"
-    },
-    {
       "id": "73b9f408-0c28-4ae3-9188-6486e4cf22c4",
       "title": "Como Reverter Migrations com Segurança Sem Perder Dados em Produção",
       "slug": "como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao",
@@ -101,15 +101,15 @@
       "url": "https://www.tabnews.com.br/mrmsoares/como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao"
     },
     {
-      "id": "2f650f0d-336e-4f7a-8c47-f6ca658970d0",
-      "title": "Pitch: Apresentação do Projeto: Crom Video Gen & Miniflow Go - Como arquitetamos um gerador de vídeos autônomo com IA (Python) e motor de renderização concorrente (Go)",
-      "slug": "apresentacao-do-projeto-crom-video-gen-e-miniflow-gocomo-arquitetamos-um-gerador-de-videos-autonomo-com-ia-python-e-motor-de-renderizacao-concorrente-go",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/mblog/mrj/apresentacao-do-projeto-crom-video-gen-miniflow-gocomo-arquitetamos-um-gerador-de-videos-autonomo-com-ia-python-e-motor-de-renderizacao-concorrente-go",
-      "tabcoins": 6,
-      "children_deep_count": 12,
-      "published_at": "2026-07-01T07:05:42.992Z",
-      "url": "https://www.tabnews.com.br/MrJ/apresentacao-do-projeto-crom-video-gen-e-miniflow-gocomo-arquitetamos-um-gerador-de-videos-autonomo-com-ia-python-e-motor-de-renderizacao-concorrente-go"
+      "id": "2991cf54-7311-42e2-81ef-8beeb8c1c161",
+      "title": "Criei uma malha P2P para agentes de IA conversarem,  sem Kafka, sem Redis, sem infraestrutura",
+      "slug": "criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura",
+      "owner_username": "OceanStone",
+      "source_url": "https://github.com/andreocc/elo",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-07-02T20:10:56.045Z",
+      "url": "https://www.tabnews.com.br/OceanStone/criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura"
     }
   ]
 }
