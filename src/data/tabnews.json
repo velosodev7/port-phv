@@ -1,104 +1,93 @@
 {
-  "updated_at": "2026-07-04T10:49:41.773Z",
+  "updated_at": "2026-07-05T10:59:25.022Z",
   "posts": [
-    {
-      "id": "869c2e54-6272-4754-8b4f-909c99fd1759",
-      "title": "Tempo é dinheiro! GTA VI aceita tempo?",
-      "slug": "tempo-e-dinheiro-gta-vi-aceita-tempo",
-      "owner_username": "Andreldev",
-      "source_url": "https://www.instagram.com/maven.mapping",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-03T16:47:44.593Z",
-      "url": "https://www.tabnews.com.br/Andreldev/tempo-e-dinheiro-gta-vi-aceita-tempo"
-    },
-    {
-      "id": "aebdae40-42eb-4fb0-91c7-8ce5a4e31dd3",
-      "title": "Adicionei um 4º agente que audita meus outros agentes. Ele pegou meu Strategist enrolando há 3 semanas.",
-      "slug": "adicionei-um-4-agente-que-audita-meus-outros-agentes-ele-pegou-meu-strategist-enrolando-ha-3-semanas",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/quarto-agente-evolver-pegou-strategist-enrolando/",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-03T12:00:03.709Z",
-      "url": "https://www.tabnews.com.br/kenimo49/adicionei-um-4-agente-que-audita-meus-outros-agentes-ele-pegou-meu-strategist-enrolando-ha-3-semanas"
-    },
-    {
-      "id": "95f83c91-2e4a-4a18-84ca-c5b3ee310fa0",
-      "title": "Site de viagens - Dextino",
-      "slug": "site-de-viagens-dextino",
-      "owner_username": "srvinii",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-04T05:43:07.324Z",
-      "url": "https://www.tabnews.com.br/srvinii/site-de-viagens-dextino"
-    },
     {
       "id": "a9856d51-7195-4d8e-a45c-31c840110c5d",
       "title": "1 ano de Newsletter no Discord 🎉",
       "slug": "1-ano-de-newsletter-no-discord",
       "owner_username": "audibert",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 5,
+      "children_deep_count": 4,
       "published_at": "2026-07-04T03:31:21.494Z",
       "url": "https://www.tabnews.com.br/audibert/1-ano-de-newsletter-no-discord"
     },
     {
-      "id": "245da6f3-9e31-439d-8978-931c2b7d352a",
-      "title": "Pitch: Cansado de acumular abas e PDFs que nunca leio, criei meu próprio \"Jarvis\" de bolso.",
-      "slug": "pitch-cansado-de-acumular-abas-e-pdfs-que-nunca-leio-criei-meu-proprio-jarvis-de-bolso",
-      "owner_username": "Isaquesl",
+      "id": "9b092c6d-4cf7-4654-9d9c-827abd324fc9",
+      "title": "Como vocês estão escolhendo modelos de IA no fluxo de desenvolvimento?",
+      "slug": "como-voces-estao-escolhendo-modelos-de-ia-no-fluxo-de-desenvolvimento",
+      "owner_username": "JoaoZanardo",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-07-04T19:30:10.003Z",
+      "url": "https://www.tabnews.com.br/JoaoZanardo/como-voces-estao-escolhendo-modelos-de-ia-no-fluxo-de-desenvolvimento"
+    },
+    {
+      "id": "516f7bf9-ff81-4e33-9584-f9bf52b65078",
+      "title": "O plano perfeito que foi rejeitado em 20 segundos",
+      "slug": "o-plano-perfeito-que-foi-rejeitado-em-20-segundos",
+      "owner_username": "vmv",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-04T02:59:50.528Z",
-      "url": "https://www.tabnews.com.br/Isaquesl/pitch-cansado-de-acumular-abas-e-pdfs-que-nunca-leio-criei-meu-proprio-jarvis-de-bolso"
+      "published_at": "2026-07-05T06:01:42.890Z",
+      "url": "https://www.tabnews.com.br/vmv/o-plano-perfeito-que-foi-rejeitado-em-20-segundos"
     },
     {
-      "id": "26b38738-2802-4c7f-8965-8af7b8be847d",
-      "title": "Pitch: Flutter Icons Explorer: busca e prototipagem visual de Material Icons",
-      "slug": "flutter-icons-explorer-busca-e-prototipagem-visual-de-material-icons",
-      "owner_username": "fillsanches",
-      "source_url": "https://tools.nettvo.com/flutter/",
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-07-03T02:27:46.511Z",
-      "url": "https://www.tabnews.com.br/fillsanches/flutter-icons-explorer-busca-e-prototipagem-visual-de-material-icons"
+      "id": "23780d83-1286-4c05-afd8-a96e141fe4e7",
+      "title": "E se o TypeScript pudesse compilar diretamente para código nativo?",
+      "slug": "e-se-o-typescript-pudesse-compilar-diretamente-para-codigo-nativo",
+      "owner_username": "MarcosBrendon",
+      "source_url": "https://github.com/UrubuCode/rts",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-05T04:27:29.690Z",
+      "url": "https://www.tabnews.com.br/MarcosBrendon/e-se-o-typescript-pudesse-compilar-diretamente-para-codigo-nativo"
     },
     {
-      "id": "d01ea8ce-e4e8-4fd6-a0c1-6b029ccacd54",
-      "title": "Pitch: Passei horas na fila de espera de uma UBS, então decidi criar esse app.",
-      "slug": "pitch-passei-horas-na-fila-de-espera-de-uma-ubs-entao-decidi-criar-esse-app",
-      "owner_username": "ryansldev",
+      "id": "d638c238-4c00-4397-a683-253face076a7",
+      "title": "Cansei de pagar changelog em dólar e fiz o meu (queria feedback)",
+      "slug": "cansei-de-pagar-changelog-em-dolar-e-fiz-o-meu-queria-feedback",
+      "owner_username": "LeonardoTosin",
       "source_url": null,
-      "tabcoins": 16,
-      "children_deep_count": 6,
-      "published_at": "2026-07-01T12:25:10.057Z",
-      "url": "https://www.tabnews.com.br/ryansldev/pitch-passei-horas-na-fila-de-espera-de-uma-ubs-entao-decidi-criar-esse-app"
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-05T03:07:22.083Z",
+      "url": "https://www.tabnews.com.br/LeonardoTosin/cansei-de-pagar-changelog-em-dolar-e-fiz-o-meu-queria-feedback"
     },
     {
-      "id": "e81900e5-adbe-41b7-b3b0-09551166a064",
-      "title": "RAG só busca. GraphRAG raciocina. Como o LinkedIn cortou 28,6% do tempo de suporte",
-      "slug": "rag-so-busca-graphrag-raciocina-como-o-linkedin-cortou-28-6-por-cento-do-tempo-de-suporte",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/graphrag-raciocina-linkedin-suporte/",
-      "tabcoins": 10,
-      "children_deep_count": 6,
-      "published_at": "2026-07-01T12:00:04.130Z",
-      "url": "https://www.tabnews.com.br/kenimo49/rag-so-busca-graphrag-raciocina-como-o-linkedin-cortou-28-6-por-cento-do-tempo-de-suporte"
+      "id": "261a1823-3e49-4746-8dc3-16a5dfe59314",
+      "title": "Pitch: Projeto Open Source - Archi",
+      "slug": "projeto-open-source-archi",
+      "owner_username": "mpraes",
+      "source_url": "https://github.com/mpraes/archi",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-05T00:52:02.407Z",
+      "url": "https://www.tabnews.com.br/mpraes/projeto-open-source-archi"
     },
     {
-      "id": "73b9f408-0c28-4ae3-9188-6486e4cf22c4",
-      "title": "Como Reverter Migrations com Segurança Sem Perder Dados em Produção",
-      "slug": "como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/reverter-migrations-seguranca-sem-perder-dados-producao",
+      "id": "2e1cca40-4130-4452-a13c-90b820957dac",
+      "title": "Segurança pessoal no Linux",
+      "slug": "seguranca-pessoal-no-linux",
+      "owner_username": "Silva97",
+      "source_url": null,
       "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-07-01T12:03:16.911Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/como-reverter-migrations-com-seguranca-sem-perder-dados-em-producao"
+      "children_deep_count": 3,
+      "published_at": "2026-07-02T13:48:32.277Z",
+      "url": "https://www.tabnews.com.br/Silva97/seguranca-pessoal-no-linux"
+    },
+    {
+      "id": "2d7a8b53-073b-47c7-882a-574b668e56b7",
+      "title": "Ex-desenvolvedor da Microsoft cria clone do Bloco de Notas sem recursos de IA e com apenas 2,5 KB",
+      "slug": "https",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html",
+      "tabcoins": 6,
+      "children_deep_count": 5,
+      "published_at": "2026-07-03T14:42:06.849Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/https"
     },
     {
       "id": "2991cf54-7311-42e2-81ef-8beeb8c1c161",
@@ -106,10 +95,21 @@
       "slug": "criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura",
       "owner_username": "OceanStone",
       "source_url": "https://github.com/andreocc/elo",
-      "tabcoins": 5,
-      "children_deep_count": 2,
+      "tabcoins": 6,
+      "children_deep_count": 4,
       "published_at": "2026-07-02T20:10:56.045Z",
       "url": "https://www.tabnews.com.br/OceanStone/criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura"
+    },
+    {
+      "id": "869c2e54-6272-4754-8b4f-909c99fd1759",
+      "title": "Tempo é dinheiro! GTA VI aceita tempo?",
+      "slug": "tempo-e-dinheiro-gta-vi-aceita-tempo",
+      "owner_username": "Andreldev",
+      "source_url": "https://www.instagram.com/maven.mapping",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-07-03T16:47:44.593Z",
+      "url": "https://www.tabnews.com.br/Andreldev/tempo-e-dinheiro-gta-vi-aceita-tempo"
     }
   ]
 }
