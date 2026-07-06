@@ -1,104 +1,93 @@
 {
-  "updated_at": "2026-07-05T10:59:25.022Z",
+  "updated_at": "2026-07-06T12:38:11.353Z",
   "posts": [
-    {
-      "id": "a9856d51-7195-4d8e-a45c-31c840110c5d",
-      "title": "1 ano de Newsletter no Discord 🎉",
-      "slug": "1-ano-de-newsletter-no-discord",
-      "owner_username": "audibert",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 4,
-      "published_at": "2026-07-04T03:31:21.494Z",
-      "url": "https://www.tabnews.com.br/audibert/1-ano-de-newsletter-no-discord"
-    },
-    {
-      "id": "9b092c6d-4cf7-4654-9d9c-827abd324fc9",
-      "title": "Como vocês estão escolhendo modelos de IA no fluxo de desenvolvimento?",
-      "slug": "como-voces-estao-escolhendo-modelos-de-ia-no-fluxo-de-desenvolvimento",
-      "owner_username": "JoaoZanardo",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-04T19:30:10.003Z",
-      "url": "https://www.tabnews.com.br/JoaoZanardo/como-voces-estao-escolhendo-modelos-de-ia-no-fluxo-de-desenvolvimento"
-    },
     {
       "id": "516f7bf9-ff81-4e33-9584-f9bf52b65078",
       "title": "O plano perfeito que foi rejeitado em 20 segundos",
       "slug": "o-plano-perfeito-que-foi-rejeitado-em-20-segundos",
       "owner_username": "vmv",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 8,
+      "children_deep_count": 1,
       "published_at": "2026-07-05T06:01:42.890Z",
       "url": "https://www.tabnews.com.br/vmv/o-plano-perfeito-que-foi-rejeitado-em-20-segundos"
     },
     {
-      "id": "23780d83-1286-4c05-afd8-a96e141fe4e7",
-      "title": "E se o TypeScript pudesse compilar diretamente para código nativo?",
-      "slug": "e-se-o-typescript-pudesse-compilar-diretamente-para-codigo-nativo",
-      "owner_username": "MarcosBrendon",
-      "source_url": "https://github.com/UrubuCode/rts",
-      "tabcoins": 1,
+      "id": "2130ac0d-c549-445c-b612-f9395b7a6cba",
+      "title": "O criador do CLAUDE.md escreve 2 linhas. A comunidade escreve 100. Quem está errado?",
+      "slug": "o-criador-do-claude-md-escreve-2-linhas-a-comunidade-escreve-100-quem-esta-errado",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/claude-md-2-vs-100-linhas-quem-erra/",
+      "tabcoins": 4,
       "children_deep_count": 0,
-      "published_at": "2026-07-05T04:27:29.690Z",
-      "url": "https://www.tabnews.com.br/MarcosBrendon/e-se-o-typescript-pudesse-compilar-diretamente-para-codigo-nativo"
+      "published_at": "2026-07-06T12:00:03.551Z",
+      "url": "https://www.tabnews.com.br/kenimo49/o-criador-do-claude-md-escreve-2-linhas-a-comunidade-escreve-100-quem-esta-errado"
     },
     {
-      "id": "d638c238-4c00-4397-a683-253face076a7",
-      "title": "Cansei de pagar changelog em dólar e fiz o meu (queria feedback)",
-      "slug": "cansei-de-pagar-changelog-em-dolar-e-fiz-o-meu-queria-feedback",
-      "owner_username": "LeonardoTosin",
+      "id": "97ffbcf4-b0ba-4911-9c0e-d6fea48ba4c7",
+      "title": "O que aconteceu com o @TabNewsDigest? (+ nova versão do Tabs com o conteúdo do TabNewsDigest como story)",
+      "slug": "o-que-aconteceu-com-o-tabnewsdisgest-nova-versao-do-tabs-com-o-conteudo-do-tabnewsdigest-como-story",
+      "owner_username": "rphlfc",
+      "source_url": "https://play.google.com/store/apps/details?id=com.github.rphlfc.tabs",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-05T19:12:24.909Z",
+      "url": "https://www.tabnews.com.br/rphlfc/o-que-aconteceu-com-o-tabnewsdisgest-nova-versao-do-tabs-com-o-conteudo-do-tabnewsdigest-como-story"
+    },
+    {
+      "id": "6556350e-09df-4ab7-9f45-482f827c9496",
+      "title": "Como servir os 68 milhões de CNPJs da Receita com ~10ms de latência em Go",
+      "slug": "como-servir-os-68-milhoes-de-cnpjs-da-receita-com-10ms-de-latencia-em-go",
+      "owner_username": "tekhnoai",
+      "source_url": "https://fides.api.br",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-06T12:32:22.585Z",
+      "url": "https://www.tabnews.com.br/tekhnoai/como-servir-os-68-milhoes-de-cnpjs-da-receita-com-10ms-de-latencia-em-go"
+    },
+    {
+      "id": "b8cd1507-a32b-45be-a000-08c7c2d1d1cc",
+      "title": "O retry que derrubou o sistema: a importância de circuit breaker, backoff e token bucket na prática",
+      "slug": "o-retry-que-derrubou-o-sistema-a-importancia-de-circuit-breaker-backoff-e-token-bucket-na-pratica",
+      "owner_username": "willybr",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-05T03:07:22.083Z",
-      "url": "https://www.tabnews.com.br/LeonardoTosin/cansei-de-pagar-changelog-em-dolar-e-fiz-o-meu-queria-feedback"
+      "published_at": "2026-07-06T12:25:02.733Z",
+      "url": "https://www.tabnews.com.br/willybr/o-retry-que-derrubou-o-sistema-a-importancia-de-circuit-breaker-backoff-e-token-bucket-na-pratica"
     },
     {
-      "id": "261a1823-3e49-4746-8dc3-16a5dfe59314",
-      "title": "Pitch: Projeto Open Source - Archi",
-      "slug": "projeto-open-source-archi",
-      "owner_username": "mpraes",
-      "source_url": "https://github.com/mpraes/archi",
+      "id": "4c5f28ea-61f3-42cd-bdb6-8cca70969c15",
+      "title": "Supabase como Backend Completo para Next.js",
+      "slug": "supabase-como-backend-completo-para-next-js",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/nextjs/supabase-backend-completo-nextjs-auth-database-rls-storage",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-05T00:52:02.407Z",
-      "url": "https://www.tabnews.com.br/mpraes/projeto-open-source-archi"
+      "published_at": "2026-07-06T12:03:08.731Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/supabase-como-backend-completo-para-next-js"
     },
     {
-      "id": "2e1cca40-4130-4452-a13c-90b820957dac",
-      "title": "Segurança pessoal no Linux",
-      "slug": "seguranca-pessoal-no-linux",
-      "owner_username": "Silva97",
+      "id": "59407516-a969-470b-8015-0c8fdb3c778d",
+      "title": "Os assassinos silenciosos: Por que seu scraper com Selenium e Docker sempre morre em produção?",
+      "slug": "os-assassinos-silenciosos-por-que-seu-scraper-com-selenium-e-docker-sempre-morre-em-producao",
+      "owner_username": "dgs",
       "source_url": null,
-      "tabcoins": 7,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-06T11:14:13.159Z",
+      "url": "https://www.tabnews.com.br/dgs/os-assassinos-silenciosos-por-que-seu-scraper-com-selenium-e-docker-sempre-morre-em-producao"
+    },
+    {
+      "id": "08a7f23b-304f-4107-b1a0-091d6058eaf6",
+      "title": "A API pública de catálogo da VTEX (que quase ninguém usa)",
+      "slug": "a-api-publica-de-catalogo-da-vtex-que-quase-ninguem-usa",
+      "owner_username": "antoniorincon",
+      "source_url": null,
+      "tabcoins": 6,
       "children_deep_count": 3,
-      "published_at": "2026-07-02T13:48:32.277Z",
-      "url": "https://www.tabnews.com.br/Silva97/seguranca-pessoal-no-linux"
-    },
-    {
-      "id": "2d7a8b53-073b-47c7-882a-574b668e56b7",
-      "title": "Ex-desenvolvedor da Microsoft cria clone do Bloco de Notas sem recursos de IA e com apenas 2,5 KB",
-      "slug": "https",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html",
-      "tabcoins": 6,
-      "children_deep_count": 5,
-      "published_at": "2026-07-03T14:42:06.849Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/https"
-    },
-    {
-      "id": "2991cf54-7311-42e2-81ef-8beeb8c1c161",
-      "title": "Criei uma malha P2P para agentes de IA conversarem,  sem Kafka, sem Redis, sem infraestrutura",
-      "slug": "criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura",
-      "owner_username": "OceanStone",
-      "source_url": "https://github.com/andreocc/elo",
-      "tabcoins": 6,
-      "children_deep_count": 4,
-      "published_at": "2026-07-02T20:10:56.045Z",
-      "url": "https://www.tabnews.com.br/OceanStone/criei-uma-malha-p2p-para-agentes-de-ia-conversarem-sem-kafka-sem-redis-sem-infraestrutura"
+      "published_at": "2026-07-04T19:54:18.659Z",
+      "url": "https://www.tabnews.com.br/antoniorincon/a-api-publica-de-catalogo-da-vtex-que-quase-ninguem-usa"
     },
     {
       "id": "869c2e54-6272-4754-8b4f-909c99fd1759",
@@ -107,9 +96,20 @@
       "owner_username": "Andreldev",
       "source_url": "https://www.instagram.com/maven.mapping",
       "tabcoins": 6,
-      "children_deep_count": 1,
+      "children_deep_count": 2,
       "published_at": "2026-07-03T16:47:44.593Z",
       "url": "https://www.tabnews.com.br/Andreldev/tempo-e-dinheiro-gta-vi-aceita-tempo"
+    },
+    {
+      "id": "2d7a8b53-073b-47c7-882a-574b668e56b7",
+      "title": "Ex-desenvolvedor da Microsoft cria clone do Bloco de Notas sem recursos de IA e com apenas 2,5 KB",
+      "slug": "https",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html",
+      "tabcoins": 5,
+      "children_deep_count": 6,
+      "published_at": "2026-07-03T14:42:06.849Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/https"
     }
   ]
 }
