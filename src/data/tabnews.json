@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-07-06T12:38:11.353Z",
+  "updated_at": "2026-07-07T11:38:52.903Z",
   "posts": [
-    {
-      "id": "516f7bf9-ff81-4e33-9584-f9bf52b65078",
-      "title": "O plano perfeito que foi rejeitado em 20 segundos",
-      "slug": "o-plano-perfeito-que-foi-rejeitado-em-20-segundos",
-      "owner_username": "vmv",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 1,
-      "published_at": "2026-07-05T06:01:42.890Z",
-      "url": "https://www.tabnews.com.br/vmv/o-plano-perfeito-que-foi-rejeitado-em-20-segundos"
-    },
     {
       "id": "2130ac0d-c549-445c-b612-f9395b7a6cba",
       "title": "O criador do CLAUDE.md escreve 2 linhas. A comunidade escreve 100. Quem está errado?",
       "slug": "o-criador-do-claude-md-escreve-2-linhas-a-comunidade-escreve-100-quem-esta-errado",
       "owner_username": "kenimo49",
       "source_url": "https://kenimoto.dev/pt/blog/claude-md-2-vs-100-linhas-quem-erra/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
+      "tabcoins": 8,
+      "children_deep_count": 4,
       "published_at": "2026-07-06T12:00:03.551Z",
       "url": "https://www.tabnews.com.br/kenimo49/o-criador-do-claude-md-escreve-2-linhas-a-comunidade-escreve-100-quem-esta-errado"
-    },
-    {
-      "id": "97ffbcf4-b0ba-4911-9c0e-d6fea48ba4c7",
-      "title": "O que aconteceu com o @TabNewsDigest? (+ nova versão do Tabs com o conteúdo do TabNewsDigest como story)",
-      "slug": "o-que-aconteceu-com-o-tabnewsdisgest-nova-versao-do-tabs-com-o-conteudo-do-tabnewsdigest-como-story",
-      "owner_username": "rphlfc",
-      "source_url": "https://play.google.com/store/apps/details?id=com.github.rphlfc.tabs",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-07-05T19:12:24.909Z",
-      "url": "https://www.tabnews.com.br/rphlfc/o-que-aconteceu-com-o-tabnewsdisgest-nova-versao-do-tabs-com-o-conteudo-do-tabnewsdigest-como-story"
     },
     {
       "id": "6556350e-09df-4ab7-9f45-482f827c9496",
       "title": "Como servir os 68 milhões de CNPJs da Receita com ~10ms de latência em Go",
       "slug": "como-servir-os-68-milhoes-de-cnpjs-da-receita-com-10ms-de-latencia-em-go",
       "owner_username": "tekhnoai",
-      "source_url": "https://fides.api.br",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "source_url": "https://fides.api.br/?utm_source=tabnews",
+      "tabcoins": 6,
+      "children_deep_count": 3,
       "published_at": "2026-07-06T12:32:22.585Z",
       "url": "https://www.tabnews.com.br/tekhnoai/como-servir-os-68-milhoes-de-cnpjs-da-receita-com-10ms-de-latencia-em-go"
     },
     {
-      "id": "b8cd1507-a32b-45be-a000-08c7c2d1d1cc",
-      "title": "O retry que derrubou o sistema: a importância de circuit breaker, backoff e token bucket na prática",
-      "slug": "o-retry-que-derrubou-o-sistema-a-importancia-de-circuit-breaker-backoff-e-token-bucket-na-pratica",
-      "owner_username": "willybr",
+      "id": "d0aa0fdf-3c65-434d-a3c3-a0fc69e27084",
+      "title": "BOLA: a falha de segurança que a autenticação não resolve (e como eu blindei meu SaaS multi-tenant)",
+      "slug": "bola-a-falha-de-seguranca-que-a-autenticacao-nao-resolve-e-como-eu-blindei-meu-saas-multi-tenant",
+      "owner_username": "LucasMaieski",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-06T12:25:02.733Z",
-      "url": "https://www.tabnews.com.br/willybr/o-retry-que-derrubou-o-sistema-a-importancia-de-circuit-breaker-backoff-e-token-bucket-na-pratica"
-    },
-    {
-      "id": "4c5f28ea-61f3-42cd-bdb6-8cca70969c15",
-      "title": "Supabase como Backend Completo para Next.js",
-      "slug": "supabase-como-backend-completo-para-next-js",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/nextjs/supabase-backend-completo-nextjs-auth-database-rls-storage",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-06T12:03:08.731Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/supabase-como-backend-completo-para-next-js"
-    },
-    {
-      "id": "59407516-a969-470b-8015-0c8fdb3c778d",
-      "title": "Os assassinos silenciosos: Por que seu scraper com Selenium e Docker sempre morre em produção?",
-      "slug": "os-assassinos-silenciosos-por-que-seu-scraper-com-selenium-e-docker-sempre-morre-em-producao",
-      "owner_username": "dgs",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-06T11:14:13.159Z",
-      "url": "https://www.tabnews.com.br/dgs/os-assassinos-silenciosos-por-que-seu-scraper-com-selenium-e-docker-sempre-morre-em-producao"
-    },
-    {
-      "id": "08a7f23b-304f-4107-b1a0-091d6058eaf6",
-      "title": "A API pública de catálogo da VTEX (que quase ninguém usa)",
-      "slug": "a-api-publica-de-catalogo-da-vtex-que-quase-ninguem-usa",
-      "owner_username": "antoniorincon",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-07-04T19:54:18.659Z",
-      "url": "https://www.tabnews.com.br/antoniorincon/a-api-publica-de-catalogo-da-vtex-que-quase-ninguem-usa"
-    },
-    {
-      "id": "869c2e54-6272-4754-8b4f-909c99fd1759",
-      "title": "Tempo é dinheiro! GTA VI aceita tempo?",
-      "slug": "tempo-e-dinheiro-gta-vi-aceita-tempo",
-      "owner_username": "Andreldev",
-      "source_url": "https://www.instagram.com/maven.mapping",
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-07-03T16:47:44.593Z",
-      "url": "https://www.tabnews.com.br/Andreldev/tempo-e-dinheiro-gta-vi-aceita-tempo"
-    },
-    {
-      "id": "2d7a8b53-073b-47c7-882a-574b668e56b7",
-      "title": "Ex-desenvolvedor da Microsoft cria clone do Bloco de Notas sem recursos de IA e com apenas 2,5 KB",
-      "slug": "https",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://theguptalog.blogspot.com/2026/07/former-microsoft-dev-built-25kb-notepad.html",
       "tabcoins": 5,
+      "children_deep_count": 7,
+      "published_at": "2026-07-06T03:06:17.831Z",
+      "url": "https://www.tabnews.com.br/LucasMaieski/bola-a-falha-de-seguranca-que-a-autenticacao-nao-resolve-e-como-eu-blindei-meu-saas-multi-tenant"
+    },
+    {
+      "id": "4da3fe7a-6f1a-4f0d-9f32-2b0e09d083b5",
+      "title": "Explícito é melhor que implícito: ponteiros, memória, Rust e Zig",
+      "slug": "explicito-e-melhor-que-implicito-ponteiros-memoria-rust-e-zig",
+      "owner_username": "mateussiilva",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-07-06T12:40:46.632Z",
+      "url": "https://www.tabnews.com.br/mateussiilva/explicito-e-melhor-que-implicito-ponteiros-memoria-rust-e-zig"
+    },
+    {
+      "id": "700da66d-84d4-428c-ac44-9a2979cdc7b8",
+      "title": "Pitch: Cansei de mandar proposta em PDF e ficar no vácuo, então construí o KitProposta",
+      "slug": "cansei-de-mandar-proposta-em-pdf-e-ficar-no-vacuo-entao-construi-o-kitproposta",
+      "owner_username": "joaovinicius",
+      "source_url": "https://kitproposta.com.br/",
+      "tabcoins": 3,
       "children_deep_count": 6,
-      "published_at": "2026-07-03T14:42:06.849Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/https"
+      "published_at": "2026-07-06T20:18:16.822Z",
+      "url": "https://www.tabnews.com.br/joaovinicius/cansei-de-mandar-proposta-em-pdf-e-ficar-no-vacuo-entao-construi-o-kitproposta"
+    },
+    {
+      "id": "9440d712-99e4-4897-9ae6-f37b5d16001d",
+      "title": "Cansei de revisar código de IA linha por linha. Criei uma skill que revisa a arquitetura do PR.",
+      "slug": "cansei-de-revisar-codigo-de-ia-linha-por-linha-criei-uma-skill-que-revisa-a-arquitetura-do-pr",
+      "owner_username": "Jhonny",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-07-06T22:01:02.335Z",
+      "url": "https://www.tabnews.com.br/Jhonny/cansei-de-revisar-codigo-de-ia-linha-por-linha-criei-uma-skill-que-revisa-a-arquitetura-do-pr"
+    },
+    {
+      "id": "4a5f7917-a20f-4b94-9cb8-bf5ae7e75be3",
+      "title": "DigitaRoyale - Game de Digitação (Processo de construção) - Fable",
+      "slug": "digitaroyale-game-de-digitacao-processo-de-construcao-fable",
+      "owner_username": "dnts0",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-07T04:43:37.855Z",
+      "url": "https://www.tabnews.com.br/dnts0/digitaroyale-game-de-digitacao-processo-de-construcao-fable"
+    },
+    {
+      "id": "8234d8ce-8d5f-4e95-9bdb-08bac24710a4",
+      "title": "Sonho de infância realizado: Meu primeiro “Hello World” rodando em um Super Nintendo real",
+      "slug": "sonho-de-infancia-realizado-meu-primeiro-hello-world-rodando-em-um-super-nintendo-real",
+      "owner_username": "juliomiguel",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-07T02:25:46.401Z",
+      "url": "https://www.tabnews.com.br/juliomiguel/sonho-de-infancia-realizado-meu-primeiro-hello-world-rodando-em-um-super-nintendo-real"
+    },
+    {
+      "id": "af4cabaf-8017-4f56-9277-76637d8413fa",
+      "title": "Criei um widget flutuante para acompanhar os limites do Claude Code — Tauri v2 + Rust + vanilla JS",
+      "slug": "criei-um-widget-flutuante-para-acompanhar-os-limites-do-claude-code-tauri-v2-rust-vanilla-js",
+      "owner_username": "pratesy",
+      "source_url": "https://github.com/pratesy/UsoIA",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-07T01:33:04.915Z",
+      "url": "https://www.tabnews.com.br/pratesy/criei-um-widget-flutuante-para-acompanhar-os-limites-do-claude-code-tauri-v2-rust-vanilla-js"
+    },
+    {
+      "id": "4d31696f-5ed1-43ae-88e7-65c05737e4c5",
+      "title": "[Dúvida] Tem como gastar pouco com IA?",
+      "slug": "duvida-tem-como-gastar-pouco-com-ia",
+      "owner_username": "moranguinho",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 5,
+      "published_at": "2026-07-06T03:08:47.809Z",
+      "url": "https://www.tabnews.com.br/moranguinho/duvida-tem-como-gastar-pouco-com-ia"
     }
   ]
 }
