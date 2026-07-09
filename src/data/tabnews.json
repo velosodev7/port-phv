@@ -1,82 +1,16 @@
 {
-  "updated_at": "2026-07-08T10:55:25.995Z",
+  "updated_at": "2026-07-09T11:47:06.106Z",
   "posts": [
     {
-      "id": "8234d8ce-8d5f-4e95-9bdb-08bac24710a4",
-      "title": "Sonho de infância realizado: Meu primeiro “Hello World” rodando em um Super Nintendo real",
-      "slug": "sonho-de-infancia-realizado-meu-primeiro-hello-world-rodando-em-um-super-nintendo-real",
-      "owner_username": "juliomiguel",
-      "source_url": null,
-      "tabcoins": 17,
-      "children_deep_count": 5,
-      "published_at": "2026-07-07T02:25:46.401Z",
-      "url": "https://www.tabnews.com.br/juliomiguel/sonho-de-infancia-realizado-meu-primeiro-hello-world-rodando-em-um-super-nintendo-real"
-    },
-    {
-      "id": "7f99d002-4d3d-465d-b607-a7328746a5e7",
-      "title": "Construí um puzzle open source dirigindo uma equipe de agentes de IA. Esta é a arquitetura, camada por camada",
-      "slug": "construi-um-puzzle-open-source-dirigindo-uma-equipe-de-agentes-de-ia-esta-e-a-arquitetura-camada-por-camada",
-      "owner_username": "AlliTerhorst",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-07-07T23:37:21.182Z",
-      "url": "https://www.tabnews.com.br/AlliTerhorst/construi-um-puzzle-open-source-dirigindo-uma-equipe-de-agentes-de-ia-esta-e-a-arquitetura-camada-por-camada"
-    },
-    {
-      "id": "a2c20155-9c82-4510-ad12-2f2160b8274f",
-      "title": "A engenharia de nunca perder um webhook: fila, retry e idempotência",
-      "slug": "a-engenharia-de-nunca-perder-um-webhook-fila-retry-e-idempotencia",
-      "owner_username": "Rupelio",
-      "source_url": "https://hooksafe.pages.dev/blog/entrega-confiavel-de-webhooks/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-08T00:17:48.643Z",
-      "url": "https://www.tabnews.com.br/Rupelio/a-engenharia-de-nunca-perder-um-webhook-fila-retry-e-idempotencia"
-    },
-    {
-      "id": "cd832fb4-230d-4873-8adf-a27f26b9c6d1",
-      "title": "Eu to criando um jogo 100% com o fable",
-      "slug": "eu-to-criando-um-jogo-100-por-cento-com-o-fable",
-      "owner_username": "wescld",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 4,
-      "published_at": "2026-07-07T16:22:37.381Z",
-      "url": "https://www.tabnews.com.br/wescld/eu-to-criando-um-jogo-100-por-cento-com-o-fable"
-    },
-    {
-      "id": "89c8ed51-01a3-493d-8f05-9e8647cfb355",
-      "title": "Modelos pequenos de IA estão levando serviços essenciais a regiões sem internet no Brasil",
-      "slug": "modelos-pequenos-de-ia-estao-levando-servicos-essenciais-a-regioes-sem-internet-no-brasil",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-07-07T14:26:00.543Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/modelos-pequenos-de-ia-estao-levando-servicos-essenciais-a-regioes-sem-internet-no-brasil"
-    },
-    {
-      "id": "796c4b12-48bb-4bbe-8e74-fbd8dcf4cce4",
-      "title": "Pitch: Os desafios (e gambiarras nativas) para aprovar um cliente do TabNews na App Store",
-      "slug": "os-desafios-e-gambiarras-nativas-para-aprovar-um-cliente-do-tabnews-na-app-store",
-      "owner_username": "andrewqsantos",
-      "source_url": "https://axolote.app.br",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-07-07T23:10:22.382Z",
-      "url": "https://www.tabnews.com.br/andrewqsantos/os-desafios-e-gambiarras-nativas-para-aprovar-um-cliente-do-tabnews-na-app-store"
-    },
-    {
-      "id": "e9d895c5-0614-4fde-a918-ce4ea814a76f",
-      "title": "QUASE FUI HACKEADO: processo completo de COMO EVITEI ISSO",
-      "slug": "quase-fui-hackeado-processo-completo-de-como-evitei-isso",
-      "owner_username": "abubacardev",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-08T08:32:18.233Z",
-      "url": "https://www.tabnews.com.br/abubacardev/quase-fui-hackeado-processo-completo-de-como-evitei-isso"
+      "id": "650fde43-02de-4970-81fe-c53cf4844c2b",
+      "title": "Carta aberta ao TabNews ✉️",
+      "slug": "carta-aberta-ao-tabnews",
+      "owner_username": "HarukaYamamoto0",
+      "source_url": "https://youtu.be/bYBVCxVwrdY?si=g5vH0zzaPvLoFiqZ",
+      "tabcoins": 31,
+      "children_deep_count": 21,
+      "published_at": "2026-07-08T13:01:06.085Z",
+      "url": "https://www.tabnews.com.br/HarukaYamamoto0/carta-aberta-ao-tabnews"
     },
     {
       "id": "2657970d-7f9b-4284-8f32-6c1cd7b7cff8",
@@ -84,32 +18,98 @@
       "slug": "a-abstracao-errada-custa-mais-que-a-duplicacao-e-e-isso-que-separa-junior-de-senior",
       "owner_username": "willybr",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 8,
+      "children_deep_count": 3,
       "published_at": "2026-07-08T02:05:56.212Z",
       "url": "https://www.tabnews.com.br/willybr/a-abstracao-errada-custa-mais-que-a-duplicacao-e-e-isso-que-separa-junior-de-senior"
     },
     {
-      "id": "754413ef-c50b-4877-90af-f04435552da1",
-      "title": "Preciso da sua ajuda: Mercado de trabalho na área da tecnologia em 2026",
-      "slug": "preciso-da-sua-ajuda-mercado-de-trabalho-na-area-da-tecnologia-em-2026",
-      "owner_username": "ThiagoCamp",
+      "id": "796c4b12-48bb-4bbe-8e74-fbd8dcf4cce4",
+      "title": "Pitch: Os desafios (e gambiarras nativas) para aprovar um cliente do TabNews na App Store",
+      "slug": "os-desafios-e-gambiarras-nativas-para-aprovar-um-cliente-do-tabnews-na-app-store",
+      "owner_username": "andrewqsantos",
+      "source_url": "https://axolote.app.br",
+      "tabcoins": 8,
+      "children_deep_count": 3,
+      "published_at": "2026-07-07T23:10:22.382Z",
+      "url": "https://www.tabnews.com.br/andrewqsantos/os-desafios-e-gambiarras-nativas-para-aprovar-um-cliente-do-tabnews-na-app-store"
+    },
+    {
+      "id": "9edfec7a-519b-43e1-99ab-0bfe2a7e0c2f",
+      "title": "Mensageria com BullMQ e Redis: Processamento Assíncrono que Funciona",
+      "slug": "mensageria-com-bullmq-e-redis-processamento-assincrono-que-funciona",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/mensageria-bullmq-redis-processamento-assincrono-nodejs",
+      "tabcoins": 5,
+      "children_deep_count": 3,
+      "published_at": "2026-07-08T12:03:13.644Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/mensageria-com-bullmq-e-redis-processamento-assincrono-que-funciona"
+    },
+    {
+      "id": "5f7fd6c8-8bf6-424a-9252-bf87202e52c4",
+      "title": "Novo método HTTP - RFC 10008",
+      "slug": "voce-ja-escondeu-uma-query-dentro-de-um-post-o-http-acabou-de-te-perdoar-rfc-10008-novo-metodo-http",
+      "owner_username": "willybr",
+      "source_url": "https://mailarchive.ietf.org/arch/msg/ietf-announce/uNaYyRDGKjyOn_KDT2JaGLlm9fE/",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-07-08T22:26:16.536Z",
+      "url": "https://www.tabnews.com.br/willybr/voce-ja-escondeu-uma-query-dentro-de-um-post-o-http-acabou-de-te-perdoar-rfc-10008-novo-metodo-http"
+    },
+    {
+      "id": "d1b8bf7d-f4a3-4882-bebe-7b996fcaee65",
+      "title": "Eu estava lançando meu plugin às 3 da manhã quando ele me avisou: 67% de contexto. Vinte minutos depois, ele mesmo quebrou",
+      "slug": "eu-estava-lancando-meu-plugin-as-3-da-manha-quando-ele-me-avisou-67-por-cento-de-contexto-vinte-minutos-depois-ele-mesmo-quebrou",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/compact-ops-plugin-me-avisou-no-meio-do-lancamento/",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-07-08T12:00:03.871Z",
+      "url": "https://www.tabnews.com.br/kenimo49/eu-estava-lancando-meu-plugin-as-3-da-manha-quando-ele-me-avisou-67-por-cento-de-contexto-vinte-minutos-depois-ele-mesmo-quebrou"
+    },
+    {
+      "id": "6ef1f9cb-6021-436c-b808-17eb6b1e31be",
+      "title": "Pitch: Tribunal de Ideias: um tribunal de IAs pra julgar sua ideia de negócio",
+      "slug": "pitch-tribunal-de-ideias-um-tribunal-de-ias-pra-julgar-sua-ideia-de-negocio",
+      "owner_username": "LucianoSouza",
+      "source_url": "https://www.tribunaldeideias.com.br",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-07-09T05:12:22.436Z",
+      "url": "https://www.tabnews.com.br/LucianoSouza/pitch-tribunal-de-ideias-um-tribunal-de-ias-pra-julgar-sua-ideia-de-negocio"
+    },
+    {
+      "id": "1470d2e5-c24e-476b-99da-74a7f7ef0c15",
+      "title": "Pitch: O desafio de abstrair filas sem esconder o comportamento de cada provider",
+      "slug": "o-desafio-de-abstrair-filas-sem-esconder-o-comportamento-de-cada-provider",
+      "owner_username": "sousadiego11",
+      "source_url": "https://easyqueue-docs.vercel.app/",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-07-08T23:18:00.509Z",
+      "url": "https://www.tabnews.com.br/sousadiego11/o-desafio-de-abstrair-filas-sem-esconder-o-comportamento-de-cada-provider"
+    },
+    {
+      "id": "7ffbfaaf-8fb7-446c-8117-e9dff5889efa",
+      "title": "[PITCH] Construí um diretório de MCP Servers, APIs REST e GraphQL brasileiras",
+      "slug": "pitch-construi-um-diretorio-de-mcp-servers-apis-rest-e-graphql-brasileiras",
+      "owner_username": "Duduubas",
+      "source_url": "https://diretorio.dev",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-07-09T03:19:52.893Z",
+      "url": "https://www.tabnews.com.br/Duduubas/pitch-construi-um-diretorio-de-mcp-servers-apis-rest-e-graphql-brasileiras"
+    },
+    {
+      "id": "9402ab4b-4beb-4c91-855c-45444b5bea00",
+      "title": "Pitch: Como estou transformando qualquer material de estudo em uma aventura gamificada com IA",
+      "slug": "como-estou-transformando-qualquer-material-de-estudo-em-uma-aventura-gamificada-com-ia",
+      "owner_username": "DaviSantos04",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-07T23:37:01.975Z",
-      "url": "https://www.tabnews.com.br/ThiagoCamp/preciso-da-sua-ajuda-mercado-de-trabalho-na-area-da-tecnologia-em-2026"
-    },
-    {
-      "id": "2130ac0d-c549-445c-b612-f9395b7a6cba",
-      "title": "O criador do CLAUDE.md escreve 2 linhas. A comunidade escreve 100. Quem está errado?",
-      "slug": "o-criador-do-claude-md-escreve-2-linhas-a-comunidade-escreve-100-quem-esta-errado",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/claude-md-2-vs-100-linhas-quem-erra/",
-      "tabcoins": 14,
-      "children_deep_count": 9,
-      "published_at": "2026-07-06T12:00:03.551Z",
-      "url": "https://www.tabnews.com.br/kenimo49/o-criador-do-claude-md-escreve-2-linhas-a-comunidade-escreve-100-quem-esta-errado"
+      "published_at": "2026-07-09T09:55:03.415Z",
+      "url": "https://www.tabnews.com.br/DaviSantos04/como-estou-transformando-qualquer-material-de-estudo-em-uma-aventura-gamificada-com-ia"
     }
   ]
 }
