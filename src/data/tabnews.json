@@ -1,16 +1,82 @@
 {
-  "updated_at": "2026-07-09T11:47:06.106Z",
+  "updated_at": "2026-07-10T11:43:42.535Z",
   "posts": [
+    {
+      "id": "efea7818-dc87-4982-8934-9fdf141c1888",
+      "title": "Loop Engineer: o método de Andrej Karpathy para criar agentes que melhoram sistemas em ciclos autônomos",
+      "slug": "loop-engineer-o-metodo-de-andrej-karpathy-para-criar-agentes-que-melhoram-sistemas-em-ciclos-autonomos",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/loop-engineer-karpathy-loop-agentes-ia",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-10T02:03:00.631Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/loop-engineer-o-metodo-de-andrej-karpathy-para-criar-agentes-que-melhoram-sistemas-em-ciclos-autonomos"
+    },
+    {
+      "id": "47a615ec-af4b-4935-86ad-10a6f80b195a",
+      "title": "Grupo de leitura do livro \"Designing Data-Intensive Applications\" (2ª ed)",
+      "slug": "grupo-de-leitura-do-livro-designing-data-intensive-applications-2-ed",
+      "owner_username": "willybr",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-07-10T01:47:32.367Z",
+      "url": "https://www.tabnews.com.br/willybr/grupo-de-leitura-do-livro-designing-data-intensive-applications-2-ed"
+    },
+    {
+      "id": "934a48c4-986f-400e-8134-6fff5ccb5fe2",
+      "title": "webpcvt: fiz uma ferramenta pra converter imagens pra WebP usando Go e resolvi deixar open source",
+      "slug": "webpcvt-fiz-uma-ferramenta-pra-converter-imagens-pra-webp-usando-go-e-resolvi-deixar-open-source",
+      "owner_username": "eliasnunes",
+      "source_url": "https://github.com/elias-np/webpcvt",
+      "tabcoins": 1,
+      "children_deep_count": 2,
+      "published_at": "2026-07-10T01:46:35.694Z",
+      "url": "https://www.tabnews.com.br/eliasnunes/webpcvt-fiz-uma-ferramenta-pra-converter-imagens-pra-webp-usando-go-e-resolvi-deixar-open-source"
+    },
+    {
+      "id": "ab7b75e2-7197-4a36-81ce-28b80099b4be",
+      "title": "Quando o agente ganha botão, o dev precisa desenhar o freio",
+      "slug": "quando-o-agente-ganha-botao-o-dev-precisa-desenhar-o-freio",
+      "owner_username": "Centelha",
+      "source_url": "https://www.techradar.com/pro/openai-teams-with-work-louder-to-launch-codex-native-keyboard-weeks-after-ceo-of-apps-told-staff-not-to-be-distracted-by-side-quests",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-10T08:44:35.417Z",
+      "url": "https://www.tabnews.com.br/Centelha/quando-o-agente-ganha-botao-o-dev-precisa-desenhar-o-freio"
+    },
+    {
+      "id": "966baadd-41e3-43e6-b266-31efdfa025b3",
+      "title": "Fiz um jogo onde você \"nasce\" em um dos 5.570 municípios do Brasil sorteado pela população real,  Sabe aquela curiosidade de pensar \"qual era a chance de eu ter nascido na minha cidade\"? Transformei isso num joguinho de colecionar cidades: o DropLife.",
+      "slug": "fiz-um-jogo-onde-voce-nasce-em-um-dos-5-570-municipios-do-brasil-sorteado-pela-populacao-real-sabe-aquela-curiosidade-de-pensar-qual-era-a-chance-de-eu",
+      "owner_username": "Adriak007",
+      "source_url": "https://droplife.life",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-10T04:26:01.193Z",
+      "url": "https://www.tabnews.com.br/Adriak007/fiz-um-jogo-onde-voce-nasce-em-um-dos-5-570-municipios-do-brasil-sorteado-pela-populacao-real-sabe-aquela-curiosidade-de-pensar-qual-era-a-chance-de-eu"
+    },
     {
       "id": "650fde43-02de-4970-81fe-c53cf4844c2b",
       "title": "Carta aberta ao TabNews ✉️",
       "slug": "carta-aberta-ao-tabnews",
       "owner_username": "HarukaYamamoto0",
       "source_url": "https://youtu.be/bYBVCxVwrdY?si=g5vH0zzaPvLoFiqZ",
-      "tabcoins": 31,
-      "children_deep_count": 21,
+      "tabcoins": 35,
+      "children_deep_count": 28,
       "published_at": "2026-07-08T13:01:06.085Z",
       "url": "https://www.tabnews.com.br/HarukaYamamoto0/carta-aberta-ao-tabnews"
+    },
+    {
+      "id": "5f7fd6c8-8bf6-424a-9252-bf87202e52c4",
+      "title": "Novo método HTTP - RFC 10008",
+      "slug": "voce-ja-escondeu-uma-query-dentro-de-um-post-o-http-acabou-de-te-perdoar-rfc-10008-novo-metodo-http",
+      "owner_username": "willybr",
+      "source_url": "https://mailarchive.ietf.org/arch/msg/ietf-announce/uNaYyRDGKjyOn_KDT2JaGLlm9fE/",
+      "tabcoins": 7,
+      "children_deep_count": 3,
+      "published_at": "2026-07-08T22:26:16.536Z",
+      "url": "https://www.tabnews.com.br/willybr/voce-ja-escondeu-uma-query-dentro-de-um-post-o-http-acabou-de-te-perdoar-rfc-10008-novo-metodo-http"
     },
     {
       "id": "2657970d-7f9b-4284-8f32-6c1cd7b7cff8",
@@ -18,21 +84,10 @@
       "slug": "a-abstracao-errada-custa-mais-que-a-duplicacao-e-e-isso-que-separa-junior-de-senior",
       "owner_username": "willybr",
       "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 3,
+      "tabcoins": 5,
+      "children_deep_count": 4,
       "published_at": "2026-07-08T02:05:56.212Z",
       "url": "https://www.tabnews.com.br/willybr/a-abstracao-errada-custa-mais-que-a-duplicacao-e-e-isso-que-separa-junior-de-senior"
-    },
-    {
-      "id": "796c4b12-48bb-4bbe-8e74-fbd8dcf4cce4",
-      "title": "Pitch: Os desafios (e gambiarras nativas) para aprovar um cliente do TabNews na App Store",
-      "slug": "os-desafios-e-gambiarras-nativas-para-aprovar-um-cliente-do-tabnews-na-app-store",
-      "owner_username": "andrewqsantos",
-      "source_url": "https://axolote.app.br",
-      "tabcoins": 8,
-      "children_deep_count": 3,
-      "published_at": "2026-07-07T23:10:22.382Z",
-      "url": "https://www.tabnews.com.br/andrewqsantos/os-desafios-e-gambiarras-nativas-para-aprovar-um-cliente-do-tabnews-na-app-store"
     },
     {
       "id": "9edfec7a-519b-43e1-99ab-0bfe2a7e0c2f",
@@ -46,70 +101,15 @@
       "url": "https://www.tabnews.com.br/mrmsoares/mensageria-com-bullmq-e-redis-processamento-assincrono-que-funciona"
     },
     {
-      "id": "5f7fd6c8-8bf6-424a-9252-bf87202e52c4",
-      "title": "Novo método HTTP - RFC 10008",
-      "slug": "voce-ja-escondeu-uma-query-dentro-de-um-post-o-http-acabou-de-te-perdoar-rfc-10008-novo-metodo-http",
-      "owner_username": "willybr",
-      "source_url": "https://mailarchive.ietf.org/arch/msg/ietf-announce/uNaYyRDGKjyOn_KDT2JaGLlm9fE/",
+      "id": "a2c20155-9c82-4510-ad12-2f2160b8274f",
+      "title": "A engenharia de nunca perder um webhook: fila, retry e idempotência",
+      "slug": "a-engenharia-de-nunca-perder-um-webhook-fila-retry-e-idempotencia",
+      "owner_username": "Rupelio",
+      "source_url": "https://hooksafe.pages.dev/blog/entrega-confiavel-de-webhooks/",
       "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-07-08T22:26:16.536Z",
-      "url": "https://www.tabnews.com.br/willybr/voce-ja-escondeu-uma-query-dentro-de-um-post-o-http-acabou-de-te-perdoar-rfc-10008-novo-metodo-http"
-    },
-    {
-      "id": "d1b8bf7d-f4a3-4882-bebe-7b996fcaee65",
-      "title": "Eu estava lançando meu plugin às 3 da manhã quando ele me avisou: 67% de contexto. Vinte minutos depois, ele mesmo quebrou",
-      "slug": "eu-estava-lancando-meu-plugin-as-3-da-manha-quando-ele-me-avisou-67-por-cento-de-contexto-vinte-minutos-depois-ele-mesmo-quebrou",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/compact-ops-plugin-me-avisou-no-meio-do-lancamento/",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-07-08T12:00:03.871Z",
-      "url": "https://www.tabnews.com.br/kenimo49/eu-estava-lancando-meu-plugin-as-3-da-manha-quando-ele-me-avisou-67-por-cento-de-contexto-vinte-minutos-depois-ele-mesmo-quebrou"
-    },
-    {
-      "id": "6ef1f9cb-6021-436c-b808-17eb6b1e31be",
-      "title": "Pitch: Tribunal de Ideias: um tribunal de IAs pra julgar sua ideia de negócio",
-      "slug": "pitch-tribunal-de-ideias-um-tribunal-de-ias-pra-julgar-sua-ideia-de-negocio",
-      "owner_username": "LucianoSouza",
-      "source_url": "https://www.tribunaldeideias.com.br",
-      "tabcoins": 3,
       "children_deep_count": 1,
-      "published_at": "2026-07-09T05:12:22.436Z",
-      "url": "https://www.tabnews.com.br/LucianoSouza/pitch-tribunal-de-ideias-um-tribunal-de-ias-pra-julgar-sua-ideia-de-negocio"
-    },
-    {
-      "id": "1470d2e5-c24e-476b-99da-74a7f7ef0c15",
-      "title": "Pitch: O desafio de abstrair filas sem esconder o comportamento de cada provider",
-      "slug": "o-desafio-de-abstrair-filas-sem-esconder-o-comportamento-de-cada-provider",
-      "owner_username": "sousadiego11",
-      "source_url": "https://easyqueue-docs.vercel.app/",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-08T23:18:00.509Z",
-      "url": "https://www.tabnews.com.br/sousadiego11/o-desafio-de-abstrair-filas-sem-esconder-o-comportamento-de-cada-provider"
-    },
-    {
-      "id": "7ffbfaaf-8fb7-446c-8117-e9dff5889efa",
-      "title": "[PITCH] Construí um diretório de MCP Servers, APIs REST e GraphQL brasileiras",
-      "slug": "pitch-construi-um-diretorio-de-mcp-servers-apis-rest-e-graphql-brasileiras",
-      "owner_username": "Duduubas",
-      "source_url": "https://diretorio.dev",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-07-09T03:19:52.893Z",
-      "url": "https://www.tabnews.com.br/Duduubas/pitch-construi-um-diretorio-de-mcp-servers-apis-rest-e-graphql-brasileiras"
-    },
-    {
-      "id": "9402ab4b-4beb-4c91-855c-45444b5bea00",
-      "title": "Pitch: Como estou transformando qualquer material de estudo em uma aventura gamificada com IA",
-      "slug": "como-estou-transformando-qualquer-material-de-estudo-em-uma-aventura-gamificada-com-ia",
-      "owner_username": "DaviSantos04",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-09T09:55:03.415Z",
-      "url": "https://www.tabnews.com.br/DaviSantos04/como-estou-transformando-qualquer-material-de-estudo-em-uma-aventura-gamificada-com-ia"
+      "published_at": "2026-07-08T00:17:48.643Z",
+      "url": "https://www.tabnews.com.br/Rupelio/a-engenharia-de-nunca-perder-um-webhook-fila-retry-e-idempotencia"
     }
   ]
 }
