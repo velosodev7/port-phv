@@ -1,71 +1,27 @@
 {
-  "updated_at": "2026-07-11T10:09:23.428Z",
+  "updated_at": "2026-07-12T10:19:05.544Z",
   "posts": [
     {
-      "id": "47a615ec-af4b-4935-86ad-10a6f80b195a",
-      "title": "Grupo de leitura do livro \"Designing Data-Intensive Applications\" (2ª ed)",
-      "slug": "grupo-de-leitura-do-livro-designing-data-intensive-applications-2-ed",
-      "owner_username": "willybr",
-      "source_url": null,
-      "tabcoins": 9,
-      "children_deep_count": 4,
-      "published_at": "2026-07-10T01:47:32.367Z",
-      "url": "https://www.tabnews.com.br/willybr/grupo-de-leitura-do-livro-designing-data-intensive-applications-2-ed"
-    },
-    {
-      "id": "066c8e71-f6bb-40cf-a2df-5ccd9cd85634",
-      "title": "Pitch: ⚖️ Crie um RAG para processos jurídicos 100% local, privado e roda com menos de 4GB de RAM.",
-      "slug": "pense-num-trem-carnica-rag-para-processos-juridicos",
-      "owner_username": "semk",
-      "source_url": "https://github.com/fraconca/ai-ragjus",
-      "tabcoins": 7,
-      "children_deep_count": 7,
-      "published_at": "2026-07-10T19:13:07.895Z",
-      "url": "https://www.tabnews.com.br/semk/pense-num-trem-carnica-rag-para-processos-juridicos"
-    },
-    {
-      "id": "efea7818-dc87-4982-8934-9fdf141c1888",
-      "title": "Loop Engineer: o método de Andrej Karpathy para criar agentes que melhoram sistemas em ciclos autônomos",
-      "slug": "loop-engineer-o-metodo-de-andrej-karpathy-para-criar-agentes-que-melhoram-sistemas-em-ciclos-autonomos",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/loop-engineer-karpathy-loop-agentes-ia",
-      "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-07-10T02:03:00.631Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/loop-engineer-o-metodo-de-andrej-karpathy-para-criar-agentes-que-melhoram-sistemas-em-ciclos-autonomos"
-    },
-    {
-      "id": "32b92da5-019e-460b-82be-6be9c89ab5f4",
-      "title": "Meu pitch chegou até o top 3 e os comentários viraram lição de casa: as demos que vocês pediram estão no ar",
-      "slug": "meu-pitch-chegou-ate-o-top-3-e-os-comentarios-viraram-licao-de-casa-as-demos-que-voces-pediram-estao-no-ar",
-      "owner_username": "joaovinicius",
-      "source_url": "https://kitproposta.com.br/",
+      "id": "99c7d548-7594-45bc-bc48-909c82825f7e",
+      "title": "Dissequei os perfis do GitHub de 10 engenheiros famosos. Tudo coube em 7 estilos",
+      "slug": "dissequei-os-perfis-do-github-de-10-engenheiros-famosos-tudo-coube-em-7-estilos",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/dissequei-10-perfis-github-7-estilos/",
       "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-07-10T16:07:50.657Z",
-      "url": "https://www.tabnews.com.br/joaovinicius/meu-pitch-chegou-ate-o-top-3-e-os-comentarios-viraram-licao-de-casa-as-demos-que-voces-pediram-estao-no-ar"
+      "children_deep_count": 5,
+      "published_at": "2026-07-11T12:15:03.208Z",
+      "url": "https://www.tabnews.com.br/kenimo49/dissequei-os-perfis-do-github-de-10-engenheiros-famosos-tudo-coube-em-7-estilos"
     },
     {
-      "id": "05defad3-e450-4bef-8a8f-170cac02e942",
-      "title": "Fiz o Win+V do Windows funcionar no GNOME",
-      "slug": "fiz-o-winv-do-windows-funcionar-no-gnome",
-      "owner_username": "peterson047",
-      "source_url": "https://github.com/Peterson047/winv",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-11T02:36:34.572Z",
-      "url": "https://www.tabnews.com.br/peterson047/fiz-o-winv-do-windows-funcionar-no-gnome"
-    },
-    {
-      "id": "15dc9aba-57eb-46e8-aa87-ba2449b87801",
-      "title": "Como um bug de autocorrelação inflou a acurácia do meu modelo em 30% - e como eu corrigi",
-      "slug": "como-um-bug-de-autocorrelacao-inflou-a-acuracia-do-meu-modelo-em-30-por-cento-e-como-eu-corrigi",
-      "owner_username": "lucastorch",
+      "id": "64b10851-5698-4e3c-8b2d-842d8db3b82f",
+      "title": "🔥 O Melhor da Semana no TabNews #27",
+      "slug": "o-melhor-da-semana-no-tabnews-27",
+      "owner_username": "TabNewsDigest",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-11T00:54:36.582Z",
-      "url": "https://www.tabnews.com.br/lucastorch/como-um-bug-de-autocorrelacao-inflou-a-acuracia-do-meu-modelo-em-30-por-cento-e-como-eu-corrigi"
+      "tabcoins": 6,
+      "children_deep_count": 0,
+      "published_at": "2026-07-11T11:00:04.607Z",
+      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-27"
     },
     {
       "id": "70932acc-43af-49d6-ac27-937cc9cb2257",
@@ -73,43 +29,87 @@
       "slug": "quimera-dnai-synapse-moa-e-outras-ias-brasileiras-de-arquiteturas-unicas-que-poderiam-existir-por-que-irei-parar-de-treinar-llms-brasileiras-por",
       "owner_username": "MrJ",
       "source_url": "https://crom.run/blog/quimera-dnai-synapse-moa-e-outras-ias-brasileiras-de-arquiteturas-unicas-que-poderiam-existir-por-que-irei-parar-de-treinar-llms-brasileiras-por-enquanto",
-      "tabcoins": 4,
-      "children_deep_count": 3,
+      "tabcoins": 5,
+      "children_deep_count": 5,
       "published_at": "2026-07-11T00:16:55.750Z",
       "url": "https://www.tabnews.com.br/MrJ/quimera-dnai-synapse-moa-e-outras-ias-brasileiras-de-arquiteturas-unicas-que-poderiam-existir-por-que-irei-parar-de-treinar-llms-brasileiras-por"
     },
     {
-      "id": "a5c26d2f-eec3-4389-a558-4bf708fb0bf2",
-      "title": "MCP me custou 27 mil tokens só pra dizer oi. Knowledge Graph cortou 150 mil pra 18 mil no code review (8,3x). Qual ferramenta ganha qual batalha",
-      "slug": "mcp-me-custou-27-mil-tokens-so-pra-dizer-oi-knowledge-graph-cortou-150-mil-pra-18-mil-no-code-review-8-3x-qual-ferramenta-ganha-qual-batalha",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/mcp-27k-vs-kg-8x-qual-ganha/",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-10T12:00:04.232Z",
-      "url": "https://www.tabnews.com.br/kenimo49/mcp-me-custou-27-mil-tokens-so-pra-dizer-oi-knowledge-graph-cortou-150-mil-pra-18-mil-no-code-review-8-3x-qual-ferramenta-ganha-qual-batalha"
+      "id": "05defad3-e450-4bef-8a8f-170cac02e942",
+      "title": "Pitch: Fiz o Win+V do Windows funcionar no GNOME",
+      "slug": "fiz-o-winv-do-windows-funcionar-no-gnome",
+      "owner_username": "peterson047",
+      "source_url": "https://github.com/Peterson047/winv",
+      "tabcoins": 5,
+      "children_deep_count": 3,
+      "published_at": "2026-07-11T02:36:34.572Z",
+      "url": "https://www.tabnews.com.br/peterson047/fiz-o-winv-do-windows-funcionar-no-gnome"
     },
     {
-      "id": "5a9501fc-4a2f-4d3a-a8ad-4224b01e7387",
-      "title": "[PITCH]: Criei um bot que registra gastos por mensagem de voz no Telegram",
-      "slug": "pitch-criei-um-bot-que-registra-gastos-por-mensagem-de-voz-no-telegram",
-      "owner_username": "RobertoManica",
+      "id": "3be92657-3a35-47b4-9381-c006c4d75656",
+      "title": "🔥 O Melhor da Semana no TabNews está de volta (+ versão nova do Tabs)",
+      "slug": "o-melhor-da-semana-no-tabnews-esta-de-volta-versao-nova-do-tabs",
+      "owner_username": "rphlfc",
+      "source_url": "https://play.google.com/store/apps/details?id=com.github.rphlfc.tabs",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-07-11T16:25:54.865Z",
+      "url": "https://www.tabnews.com.br/rphlfc/o-melhor-da-semana-no-tabnews-esta-de-volta-versao-nova-do-tabs"
+    },
+    {
+      "id": "25b8ac4b-ccc1-4123-8e69-81c1c53b7eba",
+      "title": "Doando CPU/GPU ociosa para a ciência: Como nos tornarmos cientistas cidadãos",
+      "slug": "doando-cpu-gpu-ociosa-para-a-ciencia-como-nos-tornarmos-cientistas-cidadaos",
+      "owner_username": "rodrigocoa",
+      "source_url": "https://foldingathome.org/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-11T18:48:30.226Z",
+      "url": "https://www.tabnews.com.br/rodrigocoa/doando-cpu-gpu-ociosa-para-a-ciencia-como-nos-tornarmos-cientistas-cidadaos"
+    },
+    {
+      "id": "2f9fedab-55b6-411c-bf9c-789d5cf11e9f",
+      "title": "Estou implorando que você aprenda programação o mais rápido possível",
+      "slug": "estou-implorando-que-voce-aprenda-programacao-o-mais-rapido-possivel",
+      "owner_username": "abubacardev",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-11T10:33:31.740Z",
+      "url": "https://www.tabnews.com.br/abubacardev/estou-implorando-que-voce-aprenda-programacao-o-mais-rapido-possivel"
+    },
+    {
+      "id": "ee921dfb-5f93-4e05-99fb-0de4ae83f720",
+      "title": "Pitch: Cansei do clickbait nos sites de games e fiz meu próprio app de notícias",
+      "slug": "cansei-do-clickbait-nos-sites-de-games-e-fiz-meu-proprio-app-de-noticias",
+      "owner_username": "Notering",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-11T15:33:26.442Z",
+      "url": "https://www.tabnews.com.br/Notering/cansei-do-clickbait-nos-sites-de-games-e-fiz-meu-proprio-app-de-noticias"
+    },
+    {
+      "id": "6b663ef8-dffe-41ea-880b-d37a05763216",
+      "title": "Agentes de IA como uma empresa: testei o Buda",
+      "slug": "agentes-de-ia-como-uma-empresa-testei-o-buda",
+      "owner_username": "aiagentstest",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-07-12T05:59:13.008Z",
+      "url": "https://www.tabnews.com.br/aiagentstest/agentes-de-ia-como-uma-empresa-testei-o-buda"
+    },
+    {
+      "id": "b193ce26-f7f0-4cb7-86e5-77c05e861c65",
+      "title": "Quem aqui vende SaaS pra cliente brasileiro — como resolveu PIX recorrente e nota fiscal?",
+      "slug": "quem-aqui-vende-saas-pra-cliente-brasileiro-como-resolveu-pix-recorrente-e-nota-fiscal",
+      "owner_username": "HugoOwl",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-11T05:16:10.608Z",
-      "url": "https://www.tabnews.com.br/RobertoManica/pitch-criei-um-bot-que-registra-gastos-por-mensagem-de-voz-no-telegram"
-    },
-    {
-      "id": "8140c234-5526-4b69-be31-22ef77af55f8",
-      "title": "A IA me proibiu de construir novas features",
-      "slug": "a-ia-me-proibiu-de-construir-novas-features",
-      "owner_username": "moacirmoda",
-      "source_url": "https://moacirmoda.substack.com/p/a-ia-me-proibiu-de-construir-novas",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-11T02:13:09.516Z",
-      "url": "https://www.tabnews.com.br/moacirmoda/a-ia-me-proibiu-de-construir-novas-features"
+      "published_at": "2026-07-12T05:21:10.852Z",
+      "url": "https://www.tabnews.com.br/HugoOwl/quem-aqui-vende-saas-pra-cliente-brasileiro-como-resolveu-pix-recorrente-e-nota-fiscal"
     }
   ]
 }
