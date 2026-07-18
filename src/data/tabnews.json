@@ -1,104 +1,27 @@
 {
-  "updated_at": "2026-07-17T10:39:16.949Z",
+  "updated_at": "2026-07-18T10:11:07.250Z",
   "posts": [
     {
-      "id": "9e704ba8-ef6d-4fd3-bceb-0dae14f0dd7c",
-      "title": "O TabNews está deixando de falar sobre tecnologia?",
-      "slug": "o-tabnews-esta-deixando-de-falar-sobre-tecnologia",
-      "owner_username": "matheusdevlopes",
-      "source_url": "https://www.tabnews.com.br/Desabafo/desabafo-carta-aberta-a-comunidade-tabnews",
-      "tabcoins": 7,
-      "children_deep_count": 8,
-      "published_at": "2026-07-16T12:25:27.116Z",
-      "url": "https://www.tabnews.com.br/matheusdevlopes/o-tabnews-esta-deixando-de-falar-sobre-tecnologia"
-    },
-    {
-      "id": "05f894b7-8d47-4a60-bc58-1f2673b88ff0",
-      "title": "[PITCH] Fiz um FPS multiplayer estilo Counter-Strike em ~10 dias usando 100% o Claude, beta aberto pra testar",
-      "slug": "pitch-agora-sim-finalmente-lancando-o-jogo-que-fiz-100-por-cento-com-o-claude",
-      "owner_username": "wescld",
-      "source_url": "https://play.rushb.online",
-      "tabcoins": 7,
-      "children_deep_count": 3,
-      "published_at": "2026-07-16T11:45:56.305Z",
-      "url": "https://www.tabnews.com.br/wescld/pitch-agora-sim-finalmente-lancando-o-jogo-que-fiz-100-por-cento-com-o-claude"
-    },
-    {
-      "id": "605cef4c-1423-4dd4-a91b-4a0e5a86feb0",
-      "title": "Como a memória do Claude pode ser sequestrada através de URLs (com injeção de prompt indireta)",
-      "slug": "como-a-memoria-do-claude-pode-ser-sequestrada-atraves-de-urls-com-injecao-de-prompt-indireta",
-      "owner_username": "rafael",
-      "source_url": "https://www.ayush.digital/blog/the-memory-heist",
-      "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-07-16T15:55:58.507Z",
-      "url": "https://www.tabnews.com.br/rafael/como-a-memoria-do-claude-pode-ser-sequestrada-atraves-de-urls-com-injecao-de-prompt-indireta"
-    },
-    {
-      "id": "51d50180-d144-4d92-9741-3bb1e3664364",
-      "title": "Pitch: Smart Claude Gif, Exibir modelo usado na telinha embutida no note da positivo. Engenharia reversa e Claude. Haiku e Sonnet obtendo resultado do Fable",
-      "slug": "smart-claude-gif-exibir-modelo-usado-na-telinha-embutida-no-note-da-positivo-engenharia-reversa-e-claude-haiku-e-sonnet-obtendo-resultado-do-fable",
-      "owner_username": "asm444",
-      "source_url": "https://github.com/asm444/smartClaude",
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-07-16T17:31:32.899Z",
-      "url": "https://www.tabnews.com.br/asm444/smart-claude-gif-exibir-modelo-usado-na-telinha-embutida-no-note-da-positivo-engenharia-reversa-e-claude-haiku-e-sonnet-obtendo-resultado-do-fable"
-    },
-    {
-      "id": "ab53a385-bc94-4355-977c-207b6cbf14ea",
-      "title": "Dá pra fazer jogos usando JS/TS sem game engine?",
-      "slug": "da-pra-fazer-jogos-usando-js-ts-sem-game-engine",
-      "owner_username": "PatrikMaltaDev",
+      "id": "0d1493b4-745b-43a8-8588-7073e5107965",
+      "title": "Treinei um modelo local de 344M que classifica NCM de nota fiscal — e ele sabe dizer \"não sei\"",
+      "slug": "treinei-um-modelo-local-de-344m-que-classifica-ncm-de-nota-fiscal-e-ele-sabe-dizer-nao-sei",
+      "owner_username": "D0minuZ",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-16T19:11:58.434Z",
-      "url": "https://www.tabnews.com.br/PatrikMaltaDev/da-pra-fazer-jogos-usando-js-ts-sem-game-engine"
-    },
-    {
-      "id": "7aa49a4e-5933-498e-86bf-4b2cddb27401",
-      "title": "SpaceXAI abre código-fonte do Grok Build após polêmica com upload de repositórios de usuários",
-      "slug": "spacexai-abre-codigo-fonte-do-grok-build-apos-polemica-com-upload-de-repositorios-de-usuarios",
-      "owner_username": "NewsletterOficial",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-16T14:46:09.526Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/spacexai-abre-codigo-fonte-do-grok-build-apos-polemica-com-upload-de-repositorios-de-usuarios"
-    },
-    {
-      "id": "f057f13c-34bf-4f74-996e-035d07ecb3ed",
-      "title": "Criei uma skill para impedir que a IA destruísse meus padrões de código",
-      "slug": "criei-uma-skill-para-impedir-que-a-ia-destruisse-meus-padroes-de-codigo",
-      "owner_username": "AdrianSilva",
-      "source_url": "https://www.npmjs.com/package/@adrianfsf/guider",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-07-16T14:31:57.192Z",
-      "url": "https://www.tabnews.com.br/AdrianSilva/criei-uma-skill-para-impedir-que-a-ia-destruisse-meus-padroes-de-codigo"
-    },
-    {
-      "id": "f506f2a9-2aa0-47f1-9e46-35b570afcbf3",
-      "title": "Vint Cerf, um dos criadores do protocolo TCP/IP, trabalha em solução para que agentes de IA possam interagir de forma autônoma na web",
-      "slug": "vint-cerf-um-dos-criadores-do-protocolo-tcp-ip-trabalha-em-solucao-para-que-agentes-de-ia-possam-interagir-de-forma-autonoma-na-web",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-16T14:11:05.708Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/vint-cerf-um-dos-criadores-do-protocolo-tcp-ip-trabalha-em-solucao-para-que-agentes-de-ia-possam-interagir-de-forma-autonoma-na-web"
-    },
-    {
-      "id": "a54422f1-2b6c-4fd3-bb0b-f6d93965c5eb",
-      "title": "Pitch: Criei uma biblioteca React com ícones dos bancos do Brasil 🇧🇷",
-      "slug": "criei-uma-biblioteca-react-com-icones-dos-bancos-do-brasil",
-      "owner_username": "henriquezolini",
-      "source_url": null,
-      "tabcoins": 3,
+      "tabcoins": 13,
       "children_deep_count": 4,
-      "published_at": "2026-07-16T10:24:42.447Z",
-      "url": "https://www.tabnews.com.br/henriquezolini/criei-uma-biblioteca-react-com-icones-dos-bancos-do-brasil"
+      "published_at": "2026-07-17T14:18:39.843Z",
+      "url": "https://www.tabnews.com.br/D0minuZ/treinei-um-modelo-local-de-344m-que-classifica-ncm-de-nota-fiscal-e-ele-sabe-dizer-nao-sei"
+    },
+    {
+      "id": "c8d606e6-39d9-4fe3-8168-970e2748a4df",
+      "title": "Pitch: cansei de manter lista de bancos no app, então criei um dataset com as instituições do Pix e seus logos usando só fontes oficiais",
+      "slug": "pitch-cansei-de-manter-lista-de-bancos-no-app-entao-criei-um-dataset-com-as-instituicoes-do-pix-e-seus-logos-usando-so-fontes-oficiais",
+      "owner_username": "skyrafael",
+      "source_url": null,
+      "tabcoins": 9,
+      "children_deep_count": 2,
+      "published_at": "2026-07-17T17:34:59.039Z",
+      "url": "https://www.tabnews.com.br/skyrafael/pitch-cansei-de-manter-lista-de-bancos-no-app-entao-criei-um-dataset-com-as-instituicoes-do-pix-e-seus-logos-usando-so-fontes-oficiais"
     },
     {
       "id": "2b25b57c-9a4b-4269-adf8-11ee77848c0b",
@@ -106,10 +29,87 @@
       "slug": "introducao-ao-sonarqube-aula",
       "owner_username": "andrericardodeveloper",
       "source_url": "https://docs.sonarsource.com/",
-      "tabcoins": 3,
+      "tabcoins": 6,
       "children_deep_count": 0,
       "published_at": "2026-07-17T00:28:18.284Z",
       "url": "https://www.tabnews.com.br/andrericardodeveloper/introducao-ao-sonarqube-aula"
+    },
+    {
+      "id": "49609acb-d331-4002-ad10-a2cdea6fcaf3",
+      "title": "[PITCH] Foi o aluno ou foi a IA? Criei um \"replay\" para atividades de programação",
+      "slug": "pitch-eu-criei-uma-caixa-preta-para-atividades-de-programacao",
+      "owner_username": "jpierreribeiro",
+      "source_url": "https://dalivim.com.br/",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-07-18T00:21:41.898Z",
+      "url": "https://www.tabnews.com.br/jpierreribeiro/pitch-eu-criei-uma-caixa-preta-para-atividades-de-programacao"
+    },
+    {
+      "id": "d53488fa-7376-44fc-be26-2e2a063a356b",
+      "title": "Pitch: A IA garantiu que estava tudo certo. Foi quando comecei a me preocupar",
+      "slug": "a-ia-garantiu-que-estava-tudo-certo-foi-quando-comecei-a-me-preocupar",
+      "owner_username": "leander",
+      "source_url": "https://www.npmjs.com/package/scrumrun",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-07-17T16:51:29.450Z",
+      "url": "https://www.tabnews.com.br/leander/a-ia-garantiu-que-estava-tudo-certo-foi-quando-comecei-a-me-preocupar"
+    },
+    {
+      "id": "f2ab3890-bdba-4ac9-9665-5ca44202f0c4",
+      "title": "Reflexões sobre o uso de IA no dia a dia do desenvolvimento de software",
+      "slug": "reflexoes-sobre-o-uso-de-ia-no-dia-a-dia-do-desenvolvimento-de-software",
+      "owner_username": "douglasmedeiros",
+      "source_url": "https://blog.douglasmedeiros.dev/artigos/ia/reflexoes-sobre-o-uso-de-ia-no-desenvolvimento",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-17T14:55:50.442Z",
+      "url": "https://www.tabnews.com.br/douglasmedeiros/reflexoes-sobre-o-uso-de-ia-no-dia-a-dia-do-desenvolvimento-de-software"
+    },
+    {
+      "id": "6d2e31ce-e6f3-45c5-88b0-e1f1cf0af703",
+      "title": "Rodei 3 sessões do Claude Code em paralelo por 8 horas. Elas se sobrescreveram 2 vezes. R$ 280 em retrabalho.",
+      "slug": "rodei-3-sessoes-do-claude-code-em-paralelo-por-8-horas-elas-se-sobrescreveram-2-vezes-r-280-em-retrabalho",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/tres-sessoes-claude-code-paralelo-8h-2-colisoes/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-17T12:00:03.922Z",
+      "url": "https://www.tabnews.com.br/kenimo49/rodei-3-sessoes-do-claude-code-em-paralelo-por-8-horas-elas-se-sobrescreveram-2-vezes-r-280-em-retrabalho"
+    },
+    {
+      "id": "034f9014-e401-4a1b-8edd-ab3d60f585dc",
+      "title": "Pitch: Build in public: criando um SaaS na força do ódio",
+      "slug": "build-in-public-criando-um-saas-na-forca-do-odio",
+      "owner_username": "ViniciusRamos",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-07-18T00:20:16.418Z",
+      "url": "https://www.tabnews.com.br/ViniciusRamos/build-in-public-criando-um-saas-na-forca-do-odio"
+    },
+    {
+      "id": "b04362e4-5954-4a34-9699-f2ebf31b8572",
+      "title": "React Server Components vs Client Components: Quando Usar Cada Um no Next.js",
+      "slug": "react-server-components-vs-client-components-quando-usar-cada-um-no-next-js",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/nextjs/react-server-components-vs-client-components-quando-usar-nextjs",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-17T12:03:10.501Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/react-server-components-vs-client-components-quando-usar-cada-um-no-next-js"
+    },
+    {
+      "id": "eef147a7-45a9-433b-ac2b-46d6152cb7b9",
+      "title": "IA está deixando programadores doentes",
+      "slug": "ia-esta-deixando-programadores-doentes",
+      "owner_username": "abubacardev",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-18T09:51:57.948Z",
+      "url": "https://www.tabnews.com.br/abubacardev/ia-esta-deixando-programadores-doentes"
     }
   ]
 }
