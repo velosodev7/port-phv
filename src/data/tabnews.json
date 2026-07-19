@@ -1,14 +1,102 @@
 {
-  "updated_at": "2026-07-18T10:11:07.250Z",
+  "updated_at": "2026-07-19T10:19:32.851Z",
   "posts": [
+    {
+      "id": "49609acb-d331-4002-ad10-a2cdea6fcaf3",
+      "title": "[PITCH] Foi o aluno ou foi a IA? Criei um \"replay\" para atividades de programação",
+      "slug": "pitch-eu-criei-uma-caixa-preta-para-atividades-de-programacao",
+      "owner_username": "jpierreribeiro",
+      "source_url": "https://dalivim.com.br/",
+      "tabcoins": 8,
+      "children_deep_count": 8,
+      "published_at": "2026-07-18T00:21:41.898Z",
+      "url": "https://www.tabnews.com.br/jpierreribeiro/pitch-eu-criei-uma-caixa-preta-para-atividades-de-programacao"
+    },
+    {
+      "id": "55b6b644-249e-422b-8290-aef7a359a900",
+      "title": "🔥 O Melhor da Semana no TabNews #28",
+      "slug": "o-melhor-da-semana-no-tabnews-28",
+      "owner_username": "TabNewsDigest",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-07-18T11:00:20.038Z",
+      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-28"
+    },
+    {
+      "id": "4cecc3f2-59f8-4ef1-9ac5-3db8df865b20",
+      "title": "Pitch: Fiz minha própria Game Engine em C#",
+      "slug": "fiz-minha-propria-game-engine-em-c",
+      "owner_username": "RobertoFreireDev",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-18T18:27:50.382Z",
+      "url": "https://www.tabnews.com.br/RobertoFreireDev/fiz-minha-propria-game-engine-em-c"
+    },
+    {
+      "id": "5ba65683-188b-4ed0-a0bf-f312f41b9489",
+      "title": "[PITCH] Cansei de montar modpack na mão, então fiz um CLI pra isso: Elo",
+      "slug": "cansei-de-montar-modpack-na-mao-entao-fiz-um-cli-pra-isso-elo",
+      "owner_username": "3nderXP",
+      "source_url": "https://github.com/3nderXP/elo",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-19T08:44:04.123Z",
+      "url": "https://www.tabnews.com.br/3nderXP/cansei-de-montar-modpack-na-mao-entao-fiz-um-cli-pra-isso-elo"
+    },
+    {
+      "id": "23887c11-ad06-4d49-a4ae-f114a457625e",
+      "title": "🖧 OpenLLM-router(vastAI) Privacidade e Economia com LLMs: Como Rodar GPUs Alugadas por Centavos com Túnel Reverso e Watchdog em Go - Ollama - Seleção de tokens/s - Sem limites",
+      "slug": "openllm-routervastai-privacidade-e-economia-com-llms-como-rodar-gpus-alugadas-por-centavos-com-tunel-reverso-e-watchdog-em-go-ollama-selecao-de-toke",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/openllm-routervastai-privacidade-e-economia-com-llms-como-rodar-gpus-alugadas-por-centavos-com-tunel-reverso-e-watchdog-em-go-ollama-selecao-de-tokenss-sem-limites",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-19T08:33:25.999Z",
+      "url": "https://www.tabnews.com.br/MrJ/openllm-routervastai-privacidade-e-economia-com-llms-como-rodar-gpus-alugadas-por-centavos-com-tunel-reverso-e-watchdog-em-go-ollama-selecao-de-toke"
+    },
+    {
+      "id": "65bfeaca-b9d8-4c79-ad80-ec354f3ff033",
+      "title": "AI SDK 7: o codemod atualiza a API, mas não prepara seu agente para produção",
+      "slug": "ai-sdk-7-o-codemod-atualiza-a-api-mas-nao-prepara-seu-agente-para-producao",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-19T08:32:43.801Z",
+      "url": "https://www.tabnews.com.br/Centelha/ai-sdk-7-o-codemod-atualiza-a-api-mas-nao-prepara-seu-agente-para-producao"
+    },
+    {
+      "id": "13211262-bf15-4fc9-9bb9-98bbd8c46171",
+      "title": "Como manter um grupo de Telegram livre de golpes, spam e bots",
+      "slug": "como-manter-um-grupo-de-telegram-livre-de-golpes-spam-e-bots",
+      "owner_username": "MiShephard",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-19T08:10:40.386Z",
+      "url": "https://www.tabnews.com.br/MiShephard/como-manter-um-grupo-de-telegram-livre-de-golpes-spam-e-bots"
+    },
+    {
+      "id": "034f9014-e401-4a1b-8edd-ab3d60f585dc",
+      "title": "Pitch: Build in public: criando um SaaS na força do ódio",
+      "slug": "build-in-public-criando-um-saas-na-forca-do-odio",
+      "owner_username": "ViniciusRamos",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-07-18T00:20:16.418Z",
+      "url": "https://www.tabnews.com.br/ViniciusRamos/build-in-public-criando-um-saas-na-forca-do-odio"
+    },
     {
       "id": "0d1493b4-745b-43a8-8588-7073e5107965",
       "title": "Treinei um modelo local de 344M que classifica NCM de nota fiscal — e ele sabe dizer \"não sei\"",
       "slug": "treinei-um-modelo-local-de-344m-que-classifica-ncm-de-nota-fiscal-e-ele-sabe-dizer-nao-sei",
       "owner_username": "D0minuZ",
       "source_url": null,
-      "tabcoins": 13,
-      "children_deep_count": 4,
+      "tabcoins": 15,
+      "children_deep_count": 5,
       "published_at": "2026-07-17T14:18:39.843Z",
       "url": "https://www.tabnews.com.br/D0minuZ/treinei-um-modelo-local-de-344m-que-classifica-ncm-de-nota-fiscal-e-ele-sabe-dizer-nao-sei"
     },
@@ -18,98 +106,10 @@
       "slug": "pitch-cansei-de-manter-lista-de-bancos-no-app-entao-criei-um-dataset-com-as-instituicoes-do-pix-e-seus-logos-usando-so-fontes-oficiais",
       "owner_username": "skyrafael",
       "source_url": null,
-      "tabcoins": 9,
+      "tabcoins": 11,
       "children_deep_count": 2,
       "published_at": "2026-07-17T17:34:59.039Z",
       "url": "https://www.tabnews.com.br/skyrafael/pitch-cansei-de-manter-lista-de-bancos-no-app-entao-criei-um-dataset-com-as-instituicoes-do-pix-e-seus-logos-usando-so-fontes-oficiais"
-    },
-    {
-      "id": "2b25b57c-9a4b-4269-adf8-11ee77848c0b",
-      "title": "Introdução ao SonarQube [Estudo]",
-      "slug": "introducao-ao-sonarqube-aula",
-      "owner_username": "andrericardodeveloper",
-      "source_url": "https://docs.sonarsource.com/",
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-07-17T00:28:18.284Z",
-      "url": "https://www.tabnews.com.br/andrericardodeveloper/introducao-ao-sonarqube-aula"
-    },
-    {
-      "id": "49609acb-d331-4002-ad10-a2cdea6fcaf3",
-      "title": "[PITCH] Foi o aluno ou foi a IA? Criei um \"replay\" para atividades de programação",
-      "slug": "pitch-eu-criei-uma-caixa-preta-para-atividades-de-programacao",
-      "owner_username": "jpierreribeiro",
-      "source_url": "https://dalivim.com.br/",
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-07-18T00:21:41.898Z",
-      "url": "https://www.tabnews.com.br/jpierreribeiro/pitch-eu-criei-uma-caixa-preta-para-atividades-de-programacao"
-    },
-    {
-      "id": "d53488fa-7376-44fc-be26-2e2a063a356b",
-      "title": "Pitch: A IA garantiu que estava tudo certo. Foi quando comecei a me preocupar",
-      "slug": "a-ia-garantiu-que-estava-tudo-certo-foi-quando-comecei-a-me-preocupar",
-      "owner_username": "leander",
-      "source_url": "https://www.npmjs.com/package/scrumrun",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-17T16:51:29.450Z",
-      "url": "https://www.tabnews.com.br/leander/a-ia-garantiu-que-estava-tudo-certo-foi-quando-comecei-a-me-preocupar"
-    },
-    {
-      "id": "f2ab3890-bdba-4ac9-9665-5ca44202f0c4",
-      "title": "Reflexões sobre o uso de IA no dia a dia do desenvolvimento de software",
-      "slug": "reflexoes-sobre-o-uso-de-ia-no-dia-a-dia-do-desenvolvimento-de-software",
-      "owner_username": "douglasmedeiros",
-      "source_url": "https://blog.douglasmedeiros.dev/artigos/ia/reflexoes-sobre-o-uso-de-ia-no-desenvolvimento",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-17T14:55:50.442Z",
-      "url": "https://www.tabnews.com.br/douglasmedeiros/reflexoes-sobre-o-uso-de-ia-no-dia-a-dia-do-desenvolvimento-de-software"
-    },
-    {
-      "id": "6d2e31ce-e6f3-45c5-88b0-e1f1cf0af703",
-      "title": "Rodei 3 sessões do Claude Code em paralelo por 8 horas. Elas se sobrescreveram 2 vezes. R$ 280 em retrabalho.",
-      "slug": "rodei-3-sessoes-do-claude-code-em-paralelo-por-8-horas-elas-se-sobrescreveram-2-vezes-r-280-em-retrabalho",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/tres-sessoes-claude-code-paralelo-8h-2-colisoes/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-17T12:00:03.922Z",
-      "url": "https://www.tabnews.com.br/kenimo49/rodei-3-sessoes-do-claude-code-em-paralelo-por-8-horas-elas-se-sobrescreveram-2-vezes-r-280-em-retrabalho"
-    },
-    {
-      "id": "034f9014-e401-4a1b-8edd-ab3d60f585dc",
-      "title": "Pitch: Build in public: criando um SaaS na força do ódio",
-      "slug": "build-in-public-criando-um-saas-na-forca-do-odio",
-      "owner_username": "ViniciusRamos",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-18T00:20:16.418Z",
-      "url": "https://www.tabnews.com.br/ViniciusRamos/build-in-public-criando-um-saas-na-forca-do-odio"
-    },
-    {
-      "id": "b04362e4-5954-4a34-9699-f2ebf31b8572",
-      "title": "React Server Components vs Client Components: Quando Usar Cada Um no Next.js",
-      "slug": "react-server-components-vs-client-components-quando-usar-cada-um-no-next-js",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/nextjs/react-server-components-vs-client-components-quando-usar-nextjs",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-07-17T12:03:10.501Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/react-server-components-vs-client-components-quando-usar-cada-um-no-next-js"
-    },
-    {
-      "id": "eef147a7-45a9-433b-ac2b-46d6152cb7b9",
-      "title": "IA está deixando programadores doentes",
-      "slug": "ia-esta-deixando-programadores-doentes",
-      "owner_username": "abubacardev",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-18T09:51:57.948Z",
-      "url": "https://www.tabnews.com.br/abubacardev/ia-esta-deixando-programadores-doentes"
     }
   ]
 }
