@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-07-20T11:37:07.628Z",
+  "updated_at": "2026-07-21T10:58:03.226Z",
   "posts": [
-    {
-      "id": "a04bdcdd-e2f3-478e-99db-11e97f8c5c64",
-      "title": "Pitch: BitChicken: construindo um ecossistema NFT, peça por peça",
-      "slug": "bitchicken-construindo-um-ecossistema-nft-peca-por-peca",
-      "owner_username": "robertvbs",
-      "source_url": "https://github.com/robertvbs/BitChicken",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-19T22:08:00.014Z",
-      "url": "https://www.tabnews.com.br/robertvbs/bitchicken-construindo-um-ecossistema-nft-peca-por-peca"
-    },
-    {
-      "id": "a8f4518f-fe5c-418a-8ab9-6d50aa120681",
-      "title": "Pitch: Cansei de Ser Babá de Agentes de IA, Então Construí um Scrum Team de IA",
-      "slug": "cansei-de-ser-baba-de-agentes-de-ia-entao-construi-um-scrum-team-de-ia",
-      "owner_username": "sohei56",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 4,
-      "published_at": "2026-07-19T12:39:04.453Z",
-      "url": "https://www.tabnews.com.br/sohei56/cansei-de-ser-baba-de-agentes-de-ia-entao-construi-um-scrum-team-de-ia"
-    },
-    {
-      "id": "13253f94-f0a2-4fea-a5d3-fb2ef1c764a2",
-      "title": "Pitch: Leash — sandbox open source que mostra exatamente o que seu agente de IA está enviando pela rede",
-      "slug": "leash-sandbox-open-source-que-mostra-exatamente-o-que-seu-agente-de-ia-esta-enviando-pela-rede",
-      "owner_username": "thiagoluismoraes",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-19T19:37:08.970Z",
-      "url": "https://www.tabnews.com.br/thiagoluismoraes/leash-sandbox-open-source-que-mostra-exatamente-o-que-seu-agente-de-ia-esta-enviando-pela-rede"
-    },
-    {
-      "id": "2394833c-4bc9-440f-a229-f0fcc5b253af",
-      "title": "Lidando com um dos piores problemas de cybersegurança: executar códigos de terceiros",
-      "slug": "lidando-com-um-dos-piores-problemas-de-cyberseguranca-executar-codigos-de-terceiros",
-      "owner_username": "jpierreribeiro",
-      "source_url": "https://github.com/jpierreribeiro/dalivim-runner",
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-07-19T18:48:36.795Z",
-      "url": "https://www.tabnews.com.br/jpierreribeiro/lidando-com-um-dos-piores-problemas-de-cyberseguranca-executar-codigos-de-terceiros"
-    },
     {
       "id": "84e27612-20cd-4445-8f16-4cff7ffd8491",
       "title": "Pitch: Criei MEU PRÓPRIO SERVIDOR DNS por causa do meu irmão e da minha mãe!",
       "slug": "criei-meu-proprio-servidor-dns-por-causa-do-meu-irmao-e-da-minha-mae",
       "owner_username": "migtibincoski",
       "source_url": "https://github.com/migtibincoski/domain-blocker-dns",
-      "tabcoins": 3,
-      "children_deep_count": 0,
+      "tabcoins": 15,
+      "children_deep_count": 6,
       "published_at": "2026-07-19T22:52:17.938Z",
       "url": "https://www.tabnews.com.br/migtibincoski/criei-meu-proprio-servidor-dns-por-causa-do-meu-irmao-e-da-minha-mae"
     },
     {
-      "id": "40440cde-24ae-4c1d-b067-a25feee96013",
-      "title": "Lançado harness-score v1.0: scanner de harness para IA agora multi-ferramenta",
-      "slug": "lancado-harness-score-v1-0-scanner-de-harness-para-ia-agora-multi-ferramenta",
-      "owner_username": "paladini",
-      "source_url": "https://dev.to/paladini/harness-score-10-measure-ai-harness-maturity-across-cursor-claude-code-windsurf-and-more-1267",
-      "tabcoins": 1,
-      "children_deep_count": 2,
-      "published_at": "2026-07-20T01:36:40.179Z",
-      "url": "https://www.tabnews.com.br/paladini/lancado-harness-score-v1-0-scanner-de-harness-para-ia-agora-multi-ferramenta"
-    },
-    {
-      "id": "4f288180-09f0-4e18-982b-7b6a8b302a7f",
-      "title": "[ PITCH ] Hudson Rock ::: OSINT Infostealer Intelligence",
-      "slug": "pitch-hudson-rock-osint-infostealer-intelligence",
-      "owner_username": "RavenaStar",
-      "source_url": "https://ravenastar.com/hudsonrock",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-20T06:18:44.334Z",
-      "url": "https://www.tabnews.com.br/RavenaStar/pitch-hudson-rock-osint-infostealer-intelligence"
-    },
-    {
-      "id": "5269cc1c-888f-47f1-a209-7d45906f39c1",
-      "title": "[Projeto] GoLens: Métricas easy-config para Go usando apenas a biblioteca padrão",
-      "slug": "projeto-golens-metricas-eazy-config-para-go-usando-apenas-a-biblioteca-padrao",
-      "owner_username": "ozono",
-      "source_url": "https://github.com/GoLens-Project/golens",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-20T03:37:50.213Z",
-      "url": "https://www.tabnews.com.br/ozono/projeto-golens-metricas-eazy-config-para-go-usando-apenas-a-biblioteca-padrao"
-    },
-    {
-      "id": "acbe1c5b-4fed-4b52-8e94-c76a1f07b1d0",
-      "title": "Alguém jogou o cartola da copa? O site que construí há 3 anos tem as estatísticas da suas escalações",
-      "slug": "alguem-jogou-o-cartola-da-copa-se-sim-o-site-que-construi-ha-3-anos-tem-as-estatisticas-da-suas-escalacoes",
-      "owner_username": "mtsdalmolin",
+      "id": "547356d4-adca-4952-a2bf-b9a9157efc6d",
+      "title": "Alguém se anima a implementar isso para a comunidade?",
+      "slug": "alguem-se-anima-a-implementar-isso-para-a-comunidade",
+      "owner_username": "thaleswe",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-20T02:44:30.521Z",
-      "url": "https://www.tabnews.com.br/mtsdalmolin/alguem-jogou-o-cartola-da-copa-se-sim-o-site-que-construi-ha-3-anos-tem-as-estatisticas-da-suas-escalacoes"
+      "tabcoins": 4,
+      "children_deep_count": 5,
+      "published_at": "2026-07-20T15:44:52.002Z",
+      "url": "https://www.tabnews.com.br/thaleswe/alguem-se-anima-a-implementar-isso-para-a-comunidade"
     },
     {
-      "id": "c8d606e6-39d9-4fe3-8168-970e2748a4df",
-      "title": "Pitch: cansei de manter lista de bancos no app, então criei um dataset com as instituições do Pix e seus logos usando só fontes oficiais",
-      "slug": "pitch-cansei-de-manter-lista-de-bancos-no-app-entao-criei-um-dataset-com-as-instituicoes-do-pix-e-seus-logos-usando-so-fontes-oficiais",
-      "owner_username": "skyrafael",
+      "id": "8e598c02-01ee-43b4-bbab-3524a9ed3963",
+      "title": "Como anda a segurança das nossas aplicações?",
+      "slug": "como-anda-a-seguranca-das-nossas-aplicacoes",
+      "owner_username": "andredourado",
       "source_url": null,
-      "tabcoins": 12,
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-07-20T11:17:02.731Z",
+      "url": "https://www.tabnews.com.br/andredourado/como-anda-a-seguranca-das-nossas-aplicacoes"
+    },
+    {
+      "id": "80e20c70-bbc1-4fd5-bff2-b756c776ae80",
+      "title": "Acho que estamos desperdiçando IA na parte errada do desenvolvimento de software",
+      "slug": "acho-que-estamos-desperdicando-ia-na-parte-errada-do-desenvolvimento-de-software",
+      "owner_username": "andredourado",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 4,
+      "published_at": "2026-07-20T18:13:20.065Z",
+      "url": "https://www.tabnews.com.br/andredourado/acho-que-estamos-desperdicando-ia-na-parte-errada-do-desenvolvimento-de-software"
+    },
+    {
+      "id": "6e2a7fe1-34fd-40b5-b534-d4507bd844d2",
+      "title": "IA escreve monótono em 70 de 70 células, em 3 línguas. E o corpus humano em português veio do TabNews",
+      "slug": "ia-escreve-monotono-em-70-de-70-celulas-em-3-linguas-e-o-corpus-humano-em-portugues-veio-do-tabnews",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/sotaque-de-maquina-70-70-celulas-3-linguas/",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-07-20T12:00:04.181Z",
+      "url": "https://www.tabnews.com.br/kenimo49/ia-escreve-monotono-em-70-de-70-celulas-em-3-linguas-e-o-corpus-humano-em-portugues-veio-do-tabnews"
+    },
+    {
+      "id": "8dcce5a0-76b7-4767-a4f9-ad4759c9ceea",
+      "title": "Pitch: Construí uma alternativa Open Source para agendamento em redes sociais com API REST e MCP para Agentes de IA",
+      "slug": "pitch-construi-uma-alternativa-open-source-para-agendamento-em-redes-sociais-com-api-rest-e-mcp-para-agentes-de-ia",
+      "owner_username": "ale3xandr3lUsis",
+      "source_url": "https://manypost.com.br/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-20T15:36:46.941Z",
+      "url": "https://www.tabnews.com.br/ale3xandr3lUsis/pitch-construi-uma-alternativa-open-source-para-agendamento-em-redes-sociais-com-api-rest-e-mcp-para-agentes-de-ia"
+    },
+    {
+      "id": "44bb23a5-38c2-4a3d-a8f7-d6c240b62d18",
+      "title": "A IA acelerou a produção de código, mas está destruindo a memória do programador",
+      "slug": "a-ia-acelerou-a-producao-de-codigo-mas-esta-destruindo-a-memoria-do-programador",
+      "owner_username": "Jhonny",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 5,
+      "published_at": "2026-07-20T12:56:22.345Z",
+      "url": "https://www.tabnews.com.br/Jhonny/a-ia-acelerou-a-producao-de-codigo-mas-esta-destruindo-a-memoria-do-programador"
+    },
+    {
+      "id": "0fa691b4-3126-40c9-b2c0-9dbc392bd3e2",
+      "title": "DUAS GRANDES NOVIDADES. MAIS DE 3.600 FERRAMENTAS. UM PROPÓSITO.",
+      "slug": "duas-grandes-novidades-mais-de-3-600-ferramentas-um-proposito",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-07-20T14:06:04.078Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/duas-grandes-novidades-mais-de-3-600-ferramentas-um-proposito"
+    },
+    {
+      "id": "15297c3b-0f01-401d-8123-efb1edab9d6b",
+      "title": "Clean Architecture com TypeScript e Node.js: Estruturando Projetos que Escalam",
+      "slug": "clean-architecture-com-typescript-e-node-js-estruturando-projetos-que-escalam",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/clean-architecture-typescript-nodejs-estrutura-projetos",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-07-20T12:03:17.529Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/clean-architecture-com-typescript-e-node-js-estruturando-projetos-que-escalam"
+    },
+    {
+      "id": "4b04f851-7a4c-4003-a6cd-3bc809baba90",
+      "title": "Pitch: quando a setinha pra cima ja não resolve mais",
+      "slug": "pitch-quando-a-setinha-pra-cima-ja-nao-resolve-mais",
+      "owner_username": "MarinhoD",
+      "source_url": "https://github.com/matheuzgomes/decoreba",
+      "tabcoins": 2,
       "children_deep_count": 2,
-      "published_at": "2026-07-17T17:34:59.039Z",
-      "url": "https://www.tabnews.com.br/skyrafael/pitch-cansei-de-manter-lista-de-bancos-no-app-entao-criei-um-dataset-com-as-instituicoes-do-pix-e-seus-logos-usando-so-fontes-oficiais"
+      "published_at": "2026-07-21T00:47:36.664Z",
+      "url": "https://www.tabnews.com.br/MarinhoD/pitch-quando-a-setinha-pra-cima-ja-nao-resolve-mais"
     }
   ]
 }
