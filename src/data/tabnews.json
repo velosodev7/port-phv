@@ -1,71 +1,82 @@
 {
-  "updated_at": "2026-07-21T10:58:03.226Z",
+  "updated_at": "2026-07-22T10:59:27.910Z",
   "posts": [
     {
-      "id": "84e27612-20cd-4445-8f16-4cff7ffd8491",
-      "title": "Pitch: Criei MEU PRÓPRIO SERVIDOR DNS por causa do meu irmão e da minha mãe!",
-      "slug": "criei-meu-proprio-servidor-dns-por-causa-do-meu-irmao-e-da-minha-mae",
-      "owner_username": "migtibincoski",
-      "source_url": "https://github.com/migtibincoski/domain-blocker-dns",
-      "tabcoins": 15,
-      "children_deep_count": 6,
-      "published_at": "2026-07-19T22:52:17.938Z",
-      "url": "https://www.tabnews.com.br/migtibincoski/criei-meu-proprio-servidor-dns-por-causa-do-meu-irmao-e-da-minha-mae"
-    },
-    {
-      "id": "547356d4-adca-4952-a2bf-b9a9157efc6d",
-      "title": "Alguém se anima a implementar isso para a comunidade?",
-      "slug": "alguem-se-anima-a-implementar-isso-para-a-comunidade",
-      "owner_username": "thaleswe",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 5,
-      "published_at": "2026-07-20T15:44:52.002Z",
-      "url": "https://www.tabnews.com.br/thaleswe/alguem-se-anima-a-implementar-isso-para-a-comunidade"
-    },
-    {
-      "id": "8e598c02-01ee-43b4-bbab-3524a9ed3963",
-      "title": "Como anda a segurança das nossas aplicações?",
-      "slug": "como-anda-a-seguranca-das-nossas-aplicacoes",
-      "owner_username": "andredourado",
+      "id": "9e31b01c-7526-4bfb-86fa-7fe0436e857a",
+      "title": "A procrastinação na era da IA: vocês também estão sentindo isso?",
+      "slug": "a-procrastinacao-na-era-da-ia-voces-tambem-estao-sentindo-isso",
+      "owner_username": "cassiocsantana",
       "source_url": null,
       "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-07-20T11:17:02.731Z",
-      "url": "https://www.tabnews.com.br/andredourado/como-anda-a-seguranca-das-nossas-aplicacoes"
+      "children_deep_count": 2,
+      "published_at": "2026-07-21T14:32:12.556Z",
+      "url": "https://www.tabnews.com.br/cassiocsantana/a-procrastinacao-na-era-da-ia-voces-tambem-estao-sentindo-isso"
     },
     {
-      "id": "80e20c70-bbc1-4fd5-bff2-b756c776ae80",
-      "title": "Acho que estamos desperdiçando IA na parte errada do desenvolvimento de software",
-      "slug": "acho-que-estamos-desperdicando-ia-na-parte-errada-do-desenvolvimento-de-software",
-      "owner_username": "andredourado",
+      "id": "cc7830c2-521b-4ae4-b8b8-d22f26db7370",
+      "title": "LLM propõe, código determinístico dispõe: como deixo um agente rodar em produção sem medo",
+      "slug": "llm-propoe-codigo-deterministico-dispoe-como-deixo-um-agente-rodar-em-producao-sem-medo",
+      "owner_username": "moreira",
       "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-07-21T03:41:44.443Z",
+      "url": "https://www.tabnews.com.br/moreira/llm-propoe-codigo-deterministico-dispoe-como-deixo-um-agente-rodar-em-producao-sem-medo"
+    },
+    {
+      "id": "34035b24-74a0-4749-9240-667b942b847e",
+      "title": "👮 FRAUD PREVENTION - PHISHING",
+      "slug": "fraud-prevention-phishing",
+      "owner_username": "RavenaStar",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-07-21T10:40:28.190Z",
+      "url": "https://www.tabnews.com.br/RavenaStar/fraud-prevention-phishing"
+    },
+    {
+      "id": "36107cc0-87c3-4882-94bd-720a04aff009",
+      "title": "Testei os 'códigos secretos' do Claude Code na pratica, o que realmente aprendi?!",
+      "slug": "testei-os-codigos-secretos-do-claude-code-na-pratica-o-que-realmente-aprendi",
+      "owner_username": "wildrik",
+      "source_url": "https://www.techknow.com.br/post/claude-code-comandos",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-07-21T21:31:29.013Z",
+      "url": "https://www.tabnews.com.br/wildrik/testei-os-codigos-secretos-do-claude-code-na-pratica-o-que-realmente-aprendi"
+    },
+    {
+      "id": "1f3843ec-c301-49fc-8491-c1214ac2f83a",
+      "title": "IA no navegador não elimina o backend: ela muda o orçamento do produto",
+      "slug": "ia-no-navegador-nao-elimina-o-backend-ela-muda-o-orcamento-do-produto",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-22T06:30:35.751Z",
+      "url": "https://www.tabnews.com.br/Centelha/ia-no-navegador-nao-elimina-o-backend-ela-muda-o-orcamento-do-produto"
+    },
+    {
+      "id": "6f6f16f8-02e9-428d-b643-c5f0ab492219",
+      "title": "Por que Compliance não é só para multinacionais (e como proteger startups, SaaS e dev shops)",
+      "slug": "por-que-compliance-nao-e-so-para-multinacionais-e-como-proteger-startups-saas-e-dev-shops",
+      "owner_username": "DiegoCastroAdvogado",
+      "source_url": "https://diegocastroadvogado.com.br/importancia-do-compliance-para-empresas-2/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-22T01:40:44.008Z",
+      "url": "https://www.tabnews.com.br/DiegoCastroAdvogado/por-que-compliance-nao-e-so-para-multinacionais-e-como-proteger-startups-saas-e-dev-shops"
+    },
+    {
+      "id": "28f9626e-266d-4c36-b706-307d5eab865d",
+      "title": "Tempo real no Angular e .NET: WebSockets, SSE e SignalR",
+      "slug": "tempo-real-no-angular-e-net-websockets-sse-e-signalr",
+      "owner_username": "lzocateli",
+      "source_url": "https://zocate.li/posts/2026/tempo-real-angular-dotnet-websockets-sse-signalr-long-polling/",
       "tabcoins": 4,
       "children_deep_count": 4,
-      "published_at": "2026-07-20T18:13:20.065Z",
-      "url": "https://www.tabnews.com.br/andredourado/acho-que-estamos-desperdicando-ia-na-parte-errada-do-desenvolvimento-de-software"
-    },
-    {
-      "id": "6e2a7fe1-34fd-40b5-b534-d4507bd844d2",
-      "title": "IA escreve monótono em 70 de 70 células, em 3 línguas. E o corpus humano em português veio do TabNews",
-      "slug": "ia-escreve-monotono-em-70-de-70-celulas-em-3-linguas-e-o-corpus-humano-em-portugues-veio-do-tabnews",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/sotaque-de-maquina-70-70-celulas-3-linguas/",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-20T12:00:04.181Z",
-      "url": "https://www.tabnews.com.br/kenimo49/ia-escreve-monotono-em-70-de-70-celulas-em-3-linguas-e-o-corpus-humano-em-portugues-veio-do-tabnews"
-    },
-    {
-      "id": "8dcce5a0-76b7-4767-a4f9-ad4759c9ceea",
-      "title": "Pitch: Construí uma alternativa Open Source para agendamento em redes sociais com API REST e MCP para Agentes de IA",
-      "slug": "pitch-construi-uma-alternativa-open-source-para-agendamento-em-redes-sociais-com-api-rest-e-mcp-para-agentes-de-ia",
-      "owner_username": "ale3xandr3lUsis",
-      "source_url": "https://manypost.com.br/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-20T15:36:46.941Z",
-      "url": "https://www.tabnews.com.br/ale3xandr3lUsis/pitch-construi-uma-alternativa-open-source-para-agendamento-em-redes-sociais-com-api-rest-e-mcp-para-agentes-de-ia"
+      "published_at": "2026-07-21T02:31:43.513Z",
+      "url": "https://www.tabnews.com.br/lzocateli/tempo-real-no-angular-e-net-websockets-sse-e-signalr"
     },
     {
       "id": "44bb23a5-38c2-4a3d-a8f7-d6c240b62d18",
@@ -73,43 +84,32 @@
       "slug": "a-ia-acelerou-a-producao-de-codigo-mas-esta-destruindo-a-memoria-do-programador",
       "owner_username": "Jhonny",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 5,
+      "tabcoins": 7,
+      "children_deep_count": 8,
       "published_at": "2026-07-20T12:56:22.345Z",
       "url": "https://www.tabnews.com.br/Jhonny/a-ia-acelerou-a-producao-de-codigo-mas-esta-destruindo-a-memoria-do-programador"
     },
     {
-      "id": "0fa691b4-3126-40c9-b2c0-9dbc392bd3e2",
-      "title": "DUAS GRANDES NOVIDADES. MAIS DE 3.600 FERRAMENTAS. UM PROPÓSITO.",
-      "slug": "duas-grandes-novidades-mais-de-3-600-ferramentas-um-proposito",
-      "owner_username": "JuanMathewsRebelloSantos",
+      "id": "80e20c70-bbc1-4fd5-bff2-b756c776ae80",
+      "title": "Acho que estamos desperdiçando IA na parte errada do desenvolvimento de software",
+      "slug": "acho-que-estamos-desperdicando-ia-na-parte-errada-do-desenvolvimento-de-software",
+      "owner_username": "andredourado",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 6,
+      "published_at": "2026-07-20T18:13:20.065Z",
+      "url": "https://www.tabnews.com.br/andredourado/acho-que-estamos-desperdicando-ia-na-parte-errada-do-desenvolvimento-de-software"
+    },
+    {
+      "id": "547356d4-adca-4952-a2bf-b9a9157efc6d",
+      "title": "Alguém se anima a implementar isso para a comunidade?",
+      "slug": "alguem-se-anima-a-implementar-isso-para-a-comunidade",
+      "owner_username": "thaleswe",
       "source_url": null,
       "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-20T14:06:04.078Z",
-      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/duas-grandes-novidades-mais-de-3-600-ferramentas-um-proposito"
-    },
-    {
-      "id": "15297c3b-0f01-401d-8123-efb1edab9d6b",
-      "title": "Clean Architecture com TypeScript e Node.js: Estruturando Projetos que Escalam",
-      "slug": "clean-architecture-com-typescript-e-node-js-estruturando-projetos-que-escalam",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/clean-architecture-typescript-nodejs-estrutura-projetos",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-20T12:03:17.529Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/clean-architecture-com-typescript-e-node-js-estruturando-projetos-que-escalam"
-    },
-    {
-      "id": "4b04f851-7a4c-4003-a6cd-3bc809baba90",
-      "title": "Pitch: quando a setinha pra cima ja não resolve mais",
-      "slug": "pitch-quando-a-setinha-pra-cima-ja-nao-resolve-mais",
-      "owner_username": "MarinhoD",
-      "source_url": "https://github.com/matheuzgomes/decoreba",
-      "tabcoins": 2,
-      "children_deep_count": 2,
-      "published_at": "2026-07-21T00:47:36.664Z",
-      "url": "https://www.tabnews.com.br/MarinhoD/pitch-quando-a-setinha-pra-cima-ja-nao-resolve-mais"
+      "children_deep_count": 8,
+      "published_at": "2026-07-20T15:44:52.002Z",
+      "url": "https://www.tabnews.com.br/thaleswe/alguem-se-anima-a-implementar-isso-para-a-comunidade"
     }
   ]
 }
