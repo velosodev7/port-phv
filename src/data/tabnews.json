@@ -1,38 +1,104 @@
 {
-  "updated_at": "2026-07-22T10:59:27.910Z",
+  "updated_at": "2026-07-23T11:01:46.197Z",
   "posts": [
     {
-      "id": "9e31b01c-7526-4bfb-86fa-7fe0436e857a",
-      "title": "A procrastinação na era da IA: vocês também estão sentindo isso?",
-      "slug": "a-procrastinacao-na-era-da-ia-voces-tambem-estao-sentindo-isso",
-      "owner_username": "cassiocsantana",
+      "id": "49bf904a-9467-4a1e-8b4b-755a0952cef1",
+      "title": "Pitch: seu produto é bom — o problema é que ninguém tá vendo",
+      "slug": "pitch-seu-produto-e-bom-o-problema-e-que-ninguem-ta-vendo",
+      "owner_username": "megafonia",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-07-21T14:32:12.556Z",
-      "url": "https://www.tabnews.com.br/cassiocsantana/a-procrastinacao-na-era-da-ia-voces-tambem-estao-sentindo-isso"
+      "tabcoins": 7,
+      "children_deep_count": 4,
+      "published_at": "2026-07-22T13:17:27.179Z",
+      "url": "https://www.tabnews.com.br/megafonia/pitch-seu-produto-e-bom-o-problema-e-que-ninguem-ta-vendo"
     },
     {
-      "id": "cc7830c2-521b-4ae4-b8b8-d22f26db7370",
-      "title": "LLM propõe, código determinístico dispõe: como deixo um agente rodar em produção sem medo",
-      "slug": "llm-propoe-codigo-deterministico-dispoe-como-deixo-um-agente-rodar-em-producao-sem-medo",
-      "owner_username": "moreira",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-07-21T03:41:44.443Z",
-      "url": "https://www.tabnews.com.br/moreira/llm-propoe-codigo-deterministico-dispoe-como-deixo-um-agente-rodar-em-producao-sem-medo"
+      "id": "806520de-6249-4c77-b957-54313f0392ac",
+      "title": "GraphRAG vs RAG clássico: quando o grafo vale 7x o custo (medi em 4 projetos)",
+      "slug": "graphrag-vs-rag-classico-quando-o-grafo-vale-7x-o-custo-medi-em-4-projetos",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/graphrag-vs-rag-classico-4-projetos-quando-vale-7x-custo/",
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-07-22T12:00:04.761Z",
+      "url": "https://www.tabnews.com.br/kenimo49/graphrag-vs-rag-classico-quando-o-grafo-vale-7x-o-custo-medi-em-4-projetos"
     },
     {
-      "id": "34035b24-74a0-4749-9240-667b942b847e",
-      "title": "👮 FRAUD PREVENTION - PHISHING",
-      "slug": "fraud-prevention-phishing",
-      "owner_username": "RavenaStar",
-      "source_url": null,
-      "tabcoins": 5,
+      "id": "58a83874-6333-4f4e-8421-4edc0a077f51",
+      "title": "Empresas de IA recorrem a livros impressos antigos para treinar modelos sem contaminação por texto gerado por IA",
+      "slug": "empresas-de-ia-recorrem-a-livros-impressos-antigos-para-treinar-modelos-sem-contaminacao-por-texto-gerado-por-ia",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://news.slashdot.org/story/26/07/21/206243/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop",
+      "tabcoins": 4,
       "children_deep_count": 0,
-      "published_at": "2026-07-21T10:40:28.190Z",
-      "url": "https://www.tabnews.com.br/RavenaStar/fraud-prevention-phishing"
+      "published_at": "2026-07-22T14:21:17.691Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/empresas-de-ia-recorrem-a-livros-impressos-antigos-para-treinar-modelos-sem-contaminacao-por-texto-gerado-por-ia"
+    },
+    {
+      "id": "8eb0a2c1-d078-46a1-9f7c-d391d81f6f1d",
+      "title": "Uma das principais arquiteturas de Banco de Dados: ANSI/SPARC  (resumo)",
+      "slug": "uma-das-principais-arquiteturas-de-banco-de-dados-ansi-sparc-resumo",
+      "owner_username": "teodorogit",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-22T13:25:00.602Z",
+      "url": "https://www.tabnews.com.br/teodorogit/uma-das-principais-arquiteturas-de-banco-de-dados-ansi-sparc-resumo"
+    },
+    {
+      "id": "d55cabc2-022a-477e-8470-dc72edf94663",
+      "title": "A mentira do \"10x developer\": o mito nasceu em 1968 e a IA só escancarou o erro",
+      "slug": "a-mentira-do-10x-developer-o-mito-nasceu-em-1968-e-a-ia-so-escancarou-o-erro",
+      "owner_username": "cristianodubba",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-22T14:52:21.293Z",
+      "url": "https://www.tabnews.com.br/cristianodubba/a-mentira-do-10x-developer-o-mito-nasceu-em-1968-e-a-ia-so-escancarou-o-erro"
+    },
+    {
+      "id": "08c3ecf0-e1e6-40f9-9b42-d3bd6ee613c1",
+      "title": "O 99Freelas é um bordel onde desenvolvedores disputam quem cobra menos",
+      "slug": "o-99freelas-e-um-bordel-onde-desenvolvedores-disputam-quem-cobra-menos",
+      "owner_username": "srdeidara",
+      "source_url": "https://www.99freelas.com.br/project/desenvolvedor-full-stack-para-plataforma-de-bpo-financeiro-770070",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-23T08:36:02.617Z",
+      "url": "https://www.tabnews.com.br/srdeidara/o-99freelas-e-um-bordel-onde-desenvolvedores-disputam-quem-cobra-menos"
+    },
+    {
+      "id": "fd149e2f-f220-4127-9e04-987c41c7de09",
+      "title": "Criei uma ferramenta para editar e juntar PDFs 100% no navegador (sem upload de arquivos para servidores)",
+      "slug": "criei-uma-ferramenta-para-editar-e-juntar-pdfs-100-por-cento-no-navegador-sem-upload-de-arquivos-para-servidores",
+      "owner_username": "guilhermensoares",
+      "source_url": "https://doczel.com.br",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-23T01:47:20.835Z",
+      "url": "https://www.tabnews.com.br/guilhermensoares/criei-uma-ferramenta-para-editar-e-juntar-pdfs-100-por-cento-no-navegador-sem-upload-de-arquivos-para-servidores"
+    },
+    {
+      "id": "cd2db832-049d-4e8f-80fe-2af17cbc78e2",
+      "title": "Pitch: USBridge Remote: por que criar mais um software de acesso remoto?",
+      "slug": "usbridge-remote-por-que-criar-mais-um-software-de-acesso-remoto",
+      "owner_username": "AmirFatkulin",
+      "source_url": "https://github.com/USBridge-Technologies/USBridge-Remote",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-22T23:09:27.739Z",
+      "url": "https://www.tabnews.com.br/AmirFatkulin/usbridge-remote-por-que-criar-mais-um-software-de-acesso-remoto"
+    },
+    {
+      "id": "84a2d6fa-79b6-4455-9d11-ac28bdec8a4d",
+      "title": "Git History para Debug e Auditoria em Escala",
+      "slug": "git-history-para-debug-e-auditoria-em-escala",
+      "owner_username": "lzocateli",
+      "source_url": "https://zocate.li/posts/2026/git-history-debug-auditoria-escala/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-22T22:31:40.167Z",
+      "url": "https://www.tabnews.com.br/lzocateli/git-history-para-debug-e-auditoria-em-escala"
     },
     {
       "id": "36107cc0-87c3-4882-94bd-720a04aff009",
@@ -40,76 +106,10 @@
       "slug": "testei-os-codigos-secretos-do-claude-code-na-pratica-o-que-realmente-aprendi",
       "owner_username": "wildrik",
       "source_url": "https://www.techknow.com.br/post/claude-code-comandos",
-      "tabcoins": 2,
-      "children_deep_count": 0,
+      "tabcoins": 4,
+      "children_deep_count": 2,
       "published_at": "2026-07-21T21:31:29.013Z",
       "url": "https://www.tabnews.com.br/wildrik/testei-os-codigos-secretos-do-claude-code-na-pratica-o-que-realmente-aprendi"
-    },
-    {
-      "id": "1f3843ec-c301-49fc-8491-c1214ac2f83a",
-      "title": "IA no navegador não elimina o backend: ela muda o orçamento do produto",
-      "slug": "ia-no-navegador-nao-elimina-o-backend-ela-muda-o-orcamento-do-produto",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-22T06:30:35.751Z",
-      "url": "https://www.tabnews.com.br/Centelha/ia-no-navegador-nao-elimina-o-backend-ela-muda-o-orcamento-do-produto"
-    },
-    {
-      "id": "6f6f16f8-02e9-428d-b643-c5f0ab492219",
-      "title": "Por que Compliance não é só para multinacionais (e como proteger startups, SaaS e dev shops)",
-      "slug": "por-que-compliance-nao-e-so-para-multinacionais-e-como-proteger-startups-saas-e-dev-shops",
-      "owner_username": "DiegoCastroAdvogado",
-      "source_url": "https://diegocastroadvogado.com.br/importancia-do-compliance-para-empresas-2/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-22T01:40:44.008Z",
-      "url": "https://www.tabnews.com.br/DiegoCastroAdvogado/por-que-compliance-nao-e-so-para-multinacionais-e-como-proteger-startups-saas-e-dev-shops"
-    },
-    {
-      "id": "28f9626e-266d-4c36-b706-307d5eab865d",
-      "title": "Tempo real no Angular e .NET: WebSockets, SSE e SignalR",
-      "slug": "tempo-real-no-angular-e-net-websockets-sse-e-signalr",
-      "owner_username": "lzocateli",
-      "source_url": "https://zocate.li/posts/2026/tempo-real-angular-dotnet-websockets-sse-signalr-long-polling/",
-      "tabcoins": 4,
-      "children_deep_count": 4,
-      "published_at": "2026-07-21T02:31:43.513Z",
-      "url": "https://www.tabnews.com.br/lzocateli/tempo-real-no-angular-e-net-websockets-sse-e-signalr"
-    },
-    {
-      "id": "44bb23a5-38c2-4a3d-a8f7-d6c240b62d18",
-      "title": "A IA acelerou a produção de código, mas está destruindo a memória do programador",
-      "slug": "a-ia-acelerou-a-producao-de-codigo-mas-esta-destruindo-a-memoria-do-programador",
-      "owner_username": "Jhonny",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 8,
-      "published_at": "2026-07-20T12:56:22.345Z",
-      "url": "https://www.tabnews.com.br/Jhonny/a-ia-acelerou-a-producao-de-codigo-mas-esta-destruindo-a-memoria-do-programador"
-    },
-    {
-      "id": "80e20c70-bbc1-4fd5-bff2-b756c776ae80",
-      "title": "Acho que estamos desperdiçando IA na parte errada do desenvolvimento de software",
-      "slug": "acho-que-estamos-desperdicando-ia-na-parte-errada-do-desenvolvimento-de-software",
-      "owner_username": "andredourado",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 6,
-      "published_at": "2026-07-20T18:13:20.065Z",
-      "url": "https://www.tabnews.com.br/andredourado/acho-que-estamos-desperdicando-ia-na-parte-errada-do-desenvolvimento-de-software"
-    },
-    {
-      "id": "547356d4-adca-4952-a2bf-b9a9157efc6d",
-      "title": "Alguém se anima a implementar isso para a comunidade?",
-      "slug": "alguem-se-anima-a-implementar-isso-para-a-comunidade",
-      "owner_username": "thaleswe",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 8,
-      "published_at": "2026-07-20T15:44:52.002Z",
-      "url": "https://www.tabnews.com.br/thaleswe/alguem-se-anima-a-implementar-isso-para-a-comunidade"
     }
   ]
 }
