@@ -1,82 +1,60 @@
 {
-  "updated_at": "2026-07-23T11:01:46.197Z",
+  "updated_at": "2026-07-24T10:55:08.630Z",
   "posts": [
-    {
-      "id": "49bf904a-9467-4a1e-8b4b-755a0952cef1",
-      "title": "Pitch: seu produto é bom — o problema é que ninguém tá vendo",
-      "slug": "pitch-seu-produto-e-bom-o-problema-e-que-ninguem-ta-vendo",
-      "owner_username": "megafonia",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 4,
-      "published_at": "2026-07-22T13:17:27.179Z",
-      "url": "https://www.tabnews.com.br/megafonia/pitch-seu-produto-e-bom-o-problema-e-que-ninguem-ta-vendo"
-    },
-    {
-      "id": "806520de-6249-4c77-b957-54313f0392ac",
-      "title": "GraphRAG vs RAG clássico: quando o grafo vale 7x o custo (medi em 4 projetos)",
-      "slug": "graphrag-vs-rag-classico-quando-o-grafo-vale-7x-o-custo-medi-em-4-projetos",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/graphrag-vs-rag-classico-4-projetos-quando-vale-7x-custo/",
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-07-22T12:00:04.761Z",
-      "url": "https://www.tabnews.com.br/kenimo49/graphrag-vs-rag-classico-quando-o-grafo-vale-7x-o-custo-medi-em-4-projetos"
-    },
-    {
-      "id": "58a83874-6333-4f4e-8421-4edc0a077f51",
-      "title": "Empresas de IA recorrem a livros impressos antigos para treinar modelos sem contaminação por texto gerado por IA",
-      "slug": "empresas-de-ia-recorrem-a-livros-impressos-antigos-para-treinar-modelos-sem-contaminacao-por-texto-gerado-por-ia",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://news.slashdot.org/story/26/07/21/206243/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-22T14:21:17.691Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/empresas-de-ia-recorrem-a-livros-impressos-antigos-para-treinar-modelos-sem-contaminacao-por-texto-gerado-por-ia"
-    },
-    {
-      "id": "8eb0a2c1-d078-46a1-9f7c-d391d81f6f1d",
-      "title": "Uma das principais arquiteturas de Banco de Dados: ANSI/SPARC  (resumo)",
-      "slug": "uma-das-principais-arquiteturas-de-banco-de-dados-ansi-sparc-resumo",
-      "owner_username": "teodorogit",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-22T13:25:00.602Z",
-      "url": "https://www.tabnews.com.br/teodorogit/uma-das-principais-arquiteturas-de-banco-de-dados-ansi-sparc-resumo"
-    },
-    {
-      "id": "d55cabc2-022a-477e-8470-dc72edf94663",
-      "title": "A mentira do \"10x developer\": o mito nasceu em 1968 e a IA só escancarou o erro",
-      "slug": "a-mentira-do-10x-developer-o-mito-nasceu-em-1968-e-a-ia-so-escancarou-o-erro",
-      "owner_username": "cristianodubba",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-07-22T14:52:21.293Z",
-      "url": "https://www.tabnews.com.br/cristianodubba/a-mentira-do-10x-developer-o-mito-nasceu-em-1968-e-a-ia-so-escancarou-o-erro"
-    },
     {
       "id": "08c3ecf0-e1e6-40f9-9b42-d3bd6ee613c1",
       "title": "O 99Freelas é um bordel onde desenvolvedores disputam quem cobra menos",
       "slug": "o-99freelas-e-um-bordel-onde-desenvolvedores-disputam-quem-cobra-menos",
       "owner_username": "srdeidara",
       "source_url": "https://www.99freelas.com.br/project/desenvolvedor-full-stack-para-plataforma-de-bpo-financeiro-770070",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 5,
+      "children_deep_count": 6,
       "published_at": "2026-07-23T08:36:02.617Z",
       "url": "https://www.tabnews.com.br/srdeidara/o-99freelas-e-um-bordel-onde-desenvolvedores-disputam-quem-cobra-menos"
     },
     {
-      "id": "fd149e2f-f220-4127-9e04-987c41c7de09",
-      "title": "Criei uma ferramenta para editar e juntar PDFs 100% no navegador (sem upload de arquivos para servidores)",
-      "slug": "criei-uma-ferramenta-para-editar-e-juntar-pdfs-100-por-cento-no-navegador-sem-upload-de-arquivos-para-servidores",
-      "owner_username": "guilhermensoares",
-      "source_url": "https://doczel.com.br",
+      "id": "2ecf424f-ec67-4730-8066-a1a63e8d5c75",
+      "title": "GitHub cria categoria VIP em seu programa de bug bounty",
+      "slug": "github-cria-categoria-vip-em-seu-programa-de-bug-bounty",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-23T13:35:36.041Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/github-cria-categoria-vip-em-seu-programa-de-bug-bounty"
+    },
+    {
+      "id": "c83bef84-19fc-4e57-8bcf-67f907541c13",
+      "title": "Quanto custa um squad de desenvolvimento em 2026?",
+      "slug": "quanto-custa-um-squad-de-desenvolvimento-em-2026",
+      "owner_username": "revinsoftware",
+      "source_url": "https://revin.com.br/blog/quanto-custa-um-squad-de-desenvolvimento-em-2026",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-23T01:47:20.835Z",
-      "url": "https://www.tabnews.com.br/guilhermensoares/criei-uma-ferramenta-para-editar-e-juntar-pdfs-100-por-cento-no-navegador-sem-upload-de-arquivos-para-servidores"
+      "published_at": "2026-07-24T06:00:10.688Z",
+      "url": "https://www.tabnews.com.br/revinsoftware/quanto-custa-um-squad-de-desenvolvimento-em-2026"
+    },
+    {
+      "id": "0a0b071a-e3bf-4257-ad6c-0b1d3d57bcb0",
+      "title": "Cansei de passar noites aplicando para vaga gringa, então construí um agente que faz o ciclo inteiro — descoberta, formulário, recrutador e entrevista",
+      "slug": "cansei-de-passar-noites-aplicando-para-vaga-gringa-entao-construi-um-agente-que-faz-o-ciclo-inteiro-descoberta-formulario-recrutador-e-entrevista",
+      "owner_username": "vinicius91carvalho",
+      "source_url": "https://find-best-job.com",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-24T02:27:42.215Z",
+      "url": "https://www.tabnews.com.br/vinicius91carvalho/cansei-de-passar-noites-aplicando-para-vaga-gringa-entao-construi-um-agente-que-faz-o-ciclo-inteiro-descoberta-formulario-recrutador-e-entrevista"
+    },
+    {
+      "id": "64b63523-b5ee-43a6-b4c7-98b6389c41c8",
+      "title": "Como minha experiência em Supply Chain me levou a criar o Doczel: ABNT, Contratos e OCR 100% no navegador (Zero Upload)",
+      "slug": "como-minha-experiencia-em-supply-chain-me-levou-a-criar-o-doczel-abnt-contratos-e-ocr-100-por-cento-no-navegador-zero-upload",
+      "owner_username": "guilhermensoares",
+      "source_url": "https://www.doczel.com.br/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-24T01:48:13.171Z",
+      "url": "https://www.tabnews.com.br/guilhermensoares/como-minha-experiencia-em-supply-chain-me-levou-a-criar-o-doczel-abnt-contratos-e-ocr-100-por-cento-no-navegador-zero-upload"
     },
     {
       "id": "cd2db832-049d-4e8f-80fe-2af17cbc78e2",
@@ -84,32 +62,54 @@
       "slug": "usbridge-remote-por-que-criar-mais-um-software-de-acesso-remoto",
       "owner_username": "AmirFatkulin",
       "source_url": "https://github.com/USBridge-Technologies/USBridge-Remote",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 4,
+      "children_deep_count": 1,
       "published_at": "2026-07-22T23:09:27.739Z",
       "url": "https://www.tabnews.com.br/AmirFatkulin/usbridge-remote-por-que-criar-mais-um-software-de-acesso-remoto"
     },
     {
-      "id": "84a2d6fa-79b6-4455-9d11-ac28bdec8a4d",
-      "title": "Git History para Debug e Auditoria em Escala",
-      "slug": "git-history-para-debug-e-auditoria-em-escala",
-      "owner_username": "lzocateli",
-      "source_url": "https://zocate.li/posts/2026/git-history-debug-auditoria-escala/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-22T22:31:40.167Z",
-      "url": "https://www.tabnews.com.br/lzocateli/git-history-para-debug-e-auditoria-em-escala"
+      "id": "9e31b01c-7526-4bfb-86fa-7fe0436e857a",
+      "title": "A procrastinação na era da IA: vocês também estão sentindo isso?",
+      "slug": "a-procrastinacao-na-era-da-ia-voces-tambem-estao-sentindo-isso",
+      "owner_username": "cassiocsantana",
+      "source_url": null,
+      "tabcoins": 14,
+      "children_deep_count": 16,
+      "published_at": "2026-07-21T14:32:12.556Z",
+      "url": "https://www.tabnews.com.br/cassiocsantana/a-procrastinacao-na-era-da-ia-voces-tambem-estao-sentindo-isso"
     },
     {
-      "id": "36107cc0-87c3-4882-94bd-720a04aff009",
-      "title": "Testei os 'códigos secretos' do Claude Code na pratica, o que realmente aprendi?!",
-      "slug": "testei-os-codigos-secretos-do-claude-code-na-pratica-o-que-realmente-aprendi",
-      "owner_username": "wildrik",
-      "source_url": "https://www.techknow.com.br/post/claude-code-comandos",
+      "id": "806520de-6249-4c77-b957-54313f0392ac",
+      "title": "GraphRAG vs RAG clássico: quando o grafo vale 7x o custo (medi em 4 projetos)",
+      "slug": "graphrag-vs-rag-classico-quando-o-grafo-vale-7x-o-custo-medi-em-4-projetos",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/graphrag-vs-rag-classico-4-projetos-quando-vale-7x-custo/",
+      "tabcoins": 10,
+      "children_deep_count": 4,
+      "published_at": "2026-07-22T12:00:04.761Z",
+      "url": "https://www.tabnews.com.br/kenimo49/graphrag-vs-rag-classico-quando-o-grafo-vale-7x-o-custo-medi-em-4-projetos"
+    },
+    {
+      "id": "49bf904a-9467-4a1e-8b4b-755a0952cef1",
+      "title": "Pitch: seu produto é bom — o problema é que ninguém tá vendo",
+      "slug": "pitch-seu-produto-e-bom-o-problema-e-que-ninguem-ta-vendo",
+      "owner_username": "megafonia",
+      "source_url": null,
+      "tabcoins": 7,
+      "children_deep_count": 7,
+      "published_at": "2026-07-22T13:17:27.179Z",
+      "url": "https://www.tabnews.com.br/megafonia/pitch-seu-produto-e-bom-o-problema-e-que-ninguem-ta-vendo"
+    },
+    {
+      "id": "32fb56e8-970a-4b4f-84b6-4bab099b77ed",
+      "title": "Pitch: rag-sqlite: RAG local em um script Python + SQLite (feito para agentes)",
+      "slug": "rag-sqlite-rag-local-em-um-script-python-sqlite-feito-para-agentes",
+      "owner_username": "elzobrito",
+      "source_url": null,
       "tabcoins": 4,
       "children_deep_count": 2,
-      "published_at": "2026-07-21T21:31:29.013Z",
-      "url": "https://www.tabnews.com.br/wildrik/testei-os-codigos-secretos-do-claude-code-na-pratica-o-que-realmente-aprendi"
+      "published_at": "2026-07-22T19:27:49.991Z",
+      "url": "https://www.tabnews.com.br/elzobrito/rag-sqlite-rag-local-em-um-script-python-sqlite-feito-para-agentes"
     }
   ]
 }
