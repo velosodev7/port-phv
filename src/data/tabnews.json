@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-07-24T10:55:08.630Z",
+  "updated_at": "2026-07-25T10:21:03.880Z",
   "posts": [
     {
-      "id": "08c3ecf0-e1e6-40f9-9b42-d3bd6ee613c1",
-      "title": "O 99Freelas é um bordel onde desenvolvedores disputam quem cobra menos",
-      "slug": "o-99freelas-e-um-bordel-onde-desenvolvedores-disputam-quem-cobra-menos",
-      "owner_username": "srdeidara",
-      "source_url": "https://www.99freelas.com.br/project/desenvolvedor-full-stack-para-plataforma-de-bpo-financeiro-770070",
-      "tabcoins": 5,
-      "children_deep_count": 6,
-      "published_at": "2026-07-23T08:36:02.617Z",
-      "url": "https://www.tabnews.com.br/srdeidara/o-99freelas-e-um-bordel-onde-desenvolvedores-disputam-quem-cobra-menos"
+      "id": "c2184b2a-0608-4402-8417-12fab0382417",
+      "title": "Pitch: Brasil-torrent, um client de torrent opensource e que não minera criptomoeda no seu pc",
+      "slug": "brasil-torrent-um-client-de-torrent-opensource-e-que-nao-minera-criptomoeda-no-seu-pc",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": "https://github.com/azurejoga/brasil-torrent",
+      "tabcoins": 8,
+      "children_deep_count": 3,
+      "published_at": "2026-07-24T14:45:30.676Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/brasil-torrent-um-client-de-torrent-opensource-e-que-nao-minera-criptomoeda-no-seu-pc"
     },
     {
-      "id": "2ecf424f-ec67-4730-8066-a1a63e8d5c75",
-      "title": "GitHub cria categoria VIP em seu programa de bug bounty",
-      "slug": "github-cria-categoria-vip-em-seu-programa-de-bug-bounty",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "id": "93dcee4f-3f2e-4ec8-b5b6-d4a93370c3d4",
+      "title": "Pitch: Abri o código de uma ferramenta de auditoria de SEO que uso nos meus próprios sites",
+      "slug": "abri-o-codigo-de-uma-ferramenta-de-auditoria-de-seo-que-uso-nos-meus-proprios-sites",
+      "owner_username": "cupomdescontoo",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 1,
+      "published_at": "2026-07-24T18:08:28.081Z",
+      "url": "https://www.tabnews.com.br/cupomdescontoo/abri-o-codigo-de-uma-ferramenta-de-auditoria-de-seo-que-uso-nos-meus-proprios-sites"
+    },
+    {
+      "id": "db07215b-d72b-42b7-8c9b-0570bca0aecf",
+      "title": "Adicionando um servidor MCP a um OSS: do YAML à imagem PNG",
+      "slug": "adicionando-um-servidor-mcp-a-um-oss-do-yaml-a-imagem-png",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/historymap-mcp-server-yaml-to-png/",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-07-24T12:00:03.867Z",
+      "url": "https://www.tabnews.com.br/kenimo49/adicionando-um-servidor-mcp-a-um-oss-do-yaml-a-imagem-png"
+    },
+    {
+      "id": "4bc4839e-7184-4f3e-b79f-8db15d329b3d",
+      "title": "O agente de IA não desobedeceu. Ele obedeceu bem demais — e achou o buraco que ninguém viu",
+      "slug": "o-agente-de-ia-nao-desobedeceu-ele-obedeceu-bem-demais-e-achou-o-buraco-que-ninguem-viu",
+      "owner_username": "rodrigofreire",
+      "source_url": "https://rodrigofreire.pages.dev/posts/04-guardrails-agentes-ia/",
+      "tabcoins": 4,
+      "children_deep_count": 5,
+      "published_at": "2026-07-24T19:33:16.616Z",
+      "url": "https://www.tabnews.com.br/rodrigofreire/o-agente-de-ia-nao-desobedeceu-ele-obedeceu-bem-demais-e-achou-o-buraco-que-ninguem-viu"
+    },
+    {
+      "id": "519be6ff-d26a-4052-b153-3c184fc4f94d",
+      "title": "Rode um scan de segredo no seu repositório antes que um ex-prestador rode",
+      "slug": "rode-um-scan-de-segredo-no-seu-repositorio-antes-que-um-ex-prestador-rode",
+      "owner_username": "revinsoftware",
+      "source_url": "https://revin.com.br/pt/blog/seu-fornecedor-antigo-ainda-esta-logado-na-producao",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-07-24T18:17:03.101Z",
+      "url": "https://www.tabnews.com.br/revinsoftware/rode-um-scan-de-segredo-no-seu-repositorio-antes-que-um-ex-prestador-rode"
+    },
+    {
+      "id": "7e78704a-1dac-4480-bb17-207bcdd333a2",
+      "title": "[Day 1] Iniciando um emulador de gameboy - 100 days of code em C",
+      "slug": "day-1-iniciando-um-emulador-de-gameboy-100-days-of-code-em-c",
+      "owner_username": "figureight",
+      "source_url": null,
       "tabcoins": 3,
       "children_deep_count": 0,
-      "published_at": "2026-07-23T13:35:36.041Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/github-cria-categoria-vip-em-seu-programa-de-bug-bounty"
+      "published_at": "2026-07-25T00:41:24.294Z",
+      "url": "https://www.tabnews.com.br/figureight/day-1-iniciando-um-emulador-de-gameboy-100-days-of-code-em-c"
     },
     {
-      "id": "c83bef84-19fc-4e57-8bcf-67f907541c13",
-      "title": "Quanto custa um squad de desenvolvimento em 2026?",
-      "slug": "quanto-custa-um-squad-de-desenvolvimento-em-2026",
+      "id": "1c1f2bc6-5619-4abf-99de-82eac337baf3",
+      "title": "Pitch: [Showcase] Desenvolvi uma alternativa Open Source ao Buffer/Postiz para agencias de marketing e dev donos de SaaS",
+      "slug": "showcase-desenvolvi-uma-alternativa-open-source-ao-buffer-postiz-para-agencias-de-marketing-e-dev-donos-de-saas",
+      "owner_username": "ale3xandr3lUsis",
+      "source_url": "https://manypost.com.br/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-24T17:48:42.900Z",
+      "url": "https://www.tabnews.com.br/ale3xandr3lUsis/showcase-desenvolvi-uma-alternativa-open-source-ao-buffer-postiz-para-agencias-de-marketing-e-dev-donos-de-saas"
+    },
+    {
+      "id": "d39838eb-dc31-4170-8d95-091621672784",
+      "title": "Pitch: Como eu e mais dois colegas do trabalho criamos o próximo formato de distribuição de acessos",
+      "slug": "como-eu-e-mais-dois-colegas-de-trabalho-criamos-o-proximo-formato-de-distribuicao-de-acesso",
+      "owner_username": "thaleswe",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-24T15:21:47.207Z",
+      "url": "https://www.tabnews.com.br/thaleswe/como-eu-e-mais-dois-colegas-de-trabalho-criamos-o-proximo-formato-de-distribuicao-de-acesso"
+    },
+    {
+      "id": "d0abc592-c1d3-4569-a370-e67fdae0c309",
+      "title": "Três armadilhas de encoding em query string que corrompem relatório de campanha",
+      "slug": "tres-armadilhas-de-encoding-em-query-string-que-corrompem-relatorio-de-campanha",
+      "owner_username": "carloszucolli",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-25T06:17:19.762Z",
+      "url": "https://www.tabnews.com.br/carloszucolli/tres-armadilhas-de-encoding-em-query-string-que-corrompem-relatorio-de-campanha"
+    },
+    {
+      "id": "cbe98971-dd8e-4aff-8f9e-55cc5a2a7935",
+      "title": "Seu fornecedor antigo ainda está logado na sua produção",
+      "slug": "seu-fornecedor-antigo-ainda-esta-logado-na-sua-producao",
       "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/blog/quanto-custa-um-squad-de-desenvolvimento-em-2026",
+      "source_url": "https://revin.com.br/blog/seu-fornecedor-antigo-ainda-esta-logado-na-producao",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-24T06:00:10.688Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/quanto-custa-um-squad-de-desenvolvimento-em-2026"
-    },
-    {
-      "id": "0a0b071a-e3bf-4257-ad6c-0b1d3d57bcb0",
-      "title": "Cansei de passar noites aplicando para vaga gringa, então construí um agente que faz o ciclo inteiro — descoberta, formulário, recrutador e entrevista",
-      "slug": "cansei-de-passar-noites-aplicando-para-vaga-gringa-entao-construi-um-agente-que-faz-o-ciclo-inteiro-descoberta-formulario-recrutador-e-entrevista",
-      "owner_username": "vinicius91carvalho",
-      "source_url": "https://find-best-job.com",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-24T02:27:42.215Z",
-      "url": "https://www.tabnews.com.br/vinicius91carvalho/cansei-de-passar-noites-aplicando-para-vaga-gringa-entao-construi-um-agente-que-faz-o-ciclo-inteiro-descoberta-formulario-recrutador-e-entrevista"
-    },
-    {
-      "id": "64b63523-b5ee-43a6-b4c7-98b6389c41c8",
-      "title": "Como minha experiência em Supply Chain me levou a criar o Doczel: ABNT, Contratos e OCR 100% no navegador (Zero Upload)",
-      "slug": "como-minha-experiencia-em-supply-chain-me-levou-a-criar-o-doczel-abnt-contratos-e-ocr-100-por-cento-no-navegador-zero-upload",
-      "owner_username": "guilhermensoares",
-      "source_url": "https://www.doczel.com.br/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-24T01:48:13.171Z",
-      "url": "https://www.tabnews.com.br/guilhermensoares/como-minha-experiencia-em-supply-chain-me-levou-a-criar-o-doczel-abnt-contratos-e-ocr-100-por-cento-no-navegador-zero-upload"
-    },
-    {
-      "id": "cd2db832-049d-4e8f-80fe-2af17cbc78e2",
-      "title": "Pitch: USBridge Remote: por que criar mais um software de acesso remoto?",
-      "slug": "usbridge-remote-por-que-criar-mais-um-software-de-acesso-remoto",
-      "owner_username": "AmirFatkulin",
-      "source_url": "https://github.com/USBridge-Technologies/USBridge-Remote",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-22T23:09:27.739Z",
-      "url": "https://www.tabnews.com.br/AmirFatkulin/usbridge-remote-por-que-criar-mais-um-software-de-acesso-remoto"
-    },
-    {
-      "id": "9e31b01c-7526-4bfb-86fa-7fe0436e857a",
-      "title": "A procrastinação na era da IA: vocês também estão sentindo isso?",
-      "slug": "a-procrastinacao-na-era-da-ia-voces-tambem-estao-sentindo-isso",
-      "owner_username": "cassiocsantana",
-      "source_url": null,
-      "tabcoins": 14,
-      "children_deep_count": 16,
-      "published_at": "2026-07-21T14:32:12.556Z",
-      "url": "https://www.tabnews.com.br/cassiocsantana/a-procrastinacao-na-era-da-ia-voces-tambem-estao-sentindo-isso"
-    },
-    {
-      "id": "806520de-6249-4c77-b957-54313f0392ac",
-      "title": "GraphRAG vs RAG clássico: quando o grafo vale 7x o custo (medi em 4 projetos)",
-      "slug": "graphrag-vs-rag-classico-quando-o-grafo-vale-7x-o-custo-medi-em-4-projetos",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/graphrag-vs-rag-classico-4-projetos-quando-vale-7x-custo/",
-      "tabcoins": 10,
-      "children_deep_count": 4,
-      "published_at": "2026-07-22T12:00:04.761Z",
-      "url": "https://www.tabnews.com.br/kenimo49/graphrag-vs-rag-classico-quando-o-grafo-vale-7x-o-custo-medi-em-4-projetos"
-    },
-    {
-      "id": "49bf904a-9467-4a1e-8b4b-755a0952cef1",
-      "title": "Pitch: seu produto é bom — o problema é que ninguém tá vendo",
-      "slug": "pitch-seu-produto-e-bom-o-problema-e-que-ninguem-ta-vendo",
-      "owner_username": "megafonia",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 7,
-      "published_at": "2026-07-22T13:17:27.179Z",
-      "url": "https://www.tabnews.com.br/megafonia/pitch-seu-produto-e-bom-o-problema-e-que-ninguem-ta-vendo"
-    },
-    {
-      "id": "32fb56e8-970a-4b4f-84b6-4bab099b77ed",
-      "title": "Pitch: rag-sqlite: RAG local em um script Python + SQLite (feito para agentes)",
-      "slug": "rag-sqlite-rag-local-em-um-script-python-sqlite-feito-para-agentes",
-      "owner_username": "elzobrito",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-07-22T19:27:49.991Z",
-      "url": "https://www.tabnews.com.br/elzobrito/rag-sqlite-rag-local-em-um-script-python-sqlite-feito-para-agentes"
+      "published_at": "2026-07-25T06:00:09.228Z",
+      "url": "https://www.tabnews.com.br/revinsoftware/seu-fornecedor-antigo-ainda-esta-logado-na-sua-producao"
     }
   ]
 }
