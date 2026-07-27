@@ -1,71 +1,60 @@
 {
-  "updated_at": "2026-07-26T10:36:22.115Z",
+  "updated_at": "2026-07-27T12:12:44.325Z",
   "posts": [
     {
-      "id": "2bee4e65-c589-4b88-96bd-65469c81065b",
-      "title": "Pitch: Fiz um Glassdoor com privacidade de verdade e não faço ideia se ele é usável por quem não é eu",
-      "slug": "fiz-um-glassdoor-com-privacidade-de-verdade-e-nao-faco-ideia-se-ele-e-usavel-por-quem-nao-e-eu",
-      "owner_username": "hashdoor",
-      "source_url": null,
-      "tabcoins": 3,
+      "id": "02fc95b8-7979-4a71-9c59-fe7326c06ed1",
+      "title": "Os 15 livros mais recomendados para devs segundo 100 fontes.",
+      "slug": "os-15-livros-mais-recomendados-para-devs-segundo-100-fontes",
+      "owner_username": "andredarcie",
+      "source_url": "https://andredarcie.github.io/best-dev-books/",
+      "tabcoins": 6,
       "children_deep_count": 3,
-      "published_at": "2026-07-25T20:12:14.574Z",
-      "url": "https://www.tabnews.com.br/hashdoor/fiz-um-glassdoor-com-privacidade-de-verdade-e-nao-faco-ideia-se-ele-e-usavel-por-quem-nao-e-eu"
+      "published_at": "2026-07-26T13:01:18.804Z",
+      "url": "https://www.tabnews.com.br/andredarcie/os-15-livros-mais-recomendados-para-devs-segundo-100-fontes"
     },
     {
-      "id": "67bad32d-5569-476f-ade5-f73eb9068d27",
-      "title": "A conta que chegou: como modelos chineses de IA viraram o \"plano B\" das gigantes americanas",
-      "slug": "a-conta-que-chegou-como-modelos-chineses-de-ia-viraram-o-plano-b-das-gigantes-americanas",
-      "owner_username": "HerbertGeorgeWells",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-25T17:39:11.047Z",
-      "url": "https://www.tabnews.com.br/HerbertGeorgeWells/a-conta-que-chegou-como-modelos-chineses-de-ia-viraram-o-plano-b-das-gigantes-americanas"
-    },
-    {
-      "id": "3c716dc0-aede-4da9-8c1c-f0f182f595b7",
-      "title": "Deixe de definir os eventos DOM como «any»: Um guia prático sobre TypeScript",
-      "slug": "deixe-de-definir-os-eventos-dom-como-any-um-guia-pratico-sobre-typescript",
-      "owner_username": "gorpo85",
-      "source_url": "https://chat-to.dev/post?id=QW5JeWZhOURxakVzK2tOSTJ5T0N1QT09",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-26T09:31:59.498Z",
-      "url": "https://www.tabnews.com.br/gorpo85/deixe-de-definir-os-eventos-dom-como-any-um-guia-pratico-sobre-typescript"
-    },
-    {
-      "id": "435750d1-d61c-4f2f-865e-426ed94283a2",
-      "title": "Ajudas para meu projeto Open-source",
-      "slug": "ajudas-para-meu-projeto-open-source",
-      "owner_username": "The0neX",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-26T06:08:51.508Z",
-      "url": "https://www.tabnews.com.br/The0neX/ajudas-para-meu-projeto-open-source"
-    },
-    {
-      "id": "30dafa40-111d-4624-948d-17528a8576c3",
-      "title": "MCP stateless não elimina estado: sua aplicação precisa torná-lo explícito",
-      "slug": "mcp-stateless-nao-elimina-estado-sua-aplicacao-precisa-torna-lo-explicito",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-26T05:33:09.575Z",
-      "url": "https://www.tabnews.com.br/Centelha/mcp-stateless-nao-elimina-estado-sua-aplicacao-precisa-torna-lo-explicito"
-    },
-    {
-      "id": "bf65ce7b-d925-4adc-87c3-639e4832149e",
-      "title": "[Day 2] Iniciando um emulador de gameboy - 100 days of code em C",
-      "slug": "day-2-iniciando-um-emulador-de-gameboy-100-days-of-code-em-c",
+      "id": "35eff652-dd91-4f8b-87c0-6cb1a222a7bb",
+      "title": "[Day 3] - 100 days of code em C",
+      "slug": "day-3-100-days-of-code-em-c",
       "owner_username": "figureight",
       "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 0,
+      "published_at": "2026-07-27T02:40:36.758Z",
+      "url": "https://www.tabnews.com.br/figureight/day-3-100-days-of-code-em-c"
+    },
+    {
+      "id": "f8aacd5a-ee41-4259-8777-d66017b9fcaa",
+      "title": "Harness Score 1.5: medindo a maturidade do harness de agentes de código (sem LLM no scan)",
+      "slug": "harness-score-1-5-medindo-a-maturidade-do-harness-de-agentes-de-codigo-sem-llm-no-scan",
+      "owner_username": "paladini",
+      "source_url": "https://github.com/paladini/harness-score",
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-07-27T10:59:08.344Z",
+      "url": "https://www.tabnews.com.br/paladini/harness-score-1-5-medindo-a-maturidade-do-harness-de-agentes-de-codigo-sem-llm-no-scan"
+    },
+    {
+      "id": "fd334c5d-2c4a-4c0c-bad5-74472239009a",
+      "title": "Lovable x Replit x Bolt.new x v0: análise de 3.163 posts do Reddit",
+      "slug": "lovable-x-replit-x-bolt-new-x-v0-analise-de-3-163-posts-do-reddit",
+      "owner_username": "andredourado",
+      "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-26T02:50:17.482Z",
-      "url": "https://www.tabnews.com.br/figureight/day-2-iniciando-um-emulador-de-gameboy-100-days-of-code-em-c"
+      "published_at": "2026-07-27T09:24:51.402Z",
+      "url": "https://www.tabnews.com.br/andredourado/lovable-x-replit-x-bolt-new-x-v0-analise-de-3-163-posts-do-reddit"
+    },
+    {
+      "id": "f59d3c2b-546b-43b2-9b57-3443846adeba",
+      "title": "LocalRouter: Roteador Local Opensource Para APIs de IA",
+      "slug": "localrouter-roteador-local-opensource-para-apis-de-ia",
+      "owner_username": "gmasson",
+      "source_url": "https://github.com/gmasson/localrouter",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-27T03:45:41.201Z",
+      "url": "https://www.tabnews.com.br/gmasson/localrouter-roteador-local-opensource-para-apis-de-ia"
     },
     {
       "id": "c2184b2a-0608-4402-8417-12fab0382417",
@@ -99,6 +88,17 @@
       "children_deep_count": 1,
       "published_at": "2026-07-24T12:00:03.867Z",
       "url": "https://www.tabnews.com.br/kenimo49/adicionando-um-servidor-mcp-a-um-oss-do-yaml-a-imagem-png"
+    },
+    {
+      "id": "2bee4e65-c589-4b88-96bd-65469c81065b",
+      "title": "Pitch: Fiz um Glassdoor com privacidade de verdade e não faço ideia se ele é usável por quem não é eu",
+      "slug": "fiz-um-glassdoor-com-privacidade-de-verdade-e-nao-faco-ideia-se-ele-e-usavel-por-quem-nao-e-eu",
+      "owner_username": "hashdoor",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 8,
+      "published_at": "2026-07-25T20:12:14.574Z",
+      "url": "https://www.tabnews.com.br/hashdoor/fiz-um-glassdoor-com-privacidade-de-verdade-e-nao-faco-ideia-se-ele-e-usavel-por-quem-nao-e-eu"
     },
     {
       "id": "4bc4839e-7184-4f3e-b79f-8db15d329b3d",
