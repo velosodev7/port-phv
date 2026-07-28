@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-27T12:12:44.325Z",
+  "updated_at": "2026-07-28T11:10:11.112Z",
   "posts": [
     {
-      "id": "02fc95b8-7979-4a71-9c59-fe7326c06ed1",
-      "title": "Os 15 livros mais recomendados para devs segundo 100 fontes.",
-      "slug": "os-15-livros-mais-recomendados-para-devs-segundo-100-fontes",
-      "owner_username": "andredarcie",
-      "source_url": "https://andredarcie.github.io/best-dev-books/",
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-07-26T13:01:18.804Z",
-      "url": "https://www.tabnews.com.br/andredarcie/os-15-livros-mais-recomendados-para-devs-segundo-100-fontes"
+      "id": "aea78ca2-34dd-4bb7-bafb-fccb313bb167",
+      "title": "IA e a síndrome do impostor",
+      "slug": "ia-e-a-sindrome-do-impostor",
+      "owner_username": "gmaier",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 8,
+      "published_at": "2026-07-27T17:35:49.527Z",
+      "url": "https://www.tabnews.com.br/gmaier/ia-e-a-sindrome-do-impostor"
     },
     {
       "id": "35eff652-dd91-4f8b-87c0-6cb1a222a7bb",
@@ -18,32 +18,43 @@
       "slug": "day-3-100-days-of-code-em-c",
       "owner_username": "figureight",
       "source_url": null,
-      "tabcoins": 6,
+      "tabcoins": 8,
       "children_deep_count": 0,
       "published_at": "2026-07-27T02:40:36.758Z",
       "url": "https://www.tabnews.com.br/figureight/day-3-100-days-of-code-em-c"
     },
     {
-      "id": "f8aacd5a-ee41-4259-8777-d66017b9fcaa",
-      "title": "Harness Score 1.5: medindo a maturidade do harness de agentes de código (sem LLM no scan)",
-      "slug": "harness-score-1-5-medindo-a-maturidade-do-harness-de-agentes-de-codigo-sem-llm-no-scan",
-      "owner_username": "paladini",
-      "source_url": "https://github.com/paladini/harness-score",
-      "tabcoins": 1,
+      "id": "225ee98d-1252-4470-b7ac-61aed029fd4e",
+      "title": "Pitch: Uma alternativa ao Ray.so com suporte a tabelas",
+      "slug": "uma-alternativa-ao-ray-so-com-suporte-a-tabelas",
+      "owner_username": "sjunqueira",
+      "source_url": null,
+      "tabcoins": 6,
       "children_deep_count": 1,
-      "published_at": "2026-07-27T10:59:08.344Z",
-      "url": "https://www.tabnews.com.br/paladini/harness-score-1-5-medindo-a-maturidade-do-harness-de-agentes-de-codigo-sem-llm-no-scan"
+      "published_at": "2026-07-27T12:28:35.006Z",
+      "url": "https://www.tabnews.com.br/sjunqueira/uma-alternativa-ao-ray-so-com-suporte-a-tabelas"
     },
     {
-      "id": "fd334c5d-2c4a-4c0c-bad5-74472239009a",
-      "title": "Lovable x Replit x Bolt.new x v0: análise de 3.163 posts do Reddit",
-      "slug": "lovable-x-replit-x-bolt-new-x-v0-analise-de-3-163-posts-do-reddit",
-      "owner_username": "andredourado",
+      "id": "6ab01a6e-204a-402b-ba6d-c3b991eb6080",
+      "title": "6 meses, 70 DMs e zero clientes: o que aprendi sobre vender IA para pequenos negócios",
+      "slug": "6-meses-70-dms-e-zero-clientes-o-que-aprendi-sobre-vender-ia-para-pequenos-negocios",
+      "owner_username": "eventhorizon",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-27T09:24:51.402Z",
-      "url": "https://www.tabnews.com.br/andredourado/lovable-x-replit-x-bolt-new-x-v0-analise-de-3-163-posts-do-reddit"
+      "tabcoins": 5,
+      "children_deep_count": 5,
+      "published_at": "2026-07-27T13:45:49.643Z",
+      "url": "https://www.tabnews.com.br/eventhorizon/6-meses-70-dms-e-zero-clientes-o-que-aprendi-sobre-vender-ia-para-pequenos-negocios"
+    },
+    {
+      "id": "24486c8b-6f71-4c8f-ab40-9a3ba7175b71",
+      "title": "Pedi a 5 IAs que citassem meu próprio blog. 31 artigos publicados, só 3 apareceram.",
+      "slug": "pedi-a-5-ias-que-citassem-meu-proprio-blog-31-artigos-publicados-so-3-apareceram",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/cinco-ias-citaram-meu-blog-tres-de-trinta-e-um/",
+      "tabcoins": 5,
+      "children_deep_count": 3,
+      "published_at": "2026-07-27T12:00:03.931Z",
+      "url": "https://www.tabnews.com.br/kenimo49/pedi-a-5-ias-que-citassem-meu-proprio-blog-31-artigos-publicados-so-3-apareceram"
     },
     {
       "id": "f59d3c2b-546b-43b2-9b57-3443846adeba",
@@ -51,65 +62,54 @@
       "slug": "localrouter-roteador-local-opensource-para-apis-de-ia",
       "owner_username": "gmasson",
       "source_url": "https://github.com/gmasson/localrouter",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 5,
+      "children_deep_count": 4,
       "published_at": "2026-07-27T03:45:41.201Z",
       "url": "https://www.tabnews.com.br/gmasson/localrouter-roteador-local-opensource-para-apis-de-ia"
     },
     {
-      "id": "c2184b2a-0608-4402-8417-12fab0382417",
-      "title": "Pitch: Brasil-torrent, um client de torrent opensource e que não minera criptomoeda no seu pc",
-      "slug": "brasil-torrent-um-client-de-torrent-opensource-e-que-nao-minera-criptomoeda-no-seu-pc",
-      "owner_username": "JuanMathewsRebelloSantos",
-      "source_url": "https://github.com/azurejoga/brasil-torrent",
-      "tabcoins": 10,
-      "children_deep_count": 4,
-      "published_at": "2026-07-24T14:45:30.676Z",
-      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/brasil-torrent-um-client-de-torrent-opensource-e-que-nao-minera-criptomoeda-no-seu-pc"
-    },
-    {
-      "id": "93dcee4f-3f2e-4ec8-b5b6-d4a93370c3d4",
-      "title": "Pitch: Abri o código de uma ferramenta de auditoria de SEO que uso nos meus próprios sites",
-      "slug": "abri-o-codigo-de-uma-ferramenta-de-auditoria-de-seo-que-uso-nos-meus-proprios-sites",
-      "owner_username": "cupomdescontoo",
-      "source_url": null,
-      "tabcoins": 8,
+      "id": "c1fdf8ea-6cc7-43e0-8a60-9fa991209e98",
+      "title": "API REST Profissional com Fastify e Prisma",
+      "slug": "api-rest-profissional-com-fastify-e-prisma",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/api-rest-profissional-fastify-prisma-nodejs",
+      "tabcoins": 5,
       "children_deep_count": 1,
-      "published_at": "2026-07-24T18:08:28.081Z",
-      "url": "https://www.tabnews.com.br/cupomdescontoo/abri-o-codigo-de-uma-ferramenta-de-auditoria-de-seo-que-uso-nos-meus-proprios-sites"
+      "published_at": "2026-07-27T12:03:14.026Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/api-rest-profissional-com-fastify-e-prisma"
     },
     {
-      "id": "db07215b-d72b-42b7-8c9b-0570bca0aecf",
-      "title": "Adicionando um servidor MCP a um OSS: do YAML à imagem PNG",
-      "slug": "adicionando-um-servidor-mcp-a-um-oss-do-yaml-a-imagem-png",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/historymap-mcp-server-yaml-to-png/",
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-07-24T12:00:03.867Z",
-      "url": "https://www.tabnews.com.br/kenimo49/adicionando-um-servidor-mcp-a-um-oss-do-yaml-a-imagem-png"
-    },
-    {
-      "id": "2bee4e65-c589-4b88-96bd-65469c81065b",
-      "title": "Pitch: Fiz um Glassdoor com privacidade de verdade e não faço ideia se ele é usável por quem não é eu",
-      "slug": "fiz-um-glassdoor-com-privacidade-de-verdade-e-nao-faco-ideia-se-ele-e-usavel-por-quem-nao-e-eu",
-      "owner_username": "hashdoor",
+      "id": "88048aff-77ae-41cd-8f1f-1f95b7b601bd",
+      "title": "Seu agente enxerga o screenshot, mas você ainda precisa definir o que é \"igual\"",
+      "slug": "seu-agente-enxerga-o-screenshot-mas-voce-ainda-precisa-definir-o-que-e-igual",
+      "owner_username": "Centelha",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 8,
-      "published_at": "2026-07-25T20:12:14.574Z",
-      "url": "https://www.tabnews.com.br/hashdoor/fiz-um-glassdoor-com-privacidade-de-verdade-e-nao-faco-ideia-se-ele-e-usavel-por-quem-nao-e-eu"
+      "tabcoins": 2,
+      "children_deep_count": 1,
+      "published_at": "2026-07-28T03:49:43.349Z",
+      "url": "https://www.tabnews.com.br/Centelha/seu-agente-enxerga-o-screenshot-mas-voce-ainda-precisa-definir-o-que-e-igual"
     },
     {
-      "id": "4bc4839e-7184-4f3e-b79f-8db15d329b3d",
-      "title": "O agente de IA não desobedeceu. Ele obedeceu bem demais — e achou o buraco que ninguém viu",
-      "slug": "o-agente-de-ia-nao-desobedeceu-ele-obedeceu-bem-demais-e-achou-o-buraco-que-ninguem-viu",
-      "owner_username": "rodrigofreire",
-      "source_url": "https://rodrigofreire.pages.dev/posts/04-guardrails-agentes-ia/",
-      "tabcoins": 4,
-      "children_deep_count": 14,
-      "published_at": "2026-07-24T19:33:16.616Z",
-      "url": "https://www.tabnews.com.br/rodrigofreire/o-agente-de-ia-nao-desobedeceu-ele-obedeceu-bem-demais-e-achou-o-buraco-que-ninguem-viu"
+      "id": "22213c79-1b33-4543-8a9d-c8233c6098ee",
+      "title": "[Day 4] - 100 days of code em C",
+      "slug": "day-4-100-days-of-code-em-c",
+      "owner_username": "figureight",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-07-28T00:21:52.748Z",
+      "url": "https://www.tabnews.com.br/figureight/day-4-100-days-of-code-em-c"
+    },
+    {
+      "id": "b9598038-bcb2-4bbc-b25f-08f210f44a3d",
+      "title": "Coloquei no ar o RenderLab AI: visualização arquitetônica com IA",
+      "slug": "coloquei-no-ar-o-renderlab-ai-visualizacao-arquitetonica-com-ia",
+      "owner_username": "lkd12436",
+      "source_url": "https://renderlabai.art/pt-BR",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-28T08:19:02.042Z",
+      "url": "https://www.tabnews.com.br/lkd12436/coloquei-no-ar-o-renderlab-ai-visualizacao-arquitetonica-com-ia"
     }
   ]
 }
