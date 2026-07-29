@@ -1,93 +1,93 @@
 {
-  "updated_at": "2026-07-28T11:10:11.112Z",
+  "updated_at": "2026-07-29T11:15:20.066Z",
   "posts": [
-    {
-      "id": "aea78ca2-34dd-4bb7-bafb-fccb313bb167",
-      "title": "IA e a síndrome do impostor",
-      "slug": "ia-e-a-sindrome-do-impostor",
-      "owner_username": "gmaier",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 8,
-      "published_at": "2026-07-27T17:35:49.527Z",
-      "url": "https://www.tabnews.com.br/gmaier/ia-e-a-sindrome-do-impostor"
-    },
-    {
-      "id": "35eff652-dd91-4f8b-87c0-6cb1a222a7bb",
-      "title": "[Day 3] - 100 days of code em C",
-      "slug": "day-3-100-days-of-code-em-c",
-      "owner_username": "figureight",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 0,
-      "published_at": "2026-07-27T02:40:36.758Z",
-      "url": "https://www.tabnews.com.br/figureight/day-3-100-days-of-code-em-c"
-    },
-    {
-      "id": "225ee98d-1252-4470-b7ac-61aed029fd4e",
-      "title": "Pitch: Uma alternativa ao Ray.so com suporte a tabelas",
-      "slug": "uma-alternativa-ao-ray-so-com-suporte-a-tabelas",
-      "owner_username": "sjunqueira",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-07-27T12:28:35.006Z",
-      "url": "https://www.tabnews.com.br/sjunqueira/uma-alternativa-ao-ray-so-com-suporte-a-tabelas"
-    },
-    {
-      "id": "6ab01a6e-204a-402b-ba6d-c3b991eb6080",
-      "title": "6 meses, 70 DMs e zero clientes: o que aprendi sobre vender IA para pequenos negócios",
-      "slug": "6-meses-70-dms-e-zero-clientes-o-que-aprendi-sobre-vender-ia-para-pequenos-negocios",
-      "owner_username": "eventhorizon",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 5,
-      "published_at": "2026-07-27T13:45:49.643Z",
-      "url": "https://www.tabnews.com.br/eventhorizon/6-meses-70-dms-e-zero-clientes-o-que-aprendi-sobre-vender-ia-para-pequenos-negocios"
-    },
-    {
-      "id": "24486c8b-6f71-4c8f-ab40-9a3ba7175b71",
-      "title": "Pedi a 5 IAs que citassem meu próprio blog. 31 artigos publicados, só 3 apareceram.",
-      "slug": "pedi-a-5-ias-que-citassem-meu-proprio-blog-31-artigos-publicados-so-3-apareceram",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/cinco-ias-citaram-meu-blog-tres-de-trinta-e-um/",
-      "tabcoins": 5,
-      "children_deep_count": 3,
-      "published_at": "2026-07-27T12:00:03.931Z",
-      "url": "https://www.tabnews.com.br/kenimo49/pedi-a-5-ias-que-citassem-meu-proprio-blog-31-artigos-publicados-so-3-apareceram"
-    },
-    {
-      "id": "f59d3c2b-546b-43b2-9b57-3443846adeba",
-      "title": "LocalRouter: Roteador Local Opensource Para APIs de IA",
-      "slug": "localrouter-roteador-local-opensource-para-apis-de-ia",
-      "owner_username": "gmasson",
-      "source_url": "https://github.com/gmasson/localrouter",
-      "tabcoins": 5,
-      "children_deep_count": 4,
-      "published_at": "2026-07-27T03:45:41.201Z",
-      "url": "https://www.tabnews.com.br/gmasson/localrouter-roteador-local-opensource-para-apis-de-ia"
-    },
-    {
-      "id": "c1fdf8ea-6cc7-43e0-8a60-9fa991209e98",
-      "title": "API REST Profissional com Fastify e Prisma",
-      "slug": "api-rest-profissional-com-fastify-e-prisma",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/api-rest-profissional-fastify-prisma-nodejs",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-07-27T12:03:14.026Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/api-rest-profissional-com-fastify-e-prisma"
-    },
     {
       "id": "88048aff-77ae-41cd-8f1f-1f95b7b601bd",
       "title": "Seu agente enxerga o screenshot, mas você ainda precisa definir o que é \"igual\"",
       "slug": "seu-agente-enxerga-o-screenshot-mas-voce-ainda-precisa-definir-o-que-e-igual",
       "owner_username": "Centelha",
       "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 1,
+      "tabcoins": 5,
+      "children_deep_count": 2,
       "published_at": "2026-07-28T03:49:43.349Z",
       "url": "https://www.tabnews.com.br/Centelha/seu-agente-enxerga-o-screenshot-mas-voce-ainda-precisa-definir-o-que-e-igual"
+    },
+    {
+      "id": "49914257-54ab-44a2-9cea-180f6fe9d680",
+      "title": "Estudo de Caso: Por que ignorei o padrão da indústria ao arquitetar o Manypost",
+      "slug": "estudo-de-caso-por-que-ignorei-o-padrao-da-industria-ao-arquitetar-o-manypost",
+      "owner_username": "ale3xandr3lUsis",
+      "source_url": "https://github.com/manypost/manypost-app",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-07-28T20:22:47.900Z",
+      "url": "https://www.tabnews.com.br/ale3xandr3lUsis/estudo-de-caso-por-que-ignorei-o-padrao-da-industria-ao-arquitetar-o-manypost"
+    },
+    {
+      "id": "fe33d567-a338-4c6e-a591-0a957dcdb62a",
+      "title": "[Day 5] - 100 days of code em C",
+      "slug": "day-5-100-days-of-code-em-c",
+      "owner_username": "figureight",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-29T00:54:12.638Z",
+      "url": "https://www.tabnews.com.br/figureight/day-5-100-days-of-code-em-c"
+    },
+    {
+      "id": "e5bb8ba3-db30-48a7-874d-61e48af875f6",
+      "title": "Nvidia anuncia aliança com 37 empresas para criação de ferramentas de código aberto que auxiliem organizações a se defender de ataques cibernéticos",
+      "slug": "nvidia-anuncia-alianca-com-37-empresas-para-criacao-de-ferramentas-de-codigo-aberto-que-auxiliem-organizacoes-a-se-defender-de-ataques-ciberneticos",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-security-alliance-unites-110746241.html?guccounter=1",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-28T14:23:10.871Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/nvidia-anuncia-alianca-com-37-empresas-para-criacao-de-ferramentas-de-codigo-aberto-que-auxiliem-organizacoes-a-se-defender-de-ataques-ciberneticos"
+    },
+    {
+      "id": "a4b0c301-c33c-4ad3-9f56-03a70850bd28",
+      "title": "Claude Cowork pode escapar de sua sandbox e acessar arquivos e credenciais no macOS",
+      "slug": "claude-cowork-pode-escapar-de-sua-sandbox-e-acessar-arquivos-e-credenciais-no-macos",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://thenextweb.com/news/claude-cowork-sandbox-escape-mac-files-sharedroot",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-07-28T12:45:30.815Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/claude-cowork-pode-escapar-de-sua-sandbox-e-acessar-arquivos-e-credenciais-no-macos"
+    },
+    {
+      "id": "4b7daa0d-5a72-41d9-9ea0-d7c5a4ee9377",
+      "title": "Professor universitário dos EUA utiliza prompt oculto em tarefa e identifica 32 de 35 alunos usando IA",
+      "slug": "professor-universitario-dos-eua-utiliza-prompt-oculto-em-tarefa-e-identifica-32-de-35-alunos-usando-ia",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://tecnoblog.net/noticias/professor-coloca-prompt-escondido-em-tarefa-e-pega-90-da-turma-usando-ia/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-28T13:53:07.458Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/professor-universitario-dos-eua-utiliza-prompt-oculto-em-tarefa-e-identifica-32-de-35-alunos-usando-ia"
+    },
+    {
+      "id": "2fab5546-c9db-4a30-ad8d-aa9c99cf73af",
+      "title": "Como pagar comissão pra terceiros sem virar um marketplace (Venda de Gift Cards)",
+      "slug": "como-pagar-comissao-pra-terceiros-sem-virar-um-marketplace-venda-de-gift-cards",
+      "owner_username": "pedromello",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 2,
+      "published_at": "2026-07-28T22:43:36.327Z",
+      "url": "https://www.tabnews.com.br/pedromello/como-pagar-comissao-pra-terceiros-sem-virar-um-marketplace-venda-de-gift-cards"
+    },
+    {
+      "id": "5d7999a1-0114-44b4-bebb-e398c75eb3f8",
+      "title": "Pitch: Tratei identidade de dados como o Git trata conteúdo, num motor de inteligência corporativa",
+      "slug": "tratei-identidade-de-dados-como-o-git-trata-conteudo-num-motor-de-inteligencia-corporativa",
+      "owner_username": "geldois",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-07-28T22:01:21.185Z",
+      "url": "https://www.tabnews.com.br/geldois/tratei-identidade-de-dados-como-o-git-trata-conteudo-num-motor-de-inteligencia-corporativa"
     },
     {
       "id": "22213c79-1b33-4543-8a9d-c8233c6098ee",
@@ -95,21 +95,21 @@
       "slug": "day-4-100-days-of-code-em-c",
       "owner_username": "figureight",
       "source_url": null,
-      "tabcoins": 2,
+      "tabcoins": 5,
       "children_deep_count": 0,
       "published_at": "2026-07-28T00:21:52.748Z",
       "url": "https://www.tabnews.com.br/figureight/day-4-100-days-of-code-em-c"
     },
     {
-      "id": "b9598038-bcb2-4bbc-b25f-08f210f44a3d",
-      "title": "Coloquei no ar o RenderLab AI: visualização arquitetônica com IA",
-      "slug": "coloquei-no-ar-o-renderlab-ai-visualizacao-arquitetonica-com-ia",
-      "owner_username": "lkd12436",
-      "source_url": "https://renderlabai.art/pt-BR",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-28T08:19:02.042Z",
-      "url": "https://www.tabnews.com.br/lkd12436/coloquei-no-ar-o-renderlab-ai-visualizacao-arquitetonica-com-ia"
+      "id": "aea78ca2-34dd-4bb7-bafb-fccb313bb167",
+      "title": "IA e a síndrome do impostor",
+      "slug": "ia-e-a-sindrome-do-impostor",
+      "owner_username": "gmaier",
+      "source_url": null,
+      "tabcoins": 14,
+      "children_deep_count": 8,
+      "published_at": "2026-07-27T17:35:49.527Z",
+      "url": "https://www.tabnews.com.br/gmaier/ia-e-a-sindrome-do-impostor"
     }
   ]
 }
