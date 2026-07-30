@@ -1,27 +1,16 @@
 {
-  "updated_at": "2026-07-29T11:15:20.066Z",
+  "updated_at": "2026-07-30T10:59:18.157Z",
   "posts": [
     {
-      "id": "88048aff-77ae-41cd-8f1f-1f95b7b601bd",
-      "title": "Seu agente enxerga o screenshot, mas você ainda precisa definir o que é \"igual\"",
-      "slug": "seu-agente-enxerga-o-screenshot-mas-voce-ainda-precisa-definir-o-que-e-igual",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-07-28T03:49:43.349Z",
-      "url": "https://www.tabnews.com.br/Centelha/seu-agente-enxerga-o-screenshot-mas-voce-ainda-precisa-definir-o-que-e-igual"
-    },
-    {
-      "id": "49914257-54ab-44a2-9cea-180f6fe9d680",
-      "title": "Estudo de Caso: Por que ignorei o padrão da indústria ao arquitetar o Manypost",
-      "slug": "estudo-de-caso-por-que-ignorei-o-padrao-da-industria-ao-arquitetar-o-manypost",
-      "owner_username": "ale3xandr3lUsis",
-      "source_url": "https://github.com/manypost/manypost-app",
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-07-28T20:22:47.900Z",
-      "url": "https://www.tabnews.com.br/ale3xandr3lUsis/estudo-de-caso-por-que-ignorei-o-padrao-da-industria-ao-arquitetar-o-manypost"
+      "id": "ff42f1ec-591e-4c1d-961b-2d89648bb24a",
+      "title": "Multitenancy com Prisma e PostgreSQL: Row-Level Security vs Schema por Tenant",
+      "slug": "multitenancy-com-prisma-e-postgresql-row-level-security-vs-schema-por-tenant",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/multitenancy-prisma-postgresql-rls-schema-por-tenant",
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-07-29T12:03:05.387Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/multitenancy-com-prisma-e-postgresql-row-level-security-vs-schema-por-tenant"
     },
     {
       "id": "fe33d567-a338-4c6e-a591-0a957dcdb62a",
@@ -29,87 +18,98 @@
       "slug": "day-5-100-days-of-code-em-c",
       "owner_username": "figureight",
       "source_url": null,
-      "tabcoins": 4,
+      "tabcoins": 7,
       "children_deep_count": 0,
       "published_at": "2026-07-29T00:54:12.638Z",
       "url": "https://www.tabnews.com.br/figureight/day-5-100-days-of-code-em-c"
     },
     {
-      "id": "e5bb8ba3-db30-48a7-874d-61e48af875f6",
-      "title": "Nvidia anuncia aliança com 37 empresas para criação de ferramentas de código aberto que auxiliem organizações a se defender de ataques cibernéticos",
-      "slug": "nvidia-anuncia-alianca-com-37-empresas-para-criacao-de-ferramentas-de-codigo-aberto-que-auxiliem-organizacoes-a-se-defender-de-ataques-ciberneticos",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-security-alliance-unites-110746241.html?guccounter=1",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-28T14:23:10.871Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/nvidia-anuncia-alianca-com-37-empresas-para-criacao-de-ferramentas-de-codigo-aberto-que-auxiliem-organizacoes-a-se-defender-de-ataques-ciberneticos"
+      "id": "49914257-54ab-44a2-9cea-180f6fe9d680",
+      "title": "Estudo de Caso: Por que ignorei o padrão da indústria ao arquitetar o Manypost",
+      "slug": "estudo-de-caso-por-que-ignorei-o-padrao-da-industria-ao-arquitetar-o-manypost",
+      "owner_username": "ale3xandr3lUsis",
+      "source_url": "https://github.com/manypost/manypost-app",
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-07-28T20:22:47.900Z",
+      "url": "https://www.tabnews.com.br/ale3xandr3lUsis/estudo-de-caso-por-que-ignorei-o-padrao-da-industria-ao-arquitetar-o-manypost"
     },
     {
-      "id": "a4b0c301-c33c-4ad3-9f56-03a70850bd28",
-      "title": "Claude Cowork pode escapar de sua sandbox e acessar arquivos e credenciais no macOS",
-      "slug": "claude-cowork-pode-escapar-de-sua-sandbox-e-acessar-arquivos-e-credenciais-no-macos",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://thenextweb.com/news/claude-cowork-sandbox-escape-mac-files-sharedroot",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-28T12:45:30.815Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/claude-cowork-pode-escapar-de-sua-sandbox-e-acessar-arquivos-e-credenciais-no-macos"
+      "id": "991a6f65-8a1e-4850-aba6-67566ddb49fd",
+      "title": "Confiei no Claude Code no piloto automático e o Shai-Hulud quase entrou: 5 permissões que reduzi hoje",
+      "slug": "confiei-no-claude-code-no-piloto-automatico-e-o-shai-hulud-quase-entrou-5-permissoes-que-reduzi-hoje",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/piloto-automatico-5-permissoes/",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-07-29T12:00:03.405Z",
+      "url": "https://www.tabnews.com.br/kenimo49/confiei-no-claude-code-no-piloto-automatico-e-o-shai-hulud-quase-entrou-5-permissoes-que-reduzi-hoje"
     },
     {
-      "id": "4b7daa0d-5a72-41d9-9ea0-d7c5a4ee9377",
-      "title": "Professor universitário dos EUA utiliza prompt oculto em tarefa e identifica 32 de 35 alunos usando IA",
-      "slug": "professor-universitario-dos-eua-utiliza-prompt-oculto-em-tarefa-e-identifica-32-de-35-alunos-usando-ia",
+      "id": "513cfc37-2e00-4877-b2f1-f816a8707428",
+      "title": "WinZap, um cliente de código aberto para WhatsApp",
+      "slug": "winzap-um-cliente-de-codigo-aberto-para-whatsapp",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": "https://github.com/gabrielhhaber/WinZapp_Python",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-07-29T23:58:33.980Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/winzap-um-cliente-de-codigo-aberto-para-whatsapp"
+    },
+    {
+      "id": "5ac63ae9-78c8-4319-b7fb-54702b1e17ca",
+      "title": "Laboratórios de IA estão comprando livros antigos em massa, digitalizando seu conteúdo e destruindo-os, inclusive exemplares raros e fora de catálogo",
+      "slug": "laboratorios-de-ia-estao-comprando-livros-antigos-em-massa-digitalizando-seu-conteudo-e-destruindo-os-inclusive-exemplares-raros-e-fora-de-catalogo",
       "owner_username": "NewsletterOficial",
-      "source_url": "https://tecnoblog.net/noticias/professor-coloca-prompt-escondido-em-tarefa-e-pega-90-da-turma-usando-ia/",
+      "source_url": "https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-07-29T14:48:42.042Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/laboratorios-de-ia-estao-comprando-livros-antigos-em-massa-digitalizando-seu-conteudo-e-destruindo-os-inclusive-exemplares-raros-e-fora-de-catalogo"
+    },
+    {
+      "id": "6b7580e9-a368-411d-b53e-08e0bd0b352a",
+      "title": "Tenho uma tese que pode parecer exagerada hoje.",
+      "slug": "tenho-uma-tese-que-pode-parecer-exagerada-hoje",
+      "owner_username": "andredourado",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 6,
+      "published_at": "2026-07-29T16:02:01.004Z",
+      "url": "https://www.tabnews.com.br/andredourado/tenho-uma-tese-que-pode-parecer-exagerada-hoje"
+    },
+    {
+      "id": "66ac1fe3-45f0-4d60-a45b-4edd189f81d5",
+      "title": "Pitch: is-kit vs Zod: uma comparação prática sob 3 perspectivas",
+      "slug": "is-kit-vs-zod-uma-comparacao-pratica-sob-3-perspectivas",
+      "owner_username": "nyaomaru",
+      "source_url": "https://dev.to/nyaomaru/is-kit-vs-zod-a-practical-comparison-from-3-perspectives-21eh",
       "tabcoins": 3,
       "children_deep_count": 0,
-      "published_at": "2026-07-28T13:53:07.458Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/professor-universitario-dos-eua-utiliza-prompt-oculto-em-tarefa-e-identifica-32-de-35-alunos-usando-ia"
+      "published_at": "2026-07-29T11:41:12.232Z",
+      "url": "https://www.tabnews.com.br/nyaomaru/is-kit-vs-zod-uma-comparacao-pratica-sob-3-perspectivas"
     },
     {
-      "id": "2fab5546-c9db-4a30-ad8d-aa9c99cf73af",
-      "title": "Como pagar comissão pra terceiros sem virar um marketplace (Venda de Gift Cards)",
-      "slug": "como-pagar-comissao-pra-terceiros-sem-virar-um-marketplace-venda-de-gift-cards",
-      "owner_username": "pedromello",
+      "id": "289a4cfb-19b0-46f0-841c-f81b5c6eddd0",
+      "title": "Criei um robô que simula entrevistas em inglês para devs — e aprendi mais sobre prompts do que sobre inglês",
+      "slug": "criei-um-robo-que-simula-entrevistas-em-ingles-para-devs-e-aprendi-mais-sobre-prompts-do-que-sobre-ingles",
+      "owner_username": "maisdennis",
       "source_url": null,
       "tabcoins": 1,
-      "children_deep_count": 2,
-      "published_at": "2026-07-28T22:43:36.327Z",
-      "url": "https://www.tabnews.com.br/pedromello/como-pagar-comissao-pra-terceiros-sem-virar-um-marketplace-venda-de-gift-cards"
+      "children_deep_count": 1,
+      "published_at": "2026-07-30T05:21:01.757Z",
+      "url": "https://www.tabnews.com.br/maisdennis/criei-um-robo-que-simula-entrevistas-em-ingles-para-devs-e-aprendi-mais-sobre-prompts-do-que-sobre-ingles"
     },
     {
-      "id": "5d7999a1-0114-44b4-bebb-e398c75eb3f8",
-      "title": "Pitch: Tratei identidade de dados como o Git trata conteúdo, num motor de inteligência corporativa",
-      "slug": "tratei-identidade-de-dados-como-o-git-trata-conteudo-num-motor-de-inteligencia-corporativa",
-      "owner_username": "geldois",
-      "source_url": null,
+      "id": "12155c3c-7a34-4893-a651-5dcbfcf97d52",
+      "title": "oh-my-agent: daemons MCP compartilhados e renderização de áudio offline",
+      "slug": "oh-my-agent-daemons-mcp-compartilhados-e-renderizacao-de-audio-offline",
+      "owner_username": "gracefullight",
+      "source_url": "https://dev.to/gracefullight/oh-my-agent-shared-mcp-daemons-and-offline-bgm-rendering-4cd1",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-07-28T22:01:21.185Z",
-      "url": "https://www.tabnews.com.br/geldois/tratei-identidade-de-dados-como-o-git-trata-conteudo-num-motor-de-inteligencia-corporativa"
-    },
-    {
-      "id": "22213c79-1b33-4543-8a9d-c8233c6098ee",
-      "title": "[Day 4] - 100 days of code em C",
-      "slug": "day-4-100-days-of-code-em-c",
-      "owner_username": "figureight",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-07-28T00:21:52.748Z",
-      "url": "https://www.tabnews.com.br/figureight/day-4-100-days-of-code-em-c"
-    },
-    {
-      "id": "aea78ca2-34dd-4bb7-bafb-fccb313bb167",
-      "title": "IA e a síndrome do impostor",
-      "slug": "ia-e-a-sindrome-do-impostor",
-      "owner_username": "gmaier",
-      "source_url": null,
-      "tabcoins": 14,
-      "children_deep_count": 8,
-      "published_at": "2026-07-27T17:35:49.527Z",
-      "url": "https://www.tabnews.com.br/gmaier/ia-e-a-sindrome-do-impostor"
+      "published_at": "2026-07-30T02:05:51.445Z",
+      "url": "https://www.tabnews.com.br/gracefullight/oh-my-agent-daemons-mcp-compartilhados-e-renderizacao-de-audio-offline"
     }
   ]
 }
