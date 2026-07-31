@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-07-30T10:59:18.157Z",
+  "updated_at": "2026-07-31T11:22:26.218Z",
   "posts": [
-    {
-      "id": "ff42f1ec-591e-4c1d-961b-2d89648bb24a",
-      "title": "Multitenancy com Prisma e PostgreSQL: Row-Level Security vs Schema por Tenant",
-      "slug": "multitenancy-com-prisma-e-postgresql-row-level-security-vs-schema-por-tenant",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/multitenancy-prisma-postgresql-rls-schema-por-tenant",
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-07-29T12:03:05.387Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/multitenancy-com-prisma-e-postgresql-row-level-security-vs-schema-por-tenant"
-    },
-    {
-      "id": "fe33d567-a338-4c6e-a591-0a957dcdb62a",
-      "title": "[Day 5] - 100 days of code em C",
-      "slug": "day-5-100-days-of-code-em-c",
-      "owner_username": "figureight",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 0,
-      "published_at": "2026-07-29T00:54:12.638Z",
-      "url": "https://www.tabnews.com.br/figureight/day-5-100-days-of-code-em-c"
-    },
-    {
-      "id": "49914257-54ab-44a2-9cea-180f6fe9d680",
-      "title": "Estudo de Caso: Por que ignorei o padrão da indústria ao arquitetar o Manypost",
-      "slug": "estudo-de-caso-por-que-ignorei-o-padrao-da-industria-ao-arquitetar-o-manypost",
-      "owner_username": "ale3xandr3lUsis",
-      "source_url": "https://github.com/manypost/manypost-app",
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-07-28T20:22:47.900Z",
-      "url": "https://www.tabnews.com.br/ale3xandr3lUsis/estudo-de-caso-por-que-ignorei-o-padrao-da-industria-ao-arquitetar-o-manypost"
-    },
-    {
-      "id": "991a6f65-8a1e-4850-aba6-67566ddb49fd",
-      "title": "Confiei no Claude Code no piloto automático e o Shai-Hulud quase entrou: 5 permissões que reduzi hoje",
-      "slug": "confiei-no-claude-code-no-piloto-automatico-e-o-shai-hulud-quase-entrou-5-permissoes-que-reduzi-hoje",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/piloto-automatico-5-permissoes/",
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-07-29T12:00:03.405Z",
-      "url": "https://www.tabnews.com.br/kenimo49/confiei-no-claude-code-no-piloto-automatico-e-o-shai-hulud-quase-entrou-5-permissoes-que-reduzi-hoje"
-    },
     {
       "id": "513cfc37-2e00-4877-b2f1-f816a8707428",
       "title": "WinZap, um cliente de código aberto para WhatsApp",
       "slug": "winzap-um-cliente-de-codigo-aberto-para-whatsapp",
       "owner_username": "JuanMathewsRebelloSantos",
       "source_url": "https://github.com/gabrielhhaber/WinZapp_Python",
-      "tabcoins": 4,
-      "children_deep_count": 1,
+      "tabcoins": 15,
+      "children_deep_count": 4,
       "published_at": "2026-07-29T23:58:33.980Z",
       "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/winzap-um-cliente-de-codigo-aberto-para-whatsapp"
     },
     {
-      "id": "5ac63ae9-78c8-4319-b7fb-54702b1e17ca",
-      "title": "Laboratórios de IA estão comprando livros antigos em massa, digitalizando seu conteúdo e destruindo-os, inclusive exemplares raros e fora de catálogo",
-      "slug": "laboratorios-de-ia-estao-comprando-livros-antigos-em-massa-digitalizando-seu-conteudo-e-destruindo-os-inclusive-exemplares-raros-e-fora-de-catalogo",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books",
+      "id": "02bad01f-b8ce-4c73-aa4f-6f245a67c3e2",
+      "title": "Alguém comentou sobre a possibilidade de favoritar posts do TabNews para ler depois e eu perdi o post (+ versão nova do Tabs)",
+      "slug": "alguem-comentou-sobre-a-possibilidade-de-favoritar-posts-do-tabnews-para-ler-depois-e-eu-perdi-o-post-versao-nova-do-tabs",
+      "owner_username": "rphlfc",
+      "source_url": "https://play.google.com/store/apps/details?id=com.github.rphlfc.tabs",
+      "tabcoins": 7,
+      "children_deep_count": 9,
+      "published_at": "2026-07-30T11:49:05.361Z",
+      "url": "https://www.tabnews.com.br/rphlfc/alguem-comentou-sobre-a-possibilidade-de-favoritar-posts-do-tabnews-para-ler-depois-e-eu-perdi-o-post-versao-nova-do-tabs"
+    },
+    {
+      "id": "f7ab3d9b-7791-4f37-837c-a9b99f694184",
+      "title": "Pitch: Como o Burnless transforma a gestão de Contexto LLM em uma arquitetura de protocolos e ainda economiza tokens. (e muito)",
+      "slug": "como-o-burnless-transforma-a-gestao-de-contexto-llm-em-uma-arquitetura-de-protocolos-e-ainda-economiza-tokens-e-muito",
+      "owner_username": "rudekwydra",
+      "source_url": "https://burnless.pages.dev/",
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-07-30T18:55:11.916Z",
+      "url": "https://www.tabnews.com.br/rudekwydra/como-o-burnless-transforma-a-gestao-de-contexto-llm-em-uma-arquitetura-de-protocolos-e-ainda-economiza-tokens-e-muito"
+    },
+    {
+      "id": "2af3f938-1d24-47cc-9e63-fe64ae673b57",
+      "title": "Narrando partidas de xadrez com IA",
+      "slug": "narrando-partidas-de-xadrez-com-ia",
+      "owner_username": "EduardoWorrel",
+      "source_url": null,
       "tabcoins": 4,
       "children_deep_count": 1,
-      "published_at": "2026-07-29T14:48:42.042Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/laboratorios-de-ia-estao-comprando-livros-antigos-em-massa-digitalizando-seu-conteudo-e-destruindo-os-inclusive-exemplares-raros-e-fora-de-catalogo"
+      "published_at": "2026-07-30T18:17:12.795Z",
+      "url": "https://www.tabnews.com.br/EduardoWorrel/narrando-partidas-de-xadrez-com-ia"
     },
     {
-      "id": "6b7580e9-a368-411d-b53e-08e0bd0b352a",
-      "title": "Tenho uma tese que pode parecer exagerada hoje.",
-      "slug": "tenho-uma-tese-que-pode-parecer-exagerada-hoje",
-      "owner_username": "andredourado",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 6,
-      "published_at": "2026-07-29T16:02:01.004Z",
-      "url": "https://www.tabnews.com.br/andredourado/tenho-uma-tese-que-pode-parecer-exagerada-hoje"
-    },
-    {
-      "id": "66ac1fe3-45f0-4d60-a45b-4edd189f81d5",
-      "title": "Pitch: is-kit vs Zod: uma comparação prática sob 3 perspectivas",
-      "slug": "is-kit-vs-zod-uma-comparacao-pratica-sob-3-perspectivas",
-      "owner_username": "nyaomaru",
-      "source_url": "https://dev.to/nyaomaru/is-kit-vs-zod-a-practical-comparison-from-3-perspectives-21eh",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-07-29T11:41:12.232Z",
-      "url": "https://www.tabnews.com.br/nyaomaru/is-kit-vs-zod-uma-comparacao-pratica-sob-3-perspectivas"
-    },
-    {
-      "id": "289a4cfb-19b0-46f0-841c-f81b5c6eddd0",
-      "title": "Criei um robô que simula entrevistas em inglês para devs — e aprendi mais sobre prompts do que sobre inglês",
-      "slug": "criei-um-robo-que-simula-entrevistas-em-ingles-para-devs-e-aprendi-mais-sobre-prompts-do-que-sobre-ingles",
-      "owner_username": "maisdennis",
-      "source_url": null,
-      "tabcoins": 1,
+      "id": "4517b1fb-8768-4e37-8203-0c8a5f18f3f6",
+      "title": "Graças a um brasileiro, nós temos IA infinita e 100% de graça, acabou o limite de uma? não tem problema, o omniroute é a solução!",
+      "slug": "gracas-a-um-brasileiro-nos-temos-ia-infinita-e-100-por-cento-de-graca-acabou-o-limite-de-uma-nao-tem-problema-o-omniroute-e-a-solucao",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": "https://github.com/diegosouzapw/OmniRoute",
+      "tabcoins": 4,
       "children_deep_count": 1,
-      "published_at": "2026-07-30T05:21:01.757Z",
-      "url": "https://www.tabnews.com.br/maisdennis/criei-um-robo-que-simula-entrevistas-em-ingles-para-devs-e-aprendi-mais-sobre-prompts-do-que-sobre-ingles"
+      "published_at": "2026-07-30T18:14:57.195Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/gracas-a-um-brasileiro-nos-temos-ia-infinita-e-100-por-cento-de-graca-acabou-o-limite-de-uma-nao-tem-problema-o-omniroute-e-a-solucao"
     },
     {
-      "id": "12155c3c-7a34-4893-a651-5dcbfcf97d52",
-      "title": "oh-my-agent: daemons MCP compartilhados e renderização de áudio offline",
-      "slug": "oh-my-agent-daemons-mcp-compartilhados-e-renderizacao-de-audio-offline",
-      "owner_username": "gracefullight",
-      "source_url": "https://dev.to/gracefullight/oh-my-agent-shared-mcp-daemons-and-offline-bgm-rendering-4cd1",
-      "tabcoins": 1,
+      "id": "177bfb88-3c0e-4a3e-9e4f-0915d6ec559b",
+      "title": "Anel inteligente consegue monitorar nível de glicemia, vitaminas e outros marcadores pelo suor do dedo",
+      "slug": "anel-inteligente-consegue-monitorar-nivel-de-glicemia-vitaminas-e-outros-marcadores-pelo-suor-do-dedo",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.cnet.com/tech/mobile/new-smart-ring-uses-finger-sweat-track-health/",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-07-30T14:50:28.858Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/anel-inteligente-consegue-monitorar-nivel-de-glicemia-vitaminas-e-outros-marcadores-pelo-suor-do-dedo"
+    },
+    {
+      "id": "c3e5a070-b1d9-4f13-b02a-d98ed27dc5f5",
+      "title": "Machine Learning na prática com .NET: 4 séries completas e gratuitas",
+      "slug": "machine-learning-na-pratica-com-net-4-series-completas-e-gratuitas",
+      "owner_username": "devfullstacknet",
+      "source_url": null,
+      "tabcoins": 3,
       "children_deep_count": 0,
-      "published_at": "2026-07-30T02:05:51.445Z",
-      "url": "https://www.tabnews.com.br/gracefullight/oh-my-agent-daemons-mcp-compartilhados-e-renderizacao-de-audio-offline"
+      "published_at": "2026-07-30T15:56:34.713Z",
+      "url": "https://www.tabnews.com.br/devfullstacknet/machine-learning-na-pratica-com-net-4-series-completas-e-gratuitas"
+    },
+    {
+      "id": "4aa5ff4c-e8ba-461a-894c-c856be15ff35",
+      "title": "Empresas buscam modelos de IA mais baratos após custos dispararem por causa do efeito “tokenmaxxing”",
+      "slug": "empresas-buscam-modelos-de-ia-mais-baratos-apos-custos-dispararem-por-causa-do-efeito-tokenmaxxing",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-07-30T15:00:30.113Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/empresas-buscam-modelos-de-ia-mais-baratos-apos-custos-dispararem-por-causa-do-efeito-tokenmaxxing"
+    },
+    {
+      "id": "9e557076-93cd-40c6-8b56-7d84720f06dd",
+      "title": "Pitch: Como construí o CriptoVéu: Criptografia 100% client-side com React, Argon2id em WASM e Web Workers",
+      "slug": "como-construi-o-criptoveu-criptografia-100-por-cento-client-side-com-react-argon2id-em-wasm-e-web-workers",
+      "owner_username": "Alexh",
+      "source_url": "https://www.criptoveu.com/",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-07-30T22:43:57.368Z",
+      "url": "https://www.tabnews.com.br/Alexh/como-construi-o-criptoveu-criptografia-100-por-cento-client-side-com-react-argon2id-em-wasm-e-web-workers"
+    },
+    {
+      "id": "9fb0ad89-91e4-45fc-974f-2699e792b303",
+      "title": "O que a mídia não viu: Kimi K3 criou um compilador e um chip e quase ninguém discutiu isso",
+      "slug": "o-que-a-midia-nao-viu-kimi-k3-criou-um-compilador-e-um-chip-e-quase-ninguem-discutiu-isso",
+      "owner_username": "HerbertGeorgeWells",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 3,
+      "published_at": "2026-07-30T23:54:08.476Z",
+      "url": "https://www.tabnews.com.br/HerbertGeorgeWells/o-que-a-midia-nao-viu-kimi-k3-criou-um-compilador-e-um-chip-e-quase-ninguem-discutiu-isso"
     }
   ]
 }
