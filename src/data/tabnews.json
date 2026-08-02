@@ -1,27 +1,93 @@
 {
-  "updated_at": "2026-08-01T10:27:17.663Z",
+  "updated_at": "2026-08-02T10:26:46.225Z",
   "posts": [
-    {
-      "id": "d453feec-2c54-4179-b45c-f321a90ebcc3",
-      "title": "ShieldFont: uma fonte que mostra uma coisa para humanos e outra para robôs de IA",
-      "slug": "shieldfont-uma-fonte-que-mostra-uma-coisa-para-humanos-e-outra-para-robos-de-ia",
-      "owner_username": "tihhgoncalves",
-      "source_url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
-      "tabcoins": 8,
-      "children_deep_count": 1,
-      "published_at": "2026-07-31T19:43:08.894Z",
-      "url": "https://www.tabnews.com.br/tihhgoncalves/shieldfont-uma-fonte-que-mostra-uma-coisa-para-humanos-e-outra-para-robos-de-ia"
-    },
     {
       "id": "a2dbc2c2-4710-4470-a1ee-75ddc2366335",
       "title": "Em uma tarde, coloquei Pokémon Red e Blue 3D para rodar nativamente no Nintendo Switch — usando SDD e agentes de IA",
       "slug": "em-uma-tarde-coloquei-pokemon-red-e-blue-3d-para-rodar-nativamente-no-nintendo-switch-usando-sdd-e-agentes-de-ia",
       "owner_username": "andrewqsantos",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
+      "tabcoins": 8,
+      "children_deep_count": 1,
       "published_at": "2026-08-01T10:12:32.857Z",
       "url": "https://www.tabnews.com.br/andrewqsantos/em-uma-tarde-coloquei-pokemon-red-e-blue-3d-para-rodar-nativamente-no-nintendo-switch-usando-sdd-e-agentes-de-ia"
+    },
+    {
+      "id": "046266f0-a333-48d4-b683-af3ec8f2dda5",
+      "title": "🛡️ NeuralGuard: Levando o detector de código vulnerável com IA para o Pull Request",
+      "slug": "neuralguard-levando-o-detector-de-codigo-vulneravel-com-ia-para-o-pull-request",
+      "owner_username": "devfullstacknet",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-02T05:30:46.716Z",
+      "url": "https://www.tabnews.com.br/devfullstacknet/neuralguard-levando-o-detector-de-codigo-vulneravel-com-ia-para-o-pull-request"
+    },
+    {
+      "id": "d453feec-2c54-4179-b45c-f321a90ebcc3",
+      "title": "ShieldFont: uma fonte que mostra uma coisa para humanos e outra para robôs de IA",
+      "slug": "shieldfont-uma-fonte-que-mostra-uma-coisa-para-humanos-e-outra-para-robos-de-ia",
+      "owner_username": "tihhgoncalves",
+      "source_url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
+      "tabcoins": 11,
+      "children_deep_count": 1,
+      "published_at": "2026-07-31T19:43:08.894Z",
+      "url": "https://www.tabnews.com.br/tihhgoncalves/shieldfont-uma-fonte-que-mostra-uma-coisa-para-humanos-e-outra-para-robos-de-ia"
+    },
+    {
+      "id": "e71a7dc1-513c-4bc3-9783-8277341fc976",
+      "title": "Pitch: Criei o Dilluvia: conversas anônimas 1v1 para momentos de crise (sem IA e com a regra dos 10 minutos)",
+      "slug": "criei-o-dilluvia-conversas-anonimas-1v1-para-momentos-de-crise-sem-ia-e-com-a-regra-dos-10-minutos",
+      "owner_username": "dilluvia",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 0,
+      "published_at": "2026-07-31T18:46:10.894Z",
+      "url": "https://www.tabnews.com.br/dilluvia/criei-o-dilluvia-conversas-anonimas-1v1-para-momentos-de-crise-sem-ia-e-com-a-regra-dos-10-minutos"
+    },
+    {
+      "id": "2af3f938-1d24-47cc-9e63-fe64ae673b57",
+      "title": "Narrando partidas de xadrez com IA",
+      "slug": "narrando-partidas-de-xadrez-com-ia",
+      "owner_username": "EduardoWorrel",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-07-30T18:17:12.795Z",
+      "url": "https://www.tabnews.com.br/EduardoWorrel/narrando-partidas-de-xadrez-com-ia"
+    },
+    {
+      "id": "c05c23a0-85aa-47af-9602-e0ca5aca0583",
+      "title": "Seu /health responde 200 e o cliente ainda vê erro no checkout",
+      "slug": "seu-health-responde-200-e-o-cliente-ainda-ve-erro-no-checkout",
+      "owner_username": "revinsoftware",
+      "source_url": "https://revin.com.br/pt/blog/quem-descobriu-a-queda-primeiro",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-07-31T16:27:18.903Z",
+      "url": "https://www.tabnews.com.br/revinsoftware/seu-health-responde-200-e-o-cliente-ainda-ve-erro-no-checkout"
+    },
+    {
+      "id": "f7ab3d9b-7791-4f37-837c-a9b99f694184",
+      "title": "Pitch: Como o Burnless transforma a gestão de Contexto LLM em uma arquitetura de protocolos e ainda economiza tokens. (e muito)",
+      "slug": "como-o-burnless-transforma-a-gestao-de-contexto-llm-em-uma-arquitetura-de-protocolos-e-ainda-economiza-tokens-e-muito",
+      "owner_username": "rudekwydra",
+      "source_url": "https://burnless.pages.dev/",
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-07-30T18:55:11.916Z",
+      "url": "https://www.tabnews.com.br/rudekwydra/como-o-burnless-transforma-a-gestao-de-contexto-llm-em-uma-arquitetura-de-protocolos-e-ainda-economiza-tokens-e-muito"
+    },
+    {
+      "id": "4517b1fb-8768-4e37-8203-0c8a5f18f3f6",
+      "title": "Graças a um brasileiro, nós temos IA infinita e 100% de graça, acabou o limite de uma? não tem problema, o omniroute é a solução!",
+      "slug": "gracas-a-um-brasileiro-nos-temos-ia-infinita-e-100-por-cento-de-graca-acabou-o-limite-de-uma-nao-tem-problema-o-omniroute-e-a-solucao",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": "https://github.com/diegosouzapw/OmniRoute",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-07-30T18:14:57.195Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/gracas-a-um-brasileiro-nos-temos-ia-infinita-e-100-por-cento-de-graca-acabou-o-limite-de-uma-nao-tem-problema-o-omniroute-e-a-solucao"
     },
     {
       "id": "892c1462-48ed-469e-ac15-26f8e249cd48",
@@ -35,28 +101,6 @@
       "url": "https://www.tabnews.com.br/kenimo49/dei-websearch-ao-meu-strategist-5-temas-levaram-20-minutos-separar-em-3-agentes-baixou-pra-3"
     },
     {
-      "id": "c05c23a0-85aa-47af-9602-e0ca5aca0583",
-      "title": "Seu /health responde 200 e o cliente ainda vê erro no checkout",
-      "slug": "seu-health-responde-200-e-o-cliente-ainda-ve-erro-no-checkout",
-      "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/pt/blog/quem-descobriu-a-queda-primeiro",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-07-31T16:27:18.903Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/seu-health-responde-200-e-o-cliente-ainda-ve-erro-no-checkout"
-    },
-    {
-      "id": "e71a7dc1-513c-4bc3-9783-8277341fc976",
-      "title": "Pitch: Criei o Dilluvia: conversas anônimas 1v1 para momentos de crise (sem IA e com a regra dos 10 minutos)",
-      "slug": "criei-o-dilluvia-conversas-anonimas-1v1-para-momentos-de-crise-sem-ia-e-com-a-regra-dos-10-minutos",
-      "owner_username": "dilluvia",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-07-31T18:46:10.894Z",
-      "url": "https://www.tabnews.com.br/dilluvia/criei-o-dilluvia-conversas-anonimas-1v1-para-momentos-de-crise-sem-ia-e-com-a-regra-dos-10-minutos"
-    },
-    {
       "id": "65d1b4ef-6eae-47fd-b73b-64b1f5c1a582",
       "title": "Anthropic afirma que seus modelos de IA invadiram sistemas de três organizações e publicaram malware no PyPI",
       "slug": "anthropic-afirma-que-seus-modelos-de-ia-invadiram-sistemas-de-tres-organizacoes-e-publicaram-malware-no-pypi",
@@ -66,50 +110,6 @@
       "children_deep_count": 0,
       "published_at": "2026-07-31T14:18:07.374Z",
       "url": "https://www.tabnews.com.br/NewsletterOficial/anthropic-afirma-que-seus-modelos-de-ia-invadiram-sistemas-de-tres-organizacoes-e-publicaram-malware-no-pypi"
-    },
-    {
-      "id": "bd529eda-103e-4b65-b103-19f2e2ee0a09",
-      "title": "Na era da IA, PR mergeada em open source vale mais que CV",
-      "slug": "na-era-da-ia-pr-mergeada-em-open-source-vale-mais-que-cv",
-      "owner_username": "jo13",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-01T08:21:04.717Z",
-      "url": "https://www.tabnews.com.br/jo13/na-era-da-ia-pr-mergeada-em-open-source-vale-mais-que-cv"
-    },
-    {
-      "id": "f676b5fc-5c53-43ae-aa01-80a610d3a44f",
-      "title": "fiz o \"Agent Ransack\" que sentia falta no Linux (Sombrero File Search)",
-      "slug": "fiz-o-agent-ransack-que-sentia-falta-no-linux-sombrero-file-search",
-      "owner_username": "Thiopental1976",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-01T02:55:25.620Z",
-      "url": "https://www.tabnews.com.br/Thiopental1976/fiz-o-agent-ransack-que-sentia-falta-no-linux-sombrero-file-search"
-    },
-    {
-      "id": "78ae01d7-6a73-4521-af07-66ea2f527d76",
-      "title": "[Day 8] - 100 days of code em C",
-      "slug": "day-8-100-days-of-code-em-c",
-      "owner_username": "figureight",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-01T00:15:30.211Z",
-      "url": "https://www.tabnews.com.br/figureight/day-8-100-days-of-code-em-c"
-    },
-    {
-      "id": "4ade6e2c-9a64-490e-91f1-d7dcb53f719d",
-      "title": "Você não tem o direito de ser pequeno",
-      "slug": "voce-nao-tem-o-direito-de-ser-pequeno",
-      "owner_username": "moacirmoda",
-      "source_url": "https://moacirmoda.substack.com/p/voce-nao-tem-o-direito-de-ser-pequeno",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-07-31T23:28:32.534Z",
-      "url": "https://www.tabnews.com.br/moacirmoda/voce-nao-tem-o-direito-de-ser-pequeno"
     }
   ]
 }
