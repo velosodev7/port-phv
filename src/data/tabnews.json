@@ -1,27 +1,82 @@
 {
-  "updated_at": "2026-08-02T10:26:46.225Z",
+  "updated_at": "2026-08-03T12:13:27.847Z",
   "posts": [
     {
-      "id": "a2dbc2c2-4710-4470-a1ee-75ddc2366335",
-      "title": "Em uma tarde, coloquei Pokémon Red e Blue 3D para rodar nativamente no Nintendo Switch — usando SDD e agentes de IA",
-      "slug": "em-uma-tarde-coloquei-pokemon-red-e-blue-3d-para-rodar-nativamente-no-nintendo-switch-usando-sdd-e-agentes-de-ia",
-      "owner_username": "andrewqsantos",
+      "id": "8183686b-cadb-46ce-9b19-17da25c6f7c6",
+      "title": "Pitch: Uma dor do dia a dia me motivou a criar uma ferramenta open source para React Native",
+      "slug": "uma-dor-do-dia-a-dia-me-motivou-a-criar-uma-ferramenta-open-source-para-react-native",
+      "owner_username": "caiobarroso",
       "source_url": null,
       "tabcoins": 8,
-      "children_deep_count": 1,
-      "published_at": "2026-08-01T10:12:32.857Z",
-      "url": "https://www.tabnews.com.br/andrewqsantos/em-uma-tarde-coloquei-pokemon-red-e-blue-3d-para-rodar-nativamente-no-nintendo-switch-usando-sdd-e-agentes-de-ia"
+      "children_deep_count": 2,
+      "published_at": "2026-08-02T14:37:39.873Z",
+      "url": "https://www.tabnews.com.br/caiobarroso/uma-dor-do-dia-a-dia-me-motivou-a-criar-uma-ferramenta-open-source-para-react-native"
     },
     {
-      "id": "046266f0-a333-48d4-b683-af3ec8f2dda5",
-      "title": "🛡️ NeuralGuard: Levando o detector de código vulnerável com IA para o Pull Request",
-      "slug": "neuralguard-levando-o-detector-de-codigo-vulneravel-com-ia-para-o-pull-request",
-      "owner_username": "devfullstacknet",
+      "id": "b888029a-9caa-4417-83d5-1c112f1acc35",
+      "title": "Codando AI-Native no Frontend e no Backend: Context Engineering, Spec-Driven e Agents no Loop de Desenvolvimento",
+      "slug": "codando-ai-native-no-frontend-e-no-backend-context-engineering-spec-driven-e-agents-no-loop-de-desenvolvimento",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/codando-ai-native-frontend-backend",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-08-03T07:31:27.205Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/codando-ai-native-no-frontend-e-no-backend-context-engineering-spec-driven-e-agents-no-loop-de-desenvolvimento"
+    },
+    {
+      "id": "3f56eeae-f54f-46fb-868d-e43940082521",
+      "title": "Cache Semântico e Memória em LLMs: Latência, Custo e Contexto que Aprende",
+      "slug": "cache-semantico-e-memoria-em-llms-latencia-custo-e-contexto-que-aprende",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/cache-semantico-memoria-llm",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-08-03T07:23:44.629Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/cache-semantico-e-memoria-em-llms-latencia-custo-e-contexto-que-aprende"
+    },
+    {
+      "id": "57285f17-a616-4bfd-98a8-db1b38a3ac7c",
+      "title": "A Engenharia da Destilação: Como Modelos Chineses Aprenderam com Claude, GPT-4 e a Si Mesmos",
+      "slug": "a-engenharia-da-destilacao-como-modelos-chineses-aprenderam-com-claude-gpt-4-e-a-si-mesmos",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/destilacao-conhecimento-llms-chinesas",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-08-03T07:08:51.448Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/a-engenharia-da-destilacao-como-modelos-chineses-aprenderam-com-claude-gpt-4-e-a-si-mesmos"
+    },
+    {
+      "id": "9345b859-761d-4d30-b8f1-573daf6554fe",
+      "title": "Baixei os 30 mil posts do TabNews. O site nunca mais chegou perto de novembro de 2022.",
+      "slug": "baixei-os-30-mil-posts-do-tabnews-o-site-nunca-mais-chegou-perto-de-novembro-de-2022",
+      "owner_username": "ervy",
       "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-08-03T11:31:22.004Z",
+      "url": "https://www.tabnews.com.br/ervy/baixei-os-30-mil-posts-do-tabnews-o-site-nunca-mais-chegou-perto-de-novembro-de-2022"
+    },
+    {
+      "id": "19c43add-4081-4b30-a216-68d09217be2d",
+      "title": "Agentlas: o que você joga fora todo dia pode virar seu ativo",
+      "slug": "agentlas-o-que-voce-joga-fora-todo-dia-pode-virar-seu-ativo",
+      "owner_username": "agentlas",
+      "source_url": "https://github.com/agentlas-ai/Agentlas-OS",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-02T05:30:46.716Z",
-      "url": "https://www.tabnews.com.br/devfullstacknet/neuralguard-levando-o-detector-de-codigo-vulneravel-com-ia-para-o-pull-request"
+      "published_at": "2026-08-03T06:25:41.013Z",
+      "url": "https://www.tabnews.com.br/agentlas/agentlas-o-que-voce-joga-fora-todo-dia-pode-virar-seu-ativo"
+    },
+    {
+      "id": "4d8d46c4-ab5f-430a-bd90-40cd75ce585c",
+      "title": "[PITCH] FinançasAI: meu primeiro app financeiro em produção",
+      "slug": "pitch-financasai-meu-primeiro-app-financeiro-em-producao",
+      "owner_username": "joaofco967",
+      "source_url": "https://chat-financas-ease.vercel.app",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-03T00:11:50.127Z",
+      "url": "https://www.tabnews.com.br/joaofco967/pitch-financasai-meu-primeiro-app-financeiro-em-producao"
     },
     {
       "id": "d453feec-2c54-4179-b45c-f321a90ebcc3",
@@ -29,8 +84,8 @@
       "slug": "shieldfont-uma-fonte-que-mostra-uma-coisa-para-humanos-e-outra-para-robos-de-ia",
       "owner_username": "tihhgoncalves",
       "source_url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
-      "tabcoins": 11,
-      "children_deep_count": 1,
+      "tabcoins": 14,
+      "children_deep_count": 2,
       "published_at": "2026-07-31T19:43:08.894Z",
       "url": "https://www.tabnews.com.br/tihhgoncalves/shieldfont-uma-fonte-que-mostra-uma-coisa-para-humanos-e-outra-para-robos-de-ia"
     },
@@ -40,76 +95,21 @@
       "slug": "criei-o-dilluvia-conversas-anonimas-1v1-para-momentos-de-crise-sem-ia-e-com-a-regra-dos-10-minutos",
       "owner_username": "dilluvia",
       "source_url": null,
-      "tabcoins": 8,
+      "tabcoins": 12,
       "children_deep_count": 0,
       "published_at": "2026-07-31T18:46:10.894Z",
       "url": "https://www.tabnews.com.br/dilluvia/criei-o-dilluvia-conversas-anonimas-1v1-para-momentos-de-crise-sem-ia-e-com-a-regra-dos-10-minutos"
     },
     {
-      "id": "2af3f938-1d24-47cc-9e63-fe64ae673b57",
-      "title": "Narrando partidas de xadrez com IA",
-      "slug": "narrando-partidas-de-xadrez-com-ia",
-      "owner_username": "EduardoWorrel",
+      "id": "a2dbc2c2-4710-4470-a1ee-75ddc2366335",
+      "title": "Em uma tarde, coloquei Pokémon Red e Blue 3D para rodar nativamente no Nintendo Switch — usando SDD e agentes de IA",
+      "slug": "em-uma-tarde-coloquei-pokemon-red-e-blue-3d-para-rodar-nativamente-no-nintendo-switch-usando-sdd-e-agentes-de-ia",
+      "owner_username": "andrewqsantos",
       "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-07-30T18:17:12.795Z",
-      "url": "https://www.tabnews.com.br/EduardoWorrel/narrando-partidas-de-xadrez-com-ia"
-    },
-    {
-      "id": "c05c23a0-85aa-47af-9602-e0ca5aca0583",
-      "title": "Seu /health responde 200 e o cliente ainda vê erro no checkout",
-      "slug": "seu-health-responde-200-e-o-cliente-ainda-ve-erro-no-checkout",
-      "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/pt/blog/quem-descobriu-a-queda-primeiro",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-07-31T16:27:18.903Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/seu-health-responde-200-e-o-cliente-ainda-ve-erro-no-checkout"
-    },
-    {
-      "id": "f7ab3d9b-7791-4f37-837c-a9b99f694184",
-      "title": "Pitch: Como o Burnless transforma a gestão de Contexto LLM em uma arquitetura de protocolos e ainda economiza tokens. (e muito)",
-      "slug": "como-o-burnless-transforma-a-gestao-de-contexto-llm-em-uma-arquitetura-de-protocolos-e-ainda-economiza-tokens-e-muito",
-      "owner_username": "rudekwydra",
-      "source_url": "https://burnless.pages.dev/",
-      "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-07-30T18:55:11.916Z",
-      "url": "https://www.tabnews.com.br/rudekwydra/como-o-burnless-transforma-a-gestao-de-contexto-llm-em-uma-arquitetura-de-protocolos-e-ainda-economiza-tokens-e-muito"
-    },
-    {
-      "id": "4517b1fb-8768-4e37-8203-0c8a5f18f3f6",
-      "title": "Graças a um brasileiro, nós temos IA infinita e 100% de graça, acabou o limite de uma? não tem problema, o omniroute é a solução!",
-      "slug": "gracas-a-um-brasileiro-nos-temos-ia-infinita-e-100-por-cento-de-graca-acabou-o-limite-de-uma-nao-tem-problema-o-omniroute-e-a-solucao",
-      "owner_username": "JuanMathewsRebelloSantos",
-      "source_url": "https://github.com/diegosouzapw/OmniRoute",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-07-30T18:14:57.195Z",
-      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/gracas-a-um-brasileiro-nos-temos-ia-infinita-e-100-por-cento-de-graca-acabou-o-limite-de-uma-nao-tem-problema-o-omniroute-e-a-solucao"
-    },
-    {
-      "id": "892c1462-48ed-469e-ac15-26f8e249cd48",
-      "title": "Dei WebSearch ao meu Strategist. 5 temas levaram 20 minutos. Separar em 3 agentes baixou pra 3.",
-      "slug": "dei-websearch-ao-meu-strategist-5-temas-levaram-20-minutos-separar-em-3-agentes-baixou-pra-3",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/tres-papeis-observer-strategist-marketer-separacao/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-07-31T12:00:03.611Z",
-      "url": "https://www.tabnews.com.br/kenimo49/dei-websearch-ao-meu-strategist-5-temas-levaram-20-minutos-separar-em-3-agentes-baixou-pra-3"
-    },
-    {
-      "id": "65d1b4ef-6eae-47fd-b73b-64b1f5c1a582",
-      "title": "Anthropic afirma que seus modelos de IA invadiram sistemas de três organizações e publicaram malware no PyPI",
-      "slug": "anthropic-afirma-que-seus-modelos-de-ia-invadiram-sistemas-de-tres-organizacoes-e-publicaram-malware-no-pypi",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-07-31T14:18:07.374Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/anthropic-afirma-que-seus-modelos-de-ia-invadiram-sistemas-de-tres-organizacoes-e-publicaram-malware-no-pypi"
+      "tabcoins": 11,
+      "children_deep_count": 4,
+      "published_at": "2026-08-01T10:12:32.857Z",
+      "url": "https://www.tabnews.com.br/andrewqsantos/em-uma-tarde-coloquei-pokemon-red-e-blue-3d-para-rodar-nativamente-no-nintendo-switch-usando-sdd-e-agentes-de-ia"
     }
   ]
 }
