@@ -1,16 +1,27 @@
 {
-  "updated_at": "2026-08-03T12:13:27.847Z",
+  "updated_at": "2026-08-04T11:16:04.020Z",
   "posts": [
     {
-      "id": "8183686b-cadb-46ce-9b19-17da25c6f7c6",
-      "title": "Pitch: Uma dor do dia a dia me motivou a criar uma ferramenta open source para React Native",
-      "slug": "uma-dor-do-dia-a-dia-me-motivou-a-criar-uma-ferramenta-open-source-para-react-native",
-      "owner_username": "caiobarroso",
+      "id": "9345b859-761d-4d30-b8f1-573daf6554fe",
+      "title": "Baixei os 30 mil posts do TabNews. O site nunca mais chegou perto de novembro de 2022.",
+      "slug": "baixei-os-30-mil-posts-do-tabnews-o-site-nunca-mais-chegou-perto-de-novembro-de-2022",
+      "owner_username": "fernandomorais",
       "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-08-02T14:37:39.873Z",
-      "url": "https://www.tabnews.com.br/caiobarroso/uma-dor-do-dia-a-dia-me-motivou-a-criar-uma-ferramenta-open-source-para-react-native"
+      "tabcoins": 22,
+      "children_deep_count": 17,
+      "published_at": "2026-08-03T11:31:22.004Z",
+      "url": "https://www.tabnews.com.br/fernandomorais/baixei-os-30-mil-posts-do-tabnews-o-site-nunca-mais-chegou-perto-de-novembro-de-2022"
+    },
+    {
+      "id": "2bbfec4c-d065-4172-8493-324b476a7f2a",
+      "title": "[Pitch] Estudando algoritmos e estrutura de dados? - O guia visual de algoritmos e estruturas de dados mais completo em português (free)",
+      "slug": "estudando-algoritmos-e-estrutura-de-dados-o-guia-visual-de-algoritmos-e-estruturas-de-dados-mais-completo-em-portugues",
+      "owner_username": "willybr",
+      "source_url": null,
+      "tabcoins": 13,
+      "children_deep_count": 3,
+      "published_at": "2026-08-03T12:21:11.621Z",
+      "url": "https://www.tabnews.com.br/willybr/estudando-algoritmos-e-estrutura-de-dados-o-guia-visual-de-algoritmos-e-estruturas-de-dados-mais-completo-em-portugues"
     },
     {
       "id": "b888029a-9caa-4417-83d5-1c112f1acc35",
@@ -18,7 +29,7 @@
       "slug": "codando-ai-native-no-frontend-e-no-backend-context-engineering-spec-driven-e-agents-no-loop-de-desenvolvimento",
       "owner_username": "andersonlimadev",
       "source_url": "https://lemon.dev.br/pt/blog/codando-ai-native-frontend-backend",
-      "tabcoins": 5,
+      "tabcoins": 6,
       "children_deep_count": 1,
       "published_at": "2026-08-03T07:31:27.205Z",
       "url": "https://www.tabnews.com.br/andersonlimadev/codando-ai-native-no-frontend-e-no-backend-context-engineering-spec-driven-e-agents-no-loop-de-desenvolvimento"
@@ -29,10 +40,21 @@
       "slug": "cache-semantico-e-memoria-em-llms-latencia-custo-e-contexto-que-aprende",
       "owner_username": "andersonlimadev",
       "source_url": "https://lemon.dev.br/pt/blog/cache-semantico-memoria-llm",
-      "tabcoins": 4,
+      "tabcoins": 6,
       "children_deep_count": 1,
       "published_at": "2026-08-03T07:23:44.629Z",
       "url": "https://www.tabnews.com.br/andersonlimadev/cache-semantico-e-memoria-em-llms-latencia-custo-e-contexto-que-aprende"
+    },
+    {
+      "id": "c0993321-251f-4a7e-a713-45bc386b0edd",
+      "title": "Pitch: Criei uma ferramenta para auditar segredos vazados em transcripts e históricos locais de agentes de IA (.claude, .codex, etc)",
+      "slug": "criei-uma-ferramenta-para-auditar-segredos-vazados-em-transcripts-e-historicos-locais-de-agentes-de-ia-claude-codex-etc",
+      "owner_username": "GkIgor",
+      "source_url": "https://github.com/GkIgor/transcript-sentinel",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-08-04T01:19:20.210Z",
+      "url": "https://www.tabnews.com.br/GkIgor/criei-uma-ferramenta-para-auditar-segredos-vazados-em-transcripts-e-historicos-locais-de-agentes-de-ia-claude-codex-etc"
     },
     {
       "id": "57285f17-a616-4bfd-98a8-db1b38a3ac7c",
@@ -40,76 +62,54 @@
       "slug": "a-engenharia-da-destilacao-como-modelos-chineses-aprenderam-com-claude-gpt-4-e-a-si-mesmos",
       "owner_username": "andersonlimadev",
       "source_url": "https://lemon.dev.br/pt/blog/destilacao-conhecimento-llms-chinesas",
-      "tabcoins": 4,
+      "tabcoins": 5,
       "children_deep_count": 1,
       "published_at": "2026-08-03T07:08:51.448Z",
       "url": "https://www.tabnews.com.br/andersonlimadev/a-engenharia-da-destilacao-como-modelos-chineses-aprenderam-com-claude-gpt-4-e-a-si-mesmos"
     },
     {
-      "id": "9345b859-761d-4d30-b8f1-573daf6554fe",
-      "title": "Baixei os 30 mil posts do TabNews. O site nunca mais chegou perto de novembro de 2022.",
-      "slug": "baixei-os-30-mil-posts-do-tabnews-o-site-nunca-mais-chegou-perto-de-novembro-de-2022",
-      "owner_username": "ervy",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-03T11:31:22.004Z",
-      "url": "https://www.tabnews.com.br/ervy/baixei-os-30-mil-posts-do-tabnews-o-site-nunca-mais-chegou-perto-de-novembro-de-2022"
-    },
-    {
-      "id": "19c43add-4081-4b30-a216-68d09217be2d",
-      "title": "Agentlas: o que você joga fora todo dia pode virar seu ativo",
-      "slug": "agentlas-o-que-voce-joga-fora-todo-dia-pode-virar-seu-ativo",
-      "owner_username": "agentlas",
-      "source_url": "https://github.com/agentlas-ai/Agentlas-OS",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-03T06:25:41.013Z",
-      "url": "https://www.tabnews.com.br/agentlas/agentlas-o-que-voce-joga-fora-todo-dia-pode-virar-seu-ativo"
-    },
-    {
-      "id": "4d8d46c4-ab5f-430a-bd90-40cd75ce585c",
-      "title": "[PITCH] FinançasAI: meu primeiro app financeiro em produção",
-      "slug": "pitch-financasai-meu-primeiro-app-financeiro-em-producao",
-      "owner_username": "joaofco967",
-      "source_url": "https://chat-financas-ease.vercel.app",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-03T00:11:50.127Z",
-      "url": "https://www.tabnews.com.br/joaofco967/pitch-financasai-meu-primeiro-app-financeiro-em-producao"
-    },
-    {
-      "id": "d453feec-2c54-4179-b45c-f321a90ebcc3",
-      "title": "ShieldFont: uma fonte que mostra uma coisa para humanos e outra para robôs de IA",
-      "slug": "shieldfont-uma-fonte-que-mostra-uma-coisa-para-humanos-e-outra-para-robos-de-ia",
-      "owner_username": "tihhgoncalves",
-      "source_url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
-      "tabcoins": 14,
-      "children_deep_count": 2,
-      "published_at": "2026-07-31T19:43:08.894Z",
-      "url": "https://www.tabnews.com.br/tihhgoncalves/shieldfont-uma-fonte-que-mostra-uma-coisa-para-humanos-e-outra-para-robos-de-ia"
-    },
-    {
-      "id": "e71a7dc1-513c-4bc3-9783-8277341fc976",
-      "title": "Pitch: Criei o Dilluvia: conversas anônimas 1v1 para momentos de crise (sem IA e com a regra dos 10 minutos)",
-      "slug": "criei-o-dilluvia-conversas-anonimas-1v1-para-momentos-de-crise-sem-ia-e-com-a-regra-dos-10-minutos",
-      "owner_username": "dilluvia",
-      "source_url": null,
-      "tabcoins": 12,
-      "children_deep_count": 0,
-      "published_at": "2026-07-31T18:46:10.894Z",
-      "url": "https://www.tabnews.com.br/dilluvia/criei-o-dilluvia-conversas-anonimas-1v1-para-momentos-de-crise-sem-ia-e-com-a-regra-dos-10-minutos"
-    },
-    {
-      "id": "a2dbc2c2-4710-4470-a1ee-75ddc2366335",
-      "title": "Em uma tarde, coloquei Pokémon Red e Blue 3D para rodar nativamente no Nintendo Switch — usando SDD e agentes de IA",
-      "slug": "em-uma-tarde-coloquei-pokemon-red-e-blue-3d-para-rodar-nativamente-no-nintendo-switch-usando-sdd-e-agentes-de-ia",
-      "owner_username": "andrewqsantos",
+      "id": "8183686b-cadb-46ce-9b19-17da25c6f7c6",
+      "title": "Pitch: Uma dor do dia a dia me motivou a criar uma ferramenta open source para React Native",
+      "slug": "uma-dor-do-dia-a-dia-me-motivou-a-criar-uma-ferramenta-open-source-para-react-native",
+      "owner_username": "caiobarroso",
       "source_url": null,
       "tabcoins": 11,
+      "children_deep_count": 5,
+      "published_at": "2026-08-02T14:37:39.873Z",
+      "url": "https://www.tabnews.com.br/caiobarroso/uma-dor-do-dia-a-dia-me-motivou-a-criar-uma-ferramenta-open-source-para-react-native"
+    },
+    {
+      "id": "0065e610-87c2-464d-949a-c1544e5cfa47",
+      "title": "Pitch: Adicionei um novo editor na minha Game Engine",
+      "slug": "adicionei-um-novo-editor-na-minha-game-engine",
+      "owner_username": "RobertoFreireDev",
+      "source_url": "https://mono8games.itch.io/mono8",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-08-01T17:07:19.001Z",
+      "url": "https://www.tabnews.com.br/RobertoFreireDev/adicionei-um-novo-editor-na-minha-game-engine"
+    },
+    {
+      "id": "aea78ca2-34dd-4bb7-bafb-fccb313bb167",
+      "title": "IA e a síndrome do impostor",
+      "slug": "ia-e-a-sindrome-do-impostor",
+      "owner_username": "gmaier",
+      "source_url": null,
+      "tabcoins": 16,
+      "children_deep_count": 11,
+      "published_at": "2026-07-27T17:35:49.527Z",
+      "url": "https://www.tabnews.com.br/gmaier/ia-e-a-sindrome-do-impostor"
+    },
+    {
+      "id": "513cfc37-2e00-4877-b2f1-f816a8707428",
+      "title": "WinZap, um cliente de código aberto para WhatsApp",
+      "slug": "winzap-um-cliente-de-codigo-aberto-para-whatsapp",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": "https://github.com/gabrielhhaber/WinZapp_Python",
+      "tabcoins": 16,
       "children_deep_count": 4,
-      "published_at": "2026-08-01T10:12:32.857Z",
-      "url": "https://www.tabnews.com.br/andrewqsantos/em-uma-tarde-coloquei-pokemon-red-e-blue-3d-para-rodar-nativamente-no-nintendo-switch-usando-sdd-e-agentes-de-ia"
+      "published_at": "2026-07-29T23:58:33.980Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/winzap-um-cliente-de-codigo-aberto-para-whatsapp"
     }
   ]
 }
