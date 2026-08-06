@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:11:57.554Z",
+  "updated_at": "2026-08-06T11:12:43.267Z",
   "posts": [
     {
       "id": "24232f44-9fbd-48fe-a664-ef2636e708c6",
@@ -7,109 +7,109 @@
       "slug": "o-ultimo-commit-quando-a-api-que-voce-amava-vira-po",
       "owner_username": "HerbertGeorgeWells",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
+      "tabcoins": 13,
+      "children_deep_count": 2,
       "published_at": "2026-08-04T22:36:46.275Z",
       "url": "https://www.tabnews.com.br/HerbertGeorgeWells/o-ultimo-commit-quando-a-api-que-voce-amava-vira-po"
     },
     {
-      "id": "f46c3af1-9e07-432c-8137-db4f99ee17f0",
-      "title": "Alibaba lança Qwen 3.8-Max com 2,4 trilhões de parâmetros",
-      "slug": "alibaba-lanca-qwen-3-8-max-com-2-4-trilhoes-de-parametros",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.cnnbrasil.com.br/inteligencia-artificial/qwen-3-8-max-alibaba-lanca-modelo-de-ia-mais-avancado-ate-o-momento/",
+      "id": "487ee054-ad02-4f97-aed2-1e7b9228871d",
+      "title": "A minha história furou a bolha de tecnologia!",
+      "slug": "a-minha-historia-furou-a-bolha-de-tecnologia",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": null,
+      "tabcoins": 10,
+      "children_deep_count": 1,
+      "published_at": "2026-08-05T13:51:24.490Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/a-minha-historia-furou-a-bolha-de-tecnologia"
+    },
+    {
+      "id": "6ba736b3-f152-4763-9bad-d34405a846cd",
+      "title": "Crie um projeto, mas que ele seja útil (primeiramente) para você.",
+      "slug": "crie-um-projeto-mas-que-ele-seja-util-primeiramente-para-voce",
+      "owner_username": "sias",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-08-05T18:30:40.800Z",
+      "url": "https://www.tabnews.com.br/sias/crie-um-projeto-mas-que-ele-seja-util-primeiramente-para-voce"
+    },
+    {
+      "id": "0d027229-a2f9-4c27-a44b-3ec2f13d601b",
+      "title": "Antes de pedir mais servidor, rode EXPLAIN ANALYZE",
+      "slug": "antes-de-pedir-mais-servidor-rode-explain-analyze",
+      "owner_username": "revinsoftware",
+      "source_url": "https://revin.com.br/pt/blog/o-banco-que-so-fica-lento-quando-o-produto-da-certo",
       "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-04T14:27:20.221Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/alibaba-lanca-qwen-3-8-max-com-2-4-trilhoes-de-parametros"
+      "children_deep_count": 1,
+      "published_at": "2026-08-05T14:51:48.844Z",
+      "url": "https://www.tabnews.com.br/revinsoftware/antes-de-pedir-mais-servidor-rode-explain-analyze"
     },
     {
-      "id": "5c6dab68-50ff-4d57-822a-0269e82f80ce",
-      "title": "Domando o Indomável  - 4 formas de controlar o formato das mensagens geradas por IA e facilitar integrações",
-      "slug": "domando-o-indomavel-4-formas-de-controlar-o-formato-das-mensagens-geradas-por-ia-e-facilitar-integracoes",
-      "owner_username": "Jotapedro",
+      "id": "1f4310b0-69b2-43fc-9771-61cca31ab924",
+      "title": "💸 De $15,00 para $1,80 na mesma feature: a matemática da orquestração de agentes que o orçamento da sua empresa vai adorar",
+      "slug": "de-15-00-para-1-80-na-mesma-feature-a-matematica-da-orquestracao-de-agentes-que-o-orcamento-da-sua-empresa-vai-adorar",
+      "owner_username": "Craverath",
+      "source_url": "https://www.linkedin.com/feed/update/urn:li:activity:7490797676373139456/",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-08-05T15:57:46.114Z",
+      "url": "https://www.tabnews.com.br/Craverath/de-15-00-para-1-80-na-mesma-feature-a-matematica-da-orquestracao-de-agentes-que-o-orcamento-da-sua-empresa-vai-adorar"
+    },
+    {
+      "id": "5f18787a-89ba-4b1b-b7ee-21603103f080",
+      "title": "Pitch: Criei um tracker de filmes, séries, animes, mangás, livros e jogos",
+      "slug": "pitch-criei-um-tracker-de-filmes-series-animes-mangas-livros-e-jogos",
+      "owner_username": "Kuriel23",
       "source_url": null,
       "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-04T16:40:14.497Z",
-      "url": "https://www.tabnews.com.br/Jotapedro/domando-o-indomavel-4-formas-de-controlar-o-formato-das-mensagens-geradas-por-ia-e-facilitar-integracoes"
+      "children_deep_count": 4,
+      "published_at": "2026-08-05T12:55:46.925Z",
+      "url": "https://www.tabnews.com.br/Kuriel23/pitch-criei-um-tracker-de-filmes-series-animes-mangas-livros-e-jogos"
     },
     {
-      "id": "2897c4b6-1768-4bb4-be2f-d24e331488d7",
-      "title": "Samsung banirá aplicativos de suas smart TVs que compartilham internet dos usuários com terceiros",
-      "slug": "samsung-banira-aplicativos-de-suas-smart-tvs-que-compartilham-internet-dos-usuarios-com-terceiros",
+      "id": "c72ee9be-06d6-4a91-a031-82f6cb3711c4",
+      "title": "Algoritmo para verificar se um texto é um palíndromo",
+      "slug": "algoritmo-para-verificar-se-um-texto-e-um-palindromo",
+      "owner_username": "htlw",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-08-05T17:36:06.257Z",
+      "url": "https://www.tabnews.com.br/htlw/algoritmo-para-verificar-se-um-texto-e-um-palindromo"
+    },
+    {
+      "id": "e207fcaf-e3b8-4758-92d1-3a5ca63f3801",
+      "title": "Aplicativos Android podem estar compartilhando localização exata dos usuários a anunciantes sem que desenvolvedores percebam",
+      "slug": "aplicativos-android-podem-estar-compartilhando-localizacao-exata-dos-usuarios-a-anunciantes-sem-que-desenvolvedores-percebam",
       "owner_username": "NewsletterOficial",
+      "source_url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-08-05T14:09:43.993Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/aplicativos-android-podem-estar-compartilhando-localizacao-exata-dos-usuarios-a-anunciantes-sem-que-desenvolvedores-percebam"
+    },
+    {
+      "id": "06925d63-e4de-4752-ae0d-c15d8fbd4660",
+      "title": "[ Desabafo ] Eu não gosto de código gerado por I.A.",
+      "slug": "desabafo-eu-nao-gosto-de-codigo-gerado-por-i-a",
+      "owner_username": "lucieudo",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-04T14:22:19.649Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/samsung-banira-aplicativos-de-suas-smart-tvs-que-compartilham-internet-dos-usuarios-com-terceiros"
+      "tabcoins": 2,
+      "children_deep_count": 2,
+      "published_at": "2026-08-06T01:56:18.870Z",
+      "url": "https://www.tabnews.com.br/lucieudo/desabafo-eu-nao-gosto-de-codigo-gerado-por-i-a"
     },
     {
-      "id": "d75f6a25-a649-4ac9-8c77-eaf15315a5af",
-      "title": "Como inspecionar milhões de registros no React Native sem travar o app",
-      "slug": "como-inspecionar-milhoes-de-registros-no-react-native-sem-travar-o-app",
-      "owner_username": "caiobarroso",
-      "source_url": "https://www.nativescope.dev/journal/a-window-not-a-copy",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-04T14:04:49.759Z",
-      "url": "https://www.tabnews.com.br/caiobarroso/como-inspecionar-milhoes-de-registros-no-react-native-sem-travar-o-app"
-    },
-    {
-      "id": "6beb4a71-1d7f-45da-8c70-4e03fd635c64",
-      "title": "Pitch: Construí uma ferramenta pra rodar vários backends leves porque as opções prontas não cabiam no meu servidor",
-      "slug": "construi-uma-ferramenta-pra-rodar-varios-backends-leves-porque-as-opcoes-prontas-nao-cabiam-no-meu-servidor",
-      "owner_username": "pacmandt",
-      "source_url": "https://github.com/pacdt/pacforge",
+      "id": "72ca4503-517d-41b6-8eec-6d2e0404501f",
+      "title": "Minha landing tinha 386 KB de SPA e comia 2 de cada 3 cliques pagos. Achei hoje de madrugada",
+      "slug": "minha-landing-tinha-386-kb-de-spa-e-comia-2-de-cada-3-cliques-pagos-achei-hoje-de-madrugada",
+      "owner_username": "DosyMed",
+      "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-05T04:35:44.345Z",
-      "url": "https://www.tabnews.com.br/pacmandt/construi-uma-ferramenta-pra-rodar-varios-backends-leves-porque-as-opcoes-prontas-nao-cabiam-no-meu-servidor"
-    },
-    {
-      "id": "c0993321-251f-4a7e-a713-45bc386b0edd",
-      "title": "Pitch: Criei uma ferramenta para auditar segredos vazados em transcripts e históricos locais de agentes de IA (.claude, .codex, etc)",
-      "slug": "criei-uma-ferramenta-para-auditar-segredos-vazados-em-transcripts-e-historicos-locais-de-agentes-de-ia-claude-codex-etc",
-      "owner_username": "GkIgor",
-      "source_url": "https://github.com/GkIgor/transcript-sentinel",
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-08-04T01:19:20.210Z",
-      "url": "https://www.tabnews.com.br/GkIgor/criei-uma-ferramenta-para-auditar-segredos-vazados-em-transcripts-e-historicos-locais-de-agentes-de-ia-claude-codex-etc"
-    },
-    {
-      "id": "9345b859-761d-4d30-b8f1-573daf6554fe",
-      "title": "Baixei os 30 mil posts do TabNews. O site nunca mais chegou perto de novembro de 2022.",
-      "slug": "baixei-os-30-mil-posts-do-tabnews-o-site-nunca-mais-chegou-perto-de-novembro-de-2022",
-      "owner_username": "fernandomorais",
-      "source_url": null,
-      "tabcoins": 34,
-      "children_deep_count": 22,
-      "published_at": "2026-08-03T11:31:22.004Z",
-      "url": "https://www.tabnews.com.br/fernandomorais/baixei-os-30-mil-posts-do-tabnews-o-site-nunca-mais-chegou-perto-de-novembro-de-2022"
-    },
-    {
-      "id": "2bbfec4c-d065-4172-8493-324b476a7f2a",
-      "title": "[Pitch] Estudando algoritmos e estrutura de dados? - O guia visual de algoritmos e estruturas de dados mais completo em português (free)",
-      "slug": "estudando-algoritmos-e-estrutura-de-dados-o-guia-visual-de-algoritmos-e-estruturas-de-dados-mais-completo-em-portugues",
-      "owner_username": "willybr",
-      "source_url": null,
-      "tabcoins": 16,
-      "children_deep_count": 5,
-      "published_at": "2026-08-03T12:21:11.621Z",
-      "url": "https://www.tabnews.com.br/willybr/estudando-algoritmos-e-estrutura-de-dados-o-guia-visual-de-algoritmos-e-estruturas-de-dados-mais-completo-em-portugues"
-    },
-    {
-      "id": "8183686b-cadb-46ce-9b19-17da25c6f7c6",
-      "title": "Pitch: Uma dor do dia a dia me motivou a criar uma ferramenta open source para React Native",
-      "slug": "uma-dor-do-dia-a-dia-me-motivou-a-criar-uma-ferramenta-open-source-para-react-native",
-      "owner_username": "caiobarroso",
-      "source_url": null,
-      "tabcoins": 12,
-      "children_deep_count": 5,
-      "published_at": "2026-08-02T14:37:39.873Z",
-      "url": "https://www.tabnews.com.br/caiobarroso/uma-dor-do-dia-a-dia-me-motivou-a-criar-uma-ferramenta-open-source-para-react-native"
+      "published_at": "2026-08-06T04:45:35.337Z",
+      "url": "https://www.tabnews.com.br/DosyMed/minha-landing-tinha-386-kb-de-spa-e-comia-2-de-cada-3-cliques-pagos-achei-hoje-de-madrugada"
     }
   ]
 }
