@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-08-06T11:12:43.267Z",
+  "updated_at": "2026-08-07T09:52:34.923Z",
   "posts": [
+    {
+      "id": "04ca208d-aae7-4b2b-a320-85aae77821bf",
+      "title": "Pitch: Como criei uma biblioteca HTTP de baixa alocação para ESP32 e o que aprendi com usuários globais",
+      "slug": "como-criei-uma-biblioteca-http-de-baixa-alocacao-para-esp32-e-o-que-aprendi-com-usuarios-globais",
+      "owner_username": "pedrofnseca",
+      "source_url": "https://pedrofnseca.github.io/esp32-http-client/",
+      "tabcoins": 4,
+      "children_deep_count": 4,
+      "published_at": "2026-08-06T19:40:37.614Z",
+      "url": "https://www.tabnews.com.br/pedrofnseca/como-criei-uma-biblioteca-http-de-baixa-alocacao-para-esp32-e-o-que-aprendi-com-usuarios-globais"
+    },
+    {
+      "id": "447f6f2c-073a-4377-8492-817692ba797c",
+      "title": "Next.js 16.3 promete reduzir em até 90% o uso de memória e diminuir erros fatais",
+      "slug": "next-js-16-3-promete-reduzir-em-ate-90-por-cento-o-uso-de-memoria-e-diminuir-erros-fatais",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.devclass.com/devops/2026/08/05/nextjs-163-aims-to-reduce-dreaded-fatal-error-messages/5283118",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-08-06T14:18:10.017Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/next-js-16-3-promete-reduzir-em-ate-90-por-cento-o-uso-de-memoria-e-diminuir-erros-fatais"
+    },
+    {
+      "id": "6f739c43-5859-42fd-bae2-2b74b3ebab2f",
+      "title": "Milhonésimo post sobre IAs [desabafo]",
+      "slug": "milhonesimo-post-sobre-ias-desabafo",
+      "owner_username": "ericDevPessimista",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-08-06T14:21:05.420Z",
+      "url": "https://www.tabnews.com.br/ericDevPessimista/milhonesimo-post-sobre-ias-desabafo"
+    },
+    {
+      "id": "8158e822-5dde-48d5-9626-60c60de8611c",
+      "title": "O difícil de WebSocket não é mandar mensagem",
+      "slug": "o-dificil-de-websocket-nao-e-mandar-mensagem",
+      "owner_username": "racoelho",
+      "source_url": "https://racoelho.com.br/posts/o-dificil-de-websocket-nao-e-mandar-mensagem",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-08-06T16:17:21.020Z",
+      "url": "https://www.tabnews.com.br/racoelho/o-dificil-de-websocket-nao-e-mandar-mensagem"
+    },
+    {
+      "id": "8cf4657a-1cfd-4b6c-890a-5293d23c23e9",
+      "title": "Pitch: Criei o Meu Proprio SpideyTracker Usei Turso DB e DenoDeploy, ficou muito bom!",
+      "slug": "criei-o-meu-proprio-spideytracker-usei-turso-db-e-denodeploy-ficou-muito-bom",
+      "owner_username": "danisaints",
+      "source_url": "https://youtu.be/p3UPzCqcoD4",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-08-06T10:06:41.761Z",
+      "url": "https://www.tabnews.com.br/danisaints/criei-o-meu-proprio-spideytracker-usei-turso-db-e-denodeploy-ficou-muito-bom"
+    },
+    {
+      "id": "f67369b8-14e7-41f4-a238-d0f398d1c2cc",
+      "title": "I Built a Portuguese Video Compressor for Brazil Users",
+      "slug": "i-built-a-portuguese-video-compressor-for-brazil-users",
+      "owner_username": "gaoheyang",
+      "source_url": "https://vidoro.io/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-07T07:14:23.104Z",
+      "url": "https://www.tabnews.com.br/gaoheyang/i-built-a-portuguese-video-compressor-for-brazil-users"
+    },
+    {
+      "id": "0dbec4ba-4a2a-46b2-993c-8472817ae28f",
+      "title": "Pitch: como restauramos grupos de abas sem confiar nos IDs do Chrome",
+      "slug": "pitch-como-restauramos-grupos-de-abas-sem-confiar-nos-ids-do-chrome",
+      "owner_username": "tabwell",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-06T22:20:05.972Z",
+      "url": "https://www.tabnews.com.br/tabwell/pitch-como-restauramos-grupos-de-abas-sem-confiar-nos-ids-do-chrome"
+    },
+    {
+      "id": "06925d63-e4de-4752-ae0d-c15d8fbd4660",
+      "title": "[ Desabafo ] Eu não gosto de código gerado por I.A.",
+      "slug": "desabafo-eu-nao-gosto-de-codigo-gerado-por-i-a",
+      "owner_username": "lucieudo",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 7,
+      "published_at": "2026-08-06T01:56:18.870Z",
+      "url": "https://www.tabnews.com.br/lucieudo/desabafo-eu-nao-gosto-de-codigo-gerado-por-i-a"
+    },
+    {
+      "id": "487ee054-ad02-4f97-aed2-1e7b9228871d",
+      "title": "A minha história furou a bolha de tecnologia!",
+      "slug": "a-minha-historia-furou-a-bolha-de-tecnologia",
+      "owner_username": "JuanMathewsRebelloSantos",
+      "source_url": null,
+      "tabcoins": 18,
+      "children_deep_count": 1,
+      "published_at": "2026-08-05T13:51:24.490Z",
+      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/a-minha-historia-furou-a-bolha-de-tecnologia"
+    },
     {
       "id": "24232f44-9fbd-48fe-a664-ef2636e708c6",
       "title": "O Último Commit: Quando a API que Você Amava Vira Pó",
@@ -11,105 +110,6 @@
       "children_deep_count": 2,
       "published_at": "2026-08-04T22:36:46.275Z",
       "url": "https://www.tabnews.com.br/HerbertGeorgeWells/o-ultimo-commit-quando-a-api-que-voce-amava-vira-po"
-    },
-    {
-      "id": "487ee054-ad02-4f97-aed2-1e7b9228871d",
-      "title": "A minha história furou a bolha de tecnologia!",
-      "slug": "a-minha-historia-furou-a-bolha-de-tecnologia",
-      "owner_username": "JuanMathewsRebelloSantos",
-      "source_url": null,
-      "tabcoins": 10,
-      "children_deep_count": 1,
-      "published_at": "2026-08-05T13:51:24.490Z",
-      "url": "https://www.tabnews.com.br/JuanMathewsRebelloSantos/a-minha-historia-furou-a-bolha-de-tecnologia"
-    },
-    {
-      "id": "6ba736b3-f152-4763-9bad-d34405a846cd",
-      "title": "Crie um projeto, mas que ele seja útil (primeiramente) para você.",
-      "slug": "crie-um-projeto-mas-que-ele-seja-util-primeiramente-para-voce",
-      "owner_username": "sias",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-08-05T18:30:40.800Z",
-      "url": "https://www.tabnews.com.br/sias/crie-um-projeto-mas-que-ele-seja-util-primeiramente-para-voce"
-    },
-    {
-      "id": "0d027229-a2f9-4c27-a44b-3ec2f13d601b",
-      "title": "Antes de pedir mais servidor, rode EXPLAIN ANALYZE",
-      "slug": "antes-de-pedir-mais-servidor-rode-explain-analyze",
-      "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/pt/blog/o-banco-que-so-fica-lento-quando-o-produto-da-certo",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-08-05T14:51:48.844Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/antes-de-pedir-mais-servidor-rode-explain-analyze"
-    },
-    {
-      "id": "1f4310b0-69b2-43fc-9771-61cca31ab924",
-      "title": "💸 De $15,00 para $1,80 na mesma feature: a matemática da orquestração de agentes que o orçamento da sua empresa vai adorar",
-      "slug": "de-15-00-para-1-80-na-mesma-feature-a-matematica-da-orquestracao-de-agentes-que-o-orcamento-da-sua-empresa-vai-adorar",
-      "owner_username": "Craverath",
-      "source_url": "https://www.linkedin.com/feed/update/urn:li:activity:7490797676373139456/",
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-08-05T15:57:46.114Z",
-      "url": "https://www.tabnews.com.br/Craverath/de-15-00-para-1-80-na-mesma-feature-a-matematica-da-orquestracao-de-agentes-que-o-orcamento-da-sua-empresa-vai-adorar"
-    },
-    {
-      "id": "5f18787a-89ba-4b1b-b7ee-21603103f080",
-      "title": "Pitch: Criei um tracker de filmes, séries, animes, mangás, livros e jogos",
-      "slug": "pitch-criei-um-tracker-de-filmes-series-animes-mangas-livros-e-jogos",
-      "owner_username": "Kuriel23",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 4,
-      "published_at": "2026-08-05T12:55:46.925Z",
-      "url": "https://www.tabnews.com.br/Kuriel23/pitch-criei-um-tracker-de-filmes-series-animes-mangas-livros-e-jogos"
-    },
-    {
-      "id": "c72ee9be-06d6-4a91-a031-82f6cb3711c4",
-      "title": "Algoritmo para verificar se um texto é um palíndromo",
-      "slug": "algoritmo-para-verificar-se-um-texto-e-um-palindromo",
-      "owner_username": "htlw",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-08-05T17:36:06.257Z",
-      "url": "https://www.tabnews.com.br/htlw/algoritmo-para-verificar-se-um-texto-e-um-palindromo"
-    },
-    {
-      "id": "e207fcaf-e3b8-4758-92d1-3a5ca63f3801",
-      "title": "Aplicativos Android podem estar compartilhando localização exata dos usuários a anunciantes sem que desenvolvedores percebam",
-      "slug": "aplicativos-android-podem-estar-compartilhando-localizacao-exata-dos-usuarios-a-anunciantes-sem-que-desenvolvedores-percebam",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-05T14:09:43.993Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/aplicativos-android-podem-estar-compartilhando-localizacao-exata-dos-usuarios-a-anunciantes-sem-que-desenvolvedores-percebam"
-    },
-    {
-      "id": "06925d63-e4de-4752-ae0d-c15d8fbd4660",
-      "title": "[ Desabafo ] Eu não gosto de código gerado por I.A.",
-      "slug": "desabafo-eu-nao-gosto-de-codigo-gerado-por-i-a",
-      "owner_username": "lucieudo",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 2,
-      "published_at": "2026-08-06T01:56:18.870Z",
-      "url": "https://www.tabnews.com.br/lucieudo/desabafo-eu-nao-gosto-de-codigo-gerado-por-i-a"
-    },
-    {
-      "id": "72ca4503-517d-41b6-8eec-6d2e0404501f",
-      "title": "Minha landing tinha 386 KB de SPA e comia 2 de cada 3 cliques pagos. Achei hoje de madrugada",
-      "slug": "minha-landing-tinha-386-kb-de-spa-e-comia-2-de-cada-3-cliques-pagos-achei-hoje-de-madrugada",
-      "owner_username": "DosyMed",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-06T04:45:35.337Z",
-      "url": "https://www.tabnews.com.br/DosyMed/minha-landing-tinha-386-kb-de-spa-e-comia-2-de-cada-3-cliques-pagos-achei-hoje-de-madrugada"
     }
   ]
 }
