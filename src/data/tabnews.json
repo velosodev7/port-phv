@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-08T09:28:38.317Z",
+  "updated_at": "2026-08-09T09:30:13.813Z",
   "posts": [
     {
-      "id": "8fa7ab0c-e2a0-4d8c-98cf-de7a699f07ba",
-      "title": "Rodei mutation testing numa suíte com 92% de cobertura e o score real foi 41%",
-      "slug": "rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento",
-      "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/pt/blog/cobertura-de-teste-alta-esconde-bug-em-producao",
-      "tabcoins": 7,
-      "children_deep_count": 0,
-      "published_at": "2026-08-07T17:12:35.608Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento"
+      "id": "5f6a3125-9bae-4b40-b367-695d7977387e",
+      "title": "Pitch: Portei o dart_pdf (a melhor lib de geração de PDF) para JavaScript puro",
+      "slug": "portei-o-dart-pdf-a-melhor-lib-de-geracao-de-pdf-para-javascript-puro",
+      "owner_username": "romulocrj",
+      "source_url": "https://daily.dev/posts/i-ported-dart-pdf-the-best-pdf-generation-library-to-pure-javascript--ypugbs6sa",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-08-08T13:45:12.855Z",
+      "url": "https://www.tabnews.com.br/romulocrj/portei-o-dart-pdf-a-melhor-lib-de-geracao-de-pdf-para-javascript-puro"
     },
     {
-      "id": "e205de77-3095-40db-955c-25766cd7c954",
-      "title": "A lenda do garoto que acelerou tudo com IA e descobriu o que já devia saber",
-      "slug": "a-lenda-do-garoto-que-acelerou-tudo-com-ia-e-descobriu-o-que-ja-devia-saber",
+      "id": "1cd40920-d970-4612-9702-d56f711d69e1",
+      "title": "Coisas antigas, miúdas e esquecidas, internet old school que funciona, zero Javascript",
+      "slug": "coisas-antigas-miudas-e-esquecidas-internet-old-school-que-funciona-zero-javascript",
+      "owner_username": "andradeandrey",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-08-08T15:59:04.977Z",
+      "url": "https://www.tabnews.com.br/andradeandrey/coisas-antigas-miudas-e-esquecidas-internet-old-school-que-funciona-zero-javascript"
+    },
+    {
+      "id": "c76e333d-41e6-4647-a031-60730ee1929c",
+      "title": "[ARTIGO] A Crise Silenciosa do Desenvolvedor Sênior: Por que a Experiência Já Não Garante Emprego",
+      "slug": "a-crise-silenciosa-do-desenvolvedor-senior-por-que-a-experiencia-ja-nao-garante-emprego",
       "owner_username": "macnator",
       "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 0,
-      "published_at": "2026-08-07T16:24:30.651Z",
-      "url": "https://www.tabnews.com.br/macnator/a-lenda-do-garoto-que-acelerou-tudo-com-ia-e-descobriu-o-que-ja-devia-saber"
-    },
-    {
-      "id": "4a5cdf0f-facb-48fb-be13-7df93e7f5b46",
-      "title": "Estou há meses desempregado, e agora?",
-      "slug": "estou-ha-meses-desempregado-e-agora",
-      "owner_username": "ewertonmendes",
-      "source_url": null,
       "tabcoins": 3,
-      "children_deep_count": 8,
-      "published_at": "2026-08-07T16:50:13.392Z",
-      "url": "https://www.tabnews.com.br/ewertonmendes/estou-ha-meses-desempregado-e-agora"
-    },
-    {
-      "id": "8960cb2e-e8e9-4337-8c31-97b84c1a1dfe",
-      "title": "9 meses de Ecclesiato: abri meus 6 \"cancelamentos\" um por um e descobri que meu churn é mentira 📊",
-      "slug": "9-meses-de-ecclesiato-abri-meus-6-cancelamentos-um-por-um-e-descobri-que-meu-churn-e-mentira",
-      "owner_username": "viniciusw",
-      "source_url": "https://ecclesiato.com.br/",
-      "tabcoins": 4,
       "children_deep_count": 1,
-      "published_at": "2026-08-07T14:27:59.714Z",
-      "url": "https://www.tabnews.com.br/viniciusw/9-meses-de-ecclesiato-abri-meus-6-cancelamentos-um-por-um-e-descobri-que-meu-churn-e-mentira"
+      "published_at": "2026-08-08T14:52:59.265Z",
+      "url": "https://www.tabnews.com.br/macnator/a-crise-silenciosa-do-desenvolvedor-senior-por-que-a-experiencia-ja-nao-garante-emprego"
     },
     {
-      "id": "1971b41e-4d40-444d-9444-f8460b61429f",
-      "title": "Pitch: programinha pra ler mensagens de whats em voz alta - full vibecodado",
-      "slug": "programinha-pra-ler-mensagens-de-whats-em-voz-alta-full-vibecodado",
-      "owner_username": "langer",
-      "source_url": "https://github.com/bruno-langer/zap-to-sound",
-      "tabcoins": 3,
+      "id": "75795db4-6a1b-4aa3-bc56-3844ce2e971a",
+      "title": "Criei um Gerenciador de Mods do Zero! (JMod Engine - Preview Oficial)",
+      "slug": "criei-um-gerenciador-de-mods-do-zero-jmod-engine-preview-oficial",
+      "owner_username": "josivansanttos",
+      "source_url": null,
+      "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-07T11:30:01.347Z",
-      "url": "https://www.tabnews.com.br/langer/programinha-pra-ler-mensagens-de-whats-em-voz-alta-full-vibecodado"
+      "published_at": "2026-08-09T04:44:02.705Z",
+      "url": "https://www.tabnews.com.br/josivansanttos/criei-um-gerenciador-de-mods-do-zero-jmod-engine-preview-oficial"
+    },
+    {
+      "id": "76ce2f3b-af09-4768-b216-7599d6e1c746",
+      "title": "RigDeck: uma alternativa ao Stream Deck sem hardware",
+      "slug": "rigdeck-uma-alternativa-ao-stream-deck-sem-hardware",
+      "owner_username": "obrenoalvim",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-09T03:40:48.470Z",
+      "url": "https://www.tabnews.com.br/obrenoalvim/rigdeck-uma-alternativa-ao-stream-deck-sem-hardware"
     },
     {
       "id": "e81b559b-7e5b-45f7-b5c7-41514a84dff6",
@@ -62,54 +62,54 @@
       "slug": "discussao-como-voce-organiza-seu-front",
       "owner_username": "devfullstacknet",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
+      "tabcoins": 4,
+      "children_deep_count": 2,
       "published_at": "2026-08-08T00:22:59.636Z",
       "url": "https://www.tabnews.com.br/devfullstacknet/discussao-como-voce-organiza-seu-front"
     },
     {
-      "id": "606a99bd-f5d1-497e-afe6-2c8a0d36305a",
-      "title": "Pitch: o que aprendi construindo memória persistente para um assistente de IA self-hosted",
-      "slug": "pitch-o-que-aprendi-construindo-memoria-persistente-para-um-assistente-de-ia-self-hosted",
-      "owner_username": "avelinaai",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-08T02:17:27.056Z",
-      "url": "https://www.tabnews.com.br/avelinaai/pitch-o-que-aprendi-construindo-memoria-persistente-para-um-assistente-de-ia-self-hosted"
-    },
-    {
-      "id": "9ed62057-8bc1-464a-bdb8-cd5efb3a66d0",
-      "title": "Pitch: ColheitaDev",
-      "slug": "colheitadev",
-      "owner_username": "jjoaovitor7",
-      "source_url": "https://colheitadev.com.br",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-08T00:08:50.541Z",
-      "url": "https://www.tabnews.com.br/jjoaovitor7/colheitadev"
-    },
-    {
-      "id": "f8a6a40c-f573-4139-8000-874036be6866",
-      "title": "Pitch: De workflows visuais a código nativo em produção: a jornada completa de um backend n8n",
-      "slug": "de-workflows-visuais-a-codigo-nativo-em-producao-a-jornada-completa-de-um-backend-n8n",
-      "owner_username": "rogeriomaciel",
-      "source_url": "https://www.linkedin.com/pulse/de-workflows-visuais-c%C3%B3digo-nativo-em-produ%C3%A7%C3%A3o-jornada-rog%C3%A9rio-maciel-190ke/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-07T23:05:18.396Z",
-      "url": "https://www.tabnews.com.br/rogeriomaciel/de-workflows-visuais-a-codigo-nativo-em-producao-a-jornada-completa-de-um-backend-n8n"
-    },
-    {
-      "id": "0d027229-a2f9-4c27-a44b-3ec2f13d601b",
-      "title": "Antes de pedir mais servidor, rode EXPLAIN ANALYZE",
-      "slug": "antes-de-pedir-mais-servidor-rode-explain-analyze",
-      "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/pt/blog/o-banco-que-so-fica-lento-quando-o-produto-da-certo",
+      "id": "04ca208d-aae7-4b2b-a320-85aae77821bf",
+      "title": "Pitch: Como criei uma biblioteca HTTP de baixa alocação para ESP32 e o que aprendi com usuários globais",
+      "slug": "como-criei-uma-biblioteca-http-de-baixa-alocacao-para-esp32-e-o-que-aprendi-com-usuarios-globais",
+      "owner_username": "pedrofnseca",
+      "source_url": "https://pedrofnseca.github.io/esp32-http-client/",
       "tabcoins": 10,
+      "children_deep_count": 6,
+      "published_at": "2026-08-06T19:40:37.614Z",
+      "url": "https://www.tabnews.com.br/pedrofnseca/como-criei-uma-biblioteca-http-de-baixa-alocacao-para-esp32-e-o-que-aprendi-com-usuarios-globais"
+    },
+    {
+      "id": "e205de77-3095-40db-955c-25766cd7c954",
+      "title": "A lenda do garoto que acelerou tudo com IA e descobriu o que já devia saber",
+      "slug": "a-lenda-do-garoto-que-acelerou-tudo-com-ia-e-descobriu-o-que-ja-devia-saber",
+      "owner_username": "macnator",
+      "source_url": null,
+      "tabcoins": 9,
       "children_deep_count": 1,
-      "published_at": "2026-08-05T14:51:48.844Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/antes-de-pedir-mais-servidor-rode-explain-analyze"
+      "published_at": "2026-08-07T16:24:30.651Z",
+      "url": "https://www.tabnews.com.br/macnator/a-lenda-do-garoto-que-acelerou-tudo-com-ia-e-descobriu-o-que-ja-devia-saber"
+    },
+    {
+      "id": "447f6f2c-073a-4377-8492-817692ba797c",
+      "title": "Next.js 16.3 promete reduzir em até 90% o uso de memória e diminuir erros fatais",
+      "slug": "next-js-16-3-promete-reduzir-em-ate-90-por-cento-o-uso-de-memoria-e-diminuir-erros-fatais",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.devclass.com/devops/2026/08/05/nextjs-163-aims-to-reduce-dreaded-fatal-error-messages/5283118",
+      "tabcoins": 8,
+      "children_deep_count": 3,
+      "published_at": "2026-08-06T14:18:10.017Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/next-js-16-3-promete-reduzir-em-ate-90-por-cento-o-uso-de-memoria-e-diminuir-erros-fatais"
+    },
+    {
+      "id": "8fa7ab0c-e2a0-4d8c-98cf-de7a699f07ba",
+      "title": "Rodei mutation testing numa suíte com 92% de cobertura e o score real foi 41%",
+      "slug": "rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento",
+      "owner_username": "revinsoftware",
+      "source_url": "https://revin.com.br/pt/blog/cobertura-de-teste-alta-esconde-bug-em-producao",
+      "tabcoins": 8,
+      "children_deep_count": 2,
+      "published_at": "2026-08-07T17:12:35.608Z",
+      "url": "https://www.tabnews.com.br/revinsoftware/rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento"
     }
   ]
 }
