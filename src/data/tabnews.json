@@ -1,82 +1,71 @@
 {
-  "updated_at": "2026-08-09T09:30:13.813Z",
+  "updated_at": "2026-08-10T10:09:16.211Z",
   "posts": [
     {
-      "id": "5f6a3125-9bae-4b40-b367-695d7977387e",
-      "title": "Pitch: Portei o dart_pdf (a melhor lib de geração de PDF) para JavaScript puro",
-      "slug": "portei-o-dart-pdf-a-melhor-lib-de-geracao-de-pdf-para-javascript-puro",
-      "owner_username": "romulocrj",
-      "source_url": "https://daily.dev/posts/i-ported-dart-pdf-the-best-pdf-generation-library-to-pure-javascript--ypugbs6sa",
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-08-08T13:45:12.855Z",
-      "url": "https://www.tabnews.com.br/romulocrj/portei-o-dart-pdf-a-melhor-lib-de-geracao-de-pdf-para-javascript-puro"
-    },
-    {
-      "id": "1cd40920-d970-4612-9702-d56f711d69e1",
-      "title": "Coisas antigas, miúdas e esquecidas, internet old school que funciona, zero Javascript",
-      "slug": "coisas-antigas-miudas-e-esquecidas-internet-old-school-que-funciona-zero-javascript",
-      "owner_username": "andradeandrey",
+      "id": "1b27a524-e77a-4187-96d7-12a5c4e42266",
+      "title": "A Ilusão da Economia: Por que a IA está se tornando um problema financeiro no desenvolvimento",
+      "slug": "a-ilusao-da-economia-por-que-a-ia-esta-se-tornando-um-problema-financeiro-no-desenvolvimento",
+      "owner_username": "IamThiagoIT",
       "source_url": null,
       "tabcoins": 4,
       "children_deep_count": 0,
-      "published_at": "2026-08-08T15:59:04.977Z",
-      "url": "https://www.tabnews.com.br/andradeandrey/coisas-antigas-miudas-e-esquecidas-internet-old-school-que-funciona-zero-javascript"
+      "published_at": "2026-08-09T22:40:43.853Z",
+      "url": "https://www.tabnews.com.br/IamThiagoIT/a-ilusao-da-economia-por-que-a-ia-esta-se-tornando-um-problema-financeiro-no-desenvolvimento"
     },
     {
-      "id": "c76e333d-41e6-4647-a031-60730ee1929c",
-      "title": "[ARTIGO] A Crise Silenciosa do Desenvolvedor Sênior: Por que a Experiência Já Não Garante Emprego",
-      "slug": "a-crise-silenciosa-do-desenvolvedor-senior-por-que-a-experiencia-ja-nao-garante-emprego",
-      "owner_username": "macnator",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-08-08T14:52:59.265Z",
-      "url": "https://www.tabnews.com.br/macnator/a-crise-silenciosa-do-desenvolvedor-senior-por-que-a-experiencia-ja-nao-garante-emprego"
+      "id": "226eb752-7caa-4b4a-af07-5899269af983",
+      "title": "Criei um compressor de vídeo simples em português",
+      "slug": "criei-um-compressor-de-video-simples-em-portugues",
+      "owner_username": "heyangoscar",
+      "source_url": "https://vidoro.io/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-10T07:38:28.371Z",
+      "url": "https://www.tabnews.com.br/heyangoscar/criei-um-compressor-de-video-simples-em-portugues"
     },
     {
-      "id": "75795db4-6a1b-4aa3-bc56-3844ce2e971a",
-      "title": "Criei um Gerenciador de Mods do Zero! (JMod Engine - Preview Oficial)",
-      "slug": "criei-um-gerenciador-de-mods-do-zero-jmod-engine-preview-oficial",
-      "owner_username": "josivansanttos",
+      "id": "ffa6b6ea-253e-4344-a300-bf2eed6bce78",
+      "title": "Ollama-chat: Projetinho de Chat para IA pelo Terminal",
+      "slug": "ollama-chat-projetinho-de-chat-para-ia-pelo-terminal",
+      "owner_username": "sauloFerroMaciel",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-09T04:44:02.705Z",
-      "url": "https://www.tabnews.com.br/josivansanttos/criei-um-gerenciador-de-mods-do-zero-jmod-engine-preview-oficial"
+      "published_at": "2026-08-10T05:11:30.457Z",
+      "url": "https://www.tabnews.com.br/sauloFerroMaciel/ollama-chat-projetinho-de-chat-para-ia-pelo-terminal"
     },
     {
-      "id": "76ce2f3b-af09-4768-b216-7599d6e1c746",
-      "title": "RigDeck: uma alternativa ao Stream Deck sem hardware",
-      "slug": "rigdeck-uma-alternativa-ao-stream-deck-sem-hardware",
-      "owner_username": "obrenoalvim",
+      "id": "18fe76e2-88a7-47ee-b511-29c5a3ac1aaa",
+      "title": "O agente disse que terminou. Cadê as evidências?",
+      "slug": "o-agente-disse-que-terminou-cade-as-evidencias",
+      "owner_username": "Centelha",
+      "source_url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-10T04:28:00.857Z",
+      "url": "https://www.tabnews.com.br/Centelha/o-agente-disse-que-terminou-cade-as-evidencias"
+    },
+    {
+      "id": "26998844-54e1-4e73-bee7-f7a684a6d614",
+      "title": "Em questão de escala, Rust está se tornando essencial?",
+      "slug": "em-questao-de-escala-rust-esta-se-tornando-essencial",
+      "owner_username": "thenexusprime",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-09T03:40:48.470Z",
-      "url": "https://www.tabnews.com.br/obrenoalvim/rigdeck-uma-alternativa-ao-stream-deck-sem-hardware"
+      "published_at": "2026-08-10T03:48:03.674Z",
+      "url": "https://www.tabnews.com.br/thenexusprime/em-questao-de-escala-rust-esta-se-tornando-essencial"
     },
     {
-      "id": "e81b559b-7e5b-45f7-b5c7-41514a84dff6",
-      "title": "Como você organiza seu front?",
-      "slug": "discussao-como-voce-organiza-seu-front",
-      "owner_username": "devfullstacknet",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-08-08T00:22:59.636Z",
-      "url": "https://www.tabnews.com.br/devfullstacknet/discussao-como-voce-organiza-seu-front"
-    },
-    {
-      "id": "04ca208d-aae7-4b2b-a320-85aae77821bf",
-      "title": "Pitch: Como criei uma biblioteca HTTP de baixa alocação para ESP32 e o que aprendi com usuários globais",
-      "slug": "como-criei-uma-biblioteca-http-de-baixa-alocacao-para-esp32-e-o-que-aprendi-com-usuarios-globais",
-      "owner_username": "pedrofnseca",
-      "source_url": "https://pedrofnseca.github.io/esp32-http-client/",
-      "tabcoins": 10,
-      "children_deep_count": 6,
-      "published_at": "2026-08-06T19:40:37.614Z",
-      "url": "https://www.tabnews.com.br/pedrofnseca/como-criei-uma-biblioteca-http-de-baixa-alocacao-para-esp32-e-o-que-aprendi-com-usuarios-globais"
+      "id": "8fa7ab0c-e2a0-4d8c-98cf-de7a699f07ba",
+      "title": "Rodei mutation testing numa suíte com 92% de cobertura e o score real foi 41%",
+      "slug": "rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento",
+      "owner_username": "revinsoftware",
+      "source_url": "https://revin.com.br/pt/blog/cobertura-de-teste-alta-esconde-bug-em-producao",
+      "tabcoins": 11,
+      "children_deep_count": 4,
+      "published_at": "2026-08-07T17:12:35.608Z",
+      "url": "https://www.tabnews.com.br/revinsoftware/rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento"
     },
     {
       "id": "e205de77-3095-40db-955c-25766cd7c954",
@@ -90,26 +79,37 @@
       "url": "https://www.tabnews.com.br/macnator/a-lenda-do-garoto-que-acelerou-tudo-com-ia-e-descobriu-o-que-ja-devia-saber"
     },
     {
-      "id": "447f6f2c-073a-4377-8492-817692ba797c",
-      "title": "Next.js 16.3 promete reduzir em até 90% o uso de memória e diminuir erros fatais",
-      "slug": "next-js-16-3-promete-reduzir-em-ate-90-por-cento-o-uso-de-memoria-e-diminuir-erros-fatais",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.devclass.com/devops/2026/08/05/nextjs-163-aims-to-reduce-dreaded-fatal-error-messages/5283118",
+      "id": "5f6a3125-9bae-4b40-b367-695d7977387e",
+      "title": "Pitch: Portei o dart_pdf (a melhor lib de geração de PDF) para JavaScript puro",
+      "slug": "portei-o-dart-pdf-a-melhor-lib-de-geracao-de-pdf-para-javascript-puro",
+      "owner_username": "romulocrj",
+      "source_url": "https://daily.dev/posts/i-ported-dart-pdf-to-pure-javascript--ypugbs6sa",
       "tabcoins": 8,
-      "children_deep_count": 3,
-      "published_at": "2026-08-06T14:18:10.017Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/next-js-16-3-promete-reduzir-em-ate-90-por-cento-o-uso-de-memoria-e-diminuir-erros-fatais"
+      "children_deep_count": 1,
+      "published_at": "2026-08-08T13:45:12.855Z",
+      "url": "https://www.tabnews.com.br/romulocrj/portei-o-dart-pdf-a-melhor-lib-de-geracao-de-pdf-para-javascript-puro"
     },
     {
-      "id": "8fa7ab0c-e2a0-4d8c-98cf-de7a699f07ba",
-      "title": "Rodei mutation testing numa suíte com 92% de cobertura e o score real foi 41%",
-      "slug": "rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento",
-      "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/pt/blog/cobertura-de-teste-alta-esconde-bug-em-producao",
+      "id": "1cd40920-d970-4612-9702-d56f711d69e1",
+      "title": "Coisas antigas, miúdas e esquecidas, internet old school que funciona, zero Javascript",
+      "slug": "coisas-antigas-miudas-e-esquecidas-internet-old-school-que-funciona-zero-javascript",
+      "owner_username": "andradeandrey",
+      "source_url": null,
       "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-08-07T17:12:35.608Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento"
+      "children_deep_count": 0,
+      "published_at": "2026-08-08T15:59:04.977Z",
+      "url": "https://www.tabnews.com.br/andradeandrey/coisas-antigas-miudas-e-esquecidas-internet-old-school-que-funciona-zero-javascript"
+    },
+    {
+      "id": "4a5cdf0f-facb-48fb-be13-7df93e7f5b46",
+      "title": "Estou há meses desempregado, e agora?",
+      "slug": "estou-ha-meses-desempregado-e-agora",
+      "owner_username": "ewertonmendes",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 9,
+      "published_at": "2026-08-07T16:50:13.392Z",
+      "url": "https://www.tabnews.com.br/ewertonmendes/estou-ha-meses-desempregado-e-agora"
     }
   ]
 }
