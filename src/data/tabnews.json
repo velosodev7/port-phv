@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T10:09:16.211Z",
+  "updated_at": "2026-08-11T09:52:27.325Z",
   "posts": [
     {
       "id": "1b27a524-e77a-4187-96d7-12a5c4e42266",
@@ -7,109 +7,109 @@
       "slug": "a-ilusao-da-economia-por-que-a-ia-esta-se-tornando-um-problema-financeiro-no-desenvolvimento",
       "owner_username": "IamThiagoIT",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
+      "tabcoins": 12,
+      "children_deep_count": 1,
       "published_at": "2026-08-09T22:40:43.853Z",
       "url": "https://www.tabnews.com.br/IamThiagoIT/a-ilusao-da-economia-por-que-a-ia-esta-se-tornando-um-problema-financeiro-no-desenvolvimento"
     },
     {
-      "id": "226eb752-7caa-4b4a-af07-5899269af983",
-      "title": "Criei um compressor de vídeo simples em português",
-      "slug": "criei-um-compressor-de-video-simples-em-portugues",
-      "owner_username": "heyangoscar",
-      "source_url": "https://vidoro.io/",
-      "tabcoins": 1,
+      "id": "46a55336-ec95-4f24-a82c-9c95048eac9c",
+      "title": "Clean Architecture no Frontend React: Separando Concerns de Verdade",
+      "slug": "clean-architecture-no-frontend-react-separando-concerns-de-verdade",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/react/clean-architecture-frontend-react-separando-concerns",
+      "tabcoins": 6,
       "children_deep_count": 0,
-      "published_at": "2026-08-10T07:38:28.371Z",
-      "url": "https://www.tabnews.com.br/heyangoscar/criei-um-compressor-de-video-simples-em-portugues"
+      "published_at": "2026-08-10T12:02:58.136Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/clean-architecture-no-frontend-react-separando-concerns-de-verdade"
     },
     {
-      "id": "ffa6b6ea-253e-4344-a300-bf2eed6bce78",
-      "title": "Ollama-chat: Projetinho de Chat para IA pelo Terminal",
-      "slug": "ollama-chat-projetinho-de-chat-para-ia-pelo-terminal",
-      "owner_username": "sauloFerroMaciel",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-10T05:11:30.457Z",
-      "url": "https://www.tabnews.com.br/sauloFerroMaciel/ollama-chat-projetinho-de-chat-para-ia-pelo-terminal"
-    },
-    {
-      "id": "18fe76e2-88a7-47ee-b511-29c5a3ac1aaa",
-      "title": "O agente disse que terminou. Cadê as evidências?",
-      "slug": "o-agente-disse-que-terminou-cade-as-evidencias",
-      "owner_username": "Centelha",
-      "source_url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-10T04:28:00.857Z",
-      "url": "https://www.tabnews.com.br/Centelha/o-agente-disse-que-terminou-cade-as-evidencias"
-    },
-    {
-      "id": "26998844-54e1-4e73-bee7-f7a684a6d614",
-      "title": "Em questão de escala, Rust está se tornando essencial?",
-      "slug": "em-questao-de-escala-rust-esta-se-tornando-essencial",
-      "owner_username": "thenexusprime",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-10T03:48:03.674Z",
-      "url": "https://www.tabnews.com.br/thenexusprime/em-questao-de-escala-rust-esta-se-tornando-essencial"
-    },
-    {
-      "id": "8fa7ab0c-e2a0-4d8c-98cf-de7a699f07ba",
-      "title": "Rodei mutation testing numa suíte com 92% de cobertura e o score real foi 41%",
-      "slug": "rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento",
-      "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/pt/blog/cobertura-de-teste-alta-esconde-bug-em-producao",
-      "tabcoins": 11,
-      "children_deep_count": 4,
-      "published_at": "2026-08-07T17:12:35.608Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/rodei-mutation-testing-numa-suite-com-92-por-cento-de-cobertura-e-o-score-real-foi-41-por-cento"
-    },
-    {
-      "id": "e205de77-3095-40db-955c-25766cd7c954",
-      "title": "A lenda do garoto que acelerou tudo com IA e descobriu o que já devia saber",
-      "slug": "a-lenda-do-garoto-que-acelerou-tudo-com-ia-e-descobriu-o-que-ja-devia-saber",
-      "owner_username": "macnator",
-      "source_url": null,
-      "tabcoins": 9,
-      "children_deep_count": 1,
-      "published_at": "2026-08-07T16:24:30.651Z",
-      "url": "https://www.tabnews.com.br/macnator/a-lenda-do-garoto-que-acelerou-tudo-com-ia-e-descobriu-o-que-ja-devia-saber"
-    },
-    {
-      "id": "5f6a3125-9bae-4b40-b367-695d7977387e",
-      "title": "Pitch: Portei o dart_pdf (a melhor lib de geração de PDF) para JavaScript puro",
-      "slug": "portei-o-dart-pdf-a-melhor-lib-de-geracao-de-pdf-para-javascript-puro",
-      "owner_username": "romulocrj",
-      "source_url": "https://daily.dev/posts/i-ported-dart-pdf-to-pure-javascript--ypugbs6sa",
-      "tabcoins": 8,
-      "children_deep_count": 1,
-      "published_at": "2026-08-08T13:45:12.855Z",
-      "url": "https://www.tabnews.com.br/romulocrj/portei-o-dart-pdf-a-melhor-lib-de-geracao-de-pdf-para-javascript-puro"
-    },
-    {
-      "id": "1cd40920-d970-4612-9702-d56f711d69e1",
-      "title": "Coisas antigas, miúdas e esquecidas, internet old school que funciona, zero Javascript",
-      "slug": "coisas-antigas-miudas-e-esquecidas-internet-old-school-que-funciona-zero-javascript",
-      "owner_username": "andradeandrey",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 0,
-      "published_at": "2026-08-08T15:59:04.977Z",
-      "url": "https://www.tabnews.com.br/andradeandrey/coisas-antigas-miudas-e-esquecidas-internet-old-school-que-funciona-zero-javascript"
-    },
-    {
-      "id": "4a5cdf0f-facb-48fb-be13-7df93e7f5b46",
-      "title": "Estou há meses desempregado, e agora?",
-      "slug": "estou-ha-meses-desempregado-e-agora",
-      "owner_username": "ewertonmendes",
+      "id": "ddd1e878-e8cd-45d3-b996-e9374be35be8",
+      "title": "Pitch: Criei 'Bros & Cons' um jogo de browser de dedução lógica",
+      "slug": "pitch-fiz-bros-e-cons-um-jogo-de-browser-de-deducao-logica",
+      "owner_username": "FutureFinding",
       "source_url": null,
       "tabcoins": 4,
-      "children_deep_count": 9,
-      "published_at": "2026-08-07T16:50:13.392Z",
-      "url": "https://www.tabnews.com.br/ewertonmendes/estou-ha-meses-desempregado-e-agora"
+      "children_deep_count": 2,
+      "published_at": "2026-08-10T11:04:42.439Z",
+      "url": "https://www.tabnews.com.br/FutureFinding/pitch-fiz-bros-e-cons-um-jogo-de-browser-de-deducao-logica"
+    },
+    {
+      "id": "075555dc-e7c3-4036-9893-fe52fc7e1b36",
+      "title": "Cloudflare lança navegador específico para agentes de IA",
+      "slug": "cloudflare-lanca-navegador-especifico-para-agentes-de-ia",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://blog.cloudflare.com/kitesurf/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-08-10T15:28:17.489Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/cloudflare-lanca-navegador-especifico-para-agentes-de-ia"
+    },
+    {
+      "id": "956d4125-d6d0-48e4-8591-9d09eac962a9",
+      "title": "Um id na URL não prova que o dado é seu: o filtro que quase toda API esquece",
+      "slug": "um-id-na-url-nao-prova-que-o-dado-e-seu-o-filtro-que-quase-toda-api-esquece",
+      "owner_username": "revinsoftware",
+      "source_url": "https://revin.com.br/pt/blog/troquei-um-numero-na-url-e-vi-o-pedido-de-outro-cliente",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-08-10T13:12:22.583Z",
+      "url": "https://www.tabnews.com.br/revinsoftware/um-id-na-url-nao-prova-que-o-dado-e-seu-o-filtro-que-quase-toda-api-esquece"
+    },
+    {
+      "id": "3e68c2e7-f621-4eb7-8ee6-16df4c105d46",
+      "title": "A conta de US$ 47.000 de um fim de semana virou a definição de 'Agent = Model + Harness'. Um componente por vez.",
+      "slug": "a-conta-de-us-47-000-de-um-fim-de-semana-virou-a-definicao-de-agent-model-harness-um-componente-por-vez",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/47k-fim-de-semana-argumento-definitivo-agent-model-harness/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-08-10T12:00:03.788Z",
+      "url": "https://www.tabnews.com.br/kenimo49/a-conta-de-us-47-000-de-um-fim-de-semana-virou-a-definicao-de-agent-model-harness-um-componente-por-vez"
+    },
+    {
+      "id": "4ad86bc2-35f4-464f-b8a8-e0d0ee1d1c4c",
+      "title": "Não cole a documentação inteira no prompt: dê ao agente uma fonte de verdade",
+      "slug": "nao-cole-a-documentacao-inteira-no-prompt-de-ao-agente-uma-fonte-de-verdade",
+      "owner_username": "Centelha",
+      "source_url": "https://developers.google.com/knowledge/release-notes?hl=en",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-11T08:57:30.949Z",
+      "url": "https://www.tabnews.com.br/Centelha/nao-cole-a-documentacao-inteira-no-prompt-de-ao-agente-uma-fonte-de-verdade"
+    },
+    {
+      "id": "ad42d1c7-e35b-41b3-8003-3ac4bea90b91",
+      "title": "Estou construindo um JARVIS para BYD e ele já funciona dentro do carro",
+      "slug": "estou-construindo-um-jarvis-para-byd-e-ele-ja-funciona-dentro-do-carro",
+      "owner_username": "leeaandrob",
+      "source_url": "https://www.instagram.com/reel/Db1ismsN6Tt/?igsh=aHFxcjRwZ2o0anNn",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-11T03:55:02.659Z",
+      "url": "https://www.tabnews.com.br/leeaandrob/estou-construindo-um-jarvis-para-byd-e-ele-ja-funciona-dentro-do-carro"
+    },
+    {
+      "id": "d6e82408-e307-4e08-b229-992f85d075e2",
+      "title": "Antiphishing (AT) - Baixos recursos para defesa e inteligencia de ameaça industrial",
+      "slug": "antiphishing-at-baixos-recursos-para-defesa-e-inteligencia-de-ameaca-industrial",
+      "owner_username": "julioliraup",
+      "source_url": "https://julioliraup.github.io/antiphishing-at-baixos-recursos-para-defesa-e-inteligencia-de-ameaca-industrial.html",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-11T02:31:00.648Z",
+      "url": "https://www.tabnews.com.br/julioliraup/antiphishing-at-baixos-recursos-para-defesa-e-inteligencia-de-ameaca-industrial"
+    },
+    {
+      "id": "e791ab31-4c64-423d-9b56-e0c3a3458f2b",
+      "title": "Pitch: como limitei regras MV3 apenas aos webmails autorizados",
+      "slug": "pitch-como-limitei-regras-mv3-apenas-aos-webmails-autorizados",
+      "owner_username": "tabwell",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-10T21:40:08.683Z",
+      "url": "https://www.tabnews.com.br/tabwell/pitch-como-limitei-regras-mv3-apenas-aos-webmails-autorizados"
     }
   ]
 }
