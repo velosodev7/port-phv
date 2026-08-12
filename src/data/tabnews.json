@@ -1,13 +1,68 @@
 {
-  "updated_at": "2026-08-11T09:52:27.325Z",
+  "updated_at": "2026-08-12T09:53:38.359Z",
   "posts": [
+    {
+      "id": "84bdfcc2-04d8-4452-b4bc-3b847390d249",
+      "title": "Pitch: Criei um app de notas offline aos 15 anos para ajudar a estudar e programar sem distrações. Conheçam o Sagax! 💙",
+      "slug": "pitch-criei-um-app-de-notas-offline-aos-15-anos-para-ajudar-a-estudar-e-programar-sem-distracoes-conhecam-o-sagax",
+      "owner_username": "JV379",
+      "source_url": "https://jv377.itch.io/sagax",
+      "tabcoins": 7,
+      "children_deep_count": 2,
+      "published_at": "2026-08-11T10:56:33.539Z",
+      "url": "https://www.tabnews.com.br/JV379/pitch-criei-um-app-de-notas-offline-aos-15-anos-para-ajudar-a-estudar-e-programar-sem-distracoes-conhecam-o-sagax"
+    },
+    {
+      "id": "5df5b5fc-a598-494a-95db-717c16bfbcfe",
+      "title": "Tab News parecia ter futuro, mas parece que esta entrando em decadencia?",
+      "slug": "tab-news-parecia-ter-futuro-mas-parece-que-esta-entrando-em-decadencia",
+      "owner_username": "welovetech",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 5,
+      "published_at": "2026-08-11T13:26:06.821Z",
+      "url": "https://www.tabnews.com.br/welovetech/tab-news-parecia-ter-futuro-mas-parece-que-esta-entrando-em-decadencia"
+    },
+    {
+      "id": "321490af-3856-430c-b747-704df17c7cc8",
+      "title": "Como fazer uma nova ferramenta open source competir com as gigantes?",
+      "slug": "como-fazer-uma-nova-ferramenta-open-source-competir-com-as-gigantes",
+      "owner_username": "caiobarroso",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 5,
+      "published_at": "2026-08-11T18:20:00.569Z",
+      "url": "https://www.tabnews.com.br/caiobarroso/como-fazer-uma-nova-ferramenta-open-source-competir-com-as-gigantes"
+    },
+    {
+      "id": "d34a85c4-a3d6-4cbd-9cb2-2a8785cc0c0b",
+      "title": "Thread-safety em .NET 10 e Python: GIL e race conditions",
+      "slug": "thread-safety-em-net-10-e-python-gil-e-race-conditions",
+      "owner_username": "lzocateli",
+      "source_url": "https://zocate.li/posts/2026/thread-safety-dotnet-10-vs-python-gil-race-conditions/",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-08-12T01:31:37.641Z",
+      "url": "https://www.tabnews.com.br/lzocateli/thread-safety-em-net-10-e-python-gil-e-race-conditions"
+    },
+    {
+      "id": "1ba047f1-0452-477c-ba53-7c4bae5769e5",
+      "title": "Pitch: Apresentando o Opus Core – Gerenciador web/CMS open source escrito em PHP",
+      "slug": "apresentando-o-opus-core-gerenciador-web-cms-open-source-escrito-em-php",
+      "owner_username": "wellingtonpragidi",
+      "source_url": "https://opuscore.dev",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-12T01:17:54.548Z",
+      "url": "https://www.tabnews.com.br/wellingtonpragidi/apresentando-o-opus-core-gerenciador-web-cms-open-source-escrito-em-php"
+    },
     {
       "id": "1b27a524-e77a-4187-96d7-12a5c4e42266",
       "title": "A Ilusão da Economia: Por que a IA está se tornando um problema financeiro no desenvolvimento",
       "slug": "a-ilusao-da-economia-por-que-a-ia-esta-se-tornando-um-problema-financeiro-no-desenvolvimento",
       "owner_username": "IamThiagoIT",
       "source_url": null,
-      "tabcoins": 12,
+      "tabcoins": 14,
       "children_deep_count": 1,
       "published_at": "2026-08-09T22:40:43.853Z",
       "url": "https://www.tabnews.com.br/IamThiagoIT/a-ilusao-da-economia-por-que-a-ia-esta-se-tornando-um-problema-financeiro-no-desenvolvimento"
@@ -18,21 +73,10 @@
       "slug": "clean-architecture-no-frontend-react-separando-concerns-de-verdade",
       "owner_username": "mrmsoares",
       "source_url": "https://www.vivodecodigo.com.br/react/clean-architecture-frontend-react-separando-concerns",
-      "tabcoins": 6,
+      "tabcoins": 8,
       "children_deep_count": 0,
       "published_at": "2026-08-10T12:02:58.136Z",
       "url": "https://www.tabnews.com.br/mrmsoares/clean-architecture-no-frontend-react-separando-concerns-de-verdade"
-    },
-    {
-      "id": "ddd1e878-e8cd-45d3-b996-e9374be35be8",
-      "title": "Pitch: Criei 'Bros & Cons' um jogo de browser de dedução lógica",
-      "slug": "pitch-fiz-bros-e-cons-um-jogo-de-browser-de-deducao-logica",
-      "owner_username": "FutureFinding",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-08-10T11:04:42.439Z",
-      "url": "https://www.tabnews.com.br/FutureFinding/pitch-fiz-bros-e-cons-um-jogo-de-browser-de-deducao-logica"
     },
     {
       "id": "075555dc-e7c3-4036-9893-fe52fc7e1b36",
@@ -40,7 +84,7 @@
       "slug": "cloudflare-lanca-navegador-especifico-para-agentes-de-ia",
       "owner_username": "NewsletterOficial",
       "source_url": "https://blog.cloudflare.com/kitesurf/",
-      "tabcoins": 3,
+      "tabcoins": 4,
       "children_deep_count": 0,
       "published_at": "2026-08-10T15:28:17.489Z",
       "url": "https://www.tabnews.com.br/NewsletterOficial/cloudflare-lanca-navegador-especifico-para-agentes-de-ia"
@@ -52,7 +96,7 @@
       "owner_username": "revinsoftware",
       "source_url": "https://revin.com.br/pt/blog/troquei-um-numero-na-url-e-vi-o-pedido-de-outro-cliente",
       "tabcoins": 3,
-      "children_deep_count": 0,
+      "children_deep_count": 1,
       "published_at": "2026-08-10T13:12:22.583Z",
       "url": "https://www.tabnews.com.br/revinsoftware/um-id-na-url-nao-prova-que-o-dado-e-seu-o-filtro-que-quase-toda-api-esquece"
     },
@@ -66,50 +110,6 @@
       "children_deep_count": 0,
       "published_at": "2026-08-10T12:00:03.788Z",
       "url": "https://www.tabnews.com.br/kenimo49/a-conta-de-us-47-000-de-um-fim-de-semana-virou-a-definicao-de-agent-model-harness-um-componente-por-vez"
-    },
-    {
-      "id": "4ad86bc2-35f4-464f-b8a8-e0d0ee1d1c4c",
-      "title": "Não cole a documentação inteira no prompt: dê ao agente uma fonte de verdade",
-      "slug": "nao-cole-a-documentacao-inteira-no-prompt-de-ao-agente-uma-fonte-de-verdade",
-      "owner_username": "Centelha",
-      "source_url": "https://developers.google.com/knowledge/release-notes?hl=en",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-11T08:57:30.949Z",
-      "url": "https://www.tabnews.com.br/Centelha/nao-cole-a-documentacao-inteira-no-prompt-de-ao-agente-uma-fonte-de-verdade"
-    },
-    {
-      "id": "ad42d1c7-e35b-41b3-8003-3ac4bea90b91",
-      "title": "Estou construindo um JARVIS para BYD e ele já funciona dentro do carro",
-      "slug": "estou-construindo-um-jarvis-para-byd-e-ele-ja-funciona-dentro-do-carro",
-      "owner_username": "leeaandrob",
-      "source_url": "https://www.instagram.com/reel/Db1ismsN6Tt/?igsh=aHFxcjRwZ2o0anNn",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-11T03:55:02.659Z",
-      "url": "https://www.tabnews.com.br/leeaandrob/estou-construindo-um-jarvis-para-byd-e-ele-ja-funciona-dentro-do-carro"
-    },
-    {
-      "id": "d6e82408-e307-4e08-b229-992f85d075e2",
-      "title": "Antiphishing (AT) - Baixos recursos para defesa e inteligencia de ameaça industrial",
-      "slug": "antiphishing-at-baixos-recursos-para-defesa-e-inteligencia-de-ameaca-industrial",
-      "owner_username": "julioliraup",
-      "source_url": "https://julioliraup.github.io/antiphishing-at-baixos-recursos-para-defesa-e-inteligencia-de-ameaca-industrial.html",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-11T02:31:00.648Z",
-      "url": "https://www.tabnews.com.br/julioliraup/antiphishing-at-baixos-recursos-para-defesa-e-inteligencia-de-ameaca-industrial"
-    },
-    {
-      "id": "e791ab31-4c64-423d-9b56-e0c3a3458f2b",
-      "title": "Pitch: como limitei regras MV3 apenas aos webmails autorizados",
-      "slug": "pitch-como-limitei-regras-mv3-apenas-aos-webmails-autorizados",
-      "owner_username": "tabwell",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-10T21:40:08.683Z",
-      "url": "https://www.tabnews.com.br/tabwell/pitch-como-limitei-regras-mv3-apenas-aos-webmails-autorizados"
     }
   ]
 }
