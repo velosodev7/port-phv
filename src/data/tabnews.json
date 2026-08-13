@@ -1,13 +1,101 @@
 {
-  "updated_at": "2026-08-12T09:53:38.359Z",
+  "updated_at": "2026-08-13T09:54:39.012Z",
   "posts": [
+    {
+      "id": "4ca491b7-3eb2-4414-9456-400236f04742",
+      "title": "Como funciona um gerador de CPF (apenas o conceito)",
+      "slug": "como-funciona-um-gerador-de-cpf-apenas-o-conceito",
+      "owner_username": "cacatua",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-08-12T19:06:49.898Z",
+      "url": "https://www.tabnews.com.br/cacatua/como-funciona-um-gerador-de-cpf-apenas-o-conceito"
+    },
+    {
+      "id": "f2895268-b68d-4687-a20c-ffa65e478c69",
+      "title": "52,8% para 66,5%: como Generator-Evaluator inspirado em GAN eleva accuracy do RAG",
+      "slug": "52-8-por-cento-para-66-5-por-cento-como-generator-evaluator-inspirado-em-gan-eleva-accuracy-do-rag",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/52-8-para-66-5-generator-evaluator-rag-gan/",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-08-12T12:00:03.679Z",
+      "url": "https://www.tabnews.com.br/kenimo49/52-8-por-cento-para-66-5-por-cento-como-generator-evaluator-inspirado-em-gan-eleva-accuracy-do-rag"
+    },
+    {
+      "id": "765fbc3a-773a-4dfb-927e-815a7dfd0d26",
+      "title": "O que aprendi construindo uma fila de mensagens onde o S3 é a única fonte de verdade",
+      "slug": "o-que-aprendi-construindo-uma-fila-de-mensagens-onde-o-s3-e-a-unica-fonte-de-verdade",
+      "owner_username": "er1c3g",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-08-12T15:05:15.748Z",
+      "url": "https://www.tabnews.com.br/er1c3g/o-que-aprendi-construindo-uma-fila-de-mensagens-onde-o-s3-e-a-unica-fonte-de-verdade"
+    },
+    {
+      "id": "3d040995-ed4d-4545-bd7f-685292c48b76",
+      "title": "Meu Game Stick GD10 veio com o cartão corrompido, e reinstalar o sistema me ensinou mais sobre boot Amlogic do que eu gostaria",
+      "slug": "meu-game-stick-gd10-veio-com-o-cartao-corrompido-e-reinstalar-o-sistema-me-ensinou-mais-sobre-boot-amlogic-do-que-eu-gostaria",
+      "owner_username": "kevinjh07",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-08-12T22:18:09.946Z",
+      "url": "https://www.tabnews.com.br/kevinjh07/meu-game-stick-gd10-veio-com-o-cartao-corrompido-e-reinstalar-o-sistema-me-ensinou-mais-sobre-boot-amlogic-do-que-eu-gostaria"
+    },
+    {
+      "id": "05181d4b-de96-4923-892a-7e71922c220f",
+      "title": "Resumo didático: Evolução  da IA entre  as décadas e especulações sobre o futuro da IA",
+      "slug": "resumo-didatico-evolucao-da-ia-entre-as-decadas-e-especulacoes-sobre-o-futuro-da-ia",
+      "owner_username": "teodorogit",
+      "source_url": "https://www.engenhariahibrida.com.br/post/a-historia-da-inteligencia-artificial",
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-08-13T01:45:32.093Z",
+      "url": "https://www.tabnews.com.br/teodorogit/resumo-didatico-evolucao-da-ia-entre-as-decadas-e-especulacoes-sobre-o-futuro-da-ia"
+    },
+    {
+      "id": "143e430f-958f-4f25-9a2a-1e454b4a3515",
+      "title": "oh-my-agent: stop gates mecânicos e configuração unificada",
+      "slug": "oh-my-agent-stop-gates-mecanicos-e-configuracao-unificada",
+      "owner_username": "gracefullight",
+      "source_url": "https://dev.to/gracefullight/oh-my-agent-mechanical-stop-gates-and-unified-configuration-57b0",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-13T02:05:07.504Z",
+      "url": "https://www.tabnews.com.br/gracefullight/oh-my-agent-stop-gates-mecanicos-e-configuracao-unificada"
+    },
+    {
+      "id": "9363d20f-6147-4ff0-bc8b-1d94b6bc1e76",
+      "title": "Que tipo de contéudo e/ou tema, que te ficar / voltar, a ficar animado no TABNEWS?",
+      "slug": "que-tipo-de-conteudo-e-ou-tema-que-te-ficar-voltar-a-ficar-animado-no-tabnews",
+      "owner_username": "BrunoDeBrito",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-13T01:33:23.553Z",
+      "url": "https://www.tabnews.com.br/BrunoDeBrito/que-tipo-de-conteudo-e-ou-tema-que-te-ficar-voltar-a-ficar-animado-no-tabnews"
+    },
+    {
+      "id": "46a55336-ec95-4f24-a82c-9c95048eac9c",
+      "title": "Clean Architecture no Frontend React: Separando Concerns de Verdade",
+      "slug": "clean-architecture-no-frontend-react-separando-concerns-de-verdade",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/react/clean-architecture-frontend-react-separando-concerns",
+      "tabcoins": 10,
+      "children_deep_count": 4,
+      "published_at": "2026-08-10T12:02:58.136Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/clean-architecture-no-frontend-react-separando-concerns-de-verdade"
+    },
     {
       "id": "84bdfcc2-04d8-4452-b4bc-3b847390d249",
       "title": "Pitch: Criei um app de notas offline aos 15 anos para ajudar a estudar e programar sem distrações. Conheçam o Sagax! 💙",
       "slug": "pitch-criei-um-app-de-notas-offline-aos-15-anos-para-ajudar-a-estudar-e-programar-sem-distracoes-conhecam-o-sagax",
       "owner_username": "JV379",
       "source_url": "https://jv377.itch.io/sagax",
-      "tabcoins": 7,
+      "tabcoins": 9,
       "children_deep_count": 2,
       "published_at": "2026-08-11T10:56:33.539Z",
       "url": "https://www.tabnews.com.br/JV379/pitch-criei-um-app-de-notas-offline-aos-15-anos-para-ajudar-a-estudar-e-programar-sem-distracoes-conhecam-o-sagax"
@@ -18,98 +106,10 @@
       "slug": "tab-news-parecia-ter-futuro-mas-parece-que-esta-entrando-em-decadencia",
       "owner_username": "welovetech",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 5,
+      "tabcoins": 5,
+      "children_deep_count": 7,
       "published_at": "2026-08-11T13:26:06.821Z",
       "url": "https://www.tabnews.com.br/welovetech/tab-news-parecia-ter-futuro-mas-parece-que-esta-entrando-em-decadencia"
-    },
-    {
-      "id": "321490af-3856-430c-b747-704df17c7cc8",
-      "title": "Como fazer uma nova ferramenta open source competir com as gigantes?",
-      "slug": "como-fazer-uma-nova-ferramenta-open-source-competir-com-as-gigantes",
-      "owner_username": "caiobarroso",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 5,
-      "published_at": "2026-08-11T18:20:00.569Z",
-      "url": "https://www.tabnews.com.br/caiobarroso/como-fazer-uma-nova-ferramenta-open-source-competir-com-as-gigantes"
-    },
-    {
-      "id": "d34a85c4-a3d6-4cbd-9cb2-2a8785cc0c0b",
-      "title": "Thread-safety em .NET 10 e Python: GIL e race conditions",
-      "slug": "thread-safety-em-net-10-e-python-gil-e-race-conditions",
-      "owner_username": "lzocateli",
-      "source_url": "https://zocate.li/posts/2026/thread-safety-dotnet-10-vs-python-gil-race-conditions/",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-08-12T01:31:37.641Z",
-      "url": "https://www.tabnews.com.br/lzocateli/thread-safety-em-net-10-e-python-gil-e-race-conditions"
-    },
-    {
-      "id": "1ba047f1-0452-477c-ba53-7c4bae5769e5",
-      "title": "Pitch: Apresentando o Opus Core – Gerenciador web/CMS open source escrito em PHP",
-      "slug": "apresentando-o-opus-core-gerenciador-web-cms-open-source-escrito-em-php",
-      "owner_username": "wellingtonpragidi",
-      "source_url": "https://opuscore.dev",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-12T01:17:54.548Z",
-      "url": "https://www.tabnews.com.br/wellingtonpragidi/apresentando-o-opus-core-gerenciador-web-cms-open-source-escrito-em-php"
-    },
-    {
-      "id": "1b27a524-e77a-4187-96d7-12a5c4e42266",
-      "title": "A Ilusão da Economia: Por que a IA está se tornando um problema financeiro no desenvolvimento",
-      "slug": "a-ilusao-da-economia-por-que-a-ia-esta-se-tornando-um-problema-financeiro-no-desenvolvimento",
-      "owner_username": "IamThiagoIT",
-      "source_url": null,
-      "tabcoins": 14,
-      "children_deep_count": 1,
-      "published_at": "2026-08-09T22:40:43.853Z",
-      "url": "https://www.tabnews.com.br/IamThiagoIT/a-ilusao-da-economia-por-que-a-ia-esta-se-tornando-um-problema-financeiro-no-desenvolvimento"
-    },
-    {
-      "id": "46a55336-ec95-4f24-a82c-9c95048eac9c",
-      "title": "Clean Architecture no Frontend React: Separando Concerns de Verdade",
-      "slug": "clean-architecture-no-frontend-react-separando-concerns-de-verdade",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/react/clean-architecture-frontend-react-separando-concerns",
-      "tabcoins": 8,
-      "children_deep_count": 0,
-      "published_at": "2026-08-10T12:02:58.136Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/clean-architecture-no-frontend-react-separando-concerns-de-verdade"
-    },
-    {
-      "id": "075555dc-e7c3-4036-9893-fe52fc7e1b36",
-      "title": "Cloudflare lança navegador específico para agentes de IA",
-      "slug": "cloudflare-lanca-navegador-especifico-para-agentes-de-ia",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://blog.cloudflare.com/kitesurf/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-10T15:28:17.489Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/cloudflare-lanca-navegador-especifico-para-agentes-de-ia"
-    },
-    {
-      "id": "956d4125-d6d0-48e4-8591-9d09eac962a9",
-      "title": "Um id na URL não prova que o dado é seu: o filtro que quase toda API esquece",
-      "slug": "um-id-na-url-nao-prova-que-o-dado-e-seu-o-filtro-que-quase-toda-api-esquece",
-      "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/pt/blog/troquei-um-numero-na-url-e-vi-o-pedido-de-outro-cliente",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-08-10T13:12:22.583Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/um-id-na-url-nao-prova-que-o-dado-e-seu-o-filtro-que-quase-toda-api-esquece"
-    },
-    {
-      "id": "3e68c2e7-f621-4eb7-8ee6-16df4c105d46",
-      "title": "A conta de US$ 47.000 de um fim de semana virou a definição de 'Agent = Model + Harness'. Um componente por vez.",
-      "slug": "a-conta-de-us-47-000-de-um-fim-de-semana-virou-a-definicao-de-agent-model-harness-um-componente-por-vez",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/47k-fim-de-semana-argumento-definitivo-agent-model-harness/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-10T12:00:03.788Z",
-      "url": "https://www.tabnews.com.br/kenimo49/a-conta-de-us-47-000-de-um-fim-de-semana-virou-a-definicao-de-agent-model-harness-um-componente-por-vez"
     }
   ]
 }
