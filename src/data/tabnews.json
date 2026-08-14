@@ -1,93 +1,93 @@
 {
-  "updated_at": "2026-08-13T09:54:39.012Z",
+  "updated_at": "2026-08-14T09:52:14.474Z",
   "posts": [
-    {
-      "id": "4ca491b7-3eb2-4414-9456-400236f04742",
-      "title": "Como funciona um gerador de CPF (apenas o conceito)",
-      "slug": "como-funciona-um-gerador-de-cpf-apenas-o-conceito",
-      "owner_username": "cacatua",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-08-12T19:06:49.898Z",
-      "url": "https://www.tabnews.com.br/cacatua/como-funciona-um-gerador-de-cpf-apenas-o-conceito"
-    },
-    {
-      "id": "f2895268-b68d-4687-a20c-ffa65e478c69",
-      "title": "52,8% para 66,5%: como Generator-Evaluator inspirado em GAN eleva accuracy do RAG",
-      "slug": "52-8-por-cento-para-66-5-por-cento-como-generator-evaluator-inspirado-em-gan-eleva-accuracy-do-rag",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/52-8-para-66-5-generator-evaluator-rag-gan/",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-08-12T12:00:03.679Z",
-      "url": "https://www.tabnews.com.br/kenimo49/52-8-por-cento-para-66-5-por-cento-como-generator-evaluator-inspirado-em-gan-eleva-accuracy-do-rag"
-    },
-    {
-      "id": "765fbc3a-773a-4dfb-927e-815a7dfd0d26",
-      "title": "O que aprendi construindo uma fila de mensagens onde o S3 é a única fonte de verdade",
-      "slug": "o-que-aprendi-construindo-uma-fila-de-mensagens-onde-o-s3-e-a-unica-fonte-de-verdade",
-      "owner_username": "er1c3g",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-12T15:05:15.748Z",
-      "url": "https://www.tabnews.com.br/er1c3g/o-que-aprendi-construindo-uma-fila-de-mensagens-onde-o-s3-e-a-unica-fonte-de-verdade"
-    },
     {
       "id": "3d040995-ed4d-4545-bd7f-685292c48b76",
       "title": "Meu Game Stick GD10 veio com o cartão corrompido, e reinstalar o sistema me ensinou mais sobre boot Amlogic do que eu gostaria",
       "slug": "meu-game-stick-gd10-veio-com-o-cartao-corrompido-e-reinstalar-o-sistema-me-ensinou-mais-sobre-boot-amlogic-do-que-eu-gostaria",
       "owner_username": "kevinjh07",
       "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
+      "tabcoins": 12,
+      "children_deep_count": 1,
       "published_at": "2026-08-12T22:18:09.946Z",
       "url": "https://www.tabnews.com.br/kevinjh07/meu-game-stick-gd10-veio-com-o-cartao-corrompido-e-reinstalar-o-sistema-me-ensinou-mais-sobre-boot-amlogic-do-que-eu-gostaria"
     },
     {
-      "id": "05181d4b-de96-4923-892a-7e71922c220f",
-      "title": "Resumo didático: Evolução  da IA entre  as décadas e especulações sobre o futuro da IA",
-      "slug": "resumo-didatico-evolucao-da-ia-entre-as-decadas-e-especulacoes-sobre-o-futuro-da-ia",
-      "owner_username": "teodorogit",
-      "source_url": "https://www.engenhariahibrida.com.br/post/a-historia-da-inteligencia-artificial",
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-08-13T01:45:32.093Z",
-      "url": "https://www.tabnews.com.br/teodorogit/resumo-didatico-evolucao-da-ia-entre-as-decadas-e-especulacoes-sobre-o-futuro-da-ia"
+      "id": "a3453eb7-b3d4-494d-95ef-df5d82a55b73",
+      "title": "Pitch: A última barreira pra migrar a clínica pro Linux era o token que assina receituários. Derrubar ela me levou a PKCS#11, native messaging e uma briga com o Flatpak",
+      "slug": "a-ultima-barreira-pra-migrar-a-clinica-pro-linux-era-o-token-que-assina-receituarios-derrubar-ela-me-levou-a-pkcs11-native-messaging-e-uma-briga-com-o-fla",
+      "owner_username": "LukaKuuhaku",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 4,
+      "published_at": "2026-08-13T18:16:55.961Z",
+      "url": "https://www.tabnews.com.br/LukaKuuhaku/a-ultima-barreira-pra-migrar-a-clinica-pro-linux-era-o-token-que-assina-receituarios-derrubar-ela-me-levou-a-pkcs11-native-messaging-e-uma-briga-com-o-fla"
     },
     {
-      "id": "143e430f-958f-4f25-9a2a-1e454b4a3515",
-      "title": "oh-my-agent: stop gates mecânicos e configuração unificada",
-      "slug": "oh-my-agent-stop-gates-mecanicos-e-configuracao-unificada",
-      "owner_username": "gracefullight",
-      "source_url": "https://dev.to/gracefullight/oh-my-agent-mechanical-stop-gates-and-unified-configuration-57b0",
-      "tabcoins": 1,
+      "id": "4f1cc043-79bc-4e16-9df7-d3b0360bc43a",
+      "title": "`is-kit` chegou a 50 stars no GitHub — veja como estamos usando em produção",
+      "slug": "is-kit-chegou-a-50-stars-no-github-veja-como-estamos-usando-em-producao",
+      "owner_username": "nyaomaru",
+      "source_url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
+      "tabcoins": 6,
       "children_deep_count": 0,
-      "published_at": "2026-08-13T02:05:07.504Z",
-      "url": "https://www.tabnews.com.br/gracefullight/oh-my-agent-stop-gates-mecanicos-e-configuracao-unificada"
+      "published_at": "2026-08-13T12:38:54.513Z",
+      "url": "https://www.tabnews.com.br/nyaomaru/is-kit-chegou-a-50-stars-no-github-veja-como-estamos-usando-em-producao"
     },
     {
-      "id": "9363d20f-6147-4ff0-bc8b-1d94b6bc1e76",
-      "title": "Que tipo de contéudo e/ou tema, que te ficar / voltar, a ficar animado no TABNEWS?",
-      "slug": "que-tipo-de-conteudo-e-ou-tema-que-te-ficar-voltar-a-ficar-animado-no-tabnews",
-      "owner_username": "BrunoDeBrito",
+      "id": "c721b9dc-5214-4710-8dc5-6f89b6a5daaa",
+      "title": "# Como construí minha própria infraestrutura para acessar MikroTik de clientes remotamente",
+      "slug": "como-construi-minha-propria-infraestrutura-para-acessar-mikrotik-de-clientes-remotamente",
+      "owner_username": "RuanHalsk",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-08-13T19:08:06.672Z",
+      "url": "https://www.tabnews.com.br/RuanHalsk/como-construi-minha-propria-infraestrutura-para-acessar-mikrotik-de-clientes-remotamente"
+    },
+    {
+      "id": "e3488f21-caa8-45e6-99ed-1f36c932c50c",
+      "title": "Sites com cara de IA: só eu que estou cansado?",
+      "slug": "sites-com-cara-de-ia-so-eu-que-estou-cansado",
+      "owner_username": "devpedroribeiro",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-08-13T17:04:26.189Z",
+      "url": "https://www.tabnews.com.br/devpedroribeiro/sites-com-cara-de-ia-so-eu-que-estou-cansado"
+    },
+    {
+      "id": "a568eca5-776b-4d10-a46b-59fd15eb06d9",
+      "title": "Pitch: Extensão que transforma o console do navegador em notificações visuais na tela — sem precisar abrir o DevTools.",
+      "slug": "pitch-extensao-que-transforma-o-console-do-navegador-em-notificacoes-visuais-na-tela-sem-precisar-abrir-o-devtools",
+      "owner_username": "itsfematheus",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-08-13T23:15:16.928Z",
+      "url": "https://www.tabnews.com.br/itsfematheus/pitch-extensao-que-transforma-o-console-do-navegador-em-notificacoes-visuais-na-tela-sem-precisar-abrir-o-devtools"
+    },
+    {
+      "id": "2d5dc2bd-13ec-474d-b889-704624dbcc3b",
+      "title": "Tessera: análise de código com grafo de conhecimento versionado",
+      "slug": "tessera-analise-de-codigo-com-grafo-de-conhecimento-versionado",
+      "owner_username": "carubbi",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-13T01:33:23.553Z",
-      "url": "https://www.tabnews.com.br/BrunoDeBrito/que-tipo-de-conteudo-e-ou-tema-que-te-ficar-voltar-a-ficar-animado-no-tabnews"
+      "published_at": "2026-08-14T01:33:59.749Z",
+      "url": "https://www.tabnews.com.br/carubbi/tessera-analise-de-codigo-com-grafo-de-conhecimento-versionado"
     },
     {
-      "id": "46a55336-ec95-4f24-a82c-9c95048eac9c",
-      "title": "Clean Architecture no Frontend React: Separando Concerns de Verdade",
-      "slug": "clean-architecture-no-frontend-react-separando-concerns-de-verdade",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/react/clean-architecture-frontend-react-separando-concerns",
-      "tabcoins": 10,
-      "children_deep_count": 4,
-      "published_at": "2026-08-10T12:02:58.136Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/clean-architecture-no-frontend-react-separando-concerns-de-verdade"
+      "id": "4ca491b7-3eb2-4414-9456-400236f04742",
+      "title": "Como funciona um gerador de CPF (apenas o conceito)",
+      "slug": "como-funciona-um-gerador-de-cpf-apenas-o-conceito",
+      "owner_username": "cacatua",
+      "source_url": null,
+      "tabcoins": 13,
+      "children_deep_count": 2,
+      "published_at": "2026-08-12T19:06:49.898Z",
+      "url": "https://www.tabnews.com.br/cacatua/como-funciona-um-gerador-de-cpf-apenas-o-conceito"
     },
     {
       "id": "84bdfcc2-04d8-4452-b4bc-3b847390d249",
@@ -101,15 +101,15 @@
       "url": "https://www.tabnews.com.br/JV379/pitch-criei-um-app-de-notas-offline-aos-15-anos-para-ajudar-a-estudar-e-programar-sem-distracoes-conhecam-o-sagax"
     },
     {
-      "id": "5df5b5fc-a598-494a-95db-717c16bfbcfe",
-      "title": "Tab News parecia ter futuro, mas parece que esta entrando em decadencia?",
-      "slug": "tab-news-parecia-ter-futuro-mas-parece-que-esta-entrando-em-decadencia",
-      "owner_username": "welovetech",
+      "id": "765fbc3a-773a-4dfb-927e-815a7dfd0d26",
+      "title": "O que aprendi construindo uma fila de mensagens onde o S3 é a única fonte de verdade",
+      "slug": "o-que-aprendi-construindo-uma-fila-de-mensagens-onde-o-s3-e-a-unica-fonte-de-verdade",
+      "owner_username": "er1c3g",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 7,
-      "published_at": "2026-08-11T13:26:06.821Z",
-      "url": "https://www.tabnews.com.br/welovetech/tab-news-parecia-ter-futuro-mas-parece-que-esta-entrando-em-decadencia"
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-08-12T15:05:15.748Z",
+      "url": "https://www.tabnews.com.br/er1c3g/o-que-aprendi-construindo-uma-fila-de-mensagens-onde-o-s3-e-a-unica-fonte-de-verdade"
     }
   ]
 }
