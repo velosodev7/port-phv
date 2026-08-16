@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-08-15T09:17:52.623Z",
+  "updated_at": "2026-08-16T09:18:46.100Z",
   "posts": [
+    {
+      "id": "64215a72-9492-4eb4-a763-9fce6d911d54",
+      "title": "Como vamos definir os novos devs sêniors?",
+      "slug": "como-vamos-definir-os-novos-devs-seniors",
+      "owner_username": "KerubinDev",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-08-15T14:20:17.777Z",
+      "url": "https://www.tabnews.com.br/KerubinDev/como-vamos-definir-os-novos-devs-seniors"
+    },
+    {
+      "id": "83ba7b5f-4281-4349-8d4f-47103e05f913",
+      "title": "Pitch: Criei uma CLI em Shell Script para automatizar o setup completo de repositórios Git/GitHub (autoprojrepo)",
+      "slug": "criei-uma-cli-em-shell-script-para-automatizar-o-setup-completo-de-repositorios-git-github-autoprojrepo",
+      "owner_username": "mazinhorj",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-08-15T23:58:06.392Z",
+      "url": "https://www.tabnews.com.br/mazinhorj/criei-uma-cli-em-shell-script-para-automatizar-o-setup-completo-de-repositorios-git-github-autoprojrepo"
+    },
+    {
+      "id": "0ae708e3-db1b-4f67-8da5-3140a30f93dd",
+      "title": "Eu gostava do meu trabalho",
+      "slug": "eu-gosto-de-programar",
+      "owner_username": "trenton",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 2,
+      "published_at": "2026-08-15T22:40:49.241Z",
+      "url": "https://www.tabnews.com.br/trenton/eu-gosto-de-programar"
+    },
+    {
+      "id": "a3453eb7-b3d4-494d-95ef-df5d82a55b73",
+      "title": "Pitch: A última barreira pra migrar a clínica pro Linux era o token que assina receituários. Derrubar ela me levou a PKCS#11, native messaging e uma briga com o Flatpak",
+      "slug": "a-ultima-barreira-pra-migrar-a-clinica-pro-linux-era-o-token-que-assina-receituarios-derrubar-ela-me-levou-a-pkcs11-native-messaging-e-uma-briga-com-o-fla",
+      "owner_username": "LukaKuuhaku",
+      "source_url": null,
+      "tabcoins": 15,
+      "children_deep_count": 4,
+      "published_at": "2026-08-13T18:16:55.961Z",
+      "url": "https://www.tabnews.com.br/LukaKuuhaku/a-ultima-barreira-pra-migrar-a-clinica-pro-linux-era-o-token-que-assina-receituarios-derrubar-ela-me-levou-a-pkcs11-native-messaging-e-uma-briga-com-o-fla"
+    },
     {
       "id": "499c4268-7e41-4568-9699-1b2cadec3667",
       "title": "Herdei um legado sem documentação: 14 dias medindo antes de escrever qualquer linha",
       "slug": "herdei-um-legado-sem-documentacao-14-dias-medindo-antes-de-escrever-qualquer-linha",
       "owner_username": "revinsoftware",
       "source_url": "https://revin.com.br/pt/blog/herdei-sistema-legado-sem-documentacao-duas-semanas",
-      "tabcoins": 10,
-      "children_deep_count": 6,
+      "tabcoins": 12,
+      "children_deep_count": 7,
       "published_at": "2026-08-14T15:42:27.378Z",
       "url": "https://www.tabnews.com.br/revinsoftware/herdei-um-legado-sem-documentacao-14-dias-medindo-antes-de-escrever-qualquer-linha"
     },
@@ -18,10 +62,32 @@
       "slug": "a-ia-roubou-meu-hiperfoco-o-que-o-autismo-e-a-mente-humana-me-ensinaram-sobre-programar-com-ia",
       "owner_username": "filipeleonelbatista",
       "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 1,
+      "tabcoins": 11,
+      "children_deep_count": 4,
       "published_at": "2026-08-14T19:33:42.665Z",
       "url": "https://www.tabnews.com.br/filipeleonelbatista/a-ia-roubou-meu-hiperfoco-o-que-o-autismo-e-a-mente-humana-me-ensinaram-sobre-programar-com-ia"
+    },
+    {
+      "id": "c721b9dc-5214-4710-8dc5-6f89b6a5daaa",
+      "title": "# Como construí minha própria infraestrutura para acessar MikroTik de clientes remotamente",
+      "slug": "como-construi-minha-propria-infraestrutura-para-acessar-mikrotik-de-clientes-remotamente",
+      "owner_username": "RuanHalsk",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 11,
+      "published_at": "2026-08-13T19:08:06.672Z",
+      "url": "https://www.tabnews.com.br/RuanHalsk/como-construi-minha-propria-infraestrutura-para-acessar-mikrotik-de-clientes-remotamente"
+    },
+    {
+      "id": "4f1cc043-79bc-4e16-9df7-d3b0360bc43a",
+      "title": "`is-kit` chegou a 50 stars no GitHub — veja como estamos usando em produção",
+      "slug": "is-kit-chegou-a-50-stars-no-github-veja-como-estamos-usando-em-producao",
+      "owner_username": "nyaomaru",
+      "source_url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
+      "tabcoins": 7,
+      "children_deep_count": 4,
+      "published_at": "2026-08-13T12:38:54.513Z",
+      "url": "https://www.tabnews.com.br/nyaomaru/is-kit-chegou-a-50-stars-no-github-veja-como-estamos-usando-em-producao"
     },
     {
       "id": "205eb4dc-80a7-40f2-bcc8-542426d04eda",
@@ -44,72 +110,6 @@
       "children_deep_count": 1,
       "published_at": "2026-08-14T15:25:45.492Z",
       "url": "https://www.tabnews.com.br/gabrielduartejr/fiz-um-app-que-cria-agentes-de-notificacao-sobre-qualquer-assunto-queria-feedback-honesto-de-voces"
-    },
-    {
-      "id": "515e5ea9-c9b3-40c8-aa85-a391070d0009",
-      "title": "Criei o L2Cache: uma camada de memória local no macOS para desenvolvedores (Indexação de Terminal, JWT/JSON) [Grátis no Lançamento]",
-      "slug": "criei-o-l2cache-uma-camada-de-memoria-local-no-macos-para-desenvolvedores-indexacao-de-terminal-jwt-json-gratis-no-lancamento",
-      "owner_username": "dindina",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-15T06:23:58.820Z",
-      "url": "https://www.tabnews.com.br/dindina/criei-o-l2cache-uma-camada-de-memoria-local-no-macos-para-desenvolvedores-indexacao-de-terminal-jwt-json-gratis-no-lancamento"
-    },
-    {
-      "id": "ab62c306-1527-4d44-b3d2-4ddb5da84fd4",
-      "title": "Documentação que vira vídeo: o que aprendemos gerando releases e runbooks",
-      "slug": "documentacao-que-vira-video-o-que-aprendemos-gerando-releases-e-runbooks",
-      "owner_username": "aivideomaker",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-15T06:22:11.667Z",
-      "url": "https://www.tabnews.com.br/aivideomaker/documentacao-que-vira-video-o-que-aprendemos-gerando-releases-e-runbooks"
-    },
-    {
-      "id": "a89e945e-81a1-4b68-a3a6-95d86204cad4",
-      "title": "Quando o RAG erra, quase nunca é o LLM: 4 falhas de recuperação e como logar cada uma",
-      "slug": "quando-o-rag-erra-quase-nunca-e-o-llm-4-falhas-de-recuperacao-e-como-logar-cada-uma",
-      "owner_username": "wildrik",
-      "source_url": "https://www.techknow.com.br/post/o-que-e-rag",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-15T01:59:23.797Z",
-      "url": "https://www.tabnews.com.br/wildrik/quando-o-rag-erra-quase-nunca-e-o-llm-4-falhas-de-recuperacao-e-como-logar-cada-uma"
-    },
-    {
-      "id": "6670f773-b0a0-401c-afa5-a2a47f9b72cc",
-      "title": "Pitch: Construí um Framework Java do Zero para provar que a base importa",
-      "slug": "construi-um-framework-java-do-zero-para-provar-que-a-base-importa",
-      "owner_username": "ronerjr",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-15T00:25:51.088Z",
-      "url": "https://www.tabnews.com.br/ronerjr/construi-um-framework-java-do-zero-para-provar-que-a-base-importa"
-    },
-    {
-      "id": "4ca491b7-3eb2-4414-9456-400236f04742",
-      "title": "Como funciona um gerador de CPF (apenas o conceito)",
-      "slug": "como-funciona-um-gerador-de-cpf-apenas-o-conceito",
-      "owner_username": "cacatua",
-      "source_url": null,
-      "tabcoins": 17,
-      "children_deep_count": 2,
-      "published_at": "2026-08-12T19:06:49.898Z",
-      "url": "https://www.tabnews.com.br/cacatua/como-funciona-um-gerador-de-cpf-apenas-o-conceito"
-    },
-    {
-      "id": "3d040995-ed4d-4545-bd7f-685292c48b76",
-      "title": "Meu Game Stick GD10 veio com o cartão corrompido, e reinstalar o sistema me ensinou mais sobre boot Amlogic do que eu gostaria",
-      "slug": "meu-game-stick-gd10-veio-com-o-cartao-corrompido-e-reinstalar-o-sistema-me-ensinou-mais-sobre-boot-amlogic-do-que-eu-gostaria",
-      "owner_username": "kevinjh07",
-      "source_url": null,
-      "tabcoins": 14,
-      "children_deep_count": 1,
-      "published_at": "2026-08-12T22:18:09.946Z",
-      "url": "https://www.tabnews.com.br/kevinjh07/meu-game-stick-gd10-veio-com-o-cartao-corrompido-e-reinstalar-o-sistema-me-ensinou-mais-sobre-boot-amlogic-do-que-eu-gostaria"
     }
   ]
 }
