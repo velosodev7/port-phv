@@ -1,25 +1,14 @@
 {
-  "updated_at": "2026-08-16T09:18:46.100Z",
+  "updated_at": "2026-08-17T09:31:51.324Z",
   "posts": [
-    {
-      "id": "64215a72-9492-4eb4-a763-9fce6d911d54",
-      "title": "Como vamos definir os novos devs sêniors?",
-      "slug": "como-vamos-definir-os-novos-devs-seniors",
-      "owner_username": "KerubinDev",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-08-15T14:20:17.777Z",
-      "url": "https://www.tabnews.com.br/KerubinDev/como-vamos-definir-os-novos-devs-seniors"
-    },
     {
       "id": "83ba7b5f-4281-4349-8d4f-47103e05f913",
       "title": "Pitch: Criei uma CLI em Shell Script para automatizar o setup completo de repositórios Git/GitHub (autoprojrepo)",
       "slug": "criei-uma-cli-em-shell-script-para-automatizar-o-setup-completo-de-repositorios-git-github-autoprojrepo",
       "owner_username": "mazinhorj",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
+      "tabcoins": 5,
+      "children_deep_count": 5,
       "published_at": "2026-08-15T23:58:06.392Z",
       "url": "https://www.tabnews.com.br/mazinhorj/criei-uma-cli-em-shell-script-para-automatizar-o-setup-completo-de-repositorios-git-github-autoprojrepo"
     },
@@ -29,21 +18,54 @@
       "slug": "eu-gosto-de-programar",
       "owner_username": "trenton",
       "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 2,
+      "tabcoins": 4,
+      "children_deep_count": 5,
       "published_at": "2026-08-15T22:40:49.241Z",
       "url": "https://www.tabnews.com.br/trenton/eu-gosto-de-programar"
     },
     {
-      "id": "a3453eb7-b3d4-494d-95ef-df5d82a55b73",
-      "title": "Pitch: A última barreira pra migrar a clínica pro Linux era o token que assina receituários. Derrubar ela me levou a PKCS#11, native messaging e uma briga com o Flatpak",
-      "slug": "a-ultima-barreira-pra-migrar-a-clinica-pro-linux-era-o-token-que-assina-receituarios-derrubar-ela-me-levou-a-pkcs11-native-messaging-e-uma-briga-com-o-fla",
-      "owner_username": "LukaKuuhaku",
+      "id": "9eae546f-8f5e-4ebe-b5ac-a6dd5ce48e35",
+      "title": "🚀 Instalando Agente Linux OCS Inventory NG 3.0 Rework no Debian 13",
+      "slug": "instalando-agente-linux-ocs-inventory-ng-3-0-rework-no-debian-13",
+      "owner_username": "MartinsecTecnologia",
+      "source_url": "https://www.youtube.com/watch?v=HDLHBKLe88g",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-17T06:52:34.743Z",
+      "url": "https://www.tabnews.com.br/MartinsecTecnologia/instalando-agente-linux-ocs-inventory-ng-3-0-rework-no-debian-13"
+    },
+    {
+      "id": "99ad96e5-3607-4ca4-aa17-57c6cc0b31d3",
+      "title": "O workflow do agente não cabe mais só no editor: agora precisa de versão, permissão e rollback",
+      "slug": "o-workflow-do-agente-nao-cabe-mais-so-no-editor-agora-precisa-de-versao-permissao-e-rollback",
+      "owner_username": "Centelha",
+      "source_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-17T06:36:53.685Z",
+      "url": "https://www.tabnews.com.br/Centelha/o-workflow-do-agente-nao-cabe-mais-so-no-editor-agora-precisa-de-versao-permissao-e-rollback"
+    },
+    {
+      "id": "889176be-49b9-4130-bee3-0fd9d27d38fd",
+      "title": "Pitch: PixelGen: ML pra PixelArt em TypeScript, sem dependências, CPU-first",
+      "slug": "pixelgen-ml-pra-pixelart-em-typescript-sem-dependencias-cpu-first",
+      "owner_username": "Junior7i",
       "source_url": null,
-      "tabcoins": 15,
-      "children_deep_count": 4,
-      "published_at": "2026-08-13T18:16:55.961Z",
-      "url": "https://www.tabnews.com.br/LukaKuuhaku/a-ultima-barreira-pra-migrar-a-clinica-pro-linux-era-o-token-que-assina-receituarios-derrubar-ela-me-levou-a-pkcs11-native-messaging-e-uma-briga-com-o-fla"
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-17T00:15:48.592Z",
+      "url": "https://www.tabnews.com.br/Junior7i/pixelgen-ml-pra-pixelart-em-typescript-sem-dependencias-cpu-first"
+    },
+    {
+      "id": "8d16c1ed-1542-403a-a7cc-bd209339358f",
+      "title": "Criando um Sistema Operacional Quântico",
+      "slug": "criando-um-sistema-operacional-quantico",
+      "owner_username": "Dpbm",
+      "source_url": "https://dpbm.vercel.app/posts/are-quantum-computers-turing-complete-igyfr6bwruzci/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-16T23:17:42.182Z",
+      "url": "https://www.tabnews.com.br/Dpbm/criando-um-sistema-operacional-quantico"
     },
     {
       "id": "499c4268-7e41-4568-9699-1b2cadec3667",
@@ -51,8 +73,8 @@
       "slug": "herdei-um-legado-sem-documentacao-14-dias-medindo-antes-de-escrever-qualquer-linha",
       "owner_username": "revinsoftware",
       "source_url": "https://revin.com.br/pt/blog/herdei-sistema-legado-sem-documentacao-duas-semanas",
-      "tabcoins": 12,
-      "children_deep_count": 7,
+      "tabcoins": 14,
+      "children_deep_count": 8,
       "published_at": "2026-08-14T15:42:27.378Z",
       "url": "https://www.tabnews.com.br/revinsoftware/herdei-um-legado-sem-documentacao-14-dias-medindo-antes-de-escrever-qualquer-linha"
     },
@@ -68,26 +90,15 @@
       "url": "https://www.tabnews.com.br/filipeleonelbatista/a-ia-roubou-meu-hiperfoco-o-que-o-autismo-e-a-mente-humana-me-ensinaram-sobre-programar-com-ia"
     },
     {
-      "id": "c721b9dc-5214-4710-8dc5-6f89b6a5daaa",
-      "title": "# Como construí minha própria infraestrutura para acessar MikroTik de clientes remotamente",
-      "slug": "como-construi-minha-propria-infraestrutura-para-acessar-mikrotik-de-clientes-remotamente",
-      "owner_username": "RuanHalsk",
+      "id": "64215a72-9492-4eb4-a763-9fce6d911d54",
+      "title": "Como vamos definir os novos devs sêniors?",
+      "slug": "como-vamos-definir-os-novos-devs-seniors",
+      "owner_username": "KerubinDev",
       "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 11,
-      "published_at": "2026-08-13T19:08:06.672Z",
-      "url": "https://www.tabnews.com.br/RuanHalsk/como-construi-minha-propria-infraestrutura-para-acessar-mikrotik-de-clientes-remotamente"
-    },
-    {
-      "id": "4f1cc043-79bc-4e16-9df7-d3b0360bc43a",
-      "title": "`is-kit` chegou a 50 stars no GitHub — veja como estamos usando em produção",
-      "slug": "is-kit-chegou-a-50-stars-no-github-veja-como-estamos-usando-em-producao",
-      "owner_username": "nyaomaru",
-      "source_url": "https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b",
-      "tabcoins": 7,
-      "children_deep_count": 4,
-      "published_at": "2026-08-13T12:38:54.513Z",
-      "url": "https://www.tabnews.com.br/nyaomaru/is-kit-chegou-a-50-stars-no-github-veja-como-estamos-usando-em-producao"
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-08-15T14:20:17.777Z",
+      "url": "https://www.tabnews.com.br/KerubinDev/como-vamos-definir-os-novos-devs-seniors"
     },
     {
       "id": "205eb4dc-80a7-40f2-bcc8-542426d04eda",
@@ -99,17 +110,6 @@
       "children_deep_count": 2,
       "published_at": "2026-08-14T12:00:03.864Z",
       "url": "https://www.tabnews.com.br/kenimo49/3-vieses-cognitivos-que-estragam-sua-estimativa-de-sprint-e-como-o-claude-code-corta-2-deles"
-    },
-    {
-      "id": "be850490-cd34-476a-a944-9950df2c2f3d",
-      "title": "Pitch: Fiz um app que cria \"agentes\" de notificação sobre qualquer assunto, queria feedback honesto de vocês",
-      "slug": "fiz-um-app-que-cria-agentes-de-notificacao-sobre-qualquer-assunto-queria-feedback-honesto-de-voces",
-      "owner_username": "gabrielduartejr",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-08-14T15:25:45.492Z",
-      "url": "https://www.tabnews.com.br/gabrielduartejr/fiz-um-app-que-cria-agentes-de-notificacao-sobre-qualquer-assunto-queria-feedback-honesto-de-voces"
     }
   ]
 }
