@@ -1,49 +1,27 @@
 {
-  "updated_at": "2026-08-20T09:24:34.579Z",
+  "updated_at": "2026-08-21T09:27:03.053Z",
   "posts": [
     {
-      "id": "36746611-fc22-4212-9af9-4790a20aad9a",
-      "title": "Falha de XSS em sistema de ingressos",
-      "slug": "falha-de-xss-em-sistema-de-ingressos",
-      "owner_username": "Jemorini",
-      "source_url": "https://youtu.be/LFN8afwakFU?si=eDkdd26xf-SrnicP",
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-08-19T15:55:29.728Z",
-      "url": "https://www.tabnews.com.br/Jemorini/falha-de-xss-em-sistema-de-ingressos"
-    },
-    {
-      "id": "30dd2d94-2454-4011-8c74-a80d2d40daad",
-      "title": "Pitch: Criei uma skill open source para integrar a API do Banco Inter usando ChatGPT, Codex e Claude Code",
-      "slug": "criei-uma-skill-open-source-para-integrar-a-api-do-banco-inter-usando-chatgpt-codex-e-claude-code",
-      "owner_username": "whyrnld",
+      "id": "aee234cb-0c90-440c-9167-8c486b09190e",
+      "title": "Codificando bits em números negativos e positivos",
+      "slug": "codificando-bits-em-numeros-negativos-e-positivos",
+      "owner_username": "Programmer404",
       "source_url": null,
-      "tabcoins": 4,
+      "tabcoins": 7,
       "children_deep_count": 0,
-      "published_at": "2026-08-19T17:28:06.678Z",
-      "url": "https://www.tabnews.com.br/whyrnld/criei-uma-skill-open-source-para-integrar-a-api-do-banco-inter-usando-chatgpt-codex-e-claude-code"
+      "published_at": "2026-08-20T13:25:40.675Z",
+      "url": "https://www.tabnews.com.br/Programmer404/codificando-bits-em-numeros-negativos-e-positivos"
     },
     {
-      "id": "e37b0497-8fc3-4262-b561-cef5514b6672",
-      "title": "OpenAI vai financiar dois projetos de pesquisa brasileiros",
-      "slug": "openai-vai-financiar-dois-projetos-de-pesquisa-brasileiros",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://tecnoblog.net/noticias/openai-estreia-lacos-com-brasil-e-busca-mais-parceiros/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-19T14:35:09.212Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/openai-vai-financiar-dois-projetos-de-pesquisa-brasileiros"
-    },
-    {
-      "id": "e918098b-a297-4afc-833c-4f6300fceec0",
-      "title": "Escrevi 'testes antes do PR' no AGENTS.md por 3 Meses. Só 12% Seguiram.",
-      "slug": "escrevi-testes-antes-do-pr-no-agents-md-por-3-meses-so-12-por-cento-seguiram",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/agents-md-testes-pr-12-por-cento-seguiram/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-19T12:00:03.497Z",
-      "url": "https://www.tabnews.com.br/kenimo49/escrevi-testes-antes-do-pr-no-agents-md-por-3-meses-so-12-por-cento-seguiram"
+      "id": "3f094112-e6c4-43e9-b7b8-a7a8d2417b99",
+      "title": "Como construí um dashboard de energia solar embutido na parede da minha casa",
+      "slug": "como-construi-um-dashboard-de-energia-solar-embutido-na-parede-da-minha-casa",
+      "owner_username": "marcosvpj",
+      "source_url": "https://marcosvpj.com.br/posts/write-up-tecnico-cyd-solar/",
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-08-20T19:21:31.888Z",
+      "url": "https://www.tabnews.com.br/marcosvpj/como-construi-um-dashboard-de-energia-solar-embutido-na-parede-da-minha-casa"
     },
     {
       "id": "50e57787-1e55-4cc8-940a-5261d9e2b62a",
@@ -51,65 +29,87 @@
       "slug": "jogando-war-de-tabuleiro-de-forma-mais-rapida",
       "owner_username": "Leodeymison",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
+      "tabcoins": 6,
+      "children_deep_count": 2,
       "published_at": "2026-08-19T23:47:40.507Z",
       "url": "https://www.tabnews.com.br/Leodeymison/jogando-war-de-tabuleiro-de-forma-mais-rapida"
     },
     {
-      "id": "db44bcf6-0531-4b0c-b77c-cdc46d9a0338",
-      "title": "GitHub explica instabilidade generalizada nesta semana que durou quase oito horas",
-      "slug": "github-explica-instabilidade-generalizada-nesta-semana-que-durou-quase-oito-horas",
-      "owner_username": "NewsletterOficial",
+      "id": "7c2a7a75-f043-4a50-9c23-d66a0c8fd4e4",
+      "title": "Pitch: Criei QA Gates pra rodar no seu rep vibecodado",
+      "slug": "criei-qa-gates-pra-rodar-no-seu-rep-vibecodado",
+      "owner_username": "PedroOSilva",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-08-20T10:42:37.138Z",
+      "url": "https://www.tabnews.com.br/PedroOSilva/criei-qa-gates-pra-rodar-no-seu-rep-vibecodado"
+    },
+    {
+      "id": "59636688-2c8d-4090-a79f-a796e5e51b2a",
+      "title": "Modelo novo, comportamento novo: trate a troca como uma migração",
+      "slug": "modelo-novo-comportamento-novo-trate-a-troca-como-uma-migracao",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-08-20T14:14:50.745Z",
+      "url": "https://www.tabnews.com.br/Centelha/modelo-novo-comportamento-novo-trate-a-troca-como-uma-migracao"
+    },
+    {
+      "id": "31341c25-b491-4f5e-bbcb-c1280bdc6023",
+      "title": "Construí um cliente de Discord nativo em Rust que usa apenas ~30MB de RAM (e 0.1% de CPU)",
+      "slug": "construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu",
+      "owner_username": "Ak4ai",
+      "source_url": "https://ak4ai.github.io/Litecord/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-08-21T02:33:35.601Z",
+      "url": "https://www.tabnews.com.br/Ak4ai/construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu"
+    },
+    {
+      "id": "fe985313-1981-462f-b788-2896cdf224c0",
+      "title": "Quanto tempo vocês levam para fazer rollback de um deploy quebrado?",
+      "slug": "quanto-tempo-voces-levam-para-fazer-rollback-de-um-deploy-quebrado",
+      "owner_username": "csbills",
       "source_url": null,
       "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-19T14:00:06.405Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/github-explica-instabilidade-generalizada-nesta-semana-que-durou-quase-oito-horas"
+      "children_deep_count": 1,
+      "published_at": "2026-08-20T15:10:55.825Z",
+      "url": "https://www.tabnews.com.br/csbills/quanto-tempo-voces-levam-para-fazer-rollback-de-um-deploy-quebrado"
     },
     {
-      "id": "810e5c1d-2380-44ef-9448-65d7146516a4",
-      "title": "oh-my-agent: refactor guards cross-vendor e avaliação isolada",
-      "slug": "oh-my-agent-refactor-guards-cross-vendor-e-avaliacao-isolada",
-      "owner_username": "gracefullight",
-      "source_url": "https://dev.to/gracefullight/oh-my-agent-cross-vendor-refactor-guards-and-isolated-eval-4c9o",
+      "id": "f75fcc06-ca3c-4af2-ab13-aa687cd98ae6",
+      "title": "Desvendei o código do Elifoot 98 após 25 anos: Engenharia reversa em 16-bit com Ghidra no Linux",
+      "slug": "desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux",
+      "owner_username": "trsthales",
+      "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-20T02:05:01.868Z",
-      "url": "https://www.tabnews.com.br/gracefullight/oh-my-agent-refactor-guards-cross-vendor-e-avaliacao-isolada"
+      "published_at": "2026-08-21T07:49:07.026Z",
+      "url": "https://www.tabnews.com.br/trsthales/desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux"
     },
     {
-      "id": "220a601b-4b87-4288-b163-0138331e34a4",
-      "title": "Como Publicar uma Biblioteca .NET no NuGet.org",
-      "slug": "como-publicar-uma-biblioteca-net-no-nuget-org",
-      "owner_username": "lzocateli",
-      "source_url": "https://zocate.li/posts/2026/publicar-biblioteca-dotnet-nuget/",
+      "id": "3ddaabe5-8745-4092-9796-c8bd30b95002",
+      "title": "Pitch: O que muda no custo de um projeto ao trocar de modelo de IA",
+      "slug": "pitch-o-que-muda-no-custo-de-um-projeto-ao-trocar-de-modelo-de-ia",
+      "owner_username": "CapivaraDoPix",
+      "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-20T02:01:26.413Z",
-      "url": "https://www.tabnews.com.br/lzocateli/como-publicar-uma-biblioteca-net-no-nuget-org"
+      "published_at": "2026-08-21T02:31:13.760Z",
+      "url": "https://www.tabnews.com.br/CapivaraDoPix/pitch-o-que-muda-no-custo-de-um-projeto-ao-trocar-de-modelo-de-ia"
     },
     {
-      "id": "d26ac260-566f-4d74-8468-263a23fee4e8",
-      "title": "Automatizei minha declaração de imposto com Claude Code: 14 horas viraram 47 minutos (e o que a Receita ainda não sabe)",
-      "slug": "automatizei-minha-declaracao-de-imposto-com-claude-code-14-horas-viraram-47-minutos-e-o-que-a-receita-ainda-nao-sabe",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/automatizei-declaracao-imposto-claude-code-14h-47min/",
-      "tabcoins": 12,
-      "children_deep_count": 8,
-      "published_at": "2026-08-17T12:00:03.382Z",
-      "url": "https://www.tabnews.com.br/kenimo49/automatizei-minha-declaracao-de-imposto-com-claude-code-14-horas-viraram-47-minutos-e-o-que-a-receita-ainda-nao-sabe"
-    },
-    {
-      "id": "0e4941e6-e62f-4218-8c03-41e710726d32",
-      "title": "Entendendo o Prompt Magico (/loop e /goal)",
-      "slug": "entendendo-o-prompt-magico-loop-e-goal",
-      "owner_username": "Oletros",
-      "source_url": "https://www.linkedin.com/pulse/e-se-ia-pudesse-corrigir-os-pr%25C3%25B3prios-erros-sozinha-anderson-c-santos-c9uwf",
-      "tabcoins": 6,
-      "children_deep_count": 6,
-      "published_at": "2026-08-17T18:58:30.683Z",
-      "url": "https://www.tabnews.com.br/Oletros/entendendo-o-prompt-magico-loop-e-goal"
+      "id": "a789b281-41b5-46ec-ae78-c526a524145a",
+      "title": "TeamSpeak 6 self-hosted numa VPS Oracle Cloud grátis: guia completo (e os dois firewalls que travam quase todo iniciante)",
+      "slug": "teamspeak-6-self-hosted-numa-vps-oracle-cloud-gratis-guia-completo-e-os-dois-firewalls-que-travam-quase-todo-iniciante",
+      "owner_username": "hiradox",
+      "source_url": "https://luanncurioso.dev/blog/self-hosting-teamspeak-oracle-free-vps",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-21T02:08:57.918Z",
+      "url": "https://www.tabnews.com.br/hiradox/teamspeak-6-self-hosted-numa-vps-oracle-cloud-gratis-guia-completo-e-os-dois-firewalls-que-travam-quase-todo-iniciante"
     }
   ]
 }
