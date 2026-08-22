@@ -1,82 +1,27 @@
 {
-  "updated_at": "2026-08-21T09:27:03.053Z",
+  "updated_at": "2026-08-22T09:18:13.366Z",
   "posts": [
     {
-      "id": "aee234cb-0c90-440c-9167-8c486b09190e",
-      "title": "Codificando bits em números negativos e positivos",
-      "slug": "codificando-bits-em-numeros-negativos-e-positivos",
-      "owner_username": "Programmer404",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 0,
-      "published_at": "2026-08-20T13:25:40.675Z",
-      "url": "https://www.tabnews.com.br/Programmer404/codificando-bits-em-numeros-negativos-e-positivos"
-    },
-    {
-      "id": "3f094112-e6c4-43e9-b7b8-a7a8d2417b99",
-      "title": "Como construí um dashboard de energia solar embutido na parede da minha casa",
-      "slug": "como-construi-um-dashboard-de-energia-solar-embutido-na-parede-da-minha-casa",
-      "owner_username": "marcosvpj",
-      "source_url": "https://marcosvpj.com.br/posts/write-up-tecnico-cyd-solar/",
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-08-20T19:21:31.888Z",
-      "url": "https://www.tabnews.com.br/marcosvpj/como-construi-um-dashboard-de-energia-solar-embutido-na-parede-da-minha-casa"
-    },
-    {
-      "id": "50e57787-1e55-4cc8-940a-5261d9e2b62a",
-      "title": "Pitch: Jogando WAR de tabuleiro de forma mais rápida",
-      "slug": "jogando-war-de-tabuleiro-de-forma-mais-rapida",
-      "owner_username": "Leodeymison",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-08-19T23:47:40.507Z",
-      "url": "https://www.tabnews.com.br/Leodeymison/jogando-war-de-tabuleiro-de-forma-mais-rapida"
-    },
-    {
-      "id": "7c2a7a75-f043-4a50-9c23-d66a0c8fd4e4",
-      "title": "Pitch: Criei QA Gates pra rodar no seu rep vibecodado",
-      "slug": "criei-qa-gates-pra-rodar-no-seu-rep-vibecodado",
-      "owner_username": "PedroOSilva",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-08-20T10:42:37.138Z",
-      "url": "https://www.tabnews.com.br/PedroOSilva/criei-qa-gates-pra-rodar-no-seu-rep-vibecodado"
-    },
-    {
-      "id": "59636688-2c8d-4090-a79f-a796e5e51b2a",
-      "title": "Modelo novo, comportamento novo: trate a troca como uma migração",
-      "slug": "modelo-novo-comportamento-novo-trate-a-troca-como-uma-migracao",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-08-20T14:14:50.745Z",
-      "url": "https://www.tabnews.com.br/Centelha/modelo-novo-comportamento-novo-trate-a-troca-como-uma-migracao"
-    },
-    {
       "id": "31341c25-b491-4f5e-bbcb-c1280bdc6023",
-      "title": "Construí um cliente de Discord nativo em Rust que usa apenas ~30MB de RAM (e 0.1% de CPU)",
+      "title": "Pitch: Construí um cliente de Discord nativo em Rust que usa apenas ~30MB de RAM (e 0.1% de CPU)",
       "slug": "construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu",
       "owner_username": "Ak4ai",
       "source_url": "https://ak4ai.github.io/Litecord/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
+      "tabcoins": 12,
+      "children_deep_count": 2,
       "published_at": "2026-08-21T02:33:35.601Z",
       "url": "https://www.tabnews.com.br/Ak4ai/construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu"
     },
     {
-      "id": "fe985313-1981-462f-b788-2896cdf224c0",
-      "title": "Quanto tempo vocês levam para fazer rollback de um deploy quebrado?",
-      "slug": "quanto-tempo-voces-levam-para-fazer-rollback-de-um-deploy-quebrado",
-      "owner_username": "csbills",
-      "source_url": null,
-      "tabcoins": 3,
+      "id": "429f2eaa-d503-4553-ac63-30ae6c5e84c4",
+      "title": "CTR do #1 do Google caiu 34,5% com AI Overview — o checklist LLMO de 1 hora",
+      "slug": "ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/ai-overview-ctr-34-5-checklist-llmo-1-hora/",
+      "tabcoins": 6,
       "children_deep_count": 1,
-      "published_at": "2026-08-20T15:10:55.825Z",
-      "url": "https://www.tabnews.com.br/csbills/quanto-tempo-voces-levam-para-fazer-rollback-de-um-deploy-quebrado"
+      "published_at": "2026-08-21T12:00:03.891Z",
+      "url": "https://www.tabnews.com.br/kenimo49/ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora"
     },
     {
       "id": "f75fcc06-ca3c-4af2-ab13-aa687cd98ae6",
@@ -84,21 +29,54 @@
       "slug": "desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux",
       "owner_username": "trsthales",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 6,
+      "children_deep_count": 2,
       "published_at": "2026-08-21T07:49:07.026Z",
       "url": "https://www.tabnews.com.br/trsthales/desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux"
     },
     {
-      "id": "3ddaabe5-8745-4092-9796-c8bd30b95002",
-      "title": "Pitch: O que muda no custo de um projeto ao trocar de modelo de IA",
-      "slug": "pitch-o-que-muda-no-custo-de-um-projeto-ao-trocar-de-modelo-de-ia",
-      "owner_username": "CapivaraDoPix",
+      "id": "796b85ae-7dff-43b7-8659-ba23c02571b9",
+      "title": "Contexto é arquitetura de informação, trate seu agente como um humano",
+      "slug": "contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano",
+      "owner_username": "lincolixavier",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-08-21T22:02:21.568Z",
+      "url": "https://www.tabnews.com.br/lincolixavier/contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano"
+    },
+    {
+      "id": "ca65b537-b95b-4951-8d79-ca8ce78b5862",
+      "title": "Criei vários aplicativos e resolvi juntar todos em um só lugar",
+      "slug": "criei-varios-aplicativos-e-resolvi-juntar-todos-em-um-so-lugar",
+      "owner_username": "starzynhobr",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-21T02:31:13.760Z",
-      "url": "https://www.tabnews.com.br/CapivaraDoPix/pitch-o-que-muda-no-custo-de-um-projeto-ao-trocar-de-modelo-de-ia"
+      "published_at": "2026-08-22T04:56:31.799Z",
+      "url": "https://www.tabnews.com.br/starzynhobr/criei-varios-aplicativos-e-resolvi-juntar-todos-em-um-so-lugar"
+    },
+    {
+      "id": "1490b028-5c2d-4292-8a07-94e8a0e13d69",
+      "title": "Você não precisa de uma ferramenta que faça e/ou facilite tudo. (E na minha opinião isso é errado)",
+      "slug": "voce-nao-precisa-de-uma-ferramenta-que-faca-e-ou-facilite-tudo-e-na-minha-opiniao-isso-e-errado",
+      "owner_username": "wellingtonpragidi",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-22T02:32:02.625Z",
+      "url": "https://www.tabnews.com.br/wellingtonpragidi/voce-nao-precisa-de-uma-ferramenta-que-faca-e-ou-facilite-tudo-e-na-minha-opiniao-isso-e-errado"
+    },
+    {
+      "id": "da6c5013-b375-4409-a04b-41f779eebd40",
+      "title": "Pitch: blastproof: testes end-to-end escritos em inglês, sem nenhum seletor CSS",
+      "slug": "pitch-blastproof-testes-end-to-end-escritos-em-ingles-sem-nenhum-seletor-css",
+      "owner_username": "hamc",
+      "source_url": "https://github.com/hamc/blastproof",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-22T01:59:15.041Z",
+      "url": "https://www.tabnews.com.br/hamc/pitch-blastproof-testes-end-to-end-escritos-em-ingles-sem-nenhum-seletor-css"
     },
     {
       "id": "a789b281-41b5-46ec-ae78-c526a524145a",
@@ -106,10 +84,32 @@
       "slug": "teamspeak-6-self-hosted-numa-vps-oracle-cloud-gratis-guia-completo-e-os-dois-firewalls-que-travam-quase-todo-iniciante",
       "owner_username": "hiradox",
       "source_url": "https://luanncurioso.dev/blog/self-hosting-teamspeak-oracle-free-vps",
-      "tabcoins": 1,
+      "tabcoins": 4,
       "children_deep_count": 0,
       "published_at": "2026-08-21T02:08:57.918Z",
       "url": "https://www.tabnews.com.br/hiradox/teamspeak-6-self-hosted-numa-vps-oracle-cloud-gratis-guia-completo-e-os-dois-firewalls-que-travam-quase-todo-iniciante"
+    },
+    {
+      "id": "30dd2d94-2454-4011-8c74-a80d2d40daad",
+      "title": "Pitch: Criei uma skill open source para integrar a API do Banco Inter usando ChatGPT, Codex e Claude Code",
+      "slug": "criei-uma-skill-open-source-para-integrar-a-api-do-banco-inter-usando-chatgpt-codex-e-claude-code",
+      "owner_username": "whyrnld",
+      "source_url": null,
+      "tabcoins": 13,
+      "children_deep_count": 0,
+      "published_at": "2026-08-19T17:28:06.678Z",
+      "url": "https://www.tabnews.com.br/whyrnld/criei-uma-skill-open-source-para-integrar-a-api-do-banco-inter-usando-chatgpt-codex-e-claude-code"
+    },
+    {
+      "id": "3f094112-e6c4-43e9-b7b8-a7a8d2417b99",
+      "title": "Como construí um dashboard de energia solar embutido na parede da minha casa",
+      "slug": "como-construi-um-dashboard-de-energia-solar-embutido-na-parede-da-minha-casa",
+      "owner_username": "marcosvpj",
+      "source_url": "https://marcosvpj.com.br/posts/write-up-tecnico-cyd-solar/",
+      "tabcoins": 9,
+      "children_deep_count": 2,
+      "published_at": "2026-08-20T19:21:31.888Z",
+      "url": "https://www.tabnews.com.br/marcosvpj/como-construi-um-dashboard-de-energia-solar-embutido-na-parede-da-minha-casa"
     }
   ]
 }
