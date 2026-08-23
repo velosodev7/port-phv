@@ -1,27 +1,60 @@
 {
-  "updated_at": "2026-08-22T09:18:13.366Z",
+  "updated_at": "2026-08-23T09:19:25.260Z",
   "posts": [
+    {
+      "id": "16d01839-b1ce-476d-b58d-f0102e7831a8",
+      "title": "Criei um app em tempo real com 2,4 KB de JavaScript — sem framework, sem build",
+      "slug": "criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build",
+      "owner_username": "n0n3br",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-08-22T21:56:31.139Z",
+      "url": "https://www.tabnews.com.br/n0n3br/criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build"
+    },
+    {
+      "id": "18ca375b-2e61-4cee-aa99-d8a7d72f516a",
+      "title": "Requisito que chega em áudio não entra no backlog",
+      "slug": "requisito-que-chega-em-audio-nao-entra-no-backlog",
+      "owner_username": "livialee",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-23T08:01:56.059Z",
+      "url": "https://www.tabnews.com.br/livialee/requisito-que-chega-em-audio-nao-entra-no-backlog"
+    },
+    {
+      "id": "52efb7bb-25f2-41ee-b910-7c2b13f63f77",
+      "title": "Parei de tratar Hexagonal e Clean Architecture como rivais: a analogia da tomada resolveu",
+      "slug": "parei-de-tratar-hexagonal-e-clean-architecture-como-rivais-a-analogia-da-tomada-resolveu",
+      "owner_username": "wildrik",
+      "source_url": "https://www.techknow.com.br/post/arquitetura-hexagonal-ports-adapters",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-23T00:00:28.630Z",
+      "url": "https://www.tabnews.com.br/wildrik/parei-de-tratar-hexagonal-e-clean-architecture-como-rivais-a-analogia-da-tomada-resolveu"
+    },
+    {
+      "id": "5d5f7dc6-0e55-4d7a-85de-2bda03ec8c70",
+      "title": "Pitch: Criei o pactx: Uma ferramenta Open Source para resolver a amnésia e perda de contexto de IAs em projetos longos",
+      "slug": "criei-o-pactx-uma-ferramenta-open-source-para-resolver-a-amnesia-e-perda-de-contexto-de-ias-em-projetos-longos",
+      "owner_username": "trsthales",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-22T22:59:13.281Z",
+      "url": "https://www.tabnews.com.br/trsthales/criei-o-pactx-uma-ferramenta-open-source-para-resolver-a-amnesia-e-perda-de-contexto-de-ias-em-projetos-longos"
+    },
     {
       "id": "31341c25-b491-4f5e-bbcb-c1280bdc6023",
       "title": "Pitch: Construí um cliente de Discord nativo em Rust que usa apenas ~30MB de RAM (e 0.1% de CPU)",
       "slug": "construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu",
       "owner_username": "Ak4ai",
       "source_url": "https://ak4ai.github.io/Litecord/",
-      "tabcoins": 12,
-      "children_deep_count": 2,
+      "tabcoins": 14,
+      "children_deep_count": 5,
       "published_at": "2026-08-21T02:33:35.601Z",
       "url": "https://www.tabnews.com.br/Ak4ai/construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu"
-    },
-    {
-      "id": "429f2eaa-d503-4553-ac63-30ae6c5e84c4",
-      "title": "CTR do #1 do Google caiu 34,5% com AI Overview — o checklist LLMO de 1 hora",
-      "slug": "ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/ai-overview-ctr-34-5-checklist-llmo-1-hora/",
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-08-21T12:00:03.891Z",
-      "url": "https://www.tabnews.com.br/kenimo49/ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora"
     },
     {
       "id": "f75fcc06-ca3c-4af2-ab13-aa687cd98ae6",
@@ -29,76 +62,10 @@
       "slug": "desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux",
       "owner_username": "trsthales",
       "source_url": null,
-      "tabcoins": 6,
+      "tabcoins": 12,
       "children_deep_count": 2,
       "published_at": "2026-08-21T07:49:07.026Z",
       "url": "https://www.tabnews.com.br/trsthales/desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux"
-    },
-    {
-      "id": "796b85ae-7dff-43b7-8659-ba23c02571b9",
-      "title": "Contexto é arquitetura de informação, trate seu agente como um humano",
-      "slug": "contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano",
-      "owner_username": "lincolixavier",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-08-21T22:02:21.568Z",
-      "url": "https://www.tabnews.com.br/lincolixavier/contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano"
-    },
-    {
-      "id": "ca65b537-b95b-4951-8d79-ca8ce78b5862",
-      "title": "Criei vários aplicativos e resolvi juntar todos em um só lugar",
-      "slug": "criei-varios-aplicativos-e-resolvi-juntar-todos-em-um-so-lugar",
-      "owner_username": "starzynhobr",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-22T04:56:31.799Z",
-      "url": "https://www.tabnews.com.br/starzynhobr/criei-varios-aplicativos-e-resolvi-juntar-todos-em-um-so-lugar"
-    },
-    {
-      "id": "1490b028-5c2d-4292-8a07-94e8a0e13d69",
-      "title": "Você não precisa de uma ferramenta que faça e/ou facilite tudo. (E na minha opinião isso é errado)",
-      "slug": "voce-nao-precisa-de-uma-ferramenta-que-faca-e-ou-facilite-tudo-e-na-minha-opiniao-isso-e-errado",
-      "owner_username": "wellingtonpragidi",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-22T02:32:02.625Z",
-      "url": "https://www.tabnews.com.br/wellingtonpragidi/voce-nao-precisa-de-uma-ferramenta-que-faca-e-ou-facilite-tudo-e-na-minha-opiniao-isso-e-errado"
-    },
-    {
-      "id": "da6c5013-b375-4409-a04b-41f779eebd40",
-      "title": "Pitch: blastproof: testes end-to-end escritos em inglês, sem nenhum seletor CSS",
-      "slug": "pitch-blastproof-testes-end-to-end-escritos-em-ingles-sem-nenhum-seletor-css",
-      "owner_username": "hamc",
-      "source_url": "https://github.com/hamc/blastproof",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-22T01:59:15.041Z",
-      "url": "https://www.tabnews.com.br/hamc/pitch-blastproof-testes-end-to-end-escritos-em-ingles-sem-nenhum-seletor-css"
-    },
-    {
-      "id": "a789b281-41b5-46ec-ae78-c526a524145a",
-      "title": "TeamSpeak 6 self-hosted numa VPS Oracle Cloud grátis: guia completo (e os dois firewalls que travam quase todo iniciante)",
-      "slug": "teamspeak-6-self-hosted-numa-vps-oracle-cloud-gratis-guia-completo-e-os-dois-firewalls-que-travam-quase-todo-iniciante",
-      "owner_username": "hiradox",
-      "source_url": "https://luanncurioso.dev/blog/self-hosting-teamspeak-oracle-free-vps",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-21T02:08:57.918Z",
-      "url": "https://www.tabnews.com.br/hiradox/teamspeak-6-self-hosted-numa-vps-oracle-cloud-gratis-guia-completo-e-os-dois-firewalls-que-travam-quase-todo-iniciante"
-    },
-    {
-      "id": "30dd2d94-2454-4011-8c74-a80d2d40daad",
-      "title": "Pitch: Criei uma skill open source para integrar a API do Banco Inter usando ChatGPT, Codex e Claude Code",
-      "slug": "criei-uma-skill-open-source-para-integrar-a-api-do-banco-inter-usando-chatgpt-codex-e-claude-code",
-      "owner_username": "whyrnld",
-      "source_url": null,
-      "tabcoins": 13,
-      "children_deep_count": 0,
-      "published_at": "2026-08-19T17:28:06.678Z",
-      "url": "https://www.tabnews.com.br/whyrnld/criei-uma-skill-open-source-para-integrar-a-api-do-banco-inter-usando-chatgpt-codex-e-claude-code"
     },
     {
       "id": "3f094112-e6c4-43e9-b7b8-a7a8d2417b99",
@@ -107,9 +74,42 @@
       "owner_username": "marcosvpj",
       "source_url": "https://marcosvpj.com.br/posts/write-up-tecnico-cyd-solar/",
       "tabcoins": 9,
-      "children_deep_count": 2,
+      "children_deep_count": 4,
       "published_at": "2026-08-20T19:21:31.888Z",
       "url": "https://www.tabnews.com.br/marcosvpj/como-construi-um-dashboard-de-energia-solar-embutido-na-parede-da-minha-casa"
+    },
+    {
+      "id": "aee234cb-0c90-440c-9167-8c486b09190e",
+      "title": "Codificando bits em números negativos e positivos",
+      "slug": "codificando-bits-em-numeros-negativos-e-positivos",
+      "owner_username": "Programmer404",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 0,
+      "published_at": "2026-08-20T13:25:40.675Z",
+      "url": "https://www.tabnews.com.br/Programmer404/codificando-bits-em-numeros-negativos-e-positivos"
+    },
+    {
+      "id": "429f2eaa-d503-4553-ac63-30ae6c5e84c4",
+      "title": "CTR do #1 do Google caiu 34,5% com AI Overview — o checklist LLMO de 1 hora",
+      "slug": "ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/ai-overview-ctr-34-5-checklist-llmo-1-hora/",
+      "tabcoins": 7,
+      "children_deep_count": 2,
+      "published_at": "2026-08-21T12:00:03.891Z",
+      "url": "https://www.tabnews.com.br/kenimo49/ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora"
+    },
+    {
+      "id": "7c2a7a75-f043-4a50-9c23-d66a0c8fd4e4",
+      "title": "Pitch: Criei QA Gates pra rodar no seu rep vibecodado",
+      "slug": "criei-qa-gates-pra-rodar-no-seu-rep-vibecodado",
+      "owner_username": "PedroOSilva",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 0,
+      "published_at": "2026-08-20T10:42:37.138Z",
+      "url": "https://www.tabnews.com.br/PedroOSilva/criei-qa-gates-pra-rodar-no-seu-rep-vibecodado"
     }
   ]
 }
