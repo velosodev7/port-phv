@@ -1,49 +1,93 @@
 {
-  "updated_at": "2026-08-23T09:19:25.260Z",
+  "updated_at": "2026-08-24T09:37:31.823Z",
   "posts": [
+    {
+      "id": "44bb8ea1-18a6-490a-a2ee-9f59540a6f5e",
+      "title": "Até onde uma biblioteca deve crescer antes de perder seu propósito?",
+      "slug": "ate-onde-uma-biblioteca-deve-crescer-antes-de-perder-seu-proposito",
+      "owner_username": "pedrofnseca",
+      "source_url": "https://esp32httpclient.com/",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-08-23T22:20:23.538Z",
+      "url": "https://www.tabnews.com.br/pedrofnseca/ate-onde-uma-biblioteca-deve-crescer-antes-de-perder-seu-proposito"
+    },
+    {
+      "id": "5843db5a-7a5c-4b0a-b31b-9b7df172970b",
+      "title": "Pitch: 🍩 Esse é um web app de notas diferente com uma atualização",
+      "slug": "esse-e-um-web-app-de-notas-diferente-com-uma-atualizacao",
+      "owner_username": "evertonruan",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-08-23T10:58:22.971Z",
+      "url": "https://www.tabnews.com.br/evertonruan/esse-e-um-web-app-de-notas-diferente-com-uma-atualizacao"
+    },
+    {
+      "id": "acf709e0-9f26-479d-ab8c-32afc16b3776",
+      "title": ".NET Native AOT: Ecossistema de Compilação em C#",
+      "slug": "net-native-aot-ecossistema-de-compilacao-em-c",
+      "owner_username": "lzocateli",
+      "source_url": "https://zocate.li/posts/2026/dotnet-native-aot-ecossistema-compilacao/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-24T09:01:45.402Z",
+      "url": "https://www.tabnews.com.br/lzocateli/net-native-aot-ecossistema-de-compilacao-em-c"
+    },
+    {
+      "id": "cca10112-05f3-498e-92e3-b9c93d293d24",
+      "title": "Pitch: Streamae — quando o Discord tirou o compartilhamento de tela",
+      "slug": "pitch-streamae-quando-o-discord-tirou-o-compartilhamento-de-tela",
+      "owner_username": "kennedydc97",
+      "source_url": "https://github.com/kennedydc97/streamae",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-24T03:37:31.962Z",
+      "url": "https://www.tabnews.com.br/kennedydc97/pitch-streamae-quando-o-discord-tirou-o-compartilhamento-de-tela"
+    },
     {
       "id": "16d01839-b1ce-476d-b58d-f0102e7831a8",
       "title": "Criei um app em tempo real com 2,4 KB de JavaScript — sem framework, sem build",
       "slug": "criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build",
       "owner_username": "n0n3br",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
+      "tabcoins": 5,
+      "children_deep_count": 1,
       "published_at": "2026-08-22T21:56:31.139Z",
       "url": "https://www.tabnews.com.br/n0n3br/criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build"
     },
     {
-      "id": "18ca375b-2e61-4cee-aa99-d8a7d72f516a",
-      "title": "Requisito que chega em áudio não entra no backlog",
-      "slug": "requisito-que-chega-em-audio-nao-entra-no-backlog",
-      "owner_username": "livialee",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-23T08:01:56.059Z",
-      "url": "https://www.tabnews.com.br/livialee/requisito-que-chega-em-audio-nao-entra-no-backlog"
+      "id": "429f2eaa-d503-4553-ac63-30ae6c5e84c4",
+      "title": "CTR do #1 do Google caiu 34,5% com AI Overview — o checklist LLMO de 1 hora",
+      "slug": "ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/ai-overview-ctr-34-5-checklist-llmo-1-hora/",
+      "tabcoins": 7,
+      "children_deep_count": 4,
+      "published_at": "2026-08-21T12:00:03.891Z",
+      "url": "https://www.tabnews.com.br/kenimo49/ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora"
     },
     {
-      "id": "52efb7bb-25f2-41ee-b910-7c2b13f63f77",
-      "title": "Parei de tratar Hexagonal e Clean Architecture como rivais: a analogia da tomada resolveu",
-      "slug": "parei-de-tratar-hexagonal-e-clean-architecture-como-rivais-a-analogia-da-tomada-resolveu",
-      "owner_username": "wildrik",
-      "source_url": "https://www.techknow.com.br/post/arquitetura-hexagonal-ports-adapters",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-23T00:00:28.630Z",
-      "url": "https://www.tabnews.com.br/wildrik/parei-de-tratar-hexagonal-e-clean-architecture-como-rivais-a-analogia-da-tomada-resolveu"
+      "id": "796b85ae-7dff-43b7-8659-ba23c02571b9",
+      "title": "Contexto é arquitetura de informação, trate seu agente como um humano",
+      "slug": "contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano",
+      "owner_username": "lincolixavier",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-08-21T22:02:21.568Z",
+      "url": "https://www.tabnews.com.br/lincolixavier/contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano"
     },
     {
-      "id": "5d5f7dc6-0e55-4d7a-85de-2bda03ec8c70",
-      "title": "Pitch: Criei o pactx: Uma ferramenta Open Source para resolver a amnésia e perda de contexto de IAs em projetos longos",
-      "slug": "criei-o-pactx-uma-ferramenta-open-source-para-resolver-a-amnesia-e-perda-de-contexto-de-ias-em-projetos-longos",
-      "owner_username": "trsthales",
+      "id": "c73dac9c-8e6e-466a-8992-6bcfa351b192",
+      "title": "PHP: Gostaria de saber se tem como/compensa upar um sistema php5.6 para PHP8 Moderno e adicional Laravel nele, ou seria melhor desenvolver do \"zero\"",
+      "slug": "php-gostaria-de-saber-se-tem-como-compensa-upar-um-sistema-php5-6-para-php8-moderno-e-adicional-laravel-nele-ou-seria-melhor-desenvolver-do-zero",
+      "owner_username": "Kevyn",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-22T22:59:13.281Z",
-      "url": "https://www.tabnews.com.br/trsthales/criei-o-pactx-uma-ferramenta-open-source-para-resolver-a-amnesia-e-perda-de-contexto-de-ias-em-projetos-longos"
+      "tabcoins": 10,
+      "children_deep_count": 35,
+      "published_at": "2024-12-04T19:37:42.520Z",
+      "url": "https://www.tabnews.com.br/Kevyn/php-gostaria-de-saber-se-tem-como-compensa-upar-um-sistema-php5-6-para-php8-moderno-e-adicional-laravel-nele-ou-seria-melhor-desenvolver-do-zero"
     },
     {
       "id": "31341c25-b491-4f5e-bbcb-c1280bdc6023",
@@ -57,59 +101,15 @@
       "url": "https://www.tabnews.com.br/Ak4ai/construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu"
     },
     {
-      "id": "f75fcc06-ca3c-4af2-ab13-aa687cd98ae6",
-      "title": "Desvendei o código do Elifoot 98 após 25 anos: Engenharia reversa em 16-bit com Ghidra no Linux",
-      "slug": "desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux",
-      "owner_username": "trsthales",
-      "source_url": null,
-      "tabcoins": 12,
-      "children_deep_count": 2,
-      "published_at": "2026-08-21T07:49:07.026Z",
-      "url": "https://www.tabnews.com.br/trsthales/desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux"
-    },
-    {
-      "id": "3f094112-e6c4-43e9-b7b8-a7a8d2417b99",
-      "title": "Como construí um dashboard de energia solar embutido na parede da minha casa",
-      "slug": "como-construi-um-dashboard-de-energia-solar-embutido-na-parede-da-minha-casa",
-      "owner_username": "marcosvpj",
-      "source_url": "https://marcosvpj.com.br/posts/write-up-tecnico-cyd-solar/",
-      "tabcoins": 9,
-      "children_deep_count": 4,
-      "published_at": "2026-08-20T19:21:31.888Z",
-      "url": "https://www.tabnews.com.br/marcosvpj/como-construi-um-dashboard-de-energia-solar-embutido-na-parede-da-minha-casa"
-    },
-    {
-      "id": "aee234cb-0c90-440c-9167-8c486b09190e",
-      "title": "Codificando bits em números negativos e positivos",
-      "slug": "codificando-bits-em-numeros-negativos-e-positivos",
-      "owner_username": "Programmer404",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 0,
-      "published_at": "2026-08-20T13:25:40.675Z",
-      "url": "https://www.tabnews.com.br/Programmer404/codificando-bits-em-numeros-negativos-e-positivos"
-    },
-    {
-      "id": "429f2eaa-d503-4553-ac63-30ae6c5e84c4",
-      "title": "CTR do #1 do Google caiu 34,5% com AI Overview — o checklist LLMO de 1 hora",
-      "slug": "ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora",
+      "id": "d26ac260-566f-4d74-8468-263a23fee4e8",
+      "title": "Automatizei minha declaração de imposto com Claude Code: 14 horas viraram 47 minutos (e o que a Receita ainda não sabe)",
+      "slug": "automatizei-minha-declaracao-de-imposto-com-claude-code-14-horas-viraram-47-minutos-e-o-que-a-receita-ainda-nao-sabe",
       "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/ai-overview-ctr-34-5-checklist-llmo-1-hora/",
-      "tabcoins": 7,
-      "children_deep_count": 2,
-      "published_at": "2026-08-21T12:00:03.891Z",
-      "url": "https://www.tabnews.com.br/kenimo49/ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora"
-    },
-    {
-      "id": "7c2a7a75-f043-4a50-9c23-d66a0c8fd4e4",
-      "title": "Pitch: Criei QA Gates pra rodar no seu rep vibecodado",
-      "slug": "criei-qa-gates-pra-rodar-no-seu-rep-vibecodado",
-      "owner_username": "PedroOSilva",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-08-20T10:42:37.138Z",
-      "url": "https://www.tabnews.com.br/PedroOSilva/criei-qa-gates-pra-rodar-no-seu-rep-vibecodado"
+      "source_url": "https://kenimoto.dev/pt/blog/automatizei-declaracao-imposto-claude-code-14h-47min/",
+      "tabcoins": 13,
+      "children_deep_count": 8,
+      "published_at": "2026-08-17T12:00:03.382Z",
+      "url": "https://www.tabnews.com.br/kenimo49/automatizei-minha-declaracao-de-imposto-com-claude-code-14-horas-viraram-47-minutos-e-o-que-a-receita-ainda-nao-sabe"
     }
   ]
 }
