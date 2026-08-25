@@ -1,16 +1,104 @@
 {
-  "updated_at": "2026-08-24T09:37:31.823Z",
+  "updated_at": "2026-08-25T09:25:56.682Z",
   "posts": [
+    {
+      "id": "5080e175-c825-407c-90a5-a8b4b40da0d7",
+      "title": "Pitch: Criei um gerenciador financeiro open-soruce e batemos 2k stars no GitHub em menos de 6 meses",
+      "slug": "pitch-criei-um-gerenciador-financeiro-open-soruce-e-batemos-2k-stars-no-github-em-menos-de-6-meses",
+      "owner_username": "tassionoronha",
+      "source_url": null,
+      "tabcoins": 21,
+      "children_deep_count": 14,
+      "published_at": "2026-08-24T10:58:20.910Z",
+      "url": "https://www.tabnews.com.br/tassionoronha/pitch-criei-um-gerenciador-financeiro-open-soruce-e-batemos-2k-stars-no-github-em-menos-de-6-meses"
+    },
     {
       "id": "44bb8ea1-18a6-490a-a2ee-9f59540a6f5e",
       "title": "Até onde uma biblioteca deve crescer antes de perder seu propósito?",
       "slug": "ate-onde-uma-biblioteca-deve-crescer-antes-de-perder-seu-proposito",
       "owner_username": "pedrofnseca",
       "source_url": "https://esp32httpclient.com/",
-      "tabcoins": 4,
-      "children_deep_count": 2,
+      "tabcoins": 10,
+      "children_deep_count": 10,
       "published_at": "2026-08-23T22:20:23.538Z",
       "url": "https://www.tabnews.com.br/pedrofnseca/ate-onde-uma-biblioteca-deve-crescer-antes-de-perder-seu-proposito"
+    },
+    {
+      "id": "47eaf7dc-4049-4bfe-a1a7-6c8cffb1ca7f",
+      "title": "Haiku e Qwen 4B ganharam do Opus em 30% dos meus 47 casos reais",
+      "slug": "haiku-e-qwen-4b-ganharam-do-opus-em-30-por-cento-dos-meus-47-casos-reais",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/haiku-qwen-4b-vencem-opus-14-47/",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-08-24T12:00:03.396Z",
+      "url": "https://www.tabnews.com.br/kenimo49/haiku-e-qwen-4b-ganharam-do-opus-em-30-por-cento-dos-meus-47-casos-reais"
+    },
+    {
+      "id": "25d1df38-6328-4748-8f86-b22d1e14c290",
+      "title": "Quanto de energia uma IA gasta enquanto não faz nada?",
+      "slug": "quanto-de-energia-uma-ia-gasta-enquanto-nao-faz-nada",
+      "owner_username": "rodrigofreire",
+      "source_url": "https://zenodo.org/records/22036311",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-08-24T17:04:35.847Z",
+      "url": "https://www.tabnews.com.br/rodrigofreire/quanto-de-energia-uma-ia-gasta-enquanto-nao-faz-nada"
+    },
+    {
+      "id": "66a7a945-46eb-4d54-8e94-23fbc8d9bb2b",
+      "title": "Minha crítica à disciplina de Arquitetura de Software com Framework Java(PUC)",
+      "slug": "minha-critica-a-disciplina-de-arquitetura-de-software-com-framework-javapuc",
+      "owner_username": "benevanio",
+      "source_url": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/arquitetura-de-software-distribuido-ead-com-aulas-gravadas.aspx?PageID=5205&moda=5&polo=43&curso=128&situ=1",
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-08-24T22:20:01.092Z",
+      "url": "https://www.tabnews.com.br/benevanio/minha-critica-a-disciplina-de-arquitetura-de-software-com-framework-javapuc"
+    },
+    {
+      "id": "cbeb5554-870c-446b-89ab-1b745d4f7e86",
+      "title": "Seu app de IA só é seu quando você consegue reconstruí-lo fora da plataforma",
+      "slug": "seu-app-de-ia-so-e-seu-quando-voce-consegue-reconstrui-lo-fora-da-plataforma",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-25T08:11:05.409Z",
+      "url": "https://www.tabnews.com.br/Centelha/seu-app-de-ia-so-e-seu-quando-voce-consegue-reconstrui-lo-fora-da-plataforma"
+    },
+    {
+      "id": "b686ed2f-fbc6-4d71-8e23-6e2df821e7de",
+      "title": "🙈 Pitch: Passei mais tempo configurando a documentação do que escrevendo ela",
+      "slug": "passei-mais-tempo-configurando-a-documentacao-do-que-escrevendo-ela",
+      "owner_username": "ofabiodev",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-24T22:34:46.388Z",
+      "url": "https://www.tabnews.com.br/ofabiodev/passei-mais-tempo-configurando-a-documentacao-do-que-escrevendo-ela"
+    },
+    {
+      "id": "acf709e0-9f26-479d-ab8c-32afc16b3776",
+      "title": ".NET Native AOT: Ecossistema de Compilação em C#",
+      "slug": "net-native-aot-ecossistema-de-compilacao-em-c",
+      "owner_username": "lzocateli",
+      "source_url": "https://zocate.li/posts/2026/dotnet-native-aot-ecossistema-compilacao/",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-08-24T09:01:45.402Z",
+      "url": "https://www.tabnews.com.br/lzocateli/net-native-aot-ecossistema-de-compilacao-em-c"
+    },
+    {
+      "id": "16d01839-b1ce-476d-b58d-f0102e7831a8",
+      "title": "Criei um app em tempo real com 2,4 KB de JavaScript — sem framework, sem build",
+      "slug": "criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build",
+      "owner_username": "n0n3br",
+      "source_url": null,
+      "tabcoins": 7,
+      "children_deep_count": 2,
+      "published_at": "2026-08-22T21:56:31.139Z",
+      "url": "https://www.tabnews.com.br/n0n3br/criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build"
     },
     {
       "id": "5843db5a-7a5c-4b0a-b31b-9b7df172970b",
@@ -22,94 +110,6 @@
       "children_deep_count": 0,
       "published_at": "2026-08-23T10:58:22.971Z",
       "url": "https://www.tabnews.com.br/evertonruan/esse-e-um-web-app-de-notas-diferente-com-uma-atualizacao"
-    },
-    {
-      "id": "acf709e0-9f26-479d-ab8c-32afc16b3776",
-      "title": ".NET Native AOT: Ecossistema de Compilação em C#",
-      "slug": "net-native-aot-ecossistema-de-compilacao-em-c",
-      "owner_username": "lzocateli",
-      "source_url": "https://zocate.li/posts/2026/dotnet-native-aot-ecossistema-compilacao/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-24T09:01:45.402Z",
-      "url": "https://www.tabnews.com.br/lzocateli/net-native-aot-ecossistema-de-compilacao-em-c"
-    },
-    {
-      "id": "cca10112-05f3-498e-92e3-b9c93d293d24",
-      "title": "Pitch: Streamae — quando o Discord tirou o compartilhamento de tela",
-      "slug": "pitch-streamae-quando-o-discord-tirou-o-compartilhamento-de-tela",
-      "owner_username": "kennedydc97",
-      "source_url": "https://github.com/kennedydc97/streamae",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-24T03:37:31.962Z",
-      "url": "https://www.tabnews.com.br/kennedydc97/pitch-streamae-quando-o-discord-tirou-o-compartilhamento-de-tela"
-    },
-    {
-      "id": "16d01839-b1ce-476d-b58d-f0102e7831a8",
-      "title": "Criei um app em tempo real com 2,4 KB de JavaScript — sem framework, sem build",
-      "slug": "criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build",
-      "owner_username": "n0n3br",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-08-22T21:56:31.139Z",
-      "url": "https://www.tabnews.com.br/n0n3br/criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build"
-    },
-    {
-      "id": "429f2eaa-d503-4553-ac63-30ae6c5e84c4",
-      "title": "CTR do #1 do Google caiu 34,5% com AI Overview — o checklist LLMO de 1 hora",
-      "slug": "ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/ai-overview-ctr-34-5-checklist-llmo-1-hora/",
-      "tabcoins": 7,
-      "children_deep_count": 4,
-      "published_at": "2026-08-21T12:00:03.891Z",
-      "url": "https://www.tabnews.com.br/kenimo49/ctr-do-1-do-google-caiu-34-5-por-cento-com-ai-overview-o-checklist-llmo-de-1-hora"
-    },
-    {
-      "id": "796b85ae-7dff-43b7-8659-ba23c02571b9",
-      "title": "Contexto é arquitetura de informação, trate seu agente como um humano",
-      "slug": "contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano",
-      "owner_username": "lincolixavier",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-08-21T22:02:21.568Z",
-      "url": "https://www.tabnews.com.br/lincolixavier/contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano"
-    },
-    {
-      "id": "c73dac9c-8e6e-466a-8992-6bcfa351b192",
-      "title": "PHP: Gostaria de saber se tem como/compensa upar um sistema php5.6 para PHP8 Moderno e adicional Laravel nele, ou seria melhor desenvolver do \"zero\"",
-      "slug": "php-gostaria-de-saber-se-tem-como-compensa-upar-um-sistema-php5-6-para-php8-moderno-e-adicional-laravel-nele-ou-seria-melhor-desenvolver-do-zero",
-      "owner_username": "Kevyn",
-      "source_url": null,
-      "tabcoins": 10,
-      "children_deep_count": 35,
-      "published_at": "2024-12-04T19:37:42.520Z",
-      "url": "https://www.tabnews.com.br/Kevyn/php-gostaria-de-saber-se-tem-como-compensa-upar-um-sistema-php5-6-para-php8-moderno-e-adicional-laravel-nele-ou-seria-melhor-desenvolver-do-zero"
-    },
-    {
-      "id": "31341c25-b491-4f5e-bbcb-c1280bdc6023",
-      "title": "Pitch: Construí um cliente de Discord nativo em Rust que usa apenas ~30MB de RAM (e 0.1% de CPU)",
-      "slug": "construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu",
-      "owner_username": "Ak4ai",
-      "source_url": "https://ak4ai.github.io/Litecord/",
-      "tabcoins": 14,
-      "children_deep_count": 5,
-      "published_at": "2026-08-21T02:33:35.601Z",
-      "url": "https://www.tabnews.com.br/Ak4ai/construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu"
-    },
-    {
-      "id": "d26ac260-566f-4d74-8468-263a23fee4e8",
-      "title": "Automatizei minha declaração de imposto com Claude Code: 14 horas viraram 47 minutos (e o que a Receita ainda não sabe)",
-      "slug": "automatizei-minha-declaracao-de-imposto-com-claude-code-14-horas-viraram-47-minutos-e-o-que-a-receita-ainda-nao-sabe",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/automatizei-declaracao-imposto-claude-code-14h-47min/",
-      "tabcoins": 13,
-      "children_deep_count": 8,
-      "published_at": "2026-08-17T12:00:03.382Z",
-      "url": "https://www.tabnews.com.br/kenimo49/automatizei-minha-declaracao-de-imposto-com-claude-code-14-horas-viraram-47-minutos-e-o-que-a-receita-ainda-nao-sabe"
     }
   ]
 }
