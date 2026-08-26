@@ -1,14 +1,69 @@
 {
-  "updated_at": "2026-08-25T09:25:56.682Z",
+  "updated_at": "2026-08-26T09:31:54.029Z",
   "posts": [
+    {
+      "id": "cbeb5554-870c-446b-89ab-1b745d4f7e86",
+      "title": "Seu app de IA só é seu quando você consegue reconstruí-lo fora da plataforma",
+      "slug": "seu-app-de-ia-so-e-seu-quando-voce-consegue-reconstrui-lo-fora-da-plataforma",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 7,
+      "children_deep_count": 3,
+      "published_at": "2026-08-25T08:11:05.409Z",
+      "url": "https://www.tabnews.com.br/Centelha/seu-app-de-ia-so-e-seu-quando-voce-consegue-reconstrui-lo-fora-da-plataforma"
+    },
+    {
+      "id": "d61a1f72-b6b7-4982-b299-b8e9f9d2c402",
+      "title": "[Pitch] Construí um harness de IA para terminal 100% local e privado usando Ollama (Zero Python e código aberto)",
+      "slug": "construi-um-harness-de-ia-para-terminal-100-por-cento-local-e-privado-usando-ollama-zero-python-e-codigo-aberto",
+      "owner_username": "luizhcrs",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-08-25T15:35:53.252Z",
+      "url": "https://www.tabnews.com.br/luizhcrs/construi-um-harness-de-ia-para-terminal-100-por-cento-local-e-privado-usando-ollama-zero-python-e-codigo-aberto"
+    },
+    {
+      "id": "81941935-ac90-4d09-aab8-c9753798cf27",
+      "title": "Por que pedir para a IA \"resumir o chat\" é um paradoxo matemático: o que descobri analisando a perda de memória das IAs em projetos longos",
+      "slug": "por-que-pedir-para-a-ia-resumir-o-chat-e-um-paradoxo-matematico-o-que-descobri-analisando-a-perda-de-memoria-das-ias-em-projetos-longos",
+      "owner_username": "trsthales",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-08-26T07:31:30.435Z",
+      "url": "https://www.tabnews.com.br/trsthales/por-que-pedir-para-a-ia-resumir-o-chat-e-um-paradoxo-matematico-o-que-descobri-analisando-a-perda-de-memoria-das-ias-em-projetos-longos"
+    },
+    {
+      "id": "66a7a945-46eb-4d54-8e94-23fbc8d9bb2b",
+      "title": "Minha crítica à disciplina de Arquitetura de Software com Framework Java(PUC)",
+      "slug": "minha-critica-a-disciplina-de-arquitetura-de-software-com-framework-javapuc",
+      "owner_username": "benevanio",
+      "source_url": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/arquitetura-de-software-distribuido-ead-com-aulas-gravadas.aspx?PageID=5205&moda=5&polo=43&curso=128&situ=1",
+      "tabcoins": 3,
+      "children_deep_count": 6,
+      "published_at": "2026-08-24T22:20:01.092Z",
+      "url": "https://www.tabnews.com.br/benevanio/minha-critica-a-disciplina-de-arquitetura-de-software-com-framework-javapuc"
+    },
+    {
+      "id": "b686ed2f-fbc6-4d71-8e23-6e2df821e7de",
+      "title": "🙈 Pitch: Passei mais tempo configurando a documentação do que escrevendo ela",
+      "slug": "passei-mais-tempo-configurando-a-documentacao-do-que-escrevendo-ela",
+      "owner_username": "ofabiodev",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 4,
+      "published_at": "2026-08-24T22:34:46.388Z",
+      "url": "https://www.tabnews.com.br/ofabiodev/passei-mais-tempo-configurando-a-documentacao-do-que-escrevendo-ela"
+    },
     {
       "id": "5080e175-c825-407c-90a5-a8b4b40da0d7",
       "title": "Pitch: Criei um gerenciador financeiro open-soruce e batemos 2k stars no GitHub em menos de 6 meses",
       "slug": "pitch-criei-um-gerenciador-financeiro-open-soruce-e-batemos-2k-stars-no-github-em-menos-de-6-meses",
       "owner_username": "tassionoronha",
       "source_url": null,
-      "tabcoins": 21,
-      "children_deep_count": 14,
+      "tabcoins": 29,
+      "children_deep_count": 16,
       "published_at": "2026-08-24T10:58:20.910Z",
       "url": "https://www.tabnews.com.br/tassionoronha/pitch-criei-um-gerenciador-financeiro-open-soruce-e-batemos-2k-stars-no-github-em-menos-de-6-meses"
     },
@@ -18,8 +73,8 @@
       "slug": "ate-onde-uma-biblioteca-deve-crescer-antes-de-perder-seu-proposito",
       "owner_username": "pedrofnseca",
       "source_url": "https://esp32httpclient.com/",
-      "tabcoins": 10,
-      "children_deep_count": 10,
+      "tabcoins": 14,
+      "children_deep_count": 11,
       "published_at": "2026-08-23T22:20:23.538Z",
       "url": "https://www.tabnews.com.br/pedrofnseca/ate-onde-uma-biblioteca-deve-crescer-antes-de-perder-seu-proposito"
     },
@@ -29,54 +84,10 @@
       "slug": "haiku-e-qwen-4b-ganharam-do-opus-em-30-por-cento-dos-meus-47-casos-reais",
       "owner_username": "kenimo49",
       "source_url": "https://kenimoto.dev/pt/blog/haiku-qwen-4b-vencem-opus-14-47/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
+      "tabcoins": 7,
+      "children_deep_count": 2,
       "published_at": "2026-08-24T12:00:03.396Z",
       "url": "https://www.tabnews.com.br/kenimo49/haiku-e-qwen-4b-ganharam-do-opus-em-30-por-cento-dos-meus-47-casos-reais"
-    },
-    {
-      "id": "25d1df38-6328-4748-8f86-b22d1e14c290",
-      "title": "Quanto de energia uma IA gasta enquanto não faz nada?",
-      "slug": "quanto-de-energia-uma-ia-gasta-enquanto-nao-faz-nada",
-      "owner_username": "rodrigofreire",
-      "source_url": "https://zenodo.org/records/22036311",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-08-24T17:04:35.847Z",
-      "url": "https://www.tabnews.com.br/rodrigofreire/quanto-de-energia-uma-ia-gasta-enquanto-nao-faz-nada"
-    },
-    {
-      "id": "66a7a945-46eb-4d54-8e94-23fbc8d9bb2b",
-      "title": "Minha crítica à disciplina de Arquitetura de Software com Framework Java(PUC)",
-      "slug": "minha-critica-a-disciplina-de-arquitetura-de-software-com-framework-javapuc",
-      "owner_username": "benevanio",
-      "source_url": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/arquitetura-de-software-distribuido-ead-com-aulas-gravadas.aspx?PageID=5205&moda=5&polo=43&curso=128&situ=1",
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-08-24T22:20:01.092Z",
-      "url": "https://www.tabnews.com.br/benevanio/minha-critica-a-disciplina-de-arquitetura-de-software-com-framework-javapuc"
-    },
-    {
-      "id": "cbeb5554-870c-446b-89ab-1b745d4f7e86",
-      "title": "Seu app de IA só é seu quando você consegue reconstruí-lo fora da plataforma",
-      "slug": "seu-app-de-ia-so-e-seu-quando-voce-consegue-reconstrui-lo-fora-da-plataforma",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-25T08:11:05.409Z",
-      "url": "https://www.tabnews.com.br/Centelha/seu-app-de-ia-so-e-seu-quando-voce-consegue-reconstrui-lo-fora-da-plataforma"
-    },
-    {
-      "id": "b686ed2f-fbc6-4d71-8e23-6e2df821e7de",
-      "title": "🙈 Pitch: Passei mais tempo configurando a documentação do que escrevendo ela",
-      "slug": "passei-mais-tempo-configurando-a-documentacao-do-que-escrevendo-ela",
-      "owner_username": "ofabiodev",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-08-24T22:34:46.388Z",
-      "url": "https://www.tabnews.com.br/ofabiodev/passei-mais-tempo-configurando-a-documentacao-do-que-escrevendo-ela"
     },
     {
       "id": "acf709e0-9f26-479d-ab8c-32afc16b3776",
@@ -85,31 +96,20 @@
       "owner_username": "lzocateli",
       "source_url": "https://zocate.li/posts/2026/dotnet-native-aot-ecossistema-compilacao/",
       "tabcoins": 5,
-      "children_deep_count": 1,
+      "children_deep_count": 2,
       "published_at": "2026-08-24T09:01:45.402Z",
       "url": "https://www.tabnews.com.br/lzocateli/net-native-aot-ecossistema-de-compilacao-em-c"
     },
     {
-      "id": "16d01839-b1ce-476d-b58d-f0102e7831a8",
-      "title": "Criei um app em tempo real com 2,4 KB de JavaScript — sem framework, sem build",
-      "slug": "criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build",
-      "owner_username": "n0n3br",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 2,
-      "published_at": "2026-08-22T21:56:31.139Z",
-      "url": "https://www.tabnews.com.br/n0n3br/criei-um-app-em-tempo-real-com-2-4-kb-de-javascript-sem-framework-sem-build"
-    },
-    {
-      "id": "5843db5a-7a5c-4b0a-b31b-9b7df172970b",
-      "title": "Pitch: 🍩 Esse é um web app de notas diferente com uma atualização",
-      "slug": "esse-e-um-web-app-de-notas-diferente-com-uma-atualizacao",
-      "owner_username": "evertonruan",
-      "source_url": null,
+      "id": "25d1df38-6328-4748-8f86-b22d1e14c290",
+      "title": "Quanto de energia uma IA gasta enquanto não faz nada?",
+      "slug": "quanto-de-energia-uma-ia-gasta-enquanto-nao-faz-nada",
+      "owner_username": "rodrigofreire",
+      "source_url": "https://zenodo.org/records/22036311",
       "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-23T10:58:22.971Z",
-      "url": "https://www.tabnews.com.br/evertonruan/esse-e-um-web-app-de-notas-diferente-com-uma-atualizacao"
+      "children_deep_count": 1,
+      "published_at": "2026-08-24T17:04:35.847Z",
+      "url": "https://www.tabnews.com.br/rodrigofreire/quanto-de-energia-uma-ia-gasta-enquanto-nao-faz-nada"
     }
   ]
 }
