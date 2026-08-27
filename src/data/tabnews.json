@@ -1,27 +1,49 @@
 {
-  "updated_at": "2026-08-26T09:31:54.029Z",
+  "updated_at": "2026-08-27T19:20:31.687Z",
   "posts": [
     {
-      "id": "cbeb5554-870c-446b-89ab-1b745d4f7e86",
-      "title": "Seu app de IA só é seu quando você consegue reconstruí-lo fora da plataforma",
-      "slug": "seu-app-de-ia-so-e-seu-quando-voce-consegue-reconstrui-lo-fora-da-plataforma",
-      "owner_username": "Centelha",
+      "id": "d01afaa2-f2f7-48d1-b045-33695c1fb726",
+      "title": "Duas formigas carregando uma chave de fenda",
+      "slug": "duas-formigas-carregando-uma-chave-de-fenda",
+      "owner_username": "clacerda",
       "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 3,
-      "published_at": "2026-08-25T08:11:05.409Z",
-      "url": "https://www.tabnews.com.br/Centelha/seu-app-de-ia-so-e-seu-quando-voce-consegue-reconstrui-lo-fora-da-plataforma"
+      "tabcoins": 16,
+      "children_deep_count": 1,
+      "published_at": "2026-08-27T05:05:58.634Z",
+      "url": "https://www.tabnews.com.br/clacerda/duas-formigas-carregando-uma-chave-de-fenda"
     },
     {
-      "id": "d61a1f72-b6b7-4982-b299-b8e9f9d2c402",
-      "title": "[Pitch] Construí um harness de IA para terminal 100% local e privado usando Ollama (Zero Python e código aberto)",
-      "slug": "construi-um-harness-de-ia-para-terminal-100-por-cento-local-e-privado-usando-ollama-zero-python-e-codigo-aberto",
-      "owner_username": "luizhcrs",
+      "id": "bedbe194-501c-465e-a897-af05bc0d86ea",
+      "title": "Por que parei de fazer \"landing pages\" e transformei meu portfólio num Sistema Operacional",
+      "slug": "por-que-parei-de-fazer-landing-pages-e-transformei-meu-portfolio-num-sistema-operacional",
+      "owner_username": "lancao2",
       "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-08-25T15:35:53.252Z",
-      "url": "https://www.tabnews.com.br/luizhcrs/construi-um-harness-de-ia-para-terminal-100-por-cento-local-e-privado-usando-ollama-zero-python-e-codigo-aberto"
+      "tabcoins": 8,
+      "children_deep_count": 8,
+      "published_at": "2026-08-26T14:25:05.898Z",
+      "url": "https://www.tabnews.com.br/lancao2/por-que-parei-de-fazer-landing-pages-e-transformei-meu-portfolio-num-sistema-operacional"
+    },
+    {
+      "id": "79f0ab3e-6c55-42b4-8273-d43623c13708",
+      "title": "Lembra do ESPDocs? Ele evoluiu e agora tem seletor interativo, guia de diagnóstico de falhas e muito mais!",
+      "slug": "lembra-do-espdocs-ele-evoluiu-e-agora-tem-seletor-interativo-guia-de-diagnostico-de-falhas-e-muito-mais",
+      "owner_username": "lucasrguerra",
+      "source_url": "https://espdocs.cienciaembarcada.com.br/",
+      "tabcoins": 7,
+      "children_deep_count": 2,
+      "published_at": "2026-08-26T17:01:02.014Z",
+      "url": "https://www.tabnews.com.br/lucasrguerra/lembra-do-espdocs-ele-evoluiu-e-agora-tem-seletor-interativo-guia-de-diagnostico-de-falhas-e-muito-mais"
+    },
+    {
+      "id": "82916f54-0f79-4f9b-9f9b-894cf208469c",
+      "title": "Bilhões em chips de IA: o que isso tem a ver com o seu emprego de dev",
+      "slug": "bilhoes-em-chips-de-ia-o-que-isso-tem-a-ver-com-o-seu-emprego-de-dev",
+      "owner_username": "rodrigofreire",
+      "source_url": "https://rodrigofreire.pages.dev/posts/acordos-bilion%C3%A1rios-chips-ia-mercado-ti",
+      "tabcoins": 7,
+      "children_deep_count": 2,
+      "published_at": "2026-08-26T19:43:38.586Z",
+      "url": "https://www.tabnews.com.br/rodrigofreire/bilhoes-em-chips-de-ia-o-que-isso-tem-a-ver-com-o-seu-emprego-de-dev"
     },
     {
       "id": "81941935-ac90-4d09-aab8-c9753798cf27",
@@ -29,87 +51,65 @@
       "slug": "por-que-pedir-para-a-ia-resumir-o-chat-e-um-paradoxo-matematico-o-que-descobri-analisando-a-perda-de-memoria-das-ias-em-projetos-longos",
       "owner_username": "trsthales",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
+      "tabcoins": 6,
+      "children_deep_count": 4,
       "published_at": "2026-08-26T07:31:30.435Z",
       "url": "https://www.tabnews.com.br/trsthales/por-que-pedir-para-a-ia-resumir-o-chat-e-um-paradoxo-matematico-o-que-descobri-analisando-a-perda-de-memoria-das-ias-em-projetos-longos"
     },
     {
-      "id": "66a7a945-46eb-4d54-8e94-23fbc8d9bb2b",
-      "title": "Minha crítica à disciplina de Arquitetura de Software com Framework Java(PUC)",
-      "slug": "minha-critica-a-disciplina-de-arquitetura-de-software-com-framework-javapuc",
-      "owner_username": "benevanio",
-      "source_url": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/arquitetura-de-software-distribuido-ead-com-aulas-gravadas.aspx?PageID=5205&moda=5&polo=43&curso=128&situ=1",
-      "tabcoins": 3,
-      "children_deep_count": 6,
-      "published_at": "2026-08-24T22:20:01.092Z",
-      "url": "https://www.tabnews.com.br/benevanio/minha-critica-a-disciplina-de-arquitetura-de-software-com-framework-javapuc"
-    },
-    {
-      "id": "b686ed2f-fbc6-4d71-8e23-6e2df821e7de",
-      "title": "🙈 Pitch: Passei mais tempo configurando a documentação do que escrevendo ela",
-      "slug": "passei-mais-tempo-configurando-a-documentacao-do-que-escrevendo-ela",
-      "owner_username": "ofabiodev",
+      "id": "7ff82926-1863-4b0c-a301-aa7149521f89",
+      "title": "Além do TabNews, onde mais vocês costumam divulgar projetos e trocar ideia técnica de verdade?",
+      "slug": "alem-do-tabnews-onde-mais-voces-costumam-divulgar-projetos-e-trocar-ideia-tecnica-de-verdade",
+      "owner_username": "trsthales",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 4,
-      "published_at": "2026-08-24T22:34:46.388Z",
-      "url": "https://www.tabnews.com.br/ofabiodev/passei-mais-tempo-configurando-a-documentacao-do-que-escrevendo-ela"
-    },
-    {
-      "id": "5080e175-c825-407c-90a5-a8b4b40da0d7",
-      "title": "Pitch: Criei um gerenciador financeiro open-soruce e batemos 2k stars no GitHub em menos de 6 meses",
-      "slug": "pitch-criei-um-gerenciador-financeiro-open-soruce-e-batemos-2k-stars-no-github-em-menos-de-6-meses",
-      "owner_username": "tassionoronha",
-      "source_url": null,
-      "tabcoins": 29,
-      "children_deep_count": 16,
-      "published_at": "2026-08-24T10:58:20.910Z",
-      "url": "https://www.tabnews.com.br/tassionoronha/pitch-criei-um-gerenciador-financeiro-open-soruce-e-batemos-2k-stars-no-github-em-menos-de-6-meses"
-    },
-    {
-      "id": "44bb8ea1-18a6-490a-a2ee-9f59540a6f5e",
-      "title": "Até onde uma biblioteca deve crescer antes de perder seu propósito?",
-      "slug": "ate-onde-uma-biblioteca-deve-crescer-antes-de-perder-seu-proposito",
-      "owner_username": "pedrofnseca",
-      "source_url": "https://esp32httpclient.com/",
-      "tabcoins": 14,
-      "children_deep_count": 11,
-      "published_at": "2026-08-23T22:20:23.538Z",
-      "url": "https://www.tabnews.com.br/pedrofnseca/ate-onde-uma-biblioteca-deve-crescer-antes-de-perder-seu-proposito"
-    },
-    {
-      "id": "47eaf7dc-4049-4bfe-a1a7-6c8cffb1ca7f",
-      "title": "Haiku e Qwen 4B ganharam do Opus em 30% dos meus 47 casos reais",
-      "slug": "haiku-e-qwen-4b-ganharam-do-opus-em-30-por-cento-dos-meus-47-casos-reais",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/haiku-qwen-4b-vencem-opus-14-47/",
-      "tabcoins": 7,
-      "children_deep_count": 2,
-      "published_at": "2026-08-24T12:00:03.396Z",
-      "url": "https://www.tabnews.com.br/kenimo49/haiku-e-qwen-4b-ganharam-do-opus-em-30-por-cento-dos-meus-47-casos-reais"
-    },
-    {
-      "id": "acf709e0-9f26-479d-ab8c-32afc16b3776",
-      "title": ".NET Native AOT: Ecossistema de Compilação em C#",
-      "slug": "net-native-aot-ecossistema-de-compilacao-em-c",
-      "owner_username": "lzocateli",
-      "source_url": "https://zocate.li/posts/2026/dotnet-native-aot-ecossistema-compilacao/",
       "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-08-24T09:01:45.402Z",
-      "url": "https://www.tabnews.com.br/lzocateli/net-native-aot-ecossistema-de-compilacao-em-c"
+      "children_deep_count": 4,
+      "published_at": "2026-08-27T10:13:10.186Z",
+      "url": "https://www.tabnews.com.br/trsthales/alem-do-tabnews-onde-mais-voces-costumam-divulgar-projetos-e-trocar-ideia-tecnica-de-verdade"
     },
     {
-      "id": "25d1df38-6328-4748-8f86-b22d1e14c290",
-      "title": "Quanto de energia uma IA gasta enquanto não faz nada?",
-      "slug": "quanto-de-energia-uma-ia-gasta-enquanto-nao-faz-nada",
-      "owner_username": "rodrigofreire",
-      "source_url": "https://zenodo.org/records/22036311",
+      "id": "89a878b0-4353-4657-b95d-ccb4ef518e62",
+      "title": "Talvez não sejamos tão substituíveis assim",
+      "slug": "talvez-nao-sejamos-tao-substituiveis-assim",
+      "owner_username": "kenny17",
+      "source_url": null,
       "tabcoins": 4,
       "children_deep_count": 1,
-      "published_at": "2026-08-24T17:04:35.847Z",
-      "url": "https://www.tabnews.com.br/rodrigofreire/quanto-de-energia-uma-ia-gasta-enquanto-nao-faz-nada"
+      "published_at": "2026-08-26T20:28:19.789Z",
+      "url": "https://www.tabnews.com.br/kenny17/talvez-nao-sejamos-tao-substituiveis-assim"
+    },
+    {
+      "id": "f9fdb2e0-e60a-4ff3-aae0-4452efd93302",
+      "title": "Como uso a IA para otimizar meus estudos de programação (Prompt focado no Beecrowd)",
+      "slug": "como-uso-a-ia-para-otimizar-meus-estudos-de-programacao-prompt-focado-no-beecrowd",
+      "owner_username": "DevLuc0s",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-08-26T21:36:09.040Z",
+      "url": "https://www.tabnews.com.br/DevLuc0s/como-uso-a-ia-para-otimizar-meus-estudos-de-programacao-prompt-focado-no-beecrowd"
+    },
+    {
+      "id": "59d37e75-c6e9-47d2-8637-503af257b6d6",
+      "title": "[Pitch] Plataforma de desafios de programação gamificado",
+      "slug": "pitch-plataforma-de-desafios-de-programacao-gamificado",
+      "owner_username": "D3vlopes",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-08-26T22:22:28.415Z",
+      "url": "https://www.tabnews.com.br/D3vlopes/pitch-plataforma-de-desafios-de-programacao-gamificado"
+    },
+    {
+      "id": "0240702d-22bc-40b6-a8ef-af3c6d05aaca",
+      "title": "Top Benefits of Learning Generative AI for Career Growth",
+      "slug": "top-benefits-of-learning-generative-ai-for-career-growth",
+      "owner_username": "Priya",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-27T17:28:30.238Z",
+      "url": "https://www.tabnews.com.br/Priya/top-benefits-of-learning-generative-ai-for-career-growth"
     }
   ]
 }
