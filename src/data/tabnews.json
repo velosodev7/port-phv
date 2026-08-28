@@ -1,60 +1,16 @@
 {
-  "updated_at": "2026-08-27T19:20:31.687Z",
+  "updated_at": "2026-08-28T20:31:17.002Z",
   "posts": [
     {
-      "id": "d01afaa2-f2f7-48d1-b045-33695c1fb726",
-      "title": "Duas formigas carregando uma chave de fenda",
-      "slug": "duas-formigas-carregando-uma-chave-de-fenda",
-      "owner_username": "clacerda",
-      "source_url": null,
-      "tabcoins": 16,
-      "children_deep_count": 1,
-      "published_at": "2026-08-27T05:05:58.634Z",
-      "url": "https://www.tabnews.com.br/clacerda/duas-formigas-carregando-uma-chave-de-fenda"
-    },
-    {
-      "id": "bedbe194-501c-465e-a897-af05bc0d86ea",
-      "title": "Por que parei de fazer \"landing pages\" e transformei meu portfólio num Sistema Operacional",
-      "slug": "por-que-parei-de-fazer-landing-pages-e-transformei-meu-portfolio-num-sistema-operacional",
-      "owner_username": "lancao2",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 8,
-      "published_at": "2026-08-26T14:25:05.898Z",
-      "url": "https://www.tabnews.com.br/lancao2/por-que-parei-de-fazer-landing-pages-e-transformei-meu-portfolio-num-sistema-operacional"
-    },
-    {
-      "id": "79f0ab3e-6c55-42b4-8273-d43623c13708",
-      "title": "Lembra do ESPDocs? Ele evoluiu e agora tem seletor interativo, guia de diagnóstico de falhas e muito mais!",
-      "slug": "lembra-do-espdocs-ele-evoluiu-e-agora-tem-seletor-interativo-guia-de-diagnostico-de-falhas-e-muito-mais",
-      "owner_username": "lucasrguerra",
-      "source_url": "https://espdocs.cienciaembarcada.com.br/",
-      "tabcoins": 7,
-      "children_deep_count": 2,
-      "published_at": "2026-08-26T17:01:02.014Z",
-      "url": "https://www.tabnews.com.br/lucasrguerra/lembra-do-espdocs-ele-evoluiu-e-agora-tem-seletor-interativo-guia-de-diagnostico-de-falhas-e-muito-mais"
-    },
-    {
-      "id": "82916f54-0f79-4f9b-9f9b-894cf208469c",
-      "title": "Bilhões em chips de IA: o que isso tem a ver com o seu emprego de dev",
-      "slug": "bilhoes-em-chips-de-ia-o-que-isso-tem-a-ver-com-o-seu-emprego-de-dev",
-      "owner_username": "rodrigofreire",
-      "source_url": "https://rodrigofreire.pages.dev/posts/acordos-bilion%C3%A1rios-chips-ia-mercado-ti",
-      "tabcoins": 7,
-      "children_deep_count": 2,
-      "published_at": "2026-08-26T19:43:38.586Z",
-      "url": "https://www.tabnews.com.br/rodrigofreire/bilhoes-em-chips-de-ia-o-que-isso-tem-a-ver-com-o-seu-emprego-de-dev"
-    },
-    {
-      "id": "81941935-ac90-4d09-aab8-c9753798cf27",
-      "title": "Por que pedir para a IA \"resumir o chat\" é um paradoxo matemático: o que descobri analisando a perda de memória das IAs em projetos longos",
-      "slug": "por-que-pedir-para-a-ia-resumir-o-chat-e-um-paradoxo-matematico-o-que-descobri-analisando-a-perda-de-memoria-das-ias-em-projetos-longos",
-      "owner_username": "trsthales",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 4,
-      "published_at": "2026-08-26T07:31:30.435Z",
-      "url": "https://www.tabnews.com.br/trsthales/por-que-pedir-para-a-ia-resumir-o-chat-e-um-paradoxo-matematico-o-que-descobri-analisando-a-perda-de-memoria-das-ias-em-projetos-longos"
+      "id": "46a396aa-815a-4446-bdb5-4316639beb7c",
+      "title": "Pitch: Larguei a ideia de SaaS e fiz um ERP local para MEI (.NET 10 + WinForms + SQLite)",
+      "slug": "larguei-a-ideia-de-saas-e-fiz-um-erp-local-para-mei-net-10-winforms-sqlite",
+      "owner_username": "R4F4FM4R",
+      "source_url": "https://apps.microsoft.com/detail/9P3PB6ZRXMBB",
+      "tabcoins": 11,
+      "children_deep_count": 6,
+      "published_at": "2026-08-27T19:34:09.954Z",
+      "url": "https://www.tabnews.com.br/R4F4FM4R/larguei-a-ideia-de-saas-e-fiz-um-erp-local-para-mei-net-10-winforms-sqlite"
     },
     {
       "id": "7ff82926-1863-4b0c-a301-aa7149521f89",
@@ -62,54 +18,98 @@
       "slug": "alem-do-tabnews-onde-mais-voces-costumam-divulgar-projetos-e-trocar-ideia-tecnica-de-verdade",
       "owner_username": "trsthales",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 4,
+      "tabcoins": 6,
+      "children_deep_count": 8,
       "published_at": "2026-08-27T10:13:10.186Z",
       "url": "https://www.tabnews.com.br/trsthales/alem-do-tabnews-onde-mais-voces-costumam-divulgar-projetos-e-trocar-ideia-tecnica-de-verdade"
     },
     {
-      "id": "89a878b0-4353-4657-b95d-ccb4ef518e62",
-      "title": "Talvez não sejamos tão substituíveis assim",
-      "slug": "talvez-nao-sejamos-tao-substituiveis-assim",
-      "owner_username": "kenny17",
-      "source_url": null,
-      "tabcoins": 4,
+      "id": "7024670c-4500-4225-a353-8ea9f69b3390",
+      "title": "TDD com Playwright MCP e CI: pipeline Claude Code em 47 min",
+      "slug": "tdd-com-playwright-mcp-e-ci-pipeline-claude-code-em-47-min",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/tdd-playwright-mcp-ci-claude-code-47-min/",
+      "tabcoins": 6,
       "children_deep_count": 1,
-      "published_at": "2026-08-26T20:28:19.789Z",
-      "url": "https://www.tabnews.com.br/kenny17/talvez-nao-sejamos-tao-substituiveis-assim"
+      "published_at": "2026-08-28T12:00:03.736Z",
+      "url": "https://www.tabnews.com.br/kenimo49/tdd-com-playwright-mcp-e-ci-pipeline-claude-code-em-47-min"
     },
     {
-      "id": "f9fdb2e0-e60a-4ff3-aae0-4452efd93302",
-      "title": "Como uso a IA para otimizar meus estudos de programação (Prompt focado no Beecrowd)",
-      "slug": "como-uso-a-ia-para-otimizar-meus-estudos-de-programacao-prompt-focado-no-beecrowd",
+      "id": "b9f61efd-493c-454b-a38d-81f55df731f1",
+      "title": "Um app de IA útil começa pelo fluxo, não pelo modelo",
+      "slug": "um-app-de-ia-util-comeca-pelo-fluxo-nao-pelo-modelo",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-08-28T08:12:37.598Z",
+      "url": "https://www.tabnews.com.br/Centelha/um-app-de-ia-util-comeca-pelo-fluxo-nao-pelo-modelo"
+    },
+    {
+      "id": "f4090489-8f52-4012-a512-075ddf1547f4",
+      "title": "Pitch: O que aprendemos construindo um editor de vídeo com IA local-first usando WebGPU e WebCodecs",
+      "slug": "o-que-aprendemos-construindo-um-editor-de-video-com-ia-local-first-usando-webgpu-e-webcodecs",
+      "owner_username": "martindelophy",
+      "source_url": "https://video-editor.ai-creator.top/",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-08-28T09:44:59.669Z",
+      "url": "https://www.tabnews.com.br/martindelophy/o-que-aprendemos-construindo-um-editor-de-video-com-ia-local-first-usando-webgpu-e-webcodecs"
+    },
+    {
+      "id": "65e21be8-060f-4c24-bc23-4d0d95644d97",
+      "title": "Plano da Meta para substituir trabalho humano por IA é cancelado após tecnologia apresentar falhas",
+      "slug": "plano-da-meta-para-substituir-trabalho-humano-por-ia-e-cancelado-apos-tecnologia-apresentar-falhas",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://tech.slashdot.org/story/26/08/27/0032219/how-metas-plan-to-replace-workers-with-ai-agents-fell-apart",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-08-28T14:10:06.270Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/plano-da-meta-para-substituir-trabalho-humano-por-ia-e-cancelado-apos-tecnologia-apresentar-falhas"
+    },
+    {
+      "id": "7fc1e56c-1037-401c-ba5e-a127e911f500",
+      "title": "Pitch: Fiz uma ferramenta para inspecionar e tornar QR Codes do Pix mais privados",
+      "slug": "fiz-uma-ferramenta-para-inspecionar-e-tornar-qr-codes-do-pix-mais-privados",
+      "owner_username": "psacramento",
+      "source_url": "https://www.pixprivado.org/",
+      "tabcoins": 2,
+      "children_deep_count": 2,
+      "published_at": "2026-08-28T18:39:02.909Z",
+      "url": "https://www.tabnews.com.br/psacramento/fiz-uma-ferramenta-para-inspecionar-e-tornar-qr-codes-do-pix-mais-privados"
+    },
+    {
+      "id": "853ac6e8-05ce-40c3-98c0-3ff7938b7c69",
+      "title": "Testar não é só encontrar bugs: como comecei a enxergar QA de outra forma",
+      "slug": "testar-nao-e-so-encontrar-bugs-como-comecei-a-enxergar-qa-de-outra-forma",
+      "owner_username": "lettyciasantos60",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-08-28T16:56:13.181Z",
+      "url": "https://www.tabnews.com.br/lettyciasantos60/testar-nao-e-so-encontrar-bugs-como-comecei-a-enxergar-qa-de-outra-forma"
+    },
+    {
+      "id": "7f3751a0-a5c1-4aa4-a197-24146639744b",
+      "title": "Comecei minha jornada no Java Moderno: Por que decidi deixar as versões antigas para trás?",
+      "slug": "comecei-minha-jornada-no-java-moderno-por-que-decidi-deixar-as-versoes-antigas-para-tras",
       "owner_username": "DevLuc0s",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-26T21:36:09.040Z",
-      "url": "https://www.tabnews.com.br/DevLuc0s/como-uso-a-ia-para-otimizar-meus-estudos-de-programacao-prompt-focado-no-beecrowd"
-    },
-    {
-      "id": "59d37e75-c6e9-47d2-8637-503af257b6d6",
-      "title": "[Pitch] Plataforma de desafios de programação gamificado",
-      "slug": "pitch-plataforma-de-desafios-de-programacao-gamificado",
-      "owner_username": "D3vlopes",
-      "source_url": null,
-      "tabcoins": 3,
+      "tabcoins": 1,
       "children_deep_count": 2,
-      "published_at": "2026-08-26T22:22:28.415Z",
-      "url": "https://www.tabnews.com.br/D3vlopes/pitch-plataforma-de-desafios-de-programacao-gamificado"
+      "published_at": "2026-08-28T14:59:45.948Z",
+      "url": "https://www.tabnews.com.br/DevLuc0s/comecei-minha-jornada-no-java-moderno-por-que-decidi-deixar-as-versoes-antigas-para-tras"
     },
     {
-      "id": "0240702d-22bc-40b6-a8ef-af3c6d05aaca",
-      "title": "Top Benefits of Learning Generative AI for Career Growth",
-      "slug": "top-benefits-of-learning-generative-ai-for-career-growth",
-      "owner_username": "Priya",
-      "source_url": null,
+      "id": "0deb0f70-c71b-4991-9960-fe026efeafb8",
+      "title": "Meta corrige falha em óculos inteligentes que permitia gravações mesmo com o LED frontal coberto",
+      "slug": "meta-corrige-falha-em-oculos-inteligentes-que-permitia-gravacoes-mesmo-com-o-led-frontal-coberto",
+      "owner_username": "NewsletterOficial",
+      "source_url": "http://archive.today/2026.08.27-214452/https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-27T17:28:30.238Z",
-      "url": "https://www.tabnews.com.br/Priya/top-benefits-of-learning-generative-ai-for-career-growth"
+      "published_at": "2026-08-28T14:40:09.554Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/meta-corrige-falha-em-oculos-inteligentes-que-permitia-gravacoes-mesmo-com-o-led-frontal-coberto"
     }
   ]
 }
