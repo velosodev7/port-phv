@@ -1,27 +1,16 @@
 {
-  "updated_at": "2026-08-28T20:31:17.002Z",
+  "updated_at": "2026-08-29T14:05:16.583Z",
   "posts": [
     {
-      "id": "46a396aa-815a-4446-bdb5-4316639beb7c",
-      "title": "Pitch: Larguei a ideia de SaaS e fiz um ERP local para MEI (.NET 10 + WinForms + SQLite)",
-      "slug": "larguei-a-ideia-de-saas-e-fiz-um-erp-local-para-mei-net-10-winforms-sqlite",
-      "owner_username": "R4F4FM4R",
-      "source_url": "https://apps.microsoft.com/detail/9P3PB6ZRXMBB",
-      "tabcoins": 11,
+      "id": "f4090489-8f52-4012-a512-075ddf1547f4",
+      "title": "Pitch: O que aprendemos construindo um editor de vídeo com IA local-first usando WebGPU e WebCodecs",
+      "slug": "o-que-aprendemos-construindo-um-editor-de-video-com-ia-local-first-usando-webgpu-e-webcodecs",
+      "owner_username": "martindelophy",
+      "source_url": "https://video-editor.ai-creator.top/",
+      "tabcoins": 9,
       "children_deep_count": 6,
-      "published_at": "2026-08-27T19:34:09.954Z",
-      "url": "https://www.tabnews.com.br/R4F4FM4R/larguei-a-ideia-de-saas-e-fiz-um-erp-local-para-mei-net-10-winforms-sqlite"
-    },
-    {
-      "id": "7ff82926-1863-4b0c-a301-aa7149521f89",
-      "title": "Além do TabNews, onde mais vocês costumam divulgar projetos e trocar ideia técnica de verdade?",
-      "slug": "alem-do-tabnews-onde-mais-voces-costumam-divulgar-projetos-e-trocar-ideia-tecnica-de-verdade",
-      "owner_username": "trsthales",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 8,
-      "published_at": "2026-08-27T10:13:10.186Z",
-      "url": "https://www.tabnews.com.br/trsthales/alem-do-tabnews-onde-mais-voces-costumam-divulgar-projetos-e-trocar-ideia-tecnica-de-verdade"
+      "published_at": "2026-08-28T09:44:59.669Z",
+      "url": "https://www.tabnews.com.br/martindelophy/o-que-aprendemos-construindo-um-editor-de-video-com-ia-local-first-usando-webgpu-e-webcodecs"
     },
     {
       "id": "7024670c-4500-4225-a353-8ea9f69b3390",
@@ -46,17 +35,6 @@
       "url": "https://www.tabnews.com.br/Centelha/um-app-de-ia-util-comeca-pelo-fluxo-nao-pelo-modelo"
     },
     {
-      "id": "f4090489-8f52-4012-a512-075ddf1547f4",
-      "title": "Pitch: O que aprendemos construindo um editor de vídeo com IA local-first usando WebGPU e WebCodecs",
-      "slug": "o-que-aprendemos-construindo-um-editor-de-video-com-ia-local-first-usando-webgpu-e-webcodecs",
-      "owner_username": "martindelophy",
-      "source_url": "https://video-editor.ai-creator.top/",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-08-28T09:44:59.669Z",
-      "url": "https://www.tabnews.com.br/martindelophy/o-que-aprendemos-construindo-um-editor-de-video-com-ia-local-first-usando-webgpu-e-webcodecs"
-    },
-    {
       "id": "65e21be8-060f-4c24-bc23-4d0d95644d97",
       "title": "Plano da Meta para substituir trabalho humano por IA é cancelado após tecnologia apresentar falhas",
       "slug": "plano-da-meta-para-substituir-trabalho-humano-por-ia-e-cancelado-apos-tecnologia-apresentar-falhas",
@@ -68,48 +46,70 @@
       "url": "https://www.tabnews.com.br/NewsletterOficial/plano-da-meta-para-substituir-trabalho-humano-por-ia-e-cancelado-apos-tecnologia-apresentar-falhas"
     },
     {
-      "id": "7fc1e56c-1037-401c-ba5e-a127e911f500",
-      "title": "Pitch: Fiz uma ferramenta para inspecionar e tornar QR Codes do Pix mais privados",
-      "slug": "fiz-uma-ferramenta-para-inspecionar-e-tornar-qr-codes-do-pix-mais-privados",
-      "owner_username": "psacramento",
-      "source_url": "https://www.pixprivado.org/",
-      "tabcoins": 2,
-      "children_deep_count": 2,
-      "published_at": "2026-08-28T18:39:02.909Z",
-      "url": "https://www.tabnews.com.br/psacramento/fiz-uma-ferramenta-para-inspecionar-e-tornar-qr-codes-do-pix-mais-privados"
-    },
-    {
-      "id": "853ac6e8-05ce-40c3-98c0-3ff7938b7c69",
-      "title": "Testar não é só encontrar bugs: como comecei a enxergar QA de outra forma",
-      "slug": "testar-nao-e-so-encontrar-bugs-como-comecei-a-enxergar-qa-de-outra-forma",
-      "owner_username": "lettyciasantos60",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-08-28T16:56:13.181Z",
-      "url": "https://www.tabnews.com.br/lettyciasantos60/testar-nao-e-so-encontrar-bugs-como-comecei-a-enxergar-qa-de-outra-forma"
-    },
-    {
-      "id": "7f3751a0-a5c1-4aa4-a197-24146639744b",
-      "title": "Comecei minha jornada no Java Moderno: Por que decidi deixar as versões antigas para trás?",
-      "slug": "comecei-minha-jornada-no-java-moderno-por-que-decidi-deixar-as-versoes-antigas-para-tras",
-      "owner_username": "DevLuc0s",
+      "id": "10f8ca21-0da7-4372-8ddd-906772ea2b6e",
+      "title": "Pitch: Uni engenharia e propósito: Construí uma aplicação gamificada para ajudar meus amigos com um habito em comum.",
+      "slug": "uni-engenharia-e-proposito-construi-uma-aplicacao-gamificada-para-ajudar-meus-amigos-com-um-habito-em-comum",
+      "owner_username": "lancao2",
       "source_url": null,
       "tabcoins": 1,
-      "children_deep_count": 2,
-      "published_at": "2026-08-28T14:59:45.948Z",
-      "url": "https://www.tabnews.com.br/DevLuc0s/comecei-minha-jornada-no-java-moderno-por-que-decidi-deixar-as-versoes-antigas-para-tras"
+      "children_deep_count": 0,
+      "published_at": "2026-08-29T11:45:02.258Z",
+      "url": "https://www.tabnews.com.br/lancao2/uni-engenharia-e-proposito-construi-uma-aplicacao-gamificada-para-ajudar-meus-amigos-com-um-habito-em-comum"
     },
     {
-      "id": "0deb0f70-c71b-4991-9960-fe026efeafb8",
-      "title": "Meta corrige falha em óculos inteligentes que permitia gravações mesmo com o LED frontal coberto",
-      "slug": "meta-corrige-falha-em-oculos-inteligentes-que-permitia-gravacoes-mesmo-com-o-led-frontal-coberto",
-      "owner_username": "NewsletterOficial",
-      "source_url": "http://archive.today/2026.08.27-214452/https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+      "id": "448fd628-2219-4079-955b-c32a23a12fda",
+      "title": "🔥 O Melhor da Semana no TabNews #33",
+      "slug": "o-melhor-da-semana-no-tabnews-33",
+      "owner_username": "TabNewsDigest",
+      "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-08-28T14:40:09.554Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/meta-corrige-falha-em-oculos-inteligentes-que-permitia-gravacoes-mesmo-com-o-led-frontal-coberto"
+      "published_at": "2026-08-29T11:00:07.351Z",
+      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-33"
+    },
+    {
+      "id": "7df2a322-2aca-469d-be97-a1e6a397bbe6",
+      "title": "13 artigos em um mês, e o Google tinha 1 das 28 URLs do meu sitemap",
+      "slug": "13-artigos-em-um-mes-e-o-google-tinha-1-das-28-urls-do-meu-sitemap",
+      "owner_username": "contrateagentes",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-29T10:43:29.809Z",
+      "url": "https://www.tabnews.com.br/contrateagentes/13-artigos-em-um-mes-e-o-google-tinha-1-das-28-urls-do-meu-sitemap"
+    },
+    {
+      "id": "1cb8e01e-bd62-49df-b29d-ed13db889a62",
+      "title": "Pitch: Web Harness - Um lugar para aplicações fullstack.",
+      "slug": "web-harness-um-lugar-para-aplicacoes-fullstack",
+      "owner_username": "umRuivo",
+      "source_url": "https://github.com/umRuivo/web-harness",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-08-29T04:15:51.456Z",
+      "url": "https://www.tabnews.com.br/umRuivo/web-harness-um-lugar-para-aplicacoes-fullstack"
+    },
+    {
+      "id": "d01afaa2-f2f7-48d1-b045-33695c1fb726",
+      "title": "Duas formigas carregando uma chave de fenda",
+      "slug": "duas-formigas-carregando-uma-chave-de-fenda",
+      "owner_username": "clacerda",
+      "source_url": null,
+      "tabcoins": 20,
+      "children_deep_count": 2,
+      "published_at": "2026-08-27T05:05:58.634Z",
+      "url": "https://www.tabnews.com.br/clacerda/duas-formigas-carregando-uma-chave-de-fenda"
+    },
+    {
+      "id": "46a396aa-815a-4446-bdb5-4316639beb7c",
+      "title": "Pitch: Larguei a ideia de SaaS e fiz um ERP local para MEI (.NET 10 + WinForms + SQLite)",
+      "slug": "larguei-a-ideia-de-saas-e-fiz-um-erp-local-para-mei-net-10-winforms-sqlite",
+      "owner_username": "R4F4FM4R",
+      "source_url": "https://apps.microsoft.com/detail/9P3PB6ZRXMBB",
+      "tabcoins": 12,
+      "children_deep_count": 9,
+      "published_at": "2026-08-27T19:34:09.954Z",
+      "url": "https://www.tabnews.com.br/R4F4FM4R/larguei-a-ideia-de-saas-e-fiz-um-erp-local-para-mei-net-10-winforms-sqlite"
     }
   ]
 }
