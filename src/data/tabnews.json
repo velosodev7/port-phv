@@ -1,38 +1,16 @@
 {
-  "updated_at": "2026-08-31T16:33:07.465Z",
+  "updated_at": "2026-09-01T13:49:03.073Z",
   "posts": [
-    {
-      "id": "81a0332c-80a8-46c5-9c18-d1fcce74653e",
-      "title": "Pitch: Após 15 anos lancei um jogo original para o videogame brasileiro Zeebo",
-      "slug": "apos-15-anos-lancei-um-jogo-original-para-o-videogame-brasileiro-zeebo",
-      "owner_username": "filipericardo",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 0,
-      "published_at": "2026-08-30T15:51:05.417Z",
-      "url": "https://www.tabnews.com.br/filipericardo/apos-15-anos-lancei-um-jogo-original-para-o-videogame-brasileiro-zeebo"
-    },
     {
       "id": "38b129f6-2024-43fa-b76e-2e6f6f1f9628",
       "title": "O que está acontecendo??",
       "slug": "o-que-esta-acontecendo",
       "owner_username": "VGhostP",
       "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 6,
+      "tabcoins": 13,
+      "children_deep_count": 12,
       "published_at": "2026-08-31T11:36:11.944Z",
       "url": "https://www.tabnews.com.br/VGhostP/o-que-esta-acontecendo"
-    },
-    {
-      "id": "00f8c98b-71f4-4832-ad7e-cc27c2d8506e",
-      "title": "“Mas Eu Sou Sênior”: O Autoengano da Classe Trabalhadora da TI e a Hora de Acordar",
-      "slug": "mas-eu-sou-senior-o-autoengano-da-classe-trabalhadora-da-ti-e-a-hora-de-acordar",
-      "owner_username": "HerbertGeorgeWells",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-08-30T23:37:29.224Z",
-      "url": "https://www.tabnews.com.br/HerbertGeorgeWells/mas-eu-sou-senior-o-autoengano-da-classe-trabalhadora-da-ti-e-a-hora-de-acordar"
     },
     {
       "id": "c790eed1-8705-479f-8be4-fbd3254eecc5",
@@ -40,65 +18,10 @@
       "slug": "contei-os-if-de-um-servico-de-preco-1-043-ramificacoes-e-so-34-mudaram-no-ultimo-ano",
       "owner_username": "revinsoftware",
       "source_url": "https://revin.com.br/pt/blog/mil-regras-negocio-codigo-motor-regras-planilha",
-      "tabcoins": 5,
-      "children_deep_count": 2,
+      "tabcoins": 6,
+      "children_deep_count": 4,
       "published_at": "2026-08-31T13:03:31.996Z",
       "url": "https://www.tabnews.com.br/revinsoftware/contei-os-if-de-um-servico-de-preco-1-043-ramificacoes-e-so-34-mudaram-no-ultimo-ano"
-    },
-    {
-      "id": "4bae2fc7-df03-44e4-92a4-feb68fc45d77",
-      "title": "Preciso de 12 testadores para liberar meu app na Google Play",
-      "slug": "preciso-de-12-testadores-para-liberar-meu-app-na-google-play",
-      "owner_username": "joaomsmagno",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-08-30T21:08:32.201Z",
-      "url": "https://www.tabnews.com.br/joaomsmagno/preciso-de-12-testadores-para-liberar-meu-app-na-google-play"
-    },
-    {
-      "id": "c7b9d09d-5439-4d52-aed6-f6c55876b4f5",
-      "title": "Self-Evolving Agent: meu harness reescreveu AGENTS.md 24 vezes em 6 meses",
-      "slug": "self-evolving-agent-meu-harness-reescreveu-agents-md-24-vezes-em-6-meses",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/self-evolving-agent-24-rewrites-agents-md-6-meses/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-31T12:00:06.156Z",
-      "url": "https://www.tabnews.com.br/kenimo49/self-evolving-agent-meu-harness-reescreveu-agents-md-24-vezes-em-6-meses"
-    },
-    {
-      "id": "8e64ce0b-3cca-45ad-84ca-d9d84ae0532d",
-      "title": "O que aprendi tentando portar uma distrobox para o Flatpak",
-      "slug": "o-que-aprendi-tentando-portar-uma-distrobox-para-o-flatpak",
-      "owner_username": "LukaKuuhaku",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-31T13:35:35.647Z",
-      "url": "https://www.tabnews.com.br/LukaKuuhaku/o-que-aprendi-tentando-portar-uma-distrobox-para-o-flatpak"
-    },
-    {
-      "id": "6f689d5c-607f-4a5f-af7a-876fcc34773b",
-      "title": "Pitch: Criei uma CLI para Gerar Links de Afiliados de Marketplaces",
-      "slug": "criei-uma-cli-para-gerar-links-de-afiliados-de-marketplaces",
-      "owner_username": "marcuth",
-      "source_url": "https://github.com/Afilimax/afilimax-cli",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-31T03:58:51.750Z",
-      "url": "https://www.tabnews.com.br/marcuth/criei-uma-cli-para-gerar-links-de-afiliados-de-marketplaces"
-    },
-    {
-      "id": "157145cf-440a-4b0b-a163-67e42f2c7135",
-      "title": "Não seja um Proxy de IA - Porque isso é o que fará você ser substituído por ela",
-      "slug": "nao-seja-um-proxy-de-ia-porque-isso-e-o-que-fara-voce-ser-substituido-por-ela",
-      "owner_username": "MagoAcademico",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-08-30T20:36:45.161Z",
-      "url": "https://www.tabnews.com.br/MagoAcademico/nao-seja-um-proxy-de-ia-porque-isso-e-o-que-fara-voce-ser-substituido-por-ela"
     },
     {
       "id": "9ba61e8d-9d79-4f79-b773-b049d97a2bfa",
@@ -106,10 +29,87 @@
       "slug": "framework-laptop-13-pro",
       "owner_username": "jonathanbergson",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 5,
+      "children_deep_count": 1,
       "published_at": "2026-08-31T15:28:37.930Z",
       "url": "https://www.tabnews.com.br/jonathanbergson/framework-laptop-13-pro"
+    },
+    {
+      "id": "b3c8bace-74cf-4d43-b56e-526d5477ab6c",
+      "title": "1 ANO DE XP COMO DEV!",
+      "slug": "1-ano-de-xp-como-dev",
+      "owner_username": "uemurinya",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-09-01T09:08:35.319Z",
+      "url": "https://www.tabnews.com.br/uemurinya/1-ano-de-xp-como-dev"
+    },
+    {
+      "id": "8e64ce0b-3cca-45ad-84ca-d9d84ae0532d",
+      "title": "O que aprendi tentando portar uma distrobox para o Flatpak",
+      "slug": "o-que-aprendi-tentando-portar-uma-distrobox-para-o-flatpak",
+      "owner_username": "LukaKuuhaku",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-08-31T13:35:35.647Z",
+      "url": "https://www.tabnews.com.br/LukaKuuhaku/o-que-aprendi-tentando-portar-uma-distrobox-para-o-flatpak"
+    },
+    {
+      "id": "f6960dd3-d06c-4d39-87c8-5c978c31b577",
+      "title": "O Google apagou a data de desligamento do Gemini 2.5 que ele mesmo anunciou",
+      "slug": "o-google-apagou-a-data-de-desligamento-do-gemini-2-5-que-ele-mesmo-anunciou",
+      "owner_username": "ushiro35",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-01T09:55:50.125Z",
+      "url": "https://www.tabnews.com.br/ushiro35/o-google-apagou-a-data-de-desligamento-do-gemini-2-5-que-ele-mesmo-anunciou"
+    },
+    {
+      "id": "3fd4faf4-61dc-4350-bb23-e6a62e826a8d",
+      "title": "[DÚVIDA] Como vocês precificam freelas e novas features com precisão (especialmente usando IA)?",
+      "slug": "duvida-como-voces-precificam-freelas-e-novas-features-com-precisao-especialmente-usando-ia",
+      "owner_username": "Carlos05",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 1,
+      "published_at": "2026-09-01T12:52:47.457Z",
+      "url": "https://www.tabnews.com.br/Carlos05/duvida-como-voces-precificam-freelas-e-novas-features-com-precisao-especialmente-usando-ia"
+    },
+    {
+      "id": "55ca6907-baf2-4745-8eaa-1da6b169161c",
+      "title": "Pitch: VitaJS rode JS no PS Vita. Como ficou dois anos depois?",
+      "slug": "pitch-como-ficou-o-ps-vita-dois-anos-depois",
+      "owner_username": "faelpinho",
+      "source_url": "https://github.com/faelpinho/vitajs",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-09-01T05:18:06.204Z",
+      "url": "https://www.tabnews.com.br/faelpinho/pitch-como-ficou-o-ps-vita-dois-anos-depois"
+    },
+    {
+      "id": "81a0332c-80a8-46c5-9c18-d1fcce74653e",
+      "title": "Pitch: Após 15 anos lancei um jogo original para o videogame brasileiro Zeebo",
+      "slug": "apos-15-anos-lancei-um-jogo-original-para-o-videogame-brasileiro-zeebo",
+      "owner_username": "filipericardo",
+      "source_url": null,
+      "tabcoins": 13,
+      "children_deep_count": 2,
+      "published_at": "2026-08-30T15:51:05.417Z",
+      "url": "https://www.tabnews.com.br/filipericardo/apos-15-anos-lancei-um-jogo-original-para-o-videogame-brasileiro-zeebo"
+    },
+    {
+      "id": "4bae2fc7-df03-44e4-92a4-feb68fc45d77",
+      "title": "Preciso de 12 testadores para liberar meu app na Google Play",
+      "slug": "preciso-de-12-testadores-para-liberar-meu-app-na-google-play",
+      "owner_username": "joaomsmagno",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-08-30T21:08:32.201Z",
+      "url": "https://www.tabnews.com.br/joaomsmagno/preciso-de-12-testadores-para-liberar-meu-app-na-google-play"
     }
   ]
 }
