@@ -1,16 +1,60 @@
 {
-  "updated_at": "2026-09-01T13:49:03.073Z",
+  "updated_at": "2026-09-02T13:06:25.896Z",
   "posts": [
+    {
+      "id": "b3c8bace-74cf-4d43-b56e-526d5477ab6c",
+      "title": "1 ANO DE XP COMO DEV!",
+      "slug": "1-ano-de-xp-como-dev",
+      "owner_username": "uemurinya",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 8,
+      "published_at": "2026-09-01T09:08:35.319Z",
+      "url": "https://www.tabnews.com.br/uemurinya/1-ano-de-xp-como-dev"
+    },
+    {
+      "id": "c88dc64b-4df5-46fa-a798-0582fa99c247",
+      "title": "Criei uma estrela usando Java",
+      "slug": "criei-uma-estrela-usando-java",
+      "owner_username": "Navelogic",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-09-02T10:43:47.738Z",
+      "url": "https://www.tabnews.com.br/Navelogic/criei-uma-estrela-usando-java"
+    },
     {
       "id": "38b129f6-2024-43fa-b76e-2e6f6f1f9628",
       "title": "O que está acontecendo??",
       "slug": "o-que-esta-acontecendo",
       "owner_username": "VGhostP",
       "source_url": null,
-      "tabcoins": 13,
-      "children_deep_count": 12,
+      "tabcoins": 24,
+      "children_deep_count": 23,
       "published_at": "2026-08-31T11:36:11.944Z",
       "url": "https://www.tabnews.com.br/VGhostP/o-que-esta-acontecendo"
+    },
+    {
+      "id": "1e3359ac-184a-483f-aa76-c1b530ef8d1b",
+      "title": "Temporal: o sucessor nativo do objeto Date() no Javascript",
+      "slug": "temporal-o-sucessor-nativo-do-objeto-date-no-javascript",
+      "owner_username": "htlw",
+      "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal",
+      "tabcoins": 10,
+      "children_deep_count": 3,
+      "published_at": "2026-08-31T18:05:00.648Z",
+      "url": "https://www.tabnews.com.br/htlw/temporal-o-sucessor-nativo-do-objeto-date-no-javascript"
+    },
+    {
+      "id": "9ba61e8d-9d79-4f79-b773-b049d97a2bfa",
+      "title": "Framework Laptop 13 Pro",
+      "slug": "framework-laptop-13-pro",
+      "owner_username": "jonathanbergson",
+      "source_url": null,
+      "tabcoins": 9,
+      "children_deep_count": 2,
+      "published_at": "2026-08-31T15:28:37.930Z",
+      "url": "https://www.tabnews.com.br/jonathanbergson/framework-laptop-13-pro"
     },
     {
       "id": "c790eed1-8705-479f-8be4-fbd3254eecc5",
@@ -24,26 +68,15 @@
       "url": "https://www.tabnews.com.br/revinsoftware/contei-os-if-de-um-servico-de-preco-1-043-ramificacoes-e-so-34-mudaram-no-ultimo-ano"
     },
     {
-      "id": "9ba61e8d-9d79-4f79-b773-b049d97a2bfa",
-      "title": "Framework Laptop 13 Pro",
-      "slug": "framework-laptop-13-pro",
-      "owner_username": "jonathanbergson",
+      "id": "4bae2fc7-df03-44e4-92a4-feb68fc45d77",
+      "title": "Preciso de 12 testadores para liberar meu app na Google Play",
+      "slug": "preciso-de-12-testadores-para-liberar-meu-app-na-google-play",
+      "owner_username": "joaomsmagno",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-08-31T15:28:37.930Z",
-      "url": "https://www.tabnews.com.br/jonathanbergson/framework-laptop-13-pro"
-    },
-    {
-      "id": "b3c8bace-74cf-4d43-b56e-526d5477ab6c",
-      "title": "1 ANO DE XP COMO DEV!",
-      "slug": "1-ano-de-xp-como-dev",
-      "owner_username": "uemurinya",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-09-01T09:08:35.319Z",
-      "url": "https://www.tabnews.com.br/uemurinya/1-ano-de-xp-como-dev"
+      "tabcoins": 6,
+      "children_deep_count": 5,
+      "published_at": "2026-08-30T21:08:32.201Z",
+      "url": "https://www.tabnews.com.br/joaomsmagno/preciso-de-12-testadores-para-liberar-meu-app-na-google-play"
     },
     {
       "id": "8e64ce0b-3cca-45ad-84ca-d9d84ae0532d",
@@ -57,59 +90,26 @@
       "url": "https://www.tabnews.com.br/LukaKuuhaku/o-que-aprendi-tentando-portar-uma-distrobox-para-o-flatpak"
     },
     {
+      "id": "157145cf-440a-4b0b-a163-67e42f2c7135",
+      "title": "Não seja um Proxy de IA - Porque isso é o que fará você ser substituído por ela",
+      "slug": "nao-seja-um-proxy-de-ia-porque-isso-e-o-que-fara-voce-ser-substituido-por-ela",
+      "owner_username": "MagoAcademico",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-08-30T20:36:45.161Z",
+      "url": "https://www.tabnews.com.br/MagoAcademico/nao-seja-um-proxy-de-ia-porque-isso-e-o-que-fara-voce-ser-substituido-por-ela"
+    },
+    {
       "id": "f6960dd3-d06c-4d39-87c8-5c978c31b577",
       "title": "O Google apagou a data de desligamento do Gemini 2.5 que ele mesmo anunciou",
       "slug": "o-google-apagou-a-data-de-desligamento-do-gemini-2-5-que-ele-mesmo-anunciou",
       "owner_username": "ushiro35",
       "source_url": null,
       "tabcoins": 3,
-      "children_deep_count": 0,
+      "children_deep_count": 1,
       "published_at": "2026-09-01T09:55:50.125Z",
       "url": "https://www.tabnews.com.br/ushiro35/o-google-apagou-a-data-de-desligamento-do-gemini-2-5-que-ele-mesmo-anunciou"
-    },
-    {
-      "id": "3fd4faf4-61dc-4350-bb23-e6a62e826a8d",
-      "title": "[DÚVIDA] Como vocês precificam freelas e novas features com precisão (especialmente usando IA)?",
-      "slug": "duvida-como-voces-precificam-freelas-e-novas-features-com-precisao-especialmente-usando-ia",
-      "owner_username": "Carlos05",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 1,
-      "published_at": "2026-09-01T12:52:47.457Z",
-      "url": "https://www.tabnews.com.br/Carlos05/duvida-como-voces-precificam-freelas-e-novas-features-com-precisao-especialmente-usando-ia"
-    },
-    {
-      "id": "55ca6907-baf2-4745-8eaa-1da6b169161c",
-      "title": "Pitch: VitaJS rode JS no PS Vita. Como ficou dois anos depois?",
-      "slug": "pitch-como-ficou-o-ps-vita-dois-anos-depois",
-      "owner_username": "faelpinho",
-      "source_url": "https://github.com/faelpinho/vitajs",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-09-01T05:18:06.204Z",
-      "url": "https://www.tabnews.com.br/faelpinho/pitch-como-ficou-o-ps-vita-dois-anos-depois"
-    },
-    {
-      "id": "81a0332c-80a8-46c5-9c18-d1fcce74653e",
-      "title": "Pitch: Após 15 anos lancei um jogo original para o videogame brasileiro Zeebo",
-      "slug": "apos-15-anos-lancei-um-jogo-original-para-o-videogame-brasileiro-zeebo",
-      "owner_username": "filipericardo",
-      "source_url": null,
-      "tabcoins": 13,
-      "children_deep_count": 2,
-      "published_at": "2026-08-30T15:51:05.417Z",
-      "url": "https://www.tabnews.com.br/filipericardo/apos-15-anos-lancei-um-jogo-original-para-o-videogame-brasileiro-zeebo"
-    },
-    {
-      "id": "4bae2fc7-df03-44e4-92a4-feb68fc45d77",
-      "title": "Preciso de 12 testadores para liberar meu app na Google Play",
-      "slug": "preciso-de-12-testadores-para-liberar-meu-app-na-google-play",
-      "owner_username": "joaomsmagno",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-08-30T21:08:32.201Z",
-      "url": "https://www.tabnews.com.br/joaomsmagno/preciso-de-12-testadores-para-liberar-meu-app-na-google-play"
     }
   ]
 }
