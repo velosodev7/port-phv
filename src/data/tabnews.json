@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-02T13:06:25.896Z",
+  "updated_at": "2026-09-03T13:07:55.475Z",
   "posts": [
     {
-      "id": "b3c8bace-74cf-4d43-b56e-526d5477ab6c",
-      "title": "1 ANO DE XP COMO DEV!",
-      "slug": "1-ano-de-xp-como-dev",
-      "owner_username": "uemurinya",
+      "id": "6f7ab7bb-e06b-4866-aee0-bea97226d8e4",
+      "title": "[DESABAFO] - Me Recuso a virar um apertador de botão.",
+      "slug": "desabafo-me-recuso-a-virar-um-apertador-de-botao",
+      "owner_username": "Bersabee",
       "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 8,
-      "published_at": "2026-09-01T09:08:35.319Z",
-      "url": "https://www.tabnews.com.br/uemurinya/1-ano-de-xp-como-dev"
+      "tabcoins": 23,
+      "children_deep_count": 11,
+      "published_at": "2026-09-02T12:17:28.176Z",
+      "url": "https://www.tabnews.com.br/Bersabee/desabafo-me-recuso-a-virar-um-apertador-de-botao"
     },
     {
       "id": "c88dc64b-4df5-46fa-a798-0582fa99c247",
@@ -18,98 +18,98 @@
       "slug": "criei-uma-estrela-usando-java",
       "owner_username": "Navelogic",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
+      "tabcoins": 11,
+      "children_deep_count": 4,
       "published_at": "2026-09-02T10:43:47.738Z",
       "url": "https://www.tabnews.com.br/Navelogic/criei-uma-estrela-usando-java"
     },
     {
-      "id": "38b129f6-2024-43fa-b76e-2e6f6f1f9628",
-      "title": "O que está acontecendo??",
-      "slug": "o-que-esta-acontecendo",
-      "owner_username": "VGhostP",
-      "source_url": null,
-      "tabcoins": 24,
-      "children_deep_count": 23,
-      "published_at": "2026-08-31T11:36:11.944Z",
-      "url": "https://www.tabnews.com.br/VGhostP/o-que-esta-acontecendo"
-    },
-    {
-      "id": "1e3359ac-184a-483f-aa76-c1b530ef8d1b",
-      "title": "Temporal: o sucessor nativo do objeto Date() no Javascript",
-      "slug": "temporal-o-sucessor-nativo-do-objeto-date-no-javascript",
+      "id": "7fc8cfb4-45bf-403a-adcd-169fc31882aa",
+      "title": "Qual ferramenta você acha indispensável ter no seu PC?",
+      "slug": "qual-ferramenta-voce-acha-indispensavel-ter-no-seu-pc",
       "owner_username": "htlw",
-      "source_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal",
-      "tabcoins": 10,
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 10,
+      "published_at": "2026-09-02T13:32:09.630Z",
+      "url": "https://www.tabnews.com.br/htlw/qual-ferramenta-voce-acha-indispensavel-ter-no-seu-pc"
+    },
+    {
+      "id": "8de307b5-af73-4329-9599-5ef58081c538",
+      "title": "Pitch: Sistema Open source e 100% free para quem tem grupo de ofertas no WhatsApp.",
+      "slug": "sistema-open-source-e-100-por-cento-free-para-quem-tem-grupo-de-ofertas-no-whatsapp",
+      "owner_username": "weberfernando",
+      "source_url": "https://github.com/FernandoRhenan/nandobot",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-09-02T20:49:13.584Z",
+      "url": "https://www.tabnews.com.br/weberfernando/sistema-open-source-e-100-por-cento-free-para-quem-tem-grupo-de-ofertas-no-whatsapp"
+    },
+    {
+      "id": "908ca36f-ece2-4673-b930-b89d3e42d9e5",
+      "title": "Pitch: Fiz uma ferramenta open source para ajudar a adaptar o currículo às vagas de emprego",
+      "slug": "fiz-uma-ferramenta-open-source-para-ajudar-a-adaptar-o-curriculo-as-vagas-de-emprego",
+      "owner_username": "FranciscoOssian",
+      "source_url": "https://cveck.foln.dev",
+      "tabcoins": 3,
       "children_deep_count": 3,
-      "published_at": "2026-08-31T18:05:00.648Z",
-      "url": "https://www.tabnews.com.br/htlw/temporal-o-sucessor-nativo-do-objeto-date-no-javascript"
+      "published_at": "2026-09-02T17:55:02.861Z",
+      "url": "https://www.tabnews.com.br/FranciscoOssian/fiz-uma-ferramenta-open-source-para-ajudar-a-adaptar-o-curriculo-as-vagas-de-emprego"
     },
     {
-      "id": "9ba61e8d-9d79-4f79-b773-b049d97a2bfa",
-      "title": "Framework Laptop 13 Pro",
-      "slug": "framework-laptop-13-pro",
-      "owner_username": "jonathanbergson",
-      "source_url": null,
-      "tabcoins": 9,
-      "children_deep_count": 2,
-      "published_at": "2026-08-31T15:28:37.930Z",
-      "url": "https://www.tabnews.com.br/jonathanbergson/framework-laptop-13-pro"
-    },
-    {
-      "id": "c790eed1-8705-479f-8be4-fbd3254eecc5",
-      "title": "Contei os if de um serviço de preço: 1.043 ramificações e só 34 mudaram no último ano",
-      "slug": "contei-os-if-de-um-servico-de-preco-1-043-ramificacoes-e-so-34-mudaram-no-ultimo-ano",
-      "owner_username": "revinsoftware",
-      "source_url": "https://revin.com.br/pt/blog/mil-regras-negocio-codigo-motor-regras-planilha",
-      "tabcoins": 6,
-      "children_deep_count": 4,
-      "published_at": "2026-08-31T13:03:31.996Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/contei-os-if-de-um-servico-de-preco-1-043-ramificacoes-e-so-34-mudaram-no-ultimo-ano"
-    },
-    {
-      "id": "4bae2fc7-df03-44e4-92a4-feb68fc45d77",
-      "title": "Preciso de 12 testadores para liberar meu app na Google Play",
-      "slug": "preciso-de-12-testadores-para-liberar-meu-app-na-google-play",
-      "owner_username": "joaomsmagno",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 5,
-      "published_at": "2026-08-30T21:08:32.201Z",
-      "url": "https://www.tabnews.com.br/joaomsmagno/preciso-de-12-testadores-para-liberar-meu-app-na-google-play"
-    },
-    {
-      "id": "8e64ce0b-3cca-45ad-84ca-d9d84ae0532d",
-      "title": "O que aprendi tentando portar uma distrobox para o Flatpak",
-      "slug": "o-que-aprendi-tentando-portar-uma-distrobox-para-o-flatpak",
-      "owner_username": "LukaKuuhaku",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-31T13:35:35.647Z",
-      "url": "https://www.tabnews.com.br/LukaKuuhaku/o-que-aprendi-tentando-portar-uma-distrobox-para-o-flatpak"
-    },
-    {
-      "id": "157145cf-440a-4b0b-a163-67e42f2c7135",
-      "title": "Não seja um Proxy de IA - Porque isso é o que fará você ser substituído por ela",
-      "slug": "nao-seja-um-proxy-de-ia-porque-isso-e-o-que-fara-voce-ser-substituido-por-ela",
-      "owner_username": "MagoAcademico",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-08-30T20:36:45.161Z",
-      "url": "https://www.tabnews.com.br/MagoAcademico/nao-seja-um-proxy-de-ia-porque-isso-e-o-que-fara-voce-ser-substituido-por-ela"
-    },
-    {
-      "id": "f6960dd3-d06c-4d39-87c8-5c978c31b577",
-      "title": "O Google apagou a data de desligamento do Gemini 2.5 que ele mesmo anunciou",
-      "slug": "o-google-apagou-a-data-de-desligamento-do-gemini-2-5-que-ele-mesmo-anunciou",
-      "owner_username": "ushiro35",
+      "id": "5f9b73ba-a5b8-41eb-84ed-c6ac11c09a00",
+      "title": "A programação morreu, mas o corpo ainda não foi enterrado",
+      "slug": "a-programacao-morreu-mas-o-corpo-ainda-nao-foi-enterrado",
+      "owner_username": "macnator",
       "source_url": null,
       "tabcoins": 3,
       "children_deep_count": 1,
-      "published_at": "2026-09-01T09:55:50.125Z",
-      "url": "https://www.tabnews.com.br/ushiro35/o-google-apagou-a-data-de-desligamento-do-gemini-2-5-que-ele-mesmo-anunciou"
+      "published_at": "2026-09-03T09:16:28.759Z",
+      "url": "https://www.tabnews.com.br/macnator/a-programacao-morreu-mas-o-corpo-ainda-nao-foi-enterrado"
+    },
+    {
+      "id": "0c6c1616-b508-4722-83b5-84914539d61a",
+      "title": "R$ 1.000,00 por um bug",
+      "slug": "r-1-000-00-por-um-bug",
+      "owner_username": "Jemorini",
+      "source_url": "https://youtu.be/JMZd6zfhpnA",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-02T20:03:58.814Z",
+      "url": "https://www.tabnews.com.br/Jemorini/r-1-000-00-por-um-bug"
+    },
+    {
+      "id": "fa47fe36-3655-4eb7-95d2-a3791c560d46",
+      "title": "# Por que aprender C em 2026 ainda faz sentido?",
+      "slug": "por-que-aprender-c-em-2026-ainda-faz-sentido",
+      "owner_username": "SapoJovial",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 5,
+      "published_at": "2026-09-02T14:03:57.788Z",
+      "url": "https://www.tabnews.com.br/SapoJovial/por-que-aprender-c-em-2026-ainda-faz-sentido"
+    },
+    {
+      "id": "42d8947a-a6c9-4710-87a5-abc3e490c87b",
+      "title": "Antes de deixar a IA aprovar PRs, defina o escopo da revisão",
+      "slug": "antes-de-deixar-a-ia-aprovar-prs-defina-o-escopo-da-revisao",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-03T06:33:26.077Z",
+      "url": "https://www.tabnews.com.br/Centelha/antes-de-deixar-a-ia-aprovar-prs-defina-o-escopo-da-revisao"
+    },
+    {
+      "id": "3649421b-0181-4b59-8ac1-c05088a71b09",
+      "title": "oh-my-agent: cache gerenciado de skills e evolução do WikiSkill",
+      "slug": "oh-my-agent-cache-gerenciado-de-skills-e-evolucao-do-wikiskill",
+      "owner_username": "gracefullight",
+      "source_url": "https://dev.to/gracefullight/oh-my-agent-managed-skill-caches-and-wikiskill-evolution-56g7",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-03T02:09:44.628Z",
+      "url": "https://www.tabnews.com.br/gracefullight/oh-my-agent-cache-gerenciado-de-skills-e-evolucao-do-wikiskill"
     }
   ]
 }
