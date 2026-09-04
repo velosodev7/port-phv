@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-09-03T13:07:55.475Z",
+  "updated_at": "2026-09-04T13:01:51.788Z",
   "posts": [
     {
-      "id": "6f7ab7bb-e06b-4866-aee0-bea97226d8e4",
-      "title": "[DESABAFO] - Me Recuso a virar um apertador de botão.",
-      "slug": "desabafo-me-recuso-a-virar-um-apertador-de-botao",
-      "owner_username": "Bersabee",
+      "id": "6232c681-3f50-488a-b643-177d0e44b275",
+      "title": "Ressuscitei uma impressora térmica de banco que não fala ESC/POS nem imprime QR Code",
+      "slug": "ressuscitei-uma-impressora-termica-de-banco-que-nao-fala-esc-pos-nem-imprime-qr-code",
+      "owner_username": "Feliperocha7",
       "source_url": null,
-      "tabcoins": 23,
-      "children_deep_count": 11,
-      "published_at": "2026-09-02T12:17:28.176Z",
-      "url": "https://www.tabnews.com.br/Bersabee/desabafo-me-recuso-a-virar-um-apertador-de-botao"
+      "tabcoins": 8,
+      "children_deep_count": 2,
+      "published_at": "2026-09-03T20:38:18.561Z",
+      "url": "https://www.tabnews.com.br/Feliperocha7/ressuscitei-uma-impressora-termica-de-banco-que-nao-fala-esc-pos-nem-imprime-qr-code"
     },
     {
-      "id": "c88dc64b-4df5-46fa-a798-0582fa99c247",
-      "title": "Criei uma estrela usando Java",
-      "slug": "criei-uma-estrela-usando-java",
-      "owner_username": "Navelogic",
+      "id": "ea7c12c6-00fa-4248-9693-4a2b9b0c3251",
+      "title": "Pitch: Transformei um problema real em uma API para a Lista Brasileira de Resíduos do IBAMA",
+      "slug": "transformei-um-problema-real-em-uma-api-para-a-lista-brasileira-de-residuos-do-ibama",
+      "owner_username": "devFilipe",
       "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 4,
-      "published_at": "2026-09-02T10:43:47.738Z",
-      "url": "https://www.tabnews.com.br/Navelogic/criei-uma-estrela-usando-java"
-    },
-    {
-      "id": "7fc8cfb4-45bf-403a-adcd-169fc31882aa",
-      "title": "Qual ferramenta você acha indispensável ter no seu PC?",
-      "slug": "qual-ferramenta-voce-acha-indispensavel-ter-no-seu-pc",
-      "owner_username": "htlw",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 10,
-      "published_at": "2026-09-02T13:32:09.630Z",
-      "url": "https://www.tabnews.com.br/htlw/qual-ferramenta-voce-acha-indispensavel-ter-no-seu-pc"
-    },
-    {
-      "id": "8de307b5-af73-4329-9599-5ef58081c538",
-      "title": "Pitch: Sistema Open source e 100% free para quem tem grupo de ofertas no WhatsApp.",
-      "slug": "sistema-open-source-e-100-por-cento-free-para-quem-tem-grupo-de-ofertas-no-whatsapp",
-      "owner_username": "weberfernando",
-      "source_url": "https://github.com/FernandoRhenan/nandobot",
-      "tabcoins": 6,
+      "tabcoins": 7,
       "children_deep_count": 1,
-      "published_at": "2026-09-02T20:49:13.584Z",
-      "url": "https://www.tabnews.com.br/weberfernando/sistema-open-source-e-100-por-cento-free-para-quem-tem-grupo-de-ofertas-no-whatsapp"
+      "published_at": "2026-09-03T19:59:19.365Z",
+      "url": "https://www.tabnews.com.br/devFilipe/transformei-um-problema-real-em-uma-api-para-a-lista-brasileira-de-residuos-do-ibama"
     },
     {
-      "id": "908ca36f-ece2-4673-b930-b89d3e42d9e5",
-      "title": "Pitch: Fiz uma ferramenta open source para ajudar a adaptar o currículo às vagas de emprego",
-      "slug": "fiz-uma-ferramenta-open-source-para-ajudar-a-adaptar-o-curriculo-as-vagas-de-emprego",
-      "owner_username": "FranciscoOssian",
-      "source_url": "https://cveck.foln.dev",
-      "tabcoins": 3,
+      "id": "e4d74958-0228-48aa-b704-cce2b8c15d7d",
+      "title": ".NET Native AOT: Parte 2 — JIT, R2R e AOT em Benchmarks",
+      "slug": "net-native-aot-parte-2-jit-r2r-e-aot-em-benchmarks",
+      "owner_username": "lzocateli",
+      "source_url": "https://zocate.li/posts/2026/dotnet-native-aot-jit-r2r-benchmarks/",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-09-04T09:01:32.582Z",
+      "url": "https://www.tabnews.com.br/lzocateli/net-native-aot-parte-2-jit-r2r-e-aot-em-benchmarks"
+    },
+    {
+      "id": "ee6e0186-3080-450b-8329-6af34f44a2b1",
+      "title": "Pitch: Vayou — Player de Vídeo Nativo que Traduz a Legenda Sozinho (Rust + Slint)",
+      "slug": "vayou-player-de-video-nativo-que-traduz-a-legenda-sozinho-rust-slint",
+      "owner_username": "ohgawa",
+      "source_url": null,
+      "tabcoins": 4,
       "children_deep_count": 3,
-      "published_at": "2026-09-02T17:55:02.861Z",
-      "url": "https://www.tabnews.com.br/FranciscoOssian/fiz-uma-ferramenta-open-source-para-ajudar-a-adaptar-o-curriculo-as-vagas-de-emprego"
+      "published_at": "2026-09-03T19:33:08.374Z",
+      "url": "https://www.tabnews.com.br/ohgawa/vayou-player-de-video-nativo-que-traduz-a-legenda-sozinho-rust-slint"
     },
     {
-      "id": "5f9b73ba-a5b8-41eb-84ed-c6ac11c09a00",
-      "title": "A programação morreu, mas o corpo ainda não foi enterrado",
-      "slug": "a-programacao-morreu-mas-o-corpo-ainda-nao-foi-enterrado",
-      "owner_username": "macnator",
+      "id": "cf9bf889-d76c-4cc7-ab63-e0020f4f1ab7",
+      "title": "Automação de cobrança: o que decidir antes de deixar o sistema cobrar sozinho",
+      "slug": "automacao-de-cobranca-o-que-decidir-antes-de-deixar-o-sistema-cobrar-sozinho",
+      "owner_username": "NayaraMartins",
       "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-09-04T02:55:49.808Z",
+      "url": "https://www.tabnews.com.br/NayaraMartins/automacao-de-cobranca-o-que-decidir-antes-de-deixar-o-sistema-cobrar-sozinho"
+    },
+    {
+      "id": "4105b972-9476-4d2a-af36-28d1dc9f18b1",
+      "title": "Troquei Sonnet por Qwen 7B local em 3 tarefas: bill de US$ 47 virou R$ 0 (e 2 tarefas ficaram melhores)",
+      "slug": "troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/troquei-sonnet-por-qwen-7b-local-47-para-0/",
       "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-04T12:00:03.773Z",
+      "url": "https://www.tabnews.com.br/kenimo49/troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores"
+    },
+    {
+      "id": "8a09bc20-9af2-451a-a9b2-54900db0dc76",
+      "title": "Automação para o agronegócio: onde faz sentido para o pequeno e para o grande produtor",
+      "slug": "automacao-para-o-agronegocio-onde-faz-sentido-para-o-pequeno-e-para-o-grande-produtor",
+      "owner_username": "NayaraMartins",
+      "source_url": null,
+      "tabcoins": 1,
       "children_deep_count": 1,
-      "published_at": "2026-09-03T09:16:28.759Z",
-      "url": "https://www.tabnews.com.br/macnator/a-programacao-morreu-mas-o-corpo-ainda-nao-foi-enterrado"
+      "published_at": "2026-09-04T03:12:40.946Z",
+      "url": "https://www.tabnews.com.br/NayaraMartins/automacao-para-o-agronegocio-onde-faz-sentido-para-o-pequeno-e-para-o-grande-produtor"
     },
     {
-      "id": "0c6c1616-b508-4722-83b5-84914539d61a",
-      "title": "R$ 1.000,00 por um bug",
-      "slug": "r-1-000-00-por-um-bug",
-      "owner_username": "Jemorini",
-      "source_url": "https://youtu.be/JMZd6zfhpnA",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-02T20:03:58.814Z",
-      "url": "https://www.tabnews.com.br/Jemorini/r-1-000-00-por-um-bug"
-    },
-    {
-      "id": "fa47fe36-3655-4eb7-95d2-a3791c560d46",
-      "title": "# Por que aprender C em 2026 ainda faz sentido?",
-      "slug": "por-que-aprender-c-em-2026-ainda-faz-sentido",
-      "owner_username": "SapoJovial",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 5,
-      "published_at": "2026-09-02T14:03:57.788Z",
-      "url": "https://www.tabnews.com.br/SapoJovial/por-que-aprender-c-em-2026-ainda-faz-sentido"
-    },
-    {
-      "id": "42d8947a-a6c9-4710-87a5-abc3e490c87b",
-      "title": "Antes de deixar a IA aprovar PRs, defina o escopo da revisão",
-      "slug": "antes-de-deixar-a-ia-aprovar-prs-defina-o-escopo-da-revisao",
-      "owner_username": "Centelha",
+      "id": "5edf47e3-e46f-4b82-a4b0-8cbb01f4d591",
+      "title": "71 arquivos de teste, 845 testes, e nenhum deles estava rodando",
+      "slug": "71-arquivos-de-teste-845-testes-e-nenhum-deles-estava-rodando",
+      "owner_username": "ushiro35",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-09-03T06:33:26.077Z",
-      "url": "https://www.tabnews.com.br/Centelha/antes-de-deixar-a-ia-aprovar-prs-defina-o-escopo-da-revisao"
+      "published_at": "2026-09-04T12:53:16.000Z",
+      "url": "https://www.tabnews.com.br/ushiro35/71-arquivos-de-teste-845-testes-e-nenhum-deles-estava-rodando"
     },
     {
-      "id": "3649421b-0181-4b59-8ac1-c05088a71b09",
-      "title": "oh-my-agent: cache gerenciado de skills e evolução do WikiSkill",
-      "slug": "oh-my-agent-cache-gerenciado-de-skills-e-evolucao-do-wikiskill",
-      "owner_username": "gracefullight",
-      "source_url": "https://dev.to/gracefullight/oh-my-agent-managed-skill-caches-and-wikiskill-evolution-56g7",
+      "id": "d3a69fc4-e649-45c0-b4e1-0c048030991f",
+      "title": "Cascade Layers do CSS: Como Dominar a Especificidade Sem Gambiarras",
+      "slug": "cascade-layers-do-css-como-dominar-a-especificidade-sem-gambiarras",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/react/css-cascade-layers-especificidade-sem-gambiarras",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-09-03T02:09:44.628Z",
-      "url": "https://www.tabnews.com.br/gracefullight/oh-my-agent-cache-gerenciado-de-skills-e-evolucao-do-wikiskill"
+      "published_at": "2026-09-04T12:02:56.812Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/cascade-layers-do-css-como-dominar-a-especificidade-sem-gambiarras"
+    },
+    {
+      "id": "f80cb88b-24ea-4001-b931-4cae5d64b7fb",
+      "title": "Explorando o PS Vita através do Javascript: como ficou o VitaJS dois anos depois?",
+      "slug": "explorando-o-ps-vita-atraves-do-javascript-como-ficou-o-vitajs-dois-anos-depois",
+      "owner_username": "faelpinho",
+      "source_url": "https://github.com/faelpinho/vitajs",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-04T03:14:29.178Z",
+      "url": "https://www.tabnews.com.br/faelpinho/explorando-o-ps-vita-atraves-do-javascript-como-ficou-o-vitajs-dois-anos-depois"
     }
   ]
 }
