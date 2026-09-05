@@ -1,27 +1,104 @@
 {
-  "updated_at": "2026-09-04T13:01:51.788Z",
+  "updated_at": "2026-09-05T12:14:18.734Z",
   "posts": [
     {
-      "id": "6232c681-3f50-488a-b643-177d0e44b275",
-      "title": "Ressuscitei uma impressora térmica de banco que não fala ESC/POS nem imprime QR Code",
-      "slug": "ressuscitei-uma-impressora-termica-de-banco-que-nao-fala-esc-pos-nem-imprime-qr-code",
-      "owner_username": "Feliperocha7",
+      "id": "cf9bf889-d76c-4cc7-ab63-e0020f4f1ab7",
+      "title": "Automação de cobrança: o que decidir antes de deixar o sistema cobrar sozinho",
+      "slug": "automacao-de-cobranca-o-que-decidir-antes-de-deixar-o-sistema-cobrar-sozinho",
+      "owner_username": "NayaraMartins",
       "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-09-03T20:38:18.561Z",
-      "url": "https://www.tabnews.com.br/Feliperocha7/ressuscitei-uma-impressora-termica-de-banco-que-nao-fala-esc-pos-nem-imprime-qr-code"
+      "tabcoins": 6,
+      "children_deep_count": 4,
+      "published_at": "2026-09-04T02:55:49.808Z",
+      "url": "https://www.tabnews.com.br/NayaraMartins/automacao-de-cobranca-o-que-decidir-antes-de-deixar-o-sistema-cobrar-sozinho"
     },
     {
-      "id": "ea7c12c6-00fa-4248-9693-4a2b9b0c3251",
-      "title": "Pitch: Transformei um problema real em uma API para a Lista Brasileira de Resíduos do IBAMA",
-      "slug": "transformei-um-problema-real-em-uma-api-para-a-lista-brasileira-de-residuos-do-ibama",
-      "owner_username": "devFilipe",
+      "id": "4105b972-9476-4d2a-af36-28d1dc9f18b1",
+      "title": "Troquei Sonnet por Qwen 7B local em 3 tarefas: bill de US$ 47 virou R$ 0 (e 2 tarefas ficaram melhores)",
+      "slug": "troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/troquei-sonnet-por-qwen-7b-local-47-para-0/",
+      "tabcoins": 6,
+      "children_deep_count": 0,
+      "published_at": "2026-09-04T12:00:03.773Z",
+      "url": "https://www.tabnews.com.br/kenimo49/troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores"
+    },
+    {
+      "id": "b3f71b85-4fff-42e5-a026-448af88fe26d",
+      "title": "Recursos PHP traduzidos por IA",
+      "slug": "recusos-php-traduzidos-por-ia",
+      "owner_username": "vinialencar",
       "source_url": null,
-      "tabcoins": 7,
+      "tabcoins": 5,
       "children_deep_count": 1,
-      "published_at": "2026-09-03T19:59:19.365Z",
-      "url": "https://www.tabnews.com.br/devFilipe/transformei-um-problema-real-em-uma-api-para-a-lista-brasileira-de-residuos-do-ibama"
+      "published_at": "2026-09-04T18:40:47.709Z",
+      "url": "https://www.tabnews.com.br/vinialencar/recusos-php-traduzidos-por-ia"
+    },
+    {
+      "id": "c60c44cb-adc3-43bf-9b80-81ba55415fa7",
+      "title": "GPT-6 Astra: o que a OpenAI lançou de verdade (e a polêmica dos benchmarks)",
+      "slug": "gpt-6-astra-o-que-a-openai-lancou-de-verdade-e-a-polemica-dos-benchmarks",
+      "owner_username": "wildrik",
+      "source_url": "https://www.techknow.com.br/post/gpt-6-astra",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-09-04T20:28:23.663Z",
+      "url": "https://www.tabnews.com.br/wildrik/gpt-6-astra-o-que-a-openai-lancou-de-verdade-e-a-polemica-dos-benchmarks"
+    },
+    {
+      "id": "f77b3cd1-a77d-4360-9377-fae676d6dafe",
+      "title": "Enquanto discutíamos se a IA ia substituir devs, ela começou a quebrar problemas matemáticos de 80 anos: o que está acontecendo?",
+      "slug": "enquanto-discutiamos-se-a-ia-ia-substituir-devs-ela-comecou-a-quebrar-problemas-matematicos-de-80-anos-o-que-esta-acontecendo",
+      "owner_username": "trsthales",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 3,
+      "published_at": "2026-09-04T18:17:03.932Z",
+      "url": "https://www.tabnews.com.br/trsthales/enquanto-discutiamos-se-a-ia-ia-substituir-devs-ela-comecou-a-quebrar-problemas-matematicos-de-80-anos-o-que-esta-acontecendo"
+    },
+    {
+      "id": "830cde8e-f694-47ed-8c03-cb33e6a685c6",
+      "title": "🔥 O Melhor da Semana no TabNews #34",
+      "slug": "o-melhor-da-semana-no-tabnews-34",
+      "owner_username": "TabNewsDigest",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-05T11:00:08.048Z",
+      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-34"
+    },
+    {
+      "id": "b0e68a49-fdda-48b5-99e4-e42272ec8f1e",
+      "title": "Cansado de mandar documento pessoal pro iLovePDF, fiz meu próprio utilitário que roda local no navegador",
+      "slug": "cansado-de-mandar-documento-pessoal-pro-ilovepdf-fiz-meu-proprio-utilitario-que-roda-local-no-navegador",
+      "owner_username": "sirwolfin",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-05T09:27:35.054Z",
+      "url": "https://www.tabnews.com.br/sirwolfin/cansado-de-mandar-documento-pessoal-pro-ilovepdf-fiz-meu-proprio-utilitario-que-roda-local-no-navegador"
+    },
+    {
+      "id": "c858ad30-f075-4341-a932-dcc74fda9abe",
+      "title": "Pitch: quem constrói com IA ainda precisa lembrar termos técnicos depois do prompt?",
+      "slug": "pitch-quem-constroi-com-ia-ainda-precisa-lembrar-termos-tecnicos-depois-do-prompt",
+      "owner_username": "alextechbr",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-05T07:51:35.147Z",
+      "url": "https://www.tabnews.com.br/alextechbr/pitch-quem-constroi-com-ia-ainda-precisa-lembrar-termos-tecnicos-depois-do-prompt"
+    },
+    {
+      "id": "0b129924-e63f-4c58-b056-e79c204d2435",
+      "title": "[PESQUISA] Como vocês estruturam a cobrança por uso (SaaS/APIs)?",
+      "slug": "pesquisa-como-voces-estruturam-a-cobranca-por-uso-saas-apis",
+      "owner_username": "coeleodev",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-05T01:07:35.188Z",
+      "url": "https://www.tabnews.com.br/coeleodev/pesquisa-como-voces-estruturam-a-cobranca-por-uso-saas-apis"
     },
     {
       "id": "e4d74958-0228-48aa-b704-cce2b8c15d7d",
@@ -33,83 +110,6 @@
       "children_deep_count": 1,
       "published_at": "2026-09-04T09:01:32.582Z",
       "url": "https://www.tabnews.com.br/lzocateli/net-native-aot-parte-2-jit-r2r-e-aot-em-benchmarks"
-    },
-    {
-      "id": "ee6e0186-3080-450b-8329-6af34f44a2b1",
-      "title": "Pitch: Vayou — Player de Vídeo Nativo que Traduz a Legenda Sozinho (Rust + Slint)",
-      "slug": "vayou-player-de-video-nativo-que-traduz-a-legenda-sozinho-rust-slint",
-      "owner_username": "ohgawa",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-09-03T19:33:08.374Z",
-      "url": "https://www.tabnews.com.br/ohgawa/vayou-player-de-video-nativo-que-traduz-a-legenda-sozinho-rust-slint"
-    },
-    {
-      "id": "cf9bf889-d76c-4cc7-ab63-e0020f4f1ab7",
-      "title": "Automação de cobrança: o que decidir antes de deixar o sistema cobrar sozinho",
-      "slug": "automacao-de-cobranca-o-que-decidir-antes-de-deixar-o-sistema-cobrar-sozinho",
-      "owner_username": "NayaraMartins",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-09-04T02:55:49.808Z",
-      "url": "https://www.tabnews.com.br/NayaraMartins/automacao-de-cobranca-o-que-decidir-antes-de-deixar-o-sistema-cobrar-sozinho"
-    },
-    {
-      "id": "4105b972-9476-4d2a-af36-28d1dc9f18b1",
-      "title": "Troquei Sonnet por Qwen 7B local em 3 tarefas: bill de US$ 47 virou R$ 0 (e 2 tarefas ficaram melhores)",
-      "slug": "troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/troquei-sonnet-por-qwen-7b-local-47-para-0/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-04T12:00:03.773Z",
-      "url": "https://www.tabnews.com.br/kenimo49/troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores"
-    },
-    {
-      "id": "8a09bc20-9af2-451a-a9b2-54900db0dc76",
-      "title": "Automação para o agronegócio: onde faz sentido para o pequeno e para o grande produtor",
-      "slug": "automacao-para-o-agronegocio-onde-faz-sentido-para-o-pequeno-e-para-o-grande-produtor",
-      "owner_username": "NayaraMartins",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-09-04T03:12:40.946Z",
-      "url": "https://www.tabnews.com.br/NayaraMartins/automacao-para-o-agronegocio-onde-faz-sentido-para-o-pequeno-e-para-o-grande-produtor"
-    },
-    {
-      "id": "5edf47e3-e46f-4b82-a4b0-8cbb01f4d591",
-      "title": "71 arquivos de teste, 845 testes, e nenhum deles estava rodando",
-      "slug": "71-arquivos-de-teste-845-testes-e-nenhum-deles-estava-rodando",
-      "owner_username": "ushiro35",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-04T12:53:16.000Z",
-      "url": "https://www.tabnews.com.br/ushiro35/71-arquivos-de-teste-845-testes-e-nenhum-deles-estava-rodando"
-    },
-    {
-      "id": "d3a69fc4-e649-45c0-b4e1-0c048030991f",
-      "title": "Cascade Layers do CSS: Como Dominar a Especificidade Sem Gambiarras",
-      "slug": "cascade-layers-do-css-como-dominar-a-especificidade-sem-gambiarras",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/react/css-cascade-layers-especificidade-sem-gambiarras",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-04T12:02:56.812Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/cascade-layers-do-css-como-dominar-a-especificidade-sem-gambiarras"
-    },
-    {
-      "id": "f80cb88b-24ea-4001-b931-4cae5d64b7fb",
-      "title": "Explorando o PS Vita através do Javascript: como ficou o VitaJS dois anos depois?",
-      "slug": "explorando-o-ps-vita-atraves-do-javascript-como-ficou-o-vitajs-dois-anos-depois",
-      "owner_username": "faelpinho",
-      "source_url": "https://github.com/faelpinho/vitajs",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-04T03:14:29.178Z",
-      "url": "https://www.tabnews.com.br/faelpinho/explorando-o-ps-vita-atraves-do-javascript-como-ficou-o-vitajs-dois-anos-depois"
     }
   ]
 }
