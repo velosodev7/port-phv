@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-09-05T12:14:18.734Z",
+  "updated_at": "2026-09-06T12:28:53.304Z",
   "posts": [
+    {
+      "id": "05c847c3-c5bc-4972-a774-9c728f9dd270",
+      "title": "Por que não mostramos contagem de linhas no Cassandra (500 vira 143)",
+      "slug": "por-que-nao-mostramos-contagem-de-linhas-no-cassandra-500-vira-143",
+      "owner_username": "libredb",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-09-05T19:04:45.781Z",
+      "url": "https://www.tabnews.com.br/libredb/por-que-nao-mostramos-contagem-de-linhas-no-cassandra-500-vira-143"
+    },
+    {
+      "id": "a130f52d-13b0-4b18-a2ec-8b707e0547f3",
+      "title": "Pitch: Motor de Renda Variavel Didático",
+      "slug": "motor-de-renda-variavel-didatico",
+      "owner_username": "ktfth",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-06T07:06:53.645Z",
+      "url": "https://www.tabnews.com.br/ktfth/motor-de-renda-variavel-didatico"
+    },
+    {
+      "id": "1da765f7-c54b-4bc3-ba5c-ad1410609fc3",
+      "title": "Como utilizar o TabNews como DevLog para projetos Open Source sem ferir as regras da plataforma?",
+      "slug": "como-utilizar-o-tabnews-como-devlog-para-projetos-open-source-sem-ferir-as-regras-da-plataforma",
+      "owner_username": "wellingtonpragidi",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 2,
+      "published_at": "2026-09-06T10:17:23.810Z",
+      "url": "https://www.tabnews.com.br/wellingtonpragidi/como-utilizar-o-tabnews-como-devlog-para-projetos-open-source-sem-ferir-as-regras-da-plataforma"
+    },
+    {
+      "id": "a1205361-94c3-41b4-98b9-bbcfd374abbf",
+      "title": "Agentes em paralelo precisam de worktrees, não de mais abas",
+      "slug": "agentes-em-paralelo-precisam-de-worktrees-nao-de-mais-abas",
+      "owner_username": "Centelha",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-09-06T10:54:59.848Z",
+      "url": "https://www.tabnews.com.br/Centelha/agentes-em-paralelo-precisam-de-worktrees-nao-de-mais-abas"
+    },
+    {
+      "id": "b8e1a71c-666e-40ef-9c8f-cf8275642023",
+      "title": "Me ajude com duas ISSUES relacionadas a front-end",
+      "slug": "me-ajude-com-duas-issues-relacionadas-a-front-end",
+      "owner_username": "RodrigoSchioMuniz",
+      "source_url": "https://github.com/RodrigoSchioMuniz/procedimentos/issues",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-09-06T10:12:59.915Z",
+      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/me-ajude-com-duas-issues-relacionadas-a-front-end"
+    },
+    {
+      "id": "0a602591-45f8-4352-8bd9-b4b2f1cca486",
+      "title": "Videoaula com IA para conteúdo técnico: pipeline de QA",
+      "slug": "videoaula-com-ia-para-conteudo-tecnico-pipeline-de-qa",
+      "owner_username": "aivideomaker",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-06T06:41:56.719Z",
+      "url": "https://www.tabnews.com.br/aivideomaker/videoaula-com-ia-para-conteudo-tecnico-pipeline-de-qa"
+    },
+    {
+      "id": "6232c681-3f50-488a-b643-177d0e44b275",
+      "title": "Ressuscitei uma impressora térmica de banco que não fala ESC/POS nem imprime QR Code",
+      "slug": "ressuscitei-uma-impressora-termica-de-banco-que-nao-fala-esc-pos-nem-imprime-qr-code",
+      "owner_username": "Feliperocha7",
+      "source_url": null,
+      "tabcoins": 13,
+      "children_deep_count": 7,
+      "published_at": "2026-09-03T20:38:18.561Z",
+      "url": "https://www.tabnews.com.br/Feliperocha7/ressuscitei-uma-impressora-termica-de-banco-que-nao-fala-esc-pos-nem-imprime-qr-code"
+    },
+    {
+      "id": "4105b972-9476-4d2a-af36-28d1dc9f18b1",
+      "title": "Troquei Sonnet por Qwen 7B local em 3 tarefas: bill de US$ 47 virou R$ 0 (e 2 tarefas ficaram melhores)",
+      "slug": "troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/troquei-sonnet-por-qwen-7b-local-47-para-0/",
+      "tabcoins": 9,
+      "children_deep_count": 1,
+      "published_at": "2026-09-04T12:00:03.773Z",
+      "url": "https://www.tabnews.com.br/kenimo49/troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores"
+    },
+    {
+      "id": "ea7c12c6-00fa-4248-9693-4a2b9b0c3251",
+      "title": "Pitch: Transformei um problema real em uma API para a Lista Brasileira de Resíduos do IBAMA",
+      "slug": "transformei-um-problema-real-em-uma-api-para-a-lista-brasileira-de-residuos-do-ibama",
+      "owner_username": "devFilipe",
+      "source_url": null,
+      "tabcoins": 9,
+      "children_deep_count": 1,
+      "published_at": "2026-09-03T19:59:19.365Z",
+      "url": "https://www.tabnews.com.br/devFilipe/transformei-um-problema-real-em-uma-api-para-a-lista-brasileira-de-residuos-do-ibama"
+    },
     {
       "id": "cf9bf889-d76c-4cc7-ab63-e0020f4f1ab7",
       "title": "Automação de cobrança: o que decidir antes de deixar o sistema cobrar sozinho",
@@ -11,105 +110,6 @@
       "children_deep_count": 4,
       "published_at": "2026-09-04T02:55:49.808Z",
       "url": "https://www.tabnews.com.br/NayaraMartins/automacao-de-cobranca-o-que-decidir-antes-de-deixar-o-sistema-cobrar-sozinho"
-    },
-    {
-      "id": "4105b972-9476-4d2a-af36-28d1dc9f18b1",
-      "title": "Troquei Sonnet por Qwen 7B local em 3 tarefas: bill de US$ 47 virou R$ 0 (e 2 tarefas ficaram melhores)",
-      "slug": "troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/troquei-sonnet-por-qwen-7b-local-47-para-0/",
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-09-04T12:00:03.773Z",
-      "url": "https://www.tabnews.com.br/kenimo49/troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores"
-    },
-    {
-      "id": "b3f71b85-4fff-42e5-a026-448af88fe26d",
-      "title": "Recursos PHP traduzidos por IA",
-      "slug": "recusos-php-traduzidos-por-ia",
-      "owner_username": "vinialencar",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-09-04T18:40:47.709Z",
-      "url": "https://www.tabnews.com.br/vinialencar/recusos-php-traduzidos-por-ia"
-    },
-    {
-      "id": "c60c44cb-adc3-43bf-9b80-81ba55415fa7",
-      "title": "GPT-6 Astra: o que a OpenAI lançou de verdade (e a polêmica dos benchmarks)",
-      "slug": "gpt-6-astra-o-que-a-openai-lancou-de-verdade-e-a-polemica-dos-benchmarks",
-      "owner_username": "wildrik",
-      "source_url": "https://www.techknow.com.br/post/gpt-6-astra",
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-09-04T20:28:23.663Z",
-      "url": "https://www.tabnews.com.br/wildrik/gpt-6-astra-o-que-a-openai-lancou-de-verdade-e-a-polemica-dos-benchmarks"
-    },
-    {
-      "id": "f77b3cd1-a77d-4360-9377-fae676d6dafe",
-      "title": "Enquanto discutíamos se a IA ia substituir devs, ela começou a quebrar problemas matemáticos de 80 anos: o que está acontecendo?",
-      "slug": "enquanto-discutiamos-se-a-ia-ia-substituir-devs-ela-comecou-a-quebrar-problemas-matematicos-de-80-anos-o-que-esta-acontecendo",
-      "owner_username": "trsthales",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 3,
-      "published_at": "2026-09-04T18:17:03.932Z",
-      "url": "https://www.tabnews.com.br/trsthales/enquanto-discutiamos-se-a-ia-ia-substituir-devs-ela-comecou-a-quebrar-problemas-matematicos-de-80-anos-o-que-esta-acontecendo"
-    },
-    {
-      "id": "830cde8e-f694-47ed-8c03-cb33e6a685c6",
-      "title": "🔥 O Melhor da Semana no TabNews #34",
-      "slug": "o-melhor-da-semana-no-tabnews-34",
-      "owner_username": "TabNewsDigest",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-05T11:00:08.048Z",
-      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-34"
-    },
-    {
-      "id": "b0e68a49-fdda-48b5-99e4-e42272ec8f1e",
-      "title": "Cansado de mandar documento pessoal pro iLovePDF, fiz meu próprio utilitário que roda local no navegador",
-      "slug": "cansado-de-mandar-documento-pessoal-pro-ilovepdf-fiz-meu-proprio-utilitario-que-roda-local-no-navegador",
-      "owner_username": "sirwolfin",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-05T09:27:35.054Z",
-      "url": "https://www.tabnews.com.br/sirwolfin/cansado-de-mandar-documento-pessoal-pro-ilovepdf-fiz-meu-proprio-utilitario-que-roda-local-no-navegador"
-    },
-    {
-      "id": "c858ad30-f075-4341-a932-dcc74fda9abe",
-      "title": "Pitch: quem constrói com IA ainda precisa lembrar termos técnicos depois do prompt?",
-      "slug": "pitch-quem-constroi-com-ia-ainda-precisa-lembrar-termos-tecnicos-depois-do-prompt",
-      "owner_username": "alextechbr",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-05T07:51:35.147Z",
-      "url": "https://www.tabnews.com.br/alextechbr/pitch-quem-constroi-com-ia-ainda-precisa-lembrar-termos-tecnicos-depois-do-prompt"
-    },
-    {
-      "id": "0b129924-e63f-4c58-b056-e79c204d2435",
-      "title": "[PESQUISA] Como vocês estruturam a cobrança por uso (SaaS/APIs)?",
-      "slug": "pesquisa-como-voces-estruturam-a-cobranca-por-uso-saas-apis",
-      "owner_username": "coeleodev",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-05T01:07:35.188Z",
-      "url": "https://www.tabnews.com.br/coeleodev/pesquisa-como-voces-estruturam-a-cobranca-por-uso-saas-apis"
-    },
-    {
-      "id": "e4d74958-0228-48aa-b704-cce2b8c15d7d",
-      "title": ".NET Native AOT: Parte 2 — JIT, R2R e AOT em Benchmarks",
-      "slug": "net-native-aot-parte-2-jit-r2r-e-aot-em-benchmarks",
-      "owner_username": "lzocateli",
-      "source_url": "https://zocate.li/posts/2026/dotnet-native-aot-jit-r2r-benchmarks/",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-09-04T09:01:32.582Z",
-      "url": "https://www.tabnews.com.br/lzocateli/net-native-aot-parte-2-jit-r2r-e-aot-em-benchmarks"
     }
   ]
 }
