@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-09-07T14:37:20.179Z",
+  "updated_at": "2026-09-08T13:11:10.373Z",
   "posts": [
+    {
+      "id": "4dd784af-ccc3-490a-a1a4-29c92dce93fa",
+      "title": "Confiei no Claude: 3 vieses da era IA que peguei",
+      "slug": "confiei-no-claude-3-vieses-da-era-ia-que-peguei",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/confiei-no-claude-3-vieses-nova-era-ia/",
+      "tabcoins": 9,
+      "children_deep_count": 4,
+      "published_at": "2026-09-07T12:00:05.187Z",
+      "url": "https://www.tabnews.com.br/kenimo49/confiei-no-claude-3-vieses-da-era-ia-que-peguei"
+    },
+    {
+      "id": "a18aedbb-0779-4334-9aad-41065b257d1f",
+      "title": "Permissões Linux a fundo: Chmod octal, a matemática da umask e o perigo real de SUID/SGID",
+      "slug": "permissoes-linux-a-fundo-chmod-octal-a-matematica-da-umask-e-o-perigo-real-de-suid-sgid",
+      "owner_username": "jonas556440",
+      "source_url": "https://tecmestre.com.br/calculadora-chmod/",
+      "tabcoins": 6,
+      "children_deep_count": 0,
+      "published_at": "2026-09-07T13:02:44.850Z",
+      "url": "https://www.tabnews.com.br/jonas556440/permissoes-linux-a-fundo-chmod-octal-a-matematica-da-umask-e-o-perigo-real-de-suid-sgid"
+    },
+    {
+      "id": "41f1608b-06ec-443c-9a69-0504dbec2da8",
+      "title": "Preciso de gente para testar meu novo Jogo multiplayer",
+      "slug": "preciso-de-gente-para-testar-meu-novo-jogo-multiplayer",
+      "owner_username": "jgbispo",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-09-08T07:14:12.057Z",
+      "url": "https://www.tabnews.com.br/jgbispo/preciso-de-gente-para-testar-meu-novo-jogo-multiplayer"
+    },
+    {
+      "id": "982cdc9d-b46d-4e7f-bb79-fd8697f3de55",
+      "title": "Pitch: Construindo o \"Só 1 minutinho\": utilitários rápidos de PDF e Imagem no client-side (aceitando ideias!)",
+      "slug": "construindo-o-so-1-minutinho-utilitarios-rapidos-de-pdf-e-imagem-no-client-side-aceitando-ideias",
+      "owner_username": "eusilvajoao",
+      "source_url": "https://www.so1minutinho.com.br",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-09-07T18:24:58.078Z",
+      "url": "https://www.tabnews.com.br/eusilvajoao/construindo-o-so-1-minutinho-utilitarios-rapidos-de-pdf-e-imagem-no-client-side-aceitando-ideias"
+    },
+    {
+      "id": "5e17a7c7-52c6-45cd-a54b-07ac0e1ca9bc",
+      "title": "O sandbox da OpenAI achava que GET era só leitura. Um wiki de 25 anos discordou.",
+      "slug": "o-sandbox-da-openai-achava-que-get-era-so-leitura-um-wiki-de-25-anos-discordou",
+      "owner_username": "jarbasgouveia",
+      "source_url": "https://collusion.wiki/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-08T12:16:46.406Z",
+      "url": "https://www.tabnews.com.br/jarbasgouveia/o-sandbox-da-openai-achava-que-get-era-so-leitura-um-wiki-de-25-anos-discordou"
+    },
+    {
+      "id": "517823a1-5e39-4052-b7e4-04d4b378612a",
+      "title": "`Construí uma IDE espacial com canvas infinito para coordenar múltiplos agentes de IA — Catenary`",
+      "slug": "construi-uma-ide-espacial-com-canvas-infinito-para-coordenar-multiplos-agentes-de-ia-catenary",
+      "owner_username": "GiorgioNicolas",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-08T12:51:04.933Z",
+      "url": "https://www.tabnews.com.br/GiorgioNicolas/construi-uma-ide-espacial-com-canvas-infinito-para-coordenar-multiplos-agentes-de-ia-catenary"
+    },
+    {
+      "id": "70fb5ac1-090a-4488-9287-c1a04c51fbc4",
+      "title": "Construí um portal com ferramentas online sem nenhum backend",
+      "slug": "construi-um-portal-com-ferramentas-online-sem-nenhum-backend",
+      "owner_username": "MichelDavi",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-08T12:02:40.778Z",
+      "url": "https://www.tabnews.com.br/MichelDavi/construi-um-portal-com-ferramentas-online-sem-nenhum-backend"
+    },
+    {
+      "id": "0bd0096e-ce00-4657-b648-ca4069391792",
+      "title": "Se o agente faz deploy, trate cada ferramenta MCP como uma API de produção",
+      "slug": "se-o-agente-faz-deploy-trate-cada-ferramenta-mcp-como-uma-api-de-producao",
+      "owner_username": "Centelha",
+      "source_url": "https://catalyst.zoho.com/blog/meet-catalyst-3.0.html",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-08T11:13:25.939Z",
+      "url": "https://www.tabnews.com.br/Centelha/se-o-agente-faz-deploy-trate-cada-ferramenta-mcp-como-uma-api-de-producao"
+    },
+    {
+      "id": "ae428ede-f71b-45c1-a76e-563b6cf8bd82",
+      "title": "Pitch: DeckLock: Uma tela de bloqueio opensource para Wayland customizável e com temas em Rust & GTK4",
+      "slug": "pitch-decklock-uma-tela-de-bloqueio-opensource-para-wayland-customizavel-e-com-temas-em-rust-e-gtk4",
+      "owner_username": "yanvidal",
+      "source_url": "https://github.com/yan-vidal/DeckLock",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-08T10:21:29.674Z",
+      "url": "https://www.tabnews.com.br/yanvidal/pitch-decklock-uma-tela-de-bloqueio-opensource-para-wayland-customizavel-e-com-temas-em-rust-e-gtk4"
+    },
     {
       "id": "1da765f7-c54b-4bc3-ba5c-ad1410609fc3",
       "title": "Como utilizar o TabNews como DevLog para projetos Open Source sem ferir as regras da plataforma?",
@@ -8,108 +107,9 @@
       "owner_username": "wellingtonpragidi",
       "source_url": null,
       "tabcoins": 11,
-      "children_deep_count": 7,
+      "children_deep_count": 9,
       "published_at": "2026-09-06T10:17:23.810Z",
       "url": "https://www.tabnews.com.br/wellingtonpragidi/como-utilizar-o-tabnews-como-devlog-para-projetos-open-source-sem-ferir-as-regras-da-plataforma"
-    },
-    {
-      "id": "6bbd82cc-dce2-45ed-93d5-6f7b8119f6d2",
-      "title": "Pitch: Como criei o Pedinu: os desafios de construir um SaaS para restaurantes e o que aprendi no caminho",
-      "slug": "como-criei-o-pedinu-os-desafios-de-construir-um-saas-para-restaurantes-e-o-que-aprendi-no-caminho",
-      "owner_username": "artemison",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-06T17:35:38.712Z",
-      "url": "https://www.tabnews.com.br/artemison/como-criei-o-pedinu-os-desafios-de-construir-um-saas-para-restaurantes-e-o-que-aprendi-no-caminho"
-    },
-    {
-      "id": "a95a3e49-3b9d-4388-8bc0-0c36db401196",
-      "title": "Quais ferramentas usar para o desenvolvimento com IA? (Gemini)",
-      "slug": "quais-ferramentas-usar-para-o-desenvolvimento-com-ia-gemini",
-      "owner_username": "engineer",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-09-07T01:30:11.251Z",
-      "url": "https://www.tabnews.com.br/engineer/quais-ferramentas-usar-para-o-desenvolvimento-com-ia-gemini"
-    },
-    {
-      "id": "474a7956-f7d9-4ce9-a497-db068a552e29",
-      "title": "Quando o GitHub vira vetor de engenharia social: o risco dos “Proxy Interviews” no recrutamento remoto",
-      "slug": "quando-o-github-vira-vetor-de-engenharia-social-o-risco-dos-proxy-interviews-no-recrutamento-remoto",
-      "owner_username": "GustavoFPaluch",
-      "source_url": "https://www.linkedin.com/pulse/quando-o-github-vira-vetor-de-engenharia-social-risco-gustavo-xfcgf/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-07T01:22:00.473Z",
-      "url": "https://www.tabnews.com.br/GustavoFPaluch/quando-o-github-vira-vetor-de-engenharia-social-o-risco-dos-proxy-interviews-no-recrutamento-remoto"
-    },
-    {
-      "id": "4105b972-9476-4d2a-af36-28d1dc9f18b1",
-      "title": "Troquei Sonnet por Qwen 7B local em 3 tarefas: bill de US$ 47 virou R$ 0 (e 2 tarefas ficaram melhores)",
-      "slug": "troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/troquei-sonnet-por-qwen-7b-local-47-para-0/",
-      "tabcoins": 10,
-      "children_deep_count": 1,
-      "published_at": "2026-09-04T12:00:03.773Z",
-      "url": "https://www.tabnews.com.br/kenimo49/troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores"
-    },
-    {
-      "id": "b3f71b85-4fff-42e5-a026-448af88fe26d",
-      "title": "Recursos PHP traduzidos por IA",
-      "slug": "recusos-php-traduzidos-por-ia",
-      "owner_username": "vinialencar",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-09-04T18:40:47.709Z",
-      "url": "https://www.tabnews.com.br/vinialencar/recusos-php-traduzidos-por-ia"
-    },
-    {
-      "id": "b4203466-124a-4a38-a18b-a1e94a3f6a57",
-      "title": "Pitch: Criei um jogo de sobrevivência opensource utilizando Grok 4.6 e Gemini 3.8 Flash",
-      "slug": "criei-um-jogo-de-sobrevivencia-opensource-utilizando-grok-4-6-e-gemini-3-8-flash",
-      "owner_username": "coeleodev",
-      "source_url": "https://www.linkedin.com/posts/coeleo-dev_opensource-threejs-vibecoding-activity-7501785241653583872-wBd4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt4_LsBIlj9LH4asVaXleoeeM5YoiqkteA",
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-09-04T23:55:55.196Z",
-      "url": "https://www.tabnews.com.br/coeleodev/criei-um-jogo-de-sobrevivencia-opensource-utilizando-grok-4-6-e-gemini-3-8-flash"
-    },
-    {
-      "id": "c60c44cb-adc3-43bf-9b80-81ba55415fa7",
-      "title": "GPT-6 Astra: o que a OpenAI lançou de verdade (e a polêmica dos benchmarks)",
-      "slug": "gpt-6-astra-o-que-a-openai-lancou-de-verdade-e-a-polemica-dos-benchmarks",
-      "owner_username": "wildrik",
-      "source_url": "https://www.techknow.com.br/post/gpt-6-astra",
-      "tabcoins": 5,
-      "children_deep_count": 3,
-      "published_at": "2026-09-04T20:28:23.663Z",
-      "url": "https://www.tabnews.com.br/wildrik/gpt-6-astra-o-que-a-openai-lancou-de-verdade-e-a-polemica-dos-benchmarks"
-    },
-    {
-      "id": "05c847c3-c5bc-4972-a774-9c728f9dd270",
-      "title": "Por que não mostramos contagem de linhas no Cassandra (500 vira 143)",
-      "slug": "por-que-nao-mostramos-contagem-de-linhas-no-cassandra-500-vira-143",
-      "owner_username": "libredb",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-09-05T19:04:45.781Z",
-      "url": "https://www.tabnews.com.br/libredb/por-que-nao-mostramos-contagem-de-linhas-no-cassandra-500-vira-143"
-    },
-    {
-      "id": "a130f52d-13b0-4b18-a2ec-8b707e0547f3",
-      "title": "Pitch: Motor de Renda Variavel Didático",
-      "slug": "motor-de-renda-variavel-didatico",
-      "owner_username": "ktfth",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-06T07:06:53.645Z",
-      "url": "https://www.tabnews.com.br/ktfth/motor-de-renda-variavel-didatico"
     }
   ]
 }
