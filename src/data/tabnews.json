@@ -1,93 +1,16 @@
 {
-  "updated_at": "2026-09-08T13:11:10.373Z",
+  "updated_at": "2026-09-09T13:16:24.232Z",
   "posts": [
-    {
-      "id": "4dd784af-ccc3-490a-a1a4-29c92dce93fa",
-      "title": "Confiei no Claude: 3 vieses da era IA que peguei",
-      "slug": "confiei-no-claude-3-vieses-da-era-ia-que-peguei",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/confiei-no-claude-3-vieses-nova-era-ia/",
-      "tabcoins": 9,
-      "children_deep_count": 4,
-      "published_at": "2026-09-07T12:00:05.187Z",
-      "url": "https://www.tabnews.com.br/kenimo49/confiei-no-claude-3-vieses-da-era-ia-que-peguei"
-    },
-    {
-      "id": "a18aedbb-0779-4334-9aad-41065b257d1f",
-      "title": "Permissões Linux a fundo: Chmod octal, a matemática da umask e o perigo real de SUID/SGID",
-      "slug": "permissoes-linux-a-fundo-chmod-octal-a-matematica-da-umask-e-o-perigo-real-de-suid-sgid",
-      "owner_username": "jonas556440",
-      "source_url": "https://tecmestre.com.br/calculadora-chmod/",
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-09-07T13:02:44.850Z",
-      "url": "https://www.tabnews.com.br/jonas556440/permissoes-linux-a-fundo-chmod-octal-a-matematica-da-umask-e-o-perigo-real-de-suid-sgid"
-    },
-    {
-      "id": "41f1608b-06ec-443c-9a69-0504dbec2da8",
-      "title": "Preciso de gente para testar meu novo Jogo multiplayer",
-      "slug": "preciso-de-gente-para-testar-meu-novo-jogo-multiplayer",
-      "owner_username": "jgbispo",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-09-08T07:14:12.057Z",
-      "url": "https://www.tabnews.com.br/jgbispo/preciso-de-gente-para-testar-meu-novo-jogo-multiplayer"
-    },
-    {
-      "id": "982cdc9d-b46d-4e7f-bb79-fd8697f3de55",
-      "title": "Pitch: Construindo o \"Só 1 minutinho\": utilitários rápidos de PDF e Imagem no client-side (aceitando ideias!)",
-      "slug": "construindo-o-so-1-minutinho-utilitarios-rapidos-de-pdf-e-imagem-no-client-side-aceitando-ideias",
-      "owner_username": "eusilvajoao",
-      "source_url": "https://www.so1minutinho.com.br",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-09-07T18:24:58.078Z",
-      "url": "https://www.tabnews.com.br/eusilvajoao/construindo-o-so-1-minutinho-utilitarios-rapidos-de-pdf-e-imagem-no-client-side-aceitando-ideias"
-    },
     {
       "id": "5e17a7c7-52c6-45cd-a54b-07ac0e1ca9bc",
       "title": "O sandbox da OpenAI achava que GET era só leitura. Um wiki de 25 anos discordou.",
       "slug": "o-sandbox-da-openai-achava-que-get-era-so-leitura-um-wiki-de-25-anos-discordou",
       "owner_username": "jarbasgouveia",
       "source_url": "https://collusion.wiki/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
+      "tabcoins": 7,
+      "children_deep_count": 1,
       "published_at": "2026-09-08T12:16:46.406Z",
       "url": "https://www.tabnews.com.br/jarbasgouveia/o-sandbox-da-openai-achava-que-get-era-so-leitura-um-wiki-de-25-anos-discordou"
-    },
-    {
-      "id": "517823a1-5e39-4052-b7e4-04d4b378612a",
-      "title": "`Construí uma IDE espacial com canvas infinito para coordenar múltiplos agentes de IA — Catenary`",
-      "slug": "construi-uma-ide-espacial-com-canvas-infinito-para-coordenar-multiplos-agentes-de-ia-catenary",
-      "owner_username": "GiorgioNicolas",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-08T12:51:04.933Z",
-      "url": "https://www.tabnews.com.br/GiorgioNicolas/construi-uma-ide-espacial-com-canvas-infinito-para-coordenar-multiplos-agentes-de-ia-catenary"
-    },
-    {
-      "id": "70fb5ac1-090a-4488-9287-c1a04c51fbc4",
-      "title": "Construí um portal com ferramentas online sem nenhum backend",
-      "slug": "construi-um-portal-com-ferramentas-online-sem-nenhum-backend",
-      "owner_username": "MichelDavi",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-08T12:02:40.778Z",
-      "url": "https://www.tabnews.com.br/MichelDavi/construi-um-portal-com-ferramentas-online-sem-nenhum-backend"
-    },
-    {
-      "id": "0bd0096e-ce00-4657-b648-ca4069391792",
-      "title": "Se o agente faz deploy, trate cada ferramenta MCP como uma API de produção",
-      "slug": "se-o-agente-faz-deploy-trate-cada-ferramenta-mcp-como-uma-api-de-producao",
-      "owner_username": "Centelha",
-      "source_url": "https://catalyst.zoho.com/blog/meet-catalyst-3.0.html",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-08T11:13:25.939Z",
-      "url": "https://www.tabnews.com.br/Centelha/se-o-agente-faz-deploy-trate-cada-ferramenta-mcp-como-uma-api-de-producao"
     },
     {
       "id": "ae428ede-f71b-45c1-a76e-563b6cf8bd82",
@@ -95,21 +18,98 @@
       "slug": "pitch-decklock-uma-tela-de-bloqueio-opensource-para-wayland-customizavel-e-com-temas-em-rust-e-gtk4",
       "owner_username": "yanvidal",
       "source_url": "https://github.com/yan-vidal/DeckLock",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 7,
+      "children_deep_count": 2,
       "published_at": "2026-09-08T10:21:29.674Z",
       "url": "https://www.tabnews.com.br/yanvidal/pitch-decklock-uma-tela-de-bloqueio-opensource-para-wayland-customizavel-e-com-temas-em-rust-e-gtk4"
     },
     {
-      "id": "1da765f7-c54b-4bc3-ba5c-ad1410609fc3",
-      "title": "Como utilizar o TabNews como DevLog para projetos Open Source sem ferir as regras da plataforma?",
-      "slug": "como-utilizar-o-tabnews-como-devlog-para-projetos-open-source-sem-ferir-as-regras-da-plataforma",
-      "owner_username": "wellingtonpragidi",
+      "id": "fff866bf-c564-44f1-a4f8-ed61bc5735da",
+      "title": "Pitch: Criei uma CLI em Go para tornar conversões com FFmpeg mais previsíveis e seguras",
+      "slug": "criei-uma-cli-em-go-para-tornar-conversoes-com-ffmpeg-mais-previsiveis-e-seguras",
+      "owner_username": "Amad3eu",
+      "source_url": "https://github.com/Amad3eu/mediaconv",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-09-08T14:53:30.109Z",
+      "url": "https://www.tabnews.com.br/Amad3eu/criei-uma-cli-em-go-para-tornar-conversoes-com-ffmpeg-mais-previsiveis-e-seguras"
+    },
+    {
+      "id": "ac7e607d-d5d3-481c-825f-cc452478d3ee",
+      "title": "Harness segundo Fowler: 4 camadas no backend",
+      "slug": "harness-segundo-fowler-4-camadas-no-backend",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/fowler-4-harness-invisiveis-backend/",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-09-09T12:00:03.376Z",
+      "url": "https://www.tabnews.com.br/kenimo49/harness-segundo-fowler-4-camadas-no-backend"
+    },
+    {
+      "id": "52f1dd8c-3e9c-4f56-962d-f378c6b03bbd",
+      "title": "Gamificação em software, será que você esta fazendo certo?",
+      "slug": "gamificacao-em-software-sera-que-voce-esta-fazendo-certo",
+      "owner_username": "macnator",
       "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 9,
-      "published_at": "2026-09-06T10:17:23.810Z",
-      "url": "https://www.tabnews.com.br/wellingtonpragidi/como-utilizar-o-tabnews-como-devlog-para-projetos-open-source-sem-ferir-as-regras-da-plataforma"
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-08T19:15:16.006Z",
+      "url": "https://www.tabnews.com.br/macnator/gamificacao-em-software-sera-que-voce-esta-fazendo-certo"
+    },
+    {
+      "id": "041946e6-bf03-40c9-9877-4663c599983d",
+      "title": "Vale a pena alimentar o próprio perfil Linkedin?",
+      "slug": "vale-a-pena-alimentar-o-proprio-perfil-linkedin",
+      "owner_username": "wallysonjhonatan",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-09T12:15:01.594Z",
+      "url": "https://www.tabnews.com.br/wallysonjhonatan/vale-a-pena-alimentar-o-proprio-perfil-linkedin"
+    },
+    {
+      "id": "587080f7-13cc-4f6f-b057-3b7e77132d7f",
+      "title": "Event Loop, Microtasks e Macrotasks: O Modelo de Execução do JavaScript",
+      "slug": "event-loop-microtasks-e-macrotasks-o-modelo-de-execucao-do-javascript",
+      "owner_username": "mrmsoares",
+      "source_url": "https://www.vivodecodigo.com.br/backend/event-loop-microtasks-macrotasks-modelo-execucao-javascript",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-09T12:02:46.003Z",
+      "url": "https://www.tabnews.com.br/mrmsoares/event-loop-microtasks-e-macrotasks-o-modelo-de-execucao-do-javascript"
+    },
+    {
+      "id": "aae88e63-dca2-4e1e-b07f-811da1cead05",
+      "title": "186.",
+      "slug": "186",
+      "owner_username": "Navelogic",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-09T10:50:28.583Z",
+      "url": "https://www.tabnews.com.br/Navelogic/186"
+    },
+    {
+      "id": "fcd9860d-9a7b-445f-bb43-c5c608f896f8",
+      "title": "Como construir agentes com limites claros: um módulo, uma decisão",
+      "slug": "como-construir-agentes-com-limites-claros-um-modulo-uma-decisao",
+      "owner_username": "denisostapenko",
+      "source_url": "https://denisostapenko.com/pt/blog/how-to-build-bounded-agents",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-09T07:31:12.844Z",
+      "url": "https://www.tabnews.com.br/denisostapenko/como-construir-agentes-com-limites-claros-um-modulo-uma-decisao"
+    },
+    {
+      "id": "41f1608b-06ec-443c-9a69-0504dbec2da8",
+      "title": "Preciso de gente para testar meu novo Jogo multiplayer",
+      "slug": "preciso-de-gente-para-testar-meu-novo-jogo-multiplayer",
+      "owner_username": "jgbispo",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-09-08T07:14:12.057Z",
+      "url": "https://www.tabnews.com.br/jgbispo/preciso-de-gente-para-testar-meu-novo-jogo-multiplayer"
     }
   ]
 }
