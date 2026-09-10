@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-09-09T13:16:24.232Z",
+  "updated_at": "2026-09-10T13:13:44.897Z",
   "posts": [
+    {
+      "id": "f7962ec9-dc33-451d-ac45-020df5600efe",
+      "title": "Meu erro não era o modelo de IA. Era a pergunta que eu fazia aos clientes.",
+      "slug": "meu-erro-nao-era-o-modelo-de-ia-era-a-pergunta-que-eu-fazia-aos-clientes",
+      "owner_username": "eventhorizon",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 0,
+      "published_at": "2026-09-09T18:03:48.848Z",
+      "url": "https://www.tabnews.com.br/eventhorizon/meu-erro-nao-era-o-modelo-de-ia-era-a-pergunta-que-eu-fazia-aos-clientes"
+    },
+    {
+      "id": "8f873e93-b321-43bf-8678-f252bee16faf",
+      "title": "Não tenho ideia de tema de TCC",
+      "slug": "nao-tenho-ideia-de-tema-de-tcc",
+      "owner_username": "joaovfreitas",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 8,
+      "published_at": "2026-09-09T15:24:34.522Z",
+      "url": "https://www.tabnews.com.br/joaovfreitas/nao-tenho-ideia-de-tema-de-tcc"
+    },
+    {
+      "id": "febab65b-25a5-456f-977a-ab89d0d414bb",
+      "title": "Desempenho de adolescentes em leitura, matemática e ciências atinge pior nível desde o início do Pisa",
+      "slug": "desempenho-de-adolescentes-em-leitura-matematica-e-ciencias-atinge-pior-nivel-desde-o-inicio-do-pisa",
+      "owner_username": "NewsletterOficial",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 5,
+      "published_at": "2026-09-09T14:00:51.854Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/desempenho-de-adolescentes-em-leitura-matematica-e-ciencias-atinge-pior-nivel-desde-o-inicio-do-pisa"
+    },
+    {
+      "id": "98d9a235-876a-4967-9fcf-af8422408854",
+      "title": "Dúvida pra galera do SaaS: como validar uma ideia?",
+      "slug": "duvida-pra-galera-do-saas-como-validar-uma-ideia",
+      "owner_username": "araujogus",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 5,
+      "published_at": "2026-09-09T14:58:59.519Z",
+      "url": "https://www.tabnews.com.br/araujogus/duvida-pra-galera-do-saas-como-validar-uma-ideia"
+    },
+    {
+      "id": "e5b5d04f-63b6-447f-82bd-ea11903a8923",
+      "title": "Um webhook para WhatsApp, Instagram e Messenger — o formato de payload que elimina o if/else",
+      "slug": "um-webhook-para-whatsapp-instagram-e-messenger-o-formato-de-payload-que-elimina-o-if-else",
+      "owner_username": "raphaelvserafim",
+      "source_url": "https://api-wa.me/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-09T15:27:09.590Z",
+      "url": "https://www.tabnews.com.br/raphaelvserafim/um-webhook-para-whatsapp-instagram-e-messenger-o-formato-de-payload-que-elimina-o-if-else"
+    },
+    {
+      "id": "03e60427-9474-4ba9-8874-2407ac67e593",
+      "title": "HTTP 200 não significa que seus dados estão corretos: validando respostas de APIs com Python",
+      "slug": "http-200-nao-significa-que-seus-dados-estao-corretos-validando-respostas-de-apis-com-python",
+      "owner_username": "ggbond0910",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-10T06:36:00.754Z",
+      "url": "https://www.tabnews.com.br/ggbond0910/http-200-nao-significa-que-seus-dados-estao-corretos-validando-respostas-de-apis-com-python"
+    },
+    {
+      "id": "ac7e607d-d5d3-481c-825f-cc452478d3ee",
+      "title": "Harness segundo Fowler: 4 camadas no backend",
+      "slug": "harness-segundo-fowler-4-camadas-no-backend",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/fowler-4-harness-invisiveis-backend/",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-09-09T12:00:03.376Z",
+      "url": "https://www.tabnews.com.br/kenimo49/harness-segundo-fowler-4-camadas-no-backend"
+    },
     {
       "id": "5e17a7c7-52c6-45cd-a54b-07ac0e1ca9bc",
       "title": "O sandbox da OpenAI achava que GET era só leitura. Um wiki de 25 anos discordou.",
@@ -8,7 +85,7 @@
       "owner_username": "jarbasgouveia",
       "source_url": "https://collusion.wiki/",
       "tabcoins": 7,
-      "children_deep_count": 1,
+      "children_deep_count": 3,
       "published_at": "2026-09-08T12:16:46.406Z",
       "url": "https://www.tabnews.com.br/jarbasgouveia/o-sandbox-da-openai-achava-que-get-era-so-leitura-um-wiki-de-25-anos-discordou"
     },
@@ -19,7 +96,7 @@
       "owner_username": "yanvidal",
       "source_url": "https://github.com/yan-vidal/DeckLock",
       "tabcoins": 7,
-      "children_deep_count": 2,
+      "children_deep_count": 3,
       "published_at": "2026-09-08T10:21:29.674Z",
       "url": "https://www.tabnews.com.br/yanvidal/pitch-decklock-uma-tela-de-bloqueio-opensource-para-wayland-customizavel-e-com-temas-em-rust-e-gtk4"
     },
@@ -33,83 +110,6 @@
       "children_deep_count": 2,
       "published_at": "2026-09-08T14:53:30.109Z",
       "url": "https://www.tabnews.com.br/Amad3eu/criei-uma-cli-em-go-para-tornar-conversoes-com-ffmpeg-mais-previsiveis-e-seguras"
-    },
-    {
-      "id": "ac7e607d-d5d3-481c-825f-cc452478d3ee",
-      "title": "Harness segundo Fowler: 4 camadas no backend",
-      "slug": "harness-segundo-fowler-4-camadas-no-backend",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/fowler-4-harness-invisiveis-backend/",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-09-09T12:00:03.376Z",
-      "url": "https://www.tabnews.com.br/kenimo49/harness-segundo-fowler-4-camadas-no-backend"
-    },
-    {
-      "id": "52f1dd8c-3e9c-4f56-962d-f378c6b03bbd",
-      "title": "Gamificação em software, será que você esta fazendo certo?",
-      "slug": "gamificacao-em-software-sera-que-voce-esta-fazendo-certo",
-      "owner_username": "macnator",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-08T19:15:16.006Z",
-      "url": "https://www.tabnews.com.br/macnator/gamificacao-em-software-sera-que-voce-esta-fazendo-certo"
-    },
-    {
-      "id": "041946e6-bf03-40c9-9877-4663c599983d",
-      "title": "Vale a pena alimentar o próprio perfil Linkedin?",
-      "slug": "vale-a-pena-alimentar-o-proprio-perfil-linkedin",
-      "owner_username": "wallysonjhonatan",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-09T12:15:01.594Z",
-      "url": "https://www.tabnews.com.br/wallysonjhonatan/vale-a-pena-alimentar-o-proprio-perfil-linkedin"
-    },
-    {
-      "id": "587080f7-13cc-4f6f-b057-3b7e77132d7f",
-      "title": "Event Loop, Microtasks e Macrotasks: O Modelo de Execução do JavaScript",
-      "slug": "event-loop-microtasks-e-macrotasks-o-modelo-de-execucao-do-javascript",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/event-loop-microtasks-macrotasks-modelo-execucao-javascript",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-09T12:02:46.003Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/event-loop-microtasks-e-macrotasks-o-modelo-de-execucao-do-javascript"
-    },
-    {
-      "id": "aae88e63-dca2-4e1e-b07f-811da1cead05",
-      "title": "186.",
-      "slug": "186",
-      "owner_username": "Navelogic",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-09T10:50:28.583Z",
-      "url": "https://www.tabnews.com.br/Navelogic/186"
-    },
-    {
-      "id": "fcd9860d-9a7b-445f-bb43-c5c608f896f8",
-      "title": "Como construir agentes com limites claros: um módulo, uma decisão",
-      "slug": "como-construir-agentes-com-limites-claros-um-modulo-uma-decisao",
-      "owner_username": "denisostapenko",
-      "source_url": "https://denisostapenko.com/pt/blog/how-to-build-bounded-agents",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-09T07:31:12.844Z",
-      "url": "https://www.tabnews.com.br/denisostapenko/como-construir-agentes-com-limites-claros-um-modulo-uma-decisao"
-    },
-    {
-      "id": "41f1608b-06ec-443c-9a69-0504dbec2da8",
-      "title": "Preciso de gente para testar meu novo Jogo multiplayer",
-      "slug": "preciso-de-gente-para-testar-meu-novo-jogo-multiplayer",
-      "owner_username": "jgbispo",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-09-08T07:14:12.057Z",
-      "url": "https://www.tabnews.com.br/jgbispo/preciso-de-gente-para-testar-meu-novo-jogo-multiplayer"
     }
   ]
 }
