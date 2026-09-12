@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-09-11T13:07:52.829Z",
+  "updated_at": "2026-09-12T12:31:30.195Z",
   "posts": [
-    {
-      "id": "58cd231b-b413-48f4-b376-f943f07bc140",
-      "title": "Pitch: Criei uma plataforma web gratuita de Matemática sendo estudante do Ensino Médio: bastidores, desafios e aprendizados",
-      "slug": "criei-uma-plataforma-gratuita-de-matematica-para-vestibulandos-sendo-estudante-do-ensino-medio-bastidores-desafios-e-aprendizados",
-      "owner_username": "MateBasica",
-      "source_url": "https://matebasica.com.br",
-      "tabcoins": 7,
-      "children_deep_count": 2,
-      "published_at": "2026-09-10T23:16:48.675Z",
-      "url": "https://www.tabnews.com.br/MateBasica/criei-uma-plataforma-gratuita-de-matematica-para-vestibulandos-sendo-estudante-do-ensino-medio-bastidores-desafios-e-aprendizados"
-    },
-    {
-      "id": "a9496c0a-ce62-493d-9952-fc511f909573",
-      "title": "Shopify adquire a Tailwind Labs, responsável pelo framework Tailwind CSS",
-      "slug": "shopify-adquire-a-tailwind-labs-responsavel-pelo-framework-tailwind-css",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "tabcoins": 5,
-      "children_deep_count": 3,
-      "published_at": "2026-09-10T14:15:05.757Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/shopify-adquire-a-tailwind-labs-responsavel-pelo-framework-tailwind-css"
-    },
-    {
-      "id": "b32cbd32-2590-4d3b-8af2-9836f70e14c9",
-      "title": "Pitch: Cansei de descobrir na marra que tinha estourado a cota da IA, então construí um \"mostrador\" pra mesa",
-      "slug": "cansei-de-descobrir-na-marra-que-tinha-estourado-a-cota-da-ia-entao-construi-um-mostrador-pra-mesa",
-      "owner_username": "trindadebra",
-      "source_url": "https://github.com/TrindadeBRA/vigia-ai",
-      "tabcoins": 4,
-      "children_deep_count": 7,
-      "published_at": "2026-09-10T15:29:39.124Z",
-      "url": "https://www.tabnews.com.br/trindadebra/cansei-de-descobrir-na-marra-que-tinha-estourado-a-cota-da-ia-entao-construi-um-mostrador-pra-mesa"
-    },
-    {
-      "id": "7f4a4484-b87c-4255-a171-7e676ae186eb",
-      "title": "Shopify está saindo do React Native de volta para o Nativo (Swift e Kotlin)",
-      "slug": "shopify-esta-saindo-do-react-native-de-volta-para-o-nativo-swift-e-kotlin",
-      "owner_username": "rafael",
-      "source_url": "https://shopify.engineering/back-to-native",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-09-10T17:42:40.735Z",
-      "url": "https://www.tabnews.com.br/rafael/shopify-esta-saindo-do-react-native-de-volta-para-o-nativo-swift-e-kotlin"
-    },
-    {
-      "id": "62051532-c280-4dd2-8037-a1f678d79ce8",
-      "title": "CEO da Automattic, controladora do WordPress, é afastado do cargo pelo conselho",
-      "slug": "ceo-da-automattic-controladora-do-wordpress-e-afastado-do-cargo-pelo-conselho",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-09-10T14:00:04.113Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/ceo-da-automattic-controladora-do-wordpress-e-afastado-do-cargo-pelo-conselho"
-    },
-    {
-      "id": "5d56e77e-30bf-4e5c-9fb3-362665a789d7",
-      "title": "Pitch: De macOS para o Windows sem estresse: Como criei um remapeador leve e o publiquei na Microsoft Store via GitHub Actions",
-      "slug": "de-macos-para-o-windows-sem-estresse-como-criei-um-remapeador-leve-e-o-publiquei-na-microsoft-store-via-github-actions",
-      "owner_username": "klewersina",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-09-10T18:24:39.728Z",
-      "url": "https://www.tabnews.com.br/klewersina/de-macos-para-o-windows-sem-estresse-como-criei-um-remapeador-leve-e-o-publiquei-na-microsoft-store-via-github-actions"
-    },
-    {
-      "id": "8fff63e4-efe2-4347-81b2-6fda5edc9b2e",
-      "title": "Suno lança modelo de IA treinado apenas com música licenciada em meio a batalhas judiciais por direitos autorais",
-      "slug": "suno-lanca-modelo-de-ia-treinado-apenas-com-musica-licenciada-em-meio-a-batalhas-judiciais-por-direitos-autorais",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-10T14:30:07.338Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/suno-lanca-modelo-de-ia-treinado-apenas-com-musica-licenciada-em-meio-a-batalhas-judiciais-por-direitos-autorais"
-    },
-    {
-      "id": "1dc30271-cde7-4bbe-90ed-1c662ed30ff8",
-      "title": "Aprenda Trapping Rain Water, Top K Frequent e Selection Sort com visualização passo a passo no DSA View View 👀👀",
-      "slug": "aprenda-trapping-rain-water-top-k-frequent-e-selection-sort-com-visualizacao-passo-a-passo-no-dsa-view-view",
-      "owner_username": "nyaomaru",
-      "source_url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-11T12:51:13.484Z",
-      "url": "https://www.tabnews.com.br/nyaomaru/aprenda-trapping-rain-water-top-k-frequent-e-selection-sort-com-visualizacao-passo-a-passo-no-dsa-view-view"
-    },
-    {
-      "id": "f375bb7b-0950-498e-bb38-0355a2e65bd6",
-      "title": "Memory Leaks em JavaScript: Diagnóstico, Causas Reais e Correção",
-      "slug": "memory-leaks-em-javascript-diagnostico-causas-reais-e-correcao",
-      "owner_username": "mrmsoares",
-      "source_url": "https://www.vivodecodigo.com.br/backend/memory-leaks-javascript-diagnostico-heap-snapshot-producao",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-11T12:02:58.382Z",
-      "url": "https://www.tabnews.com.br/mrmsoares/memory-leaks-em-javascript-diagnostico-causas-reais-e-correcao"
-    },
     {
       "id": "c9037368-9e91-4a4a-90ef-7c96fae49685",
       "title": "Padrão autoFixable: como separei 41% dos comentários de review antes da IA olhar",
       "slug": "padrao-autofixable-como-separei-41-por-cento-dos-comentarios-de-review-antes-da-ia-olhar",
       "owner_username": "kenimo49",
       "source_url": "https://kenimoto.dev/pt/blog/autofixable-antes-ia-41-porcento-comentarios-review-cortados/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 5,
+      "children_deep_count": 1,
       "published_at": "2026-09-11T12:00:04.974Z",
       "url": "https://www.tabnews.com.br/kenimo49/padrao-autofixable-como-separei-41-por-cento-dos-comentarios-de-review-antes-da-ia-olhar"
+    },
+    {
+      "id": "8d42d3ea-700a-4543-a058-be601d9b55b5",
+      "title": "Pitch: atomicvulns — um laboratório de vulnerabilidades web, uma vuln por vez",
+      "slug": "atomicvulns-um-laboratorio-de-vulnerabilidades-web-uma-vuln-por-vez",
+      "owner_username": "doretox",
+      "source_url": "https://github.com/doretox/atomicvulns",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-09-11T20:04:13.023Z",
+      "url": "https://www.tabnews.com.br/doretox/atomicvulns-um-laboratorio-de-vulnerabilidades-web-uma-vuln-por-vez"
+    },
+    {
+      "id": "890be0ce-3fee-4bd5-b026-e30986e4d245",
+      "title": "[ARTIGO] Como eliminamos a maior parte dos erros de agentes de IA em produção que fazem deploy com três subsistemas: Memória, Vault e Sonhos",
+      "slug": "como-eliminamos-a-maior-parte-dos-erros-de-agentes-de-ia-em-producao-que-fazem-deploy-com-tres-subsistemas-memoria-vault-e-sonhos",
+      "owner_username": "macnator",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-09-12T11:23:34.019Z",
+      "url": "https://www.tabnews.com.br/macnator/como-eliminamos-a-maior-parte-dos-erros-de-agentes-de-ia-em-producao-que-fazem-deploy-com-tres-subsistemas-memoria-vault-e-sonhos"
+    },
+    {
+      "id": "af9868c8-a6da-44ea-b6e5-c98e330f7649",
+      "title": "[ARTIGO] A única vantagem de ser parceiro da OpenAI é poder dizer que é parceiro da OpenAI.",
+      "slug": "artigo-a-unica-vantagem-de-ser-parceiro-da-openai-e-poder-dizer-que-e-parceiro-da-openai",
+      "owner_username": "macnator",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-09-12T10:52:08.883Z",
+      "url": "https://www.tabnews.com.br/macnator/artigo-a-unica-vantagem-de-ser-parceiro-da-openai-e-poder-dizer-que-e-parceiro-da-openai"
+    },
+    {
+      "id": "e7710b6a-f073-4060-b5f3-524ed8c76f05",
+      "title": "Uma linguagem de programação em italiano? Interpretada em PHP? Como assim?",
+      "slug": "uma-linguagem-de-programacao-em-italiano-interpretada-em-php-como-assim",
+      "owner_username": "AdaiasMagdiel",
+      "source_url": "https://github.com/AdaiasMagdiel/codice",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-11T18:16:53.164Z",
+      "url": "https://www.tabnews.com.br/AdaiasMagdiel/uma-linguagem-de-programacao-em-italiano-interpretada-em-php-como-assim"
+    },
+    {
+      "id": "1194a4c2-1385-489b-b1cb-5080a8bbe20a",
+      "title": "Criei um site de empregos que ajuda as pessoas, tem bastante acesso, mas nao consigo monetizar nada",
+      "slug": "criei-um-site-de-empregos-que-ajuda-as-pessoas-tem-bastante-acesso-mas-nao-consigo-monetizar-nada",
+      "owner_username": "gustavoludtke",
+      "source_url": "https://opiniaosul.com",
+      "tabcoins": 2,
+      "children_deep_count": 1,
+      "published_at": "2026-09-12T00:10:36.260Z",
+      "url": "https://www.tabnews.com.br/gustavoludtke/criei-um-site-de-empregos-que-ajuda-as-pessoas-tem-bastante-acesso-mas-nao-consigo-monetizar-nada"
+    },
+    {
+      "id": "564ca0a9-c4df-457e-8921-2c0c59b9841a",
+      "title": "🔥 O Melhor da Semana no TabNews #35",
+      "slug": "o-melhor-da-semana-no-tabnews-35",
+      "owner_username": "TabNewsDigest",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-12T11:44:41.184Z",
+      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-35"
+    },
+    {
+      "id": "3661d388-b7d3-4224-ba2f-620c1419650b",
+      "title": "Seu pipeline de agentes precisa de estados explícitos, não só de prompts",
+      "slug": "seu-pipeline-de-agentes-precisa-de-estados-explicitos-nao-so-de-prompts",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-09-11T10:24:27.117Z",
+      "url": "https://www.tabnews.com.br/Centelha/seu-pipeline-de-agentes-precisa-de-estados-explicitos-nao-so-de-prompts"
+    },
+    {
+      "id": "58cd231b-b413-48f4-b376-f943f07bc140",
+      "title": "Pitch: Criei uma plataforma web gratuita de Matemática sendo estudante do Ensino Médio: bastidores, desafios e aprendizados",
+      "slug": "criei-uma-plataforma-gratuita-de-matematica-para-vestibulandos-sendo-estudante-do-ensino-medio-bastidores-desafios-e-aprendizados",
+      "owner_username": "MateBasica",
+      "source_url": "https://matebasica.com.br",
+      "tabcoins": 9,
+      "children_deep_count": 12,
+      "published_at": "2026-09-10T23:16:48.675Z",
+      "url": "https://www.tabnews.com.br/MateBasica/criei-uma-plataforma-gratuita-de-matematica-para-vestibulandos-sendo-estudante-do-ensino-medio-bastidores-desafios-e-aprendizados"
+    },
+    {
+      "id": "f7962ec9-dc33-451d-ac45-020df5600efe",
+      "title": "Meu erro não era o modelo de IA. Era a pergunta que eu fazia aos clientes.",
+      "slug": "meu-erro-nao-era-o-modelo-de-ia-era-a-pergunta-que-eu-fazia-aos-clientes",
+      "owner_username": "eventhorizon",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 5,
+      "published_at": "2026-09-09T18:03:48.848Z",
+      "url": "https://www.tabnews.com.br/eventhorizon/meu-erro-nao-era-o-modelo-de-ia-era-a-pergunta-que-eu-fazia-aos-clientes"
     }
   ]
 }
