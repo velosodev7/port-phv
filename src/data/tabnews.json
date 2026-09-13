@@ -1,27 +1,60 @@
 {
-  "updated_at": "2026-09-12T12:31:30.195Z",
+  "updated_at": "2026-09-13T13:32:59.912Z",
   "posts": [
     {
-      "id": "c9037368-9e91-4a4a-90ef-7c96fae49685",
-      "title": "Padrão autoFixable: como separei 41% dos comentários de review antes da IA olhar",
-      "slug": "padrao-autofixable-como-separei-41-por-cento-dos-comentarios-de-review-antes-da-ia-olhar",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/autofixable-antes-ia-41-porcento-comentarios-review-cortados/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-09-11T12:00:04.974Z",
-      "url": "https://www.tabnews.com.br/kenimo49/padrao-autofixable-como-separei-41-por-cento-dos-comentarios-de-review-antes-da-ia-olhar"
+      "id": "af9868c8-a6da-44ea-b6e5-c98e330f7649",
+      "title": "[ARTIGO] A única vantagem de ser parceiro da OpenAI é poder dizer que é parceiro da OpenAI.",
+      "slug": "artigo-a-unica-vantagem-de-ser-parceiro-da-openai-e-poder-dizer-que-e-parceiro-da-openai",
+      "owner_username": "macnator",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 2,
+      "published_at": "2026-09-12T10:52:08.883Z",
+      "url": "https://www.tabnews.com.br/macnator/artigo-a-unica-vantagem-de-ser-parceiro-da-openai-e-poder-dizer-que-e-parceiro-da-openai"
     },
     {
-      "id": "8d42d3ea-700a-4543-a058-be601d9b55b5",
-      "title": "Pitch: atomicvulns — um laboratório de vulnerabilidades web, uma vuln por vez",
-      "slug": "atomicvulns-um-laboratorio-de-vulnerabilidades-web-uma-vuln-por-vez",
-      "owner_username": "doretox",
-      "source_url": "https://github.com/doretox/atomicvulns",
+      "id": "6d455a30-1d55-433f-bb0d-070834b09de9",
+      "title": "Pitch: Conheça o LibreDB Studio: IDE SQL Open-Source (MIT) e Self-Hosted para 16+ Bancos de Dados",
+      "slug": "conheca-o-libredb-studio-ide-sql-open-source-mit-e-self-hosted-para-16-bancos-de-dados",
+      "owner_username": "cevheri",
+      "source_url": "https://github.com/libredb/libredb-studio",
       "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-09-12T15:34:27.089Z",
+      "url": "https://www.tabnews.com.br/cevheri/conheca-o-libredb-studio-ide-sql-open-source-mit-e-self-hosted-para-16-bancos-de-dados"
+    },
+    {
+      "id": "4d6633d5-a64c-4994-97a0-24c00ea558e6",
+      "title": "Comprei uma VPS de €14 para programar. Os 200 ms quase me fizeram desistir.",
+      "slug": "comprei-uma-vps-de-14-para-programar-os-200-ms-quase-me-fizeram-desistir",
+      "owner_username": "ictxdiogo",
+      "source_url": null,
+      "tabcoins": 3,
       "children_deep_count": 0,
-      "published_at": "2026-09-11T20:04:13.023Z",
-      "url": "https://www.tabnews.com.br/doretox/atomicvulns-um-laboratorio-de-vulnerabilidades-web-uma-vuln-por-vez"
+      "published_at": "2026-09-12T14:52:24.042Z",
+      "url": "https://www.tabnews.com.br/ictxdiogo/comprei-uma-vps-de-14-para-programar-os-200-ms-quase-me-fizeram-desistir"
+    },
+    {
+      "id": "a6f03e09-36a2-49e1-b2ed-690196460845",
+      "title": "[Pitch] - Hello World com Php e Mysql",
+      "slug": "pitch-hello-world-com-php-e-mysql",
+      "owner_username": "RodrigoSchioMuniz",
+      "source_url": "https://rodrigoschiomuniz.github.io/procedimentos/#3",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-13T05:40:53.305Z",
+      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/pitch-hello-world-com-php-e-mysql"
+    },
+    {
+      "id": "1c446096-6e08-4615-8a3c-a2cd344d6840",
+      "title": "Pitch: Como usei Python e Streamlit para criar um analisador inteligente de links maliciosos (CreatorGuard)",
+      "slug": "como-usei-python-e-streamlit-para-criar-um-analisador-inteligente-de-links-maliciosos-creatorguard",
+      "owner_username": "Hamilton32",
+      "source_url": "https://creatorguard-hamilton.streamlit.app/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-13T05:03:17.695Z",
+      "url": "https://www.tabnews.com.br/Hamilton32/como-usei-python-e-streamlit-para-criar-um-analisador-inteligente-de-links-maliciosos-creatorguard"
     },
     {
       "id": "890be0ce-3fee-4bd5-b026-e30986e4d245",
@@ -35,15 +68,15 @@
       "url": "https://www.tabnews.com.br/macnator/como-eliminamos-a-maior-parte-dos-erros-de-agentes-de-ia-em-producao-que-fazem-deploy-com-tres-subsistemas-memoria-vault-e-sonhos"
     },
     {
-      "id": "af9868c8-a6da-44ea-b6e5-c98e330f7649",
-      "title": "[ARTIGO] A única vantagem de ser parceiro da OpenAI é poder dizer que é parceiro da OpenAI.",
-      "slug": "artigo-a-unica-vantagem-de-ser-parceiro-da-openai-e-poder-dizer-que-e-parceiro-da-openai",
-      "owner_username": "macnator",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-09-12T10:52:08.883Z",
-      "url": "https://www.tabnews.com.br/macnator/artigo-a-unica-vantagem-de-ser-parceiro-da-openai-e-poder-dizer-que-e-parceiro-da-openai"
+      "id": "58cd231b-b413-48f4-b376-f943f07bc140",
+      "title": "Pitch: Criei uma plataforma web gratuita de Matemática sendo estudante do Ensino Médio: bastidores, desafios e aprendizados",
+      "slug": "criei-uma-plataforma-gratuita-de-matematica-para-vestibulandos-sendo-estudante-do-ensino-medio-bastidores-desafios-e-aprendizados",
+      "owner_username": "MateBasica",
+      "source_url": "https://matebasica.com.br",
+      "tabcoins": 10,
+      "children_deep_count": 12,
+      "published_at": "2026-09-10T23:16:48.675Z",
+      "url": "https://www.tabnews.com.br/MateBasica/criei-uma-plataforma-gratuita-de-matematica-para-vestibulandos-sendo-estudante-do-ensino-medio-bastidores-desafios-e-aprendizados"
     },
     {
       "id": "e7710b6a-f073-4060-b5f3-524ed8c76f05",
@@ -51,65 +84,32 @@
       "slug": "uma-linguagem-de-programacao-em-italiano-interpretada-em-php-como-assim",
       "owner_username": "AdaiasMagdiel",
       "source_url": "https://github.com/AdaiasMagdiel/codice",
-      "tabcoins": 3,
+      "tabcoins": 7,
       "children_deep_count": 0,
       "published_at": "2026-09-11T18:16:53.164Z",
       "url": "https://www.tabnews.com.br/AdaiasMagdiel/uma-linguagem-de-programacao-em-italiano-interpretada-em-php-como-assim"
     },
     {
-      "id": "1194a4c2-1385-489b-b1cb-5080a8bbe20a",
-      "title": "Criei um site de empregos que ajuda as pessoas, tem bastante acesso, mas nao consigo monetizar nada",
-      "slug": "criei-um-site-de-empregos-que-ajuda-as-pessoas-tem-bastante-acesso-mas-nao-consigo-monetizar-nada",
-      "owner_username": "gustavoludtke",
-      "source_url": "https://opiniaosul.com",
-      "tabcoins": 2,
-      "children_deep_count": 1,
-      "published_at": "2026-09-12T00:10:36.260Z",
-      "url": "https://www.tabnews.com.br/gustavoludtke/criei-um-site-de-empregos-que-ajuda-as-pessoas-tem-bastante-acesso-mas-nao-consigo-monetizar-nada"
+      "id": "7f4a4484-b87c-4255-a171-7e676ae186eb",
+      "title": "Shopify está saindo do React Native de volta para o Nativo (Swift e Kotlin)",
+      "slug": "shopify-esta-saindo-do-react-native-de-volta-para-o-nativo-swift-e-kotlin",
+      "owner_username": "rafael",
+      "source_url": "https://shopify.engineering/back-to-native",
+      "tabcoins": 5,
+      "children_deep_count": 5,
+      "published_at": "2026-09-10T17:42:40.735Z",
+      "url": "https://www.tabnews.com.br/rafael/shopify-esta-saindo-do-react-native-de-volta-para-o-nativo-swift-e-kotlin"
     },
     {
-      "id": "564ca0a9-c4df-457e-8921-2c0c59b9841a",
-      "title": "🔥 O Melhor da Semana no TabNews #35",
-      "slug": "o-melhor-da-semana-no-tabnews-35",
-      "owner_username": "TabNewsDigest",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-12T11:44:41.184Z",
-      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-35"
-    },
-    {
-      "id": "3661d388-b7d3-4224-ba2f-620c1419650b",
-      "title": "Seu pipeline de agentes precisa de estados explícitos, não só de prompts",
-      "slug": "seu-pipeline-de-agentes-precisa-de-estados-explicitos-nao-so-de-prompts",
-      "owner_username": "Centelha",
-      "source_url": null,
+      "id": "c9037368-9e91-4a4a-90ef-7c96fae49685",
+      "title": "Padrão autoFixable: como separei 41% dos comentários de review antes da IA olhar",
+      "slug": "padrao-autofixable-como-separei-41-por-cento-dos-comentarios-de-review-antes-da-ia-olhar",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/autofixable-antes-ia-41-porcento-comentarios-review-cortados/",
       "tabcoins": 5,
       "children_deep_count": 1,
-      "published_at": "2026-09-11T10:24:27.117Z",
-      "url": "https://www.tabnews.com.br/Centelha/seu-pipeline-de-agentes-precisa-de-estados-explicitos-nao-so-de-prompts"
-    },
-    {
-      "id": "58cd231b-b413-48f4-b376-f943f07bc140",
-      "title": "Pitch: Criei uma plataforma web gratuita de Matemática sendo estudante do Ensino Médio: bastidores, desafios e aprendizados",
-      "slug": "criei-uma-plataforma-gratuita-de-matematica-para-vestibulandos-sendo-estudante-do-ensino-medio-bastidores-desafios-e-aprendizados",
-      "owner_username": "MateBasica",
-      "source_url": "https://matebasica.com.br",
-      "tabcoins": 9,
-      "children_deep_count": 12,
-      "published_at": "2026-09-10T23:16:48.675Z",
-      "url": "https://www.tabnews.com.br/MateBasica/criei-uma-plataforma-gratuita-de-matematica-para-vestibulandos-sendo-estudante-do-ensino-medio-bastidores-desafios-e-aprendizados"
-    },
-    {
-      "id": "f7962ec9-dc33-451d-ac45-020df5600efe",
-      "title": "Meu erro não era o modelo de IA. Era a pergunta que eu fazia aos clientes.",
-      "slug": "meu-erro-nao-era-o-modelo-de-ia-era-a-pergunta-que-eu-fazia-aos-clientes",
-      "owner_username": "eventhorizon",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 5,
-      "published_at": "2026-09-09T18:03:48.848Z",
-      "url": "https://www.tabnews.com.br/eventhorizon/meu-erro-nao-era-o-modelo-de-ia-era-a-pergunta-que-eu-fazia-aos-clientes"
+      "published_at": "2026-09-11T12:00:04.974Z",
+      "url": "https://www.tabnews.com.br/kenimo49/padrao-autofixable-como-separei-41-por-cento-dos-comentarios-de-review-antes-da-ia-olhar"
     }
   ]
 }
