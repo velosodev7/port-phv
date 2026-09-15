@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-09-14T15:29:11.565Z",
+  "updated_at": "2026-09-15T14:01:22.785Z",
   "posts": [
+    {
+      "id": "9e75dee6-f56b-4847-b9f0-5c7f225f660c",
+      "title": "Acabei com o SPAM denunciando para esses 3 endereços",
+      "slug": "acabei-com-o-spam-denunciando-para-esses-3-enderecos",
+      "owner_username": "Wellington79",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-09-15T11:01:20.499Z",
+      "url": "https://www.tabnews.com.br/Wellington79/acabei-com-o-spam-denunciando-para-esses-3-enderecos"
+    },
+    {
+      "id": "4158e7de-0726-4a3e-996c-bcdcfc8cb389",
+      "title": "CEO da Anthropic e outros líderes do setor apoiam desaceleração no desenvolvimento de modelos de IA de fronteira",
+      "slug": "ceo-da-anthropic-e-outros-lideres-do-setor-apoiam-desaceleracao-no-desenvolvimento-de-modelos-de-ia-de-fronteira",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-15T14:00:04.207Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/ceo-da-anthropic-e-outros-lideres-do-setor-apoiam-desaceleracao-no-desenvolvimento-de-modelos-de-ia-de-fronteira"
+    },
+    {
+      "id": "bd1a7636-8cd7-4138-934a-320a8bb70a32",
+      "title": "Hardening de SSH no Linux: Checklist prático para blindar servidores contra força bruta e botnets",
+      "slug": "hardening-de-ssh-no-linux-checklist-pratico-para-blindar-servidores-contra-forca-bruta-e-botnets",
+      "owner_username": "jonas556440",
+      "source_url": "https://tecmestre.com.br/como-configurar-ssh-seguro-no-linux/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-15T13:03:29.702Z",
+      "url": "https://www.tabnews.com.br/jonas556440/hardening-de-ssh-no-linux-checklist-pratico-para-blindar-servidores-contra-forca-bruta-e-botnets"
+    },
     {
       "id": "084c944c-a5fd-4ffa-afaa-c7ec0eca43a3",
       "title": "RAG na Prática: Guia Completo do Conceito à Produção",
@@ -13,37 +46,26 @@
       "url": "https://www.tabnews.com.br/andersonlimadev/rag-na-pratica-guia-completo-do-conceito-a-producao"
     },
     {
-      "id": "2e446b93-fc80-45e9-ae17-d9a2cd46e160",
-      "title": "Guia Prático: Harness no Desenvolvimento com AI (Guardrails, Evals e Claude Code)",
-      "slug": "guia-pratico-harness-no-desenvolvimento-com-ai-guardrails-evals-e-claude-code",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/harness-no-desenvolvimento-com-ai",
-      "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-09-13T18:07:40.852Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/guia-pratico-harness-no-desenvolvimento-com-ai-guardrails-evals-e-claude-code"
-    },
-    {
       "id": "e2adacd3-6c91-4ad9-9bb5-4ca95390163d",
       "title": "Inscrição no Apple Developer Program: o que a Apple realmente exige, e onde as pessoas travam",
       "slug": "inscricao-no-apple-developer-program-o-que-a-apple-realmente-exige-e-onde-as-pessoas-travam",
       "owner_username": "adevelop",
       "source_url": null,
-      "tabcoins": 6,
+      "tabcoins": 7,
       "children_deep_count": 0,
       "published_at": "2026-09-13T18:16:05.149Z",
       "url": "https://www.tabnews.com.br/adevelop/inscricao-no-apple-developer-program-o-que-a-apple-realmente-exige-e-onde-as-pessoas-travam"
     },
     {
-      "id": "f2a3fec3-c18b-42a8-acae-813653097dcb",
-      "title": "Programando em Alto Nível na era da IA: É possível?",
-      "slug": "programando-em-alto-nivel-na-era-da-ia-e-possivel",
-      "owner_username": "JoasSurfer",
-      "source_url": "https://soliveira.pages.dev/pt-br/blog/programar-um-nivel-acima/",
+      "id": "1ed5291a-cc81-40bd-a3cf-6f6e4c6be309",
+      "title": "API de consulta na lista de resíduo sólidos do IBAMA",
+      "slug": "api-de-consulta-na-lista-de-residuo-solidos-do-ibama",
+      "owner_username": "devFilipe",
+      "source_url": null,
       "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-09-13T17:22:26.743Z",
-      "url": "https://www.tabnews.com.br/JoasSurfer/programando-em-alto-nivel-na-era-da-ia-e-possivel"
+      "children_deep_count": 1,
+      "published_at": "2026-09-13T19:29:34.014Z",
+      "url": "https://www.tabnews.com.br/devFilipe/api-de-consulta-na-lista-de-residuo-solidos-do-ibama"
     },
     {
       "id": "8e00c2c9-cfcd-44a4-8683-8badc282d975",
@@ -55,17 +77,6 @@
       "children_deep_count": 2,
       "published_at": "2026-09-13T18:58:56.452Z",
       "url": "https://www.tabnews.com.br/andersonlimadev/evals-para-agents-no-claude-code-como-saber-se-o-agente-melhorou"
-    },
-    {
-      "id": "1ed5291a-cc81-40bd-a3cf-6f6e4c6be309",
-      "title": "API de consulta na lista de resíduo sólidos do IBAMA",
-      "slug": "api-de-consulta-na-lista-de-residuo-solidos-do-ibama",
-      "owner_username": "devFilipe",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-09-13T19:29:34.014Z",
-      "url": "https://www.tabnews.com.br/devFilipe/api-de-consulta-na-lista-de-residuo-solidos-do-ibama"
     },
     {
       "id": "ee8b3888-527e-4fbc-bfe5-9c808711f92b",
@@ -99,17 +110,6 @@
       "children_deep_count": 0,
       "published_at": "2026-09-13T19:35:05.167Z",
       "url": "https://www.tabnews.com.br/andersonlimadev/permissoes-do-claude-code-como-desenhar-autonomia-sem-abrir-a-producao"
-    },
-    {
-      "id": "055f2c5a-3641-4cdf-9a3e-833d6a7cb424",
-      "title": "Agent de Incidentes com Claude Code: investigar sem tocar em produção",
-      "slug": "agent-de-incidentes-com-claude-code-investigar-sem-tocar-em-producao",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/claude-code-incident-response-agent",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-13T19:27:05.705Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/agent-de-incidentes-com-claude-code-investigar-sem-tocar-em-producao"
     }
   ]
 }
