@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-09-15T14:01:22.785Z",
+  "updated_at": "2026-09-16T13:54:59.051Z",
   "posts": [
+    {
+      "id": "12ccde1a-8a8c-49d0-942e-4f00b7538c98",
+      "title": "Como vocês esperam que o botão \"Run\" funcione em um editor SQL?",
+      "slug": "como-voces-esperam-que-o-botao-run-funcione-em-um-editor-sql",
+      "owner_username": "cevheri",
+      "source_url": "https://github.com/libredb/libredb-studio",
+      "tabcoins": 7,
+      "children_deep_count": 7,
+      "published_at": "2026-09-15T19:30:23.703Z",
+      "url": "https://www.tabnews.com.br/cevheri/como-voces-esperam-que-o-botao-run-funcione-em-um-editor-sql"
+    },
     {
       "id": "9e75dee6-f56b-4847-b9f0-5c7f225f660c",
       "title": "Acabei com o SPAM denunciando para esses 3 endereços",
       "slug": "acabei-com-o-spam-denunciando-para-esses-3-enderecos",
       "owner_username": "Wellington79",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
+      "tabcoins": 7,
+      "children_deep_count": 2,
       "published_at": "2026-09-15T11:01:20.499Z",
       "url": "https://www.tabnews.com.br/Wellington79/acabei-com-o-spam-denunciando-para-esses-3-enderecos"
-    },
-    {
-      "id": "4158e7de-0726-4a3e-996c-bcdcfc8cb389",
-      "title": "CEO da Anthropic e outros líderes do setor apoiam desaceleração no desenvolvimento de modelos de IA de fronteira",
-      "slug": "ceo-da-anthropic-e-outros-lideres-do-setor-apoiam-desaceleracao-no-desenvolvimento-de-modelos-de-ia-de-fronteira",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-15T14:00:04.207Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/ceo-da-anthropic-e-outros-lideres-do-setor-apoiam-desaceleracao-no-desenvolvimento-de-modelos-de-ia-de-fronteira"
     },
     {
       "id": "bd1a7636-8cd7-4138-934a-320a8bb70a32",
@@ -29,10 +29,54 @@
       "slug": "hardening-de-ssh-no-linux-checklist-pratico-para-blindar-servidores-contra-forca-bruta-e-botnets",
       "owner_username": "jonas556440",
       "source_url": "https://tecmestre.com.br/como-configurar-ssh-seguro-no-linux/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 7,
+      "children_deep_count": 2,
       "published_at": "2026-09-15T13:03:29.702Z",
       "url": "https://www.tabnews.com.br/jonas556440/hardening-de-ssh-no-linux-checklist-pratico-para-blindar-servidores-contra-forca-bruta-e-botnets"
+    },
+    {
+      "id": "8a44e256-9b96-4622-a9eb-733c5bba1504",
+      "title": "Prompt morreu, Context está morrendo: Harness Engineering é a próxima onda",
+      "slug": "prompt-morreu-context-esta-morrendo-harness-engineering-e-a-proxima-onda",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/prompt-morreu-context-morrendo-harness-engineering-proxima-onda/",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-09-16T12:00:04.044Z",
+      "url": "https://www.tabnews.com.br/kenimo49/prompt-morreu-context-esta-morrendo-harness-engineering-e-a-proxima-onda"
+    },
+    {
+      "id": "a567c343-d760-4c2e-ab8e-eb384a89d1a1",
+      "title": "Pitch: Coeleo OS: um sistema operacional x64 feito do zero em Rust",
+      "slug": "coeleo-os-um-sistema-operacional-x64-feito-do-zero-em-rust",
+      "owner_username": "coeleodev",
+      "source_url": "https://www.linkedin.com/feed/update/urn:li:activity:7505752411970555904",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-09-15T22:26:50.309Z",
+      "url": "https://www.tabnews.com.br/coeleodev/coeleo-os-um-sistema-operacional-x64-feito-do-zero-em-rust"
+    },
+    {
+      "id": "39924149-dccb-46ba-952e-b24c9e417b7d",
+      "title": "Pitch: Como divulgar seu SaaS da maneira correta",
+      "slug": "pitch-como-divulgar-seu-saas-da-maneira-correta",
+      "owner_username": "markz",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-16T09:58:11.757Z",
+      "url": "https://www.tabnews.com.br/markz/pitch-como-divulgar-seu-saas-da-maneira-correta"
+    },
+    {
+      "id": "fbc78455-7a22-4c21-aeaf-d4aad4d79b90",
+      "title": "Pitch: Fiz um site pra organizar minha carteira da B3 a partir da nota de corretagem",
+      "slug": "fiz-um-site-pra-organizar-minha-carteira-da-b3-a-partir-da-nota-de-corretagem",
+      "owner_username": "investb3",
+      "source_url": "https://investb3.com.br",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-16T02:06:31.496Z",
+      "url": "https://www.tabnews.com.br/investb3/fiz-um-site-pra-organizar-minha-carteira-da-b3-a-partir-da-nota-de-corretagem"
     },
     {
       "id": "084c944c-a5fd-4ffa-afaa-c7ec0eca43a3",
@@ -40,7 +84,7 @@
       "slug": "rag-na-pratica-guia-completo-do-conceito-a-producao",
       "owner_username": "andersonlimadev",
       "source_url": "https://lemon.dev.br/pt/blog/rag-guia-completo",
-      "tabcoins": 7,
+      "tabcoins": 11,
       "children_deep_count": 1,
       "published_at": "2026-09-13T18:21:31.228Z",
       "url": "https://www.tabnews.com.br/andersonlimadev/rag-na-pratica-guia-completo-do-conceito-a-producao"
@@ -51,65 +95,21 @@
       "slug": "inscricao-no-apple-developer-program-o-que-a-apple-realmente-exige-e-onde-as-pessoas-travam",
       "owner_username": "adevelop",
       "source_url": null,
-      "tabcoins": 7,
+      "tabcoins": 8,
       "children_deep_count": 0,
       "published_at": "2026-09-13T18:16:05.149Z",
       "url": "https://www.tabnews.com.br/adevelop/inscricao-no-apple-developer-program-o-que-a-apple-realmente-exige-e-onde-as-pessoas-travam"
     },
     {
-      "id": "1ed5291a-cc81-40bd-a3cf-6f6e4c6be309",
-      "title": "API de consulta na lista de resíduo sólidos do IBAMA",
-      "slug": "api-de-consulta-na-lista-de-residuo-solidos-do-ibama",
-      "owner_username": "devFilipe",
-      "source_url": null,
+      "id": "f2a3fec3-c18b-42a8-acae-813653097dcb",
+      "title": "Programando em Alto Nível na era da IA: É possível?",
+      "slug": "programando-em-alto-nivel-na-era-da-ia-e-possivel",
+      "owner_username": "JoasSurfer",
+      "source_url": "https://soliveira.pages.dev/pt-br/blog/programar-um-nivel-acima/",
       "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-09-13T19:29:34.014Z",
-      "url": "https://www.tabnews.com.br/devFilipe/api-de-consulta-na-lista-de-residuo-solidos-do-ibama"
-    },
-    {
-      "id": "8e00c2c9-cfcd-44a4-8683-8badc282d975",
-      "title": "Evals para Agents no Claude Code: como saber se o agente melhorou",
-      "slug": "evals-para-agents-no-claude-code-como-saber-se-o-agente-melhorou",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/claude-code-agent-evals",
-      "tabcoins": 4,
       "children_deep_count": 2,
-      "published_at": "2026-09-13T18:58:56.452Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/evals-para-agents-no-claude-code-como-saber-se-o-agente-melhorou"
-    },
-    {
-      "id": "ee8b3888-527e-4fbc-bfe5-9c808711f92b",
-      "title": "Meu site tinha 595 alimentos e 0 páginas indexáveis e o culpado era eu.",
-      "slug": "meu-site-tinha-595-alimentos-e-0-paginas-indexaveis-e-o-culpado-era-eu",
-      "owner_username": "dnts0",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-09-14T10:13:01.344Z",
-      "url": "https://www.tabnews.com.br/dnts0/meu-site-tinha-595-alimentos-e-0-paginas-indexaveis-e-o-culpado-era-eu"
-    },
-    {
-      "id": "0b2b7ceb-6384-4cfa-9603-de39af5f03dc",
-      "title": "Release Agent com Claude Code: do diff ao deploy com gates verificáveis",
-      "slug": "release-agent-com-claude-code-do-diff-ao-deploy-com-gates-verificaveis",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/claude-code-release-agent",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-13T19:41:36.502Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/release-agent-com-claude-code-do-diff-ao-deploy-com-gates-verificaveis"
-    },
-    {
-      "id": "1d62acb1-4863-45ba-b2d1-ccf352e07bb8",
-      "title": "Permissões do Claude Code: como desenhar autonomia sem abrir a produção",
-      "slug": "permissoes-do-claude-code-como-desenhar-autonomia-sem-abrir-a-producao",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/claude-code-permissions-guardrails",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-13T19:35:05.167Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/permissoes-do-claude-code-como-desenhar-autonomia-sem-abrir-a-producao"
+      "published_at": "2026-09-13T17:22:26.743Z",
+      "url": "https://www.tabnews.com.br/JoasSurfer/programando-em-alto-nivel-na-era-da-ia-e-possivel"
     }
   ]
 }
