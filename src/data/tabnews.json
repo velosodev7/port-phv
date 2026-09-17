@@ -1,14 +1,80 @@
 {
-  "updated_at": "2026-09-16T13:54:59.051Z",
+  "updated_at": "2026-09-17T13:58:48.534Z",
   "posts": [
+    {
+      "id": "8a44e256-9b96-4622-a9eb-733c5bba1504",
+      "title": "Prompt morreu, Context está morrendo: Harness Engineering é a próxima onda",
+      "slug": "prompt-morreu-context-esta-morrendo-harness-engineering-e-a-proxima-onda",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/prompt-morreu-context-morrendo-harness-engineering-proxima-onda/",
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-09-16T12:00:04.044Z",
+      "url": "https://www.tabnews.com.br/kenimo49/prompt-morreu-context-esta-morrendo-harness-engineering-e-a-proxima-onda"
+    },
+    {
+      "id": "e418bb09-13b3-4487-a077-71cd034fb265",
+      "title": "SpaceX tentará colocar Starship em órbita pela primeira vez em 22 de setembro",
+      "slug": "spacex-tentara-colocar-starship-em-orbita-pela-primeira-vez-em-22-de-setembro",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-09-16T14:20:05.876Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/spacex-tentara-colocar-starship-em-orbita-pela-primeira-vez-em-22-de-setembro"
+    },
+    {
+      "id": "43bfa8cb-24ad-4d53-8901-6506217c7a78",
+      "title": "Pitch: Mole — do CLI open source ao app Mac com dry-run antes de apagar",
+      "slug": "pitch-mole-do-cli-open-source-ao-app-mac-com-dry-run-antes-de-apagar",
+      "owner_username": "Tw93",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-17T12:22:26.467Z",
+      "url": "https://www.tabnews.com.br/Tw93/pitch-mole-do-cli-open-source-ao-app-mac-com-dry-run-antes-de-apagar"
+    },
+    {
+      "id": "a829c551-f427-4db4-b5f2-009385a39287",
+      "title": "Valores grandes em APIs: preserve a precisão antes de chamar BigInt",
+      "slug": "valores-grandes-em-apis-preserve-a-precisao-antes-de-chamar-bigint",
+      "owner_username": "atlassystemtech",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-17T11:05:38.343Z",
+      "url": "https://www.tabnews.com.br/atlassystemtech/valores-grandes-em-apis-preserve-a-precisao-antes-de-chamar-bigint"
+    },
+    {
+      "id": "56bc92e0-b839-4535-a0ad-b5e716ebf29b",
+      "title": "Pitch: Manda5, um jogo de palavras multiplayer no navegador, e o que aprendi com tempo real e sala vazia",
+      "slug": "pitch-manda5-um-jogo-de-palavras-multiplayer-no-navegador-e-o-que-aprendi-com-tempo-real-e-sala-vazia",
+      "owner_username": "georgequeiroga",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-17T10:23:21.058Z",
+      "url": "https://www.tabnews.com.br/georgequeiroga/pitch-manda5-um-jogo-de-palavras-multiplayer-no-navegador-e-o-que-aprendi-com-tempo-real-e-sala-vazia"
+    },
+    {
+      "id": "17ba7073-d49f-413a-9476-82276d89ddf4",
+      "title": "Pitch: Construí um micro-SaaS para processar vídeos em lote no navegador com WebAssembly (ReelMass)",
+      "slug": "construi-um-micro-saas-para-processar-videos-em-lote-no-navegador-com-webassembly-reelmass",
+      "owner_username": "KauaSilv",
+      "source_url": "https://reelmass.com.br",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-17T03:39:32.103Z",
+      "url": "https://www.tabnews.com.br/KauaSilv/construi-um-micro-saas-para-processar-videos-em-lote-no-navegador-com-webassembly-reelmass"
+    },
     {
       "id": "12ccde1a-8a8c-49d0-942e-4f00b7538c98",
       "title": "Como vocês esperam que o botão \"Run\" funcione em um editor SQL?",
       "slug": "como-voces-esperam-que-o-botao-run-funcione-em-um-editor-sql",
       "owner_username": "cevheri",
       "source_url": "https://github.com/libredb/libredb-studio",
-      "tabcoins": 7,
-      "children_deep_count": 7,
+      "tabcoins": 10,
+      "children_deep_count": 10,
       "published_at": "2026-09-15T19:30:23.703Z",
       "url": "https://www.tabnews.com.br/cevheri/como-voces-esperam-que-o-botao-run-funcione-em-um-editor-sql"
     },
@@ -18,7 +84,7 @@
       "slug": "acabei-com-o-spam-denunciando-para-esses-3-enderecos",
       "owner_username": "Wellington79",
       "source_url": null,
-      "tabcoins": 7,
+      "tabcoins": 10,
       "children_deep_count": 2,
       "published_at": "2026-09-15T11:01:20.499Z",
       "url": "https://www.tabnews.com.br/Wellington79/acabei-com-o-spam-denunciando-para-esses-3-enderecos"
@@ -28,22 +94,11 @@
       "title": "Hardening de SSH no Linux: Checklist prático para blindar servidores contra força bruta e botnets",
       "slug": "hardening-de-ssh-no-linux-checklist-pratico-para-blindar-servidores-contra-forca-bruta-e-botnets",
       "owner_username": "jonas556440",
-      "source_url": "https://tecmestre.com.br/como-configurar-ssh-seguro-no-linux/",
-      "tabcoins": 7,
-      "children_deep_count": 2,
+      "source_url": "https://tecmestre.com.br/como-configurar-ssh-seguro-linux-chaves-ed25519/",
+      "tabcoins": 8,
+      "children_deep_count": 4,
       "published_at": "2026-09-15T13:03:29.702Z",
       "url": "https://www.tabnews.com.br/jonas556440/hardening-de-ssh-no-linux-checklist-pratico-para-blindar-servidores-contra-forca-bruta-e-botnets"
-    },
-    {
-      "id": "8a44e256-9b96-4622-a9eb-733c5bba1504",
-      "title": "Prompt morreu, Context está morrendo: Harness Engineering é a próxima onda",
-      "slug": "prompt-morreu-context-esta-morrendo-harness-engineering-e-a-proxima-onda",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/prompt-morreu-context-morrendo-harness-engineering-proxima-onda/",
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-09-16T12:00:04.044Z",
-      "url": "https://www.tabnews.com.br/kenimo49/prompt-morreu-context-esta-morrendo-harness-engineering-e-a-proxima-onda"
     },
     {
       "id": "a567c343-d760-4c2e-ab8e-eb384a89d1a1",
@@ -51,65 +106,10 @@
       "slug": "coeleo-os-um-sistema-operacional-x64-feito-do-zero-em-rust",
       "owner_username": "coeleodev",
       "source_url": "https://www.linkedin.com/feed/update/urn:li:activity:7505752411970555904",
-      "tabcoins": 4,
+      "tabcoins": 5,
       "children_deep_count": 2,
       "published_at": "2026-09-15T22:26:50.309Z",
       "url": "https://www.tabnews.com.br/coeleodev/coeleo-os-um-sistema-operacional-x64-feito-do-zero-em-rust"
-    },
-    {
-      "id": "39924149-dccb-46ba-952e-b24c9e417b7d",
-      "title": "Pitch: Como divulgar seu SaaS da maneira correta",
-      "slug": "pitch-como-divulgar-seu-saas-da-maneira-correta",
-      "owner_username": "markz",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-16T09:58:11.757Z",
-      "url": "https://www.tabnews.com.br/markz/pitch-como-divulgar-seu-saas-da-maneira-correta"
-    },
-    {
-      "id": "fbc78455-7a22-4c21-aeaf-d4aad4d79b90",
-      "title": "Pitch: Fiz um site pra organizar minha carteira da B3 a partir da nota de corretagem",
-      "slug": "fiz-um-site-pra-organizar-minha-carteira-da-b3-a-partir-da-nota-de-corretagem",
-      "owner_username": "investb3",
-      "source_url": "https://investb3.com.br",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-16T02:06:31.496Z",
-      "url": "https://www.tabnews.com.br/investb3/fiz-um-site-pra-organizar-minha-carteira-da-b3-a-partir-da-nota-de-corretagem"
-    },
-    {
-      "id": "084c944c-a5fd-4ffa-afaa-c7ec0eca43a3",
-      "title": "RAG na Prática: Guia Completo do Conceito à Produção",
-      "slug": "rag-na-pratica-guia-completo-do-conceito-a-producao",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/rag-guia-completo",
-      "tabcoins": 11,
-      "children_deep_count": 1,
-      "published_at": "2026-09-13T18:21:31.228Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/rag-na-pratica-guia-completo-do-conceito-a-producao"
-    },
-    {
-      "id": "e2adacd3-6c91-4ad9-9bb5-4ca95390163d",
-      "title": "Inscrição no Apple Developer Program: o que a Apple realmente exige, e onde as pessoas travam",
-      "slug": "inscricao-no-apple-developer-program-o-que-a-apple-realmente-exige-e-onde-as-pessoas-travam",
-      "owner_username": "adevelop",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 0,
-      "published_at": "2026-09-13T18:16:05.149Z",
-      "url": "https://www.tabnews.com.br/adevelop/inscricao-no-apple-developer-program-o-que-a-apple-realmente-exige-e-onde-as-pessoas-travam"
-    },
-    {
-      "id": "f2a3fec3-c18b-42a8-acae-813653097dcb",
-      "title": "Programando em Alto Nível na era da IA: É possível?",
-      "slug": "programando-em-alto-nivel-na-era-da-ia-e-possivel",
-      "owner_username": "JoasSurfer",
-      "source_url": "https://soliveira.pages.dev/pt-br/blog/programar-um-nivel-acima/",
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-09-13T17:22:26.743Z",
-      "url": "https://www.tabnews.com.br/JoasSurfer/programando-em-alto-nivel-na-era-da-ia-e-possivel"
     }
   ]
 }
