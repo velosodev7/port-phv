@@ -1,71 +1,104 @@
 {
-  "updated_at": "2026-09-17T13:58:48.534Z",
+  "updated_at": "2026-09-18T13:16:03.879Z",
   "posts": [
     {
-      "id": "8a44e256-9b96-4622-a9eb-733c5bba1504",
-      "title": "Prompt morreu, Context está morrendo: Harness Engineering é a próxima onda",
-      "slug": "prompt-morreu-context-esta-morrendo-harness-engineering-e-a-proxima-onda",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/prompt-morreu-context-morrendo-harness-engineering-proxima-onda/",
-      "tabcoins": 6,
+      "id": "f9fa1b22-9825-4b99-9508-8b6888b2048e",
+      "title": "Fiz meu blog com IA para escrever sem IA",
+      "slug": "fiz-meu-blog-com-ia-para-escrever-sem-ia",
+      "owner_username": "mksDEV08",
+      "source_url": "https://pedrosemia.com.br/threads/porque-decidi-comecar-a-escrever-um-blog-em-2026",
+      "tabcoins": 9,
+      "children_deep_count": 2,
+      "published_at": "2026-09-17T16:06:12.596Z",
+      "url": "https://www.tabnews.com.br/mksDEV08/fiz-meu-blog-com-ia-para-escrever-sem-ia"
+    },
+    {
+      "id": "c2480545-92e0-42a7-9017-b7772dd4941a",
+      "title": "Vocês usariam uma \"Husky\" (receber dólar) rodando no seu terminal?",
+      "slug": "voces-usariam-uma-husky-receber-dolar-rodando-no-seu-terminal",
+      "owner_username": "bernardosimonassi",
+      "source_url": "https://bul.ma/",
+      "tabcoins": 7,
       "children_deep_count": 3,
-      "published_at": "2026-09-16T12:00:04.044Z",
-      "url": "https://www.tabnews.com.br/kenimo49/prompt-morreu-context-esta-morrendo-harness-engineering-e-a-proxima-onda"
+      "published_at": "2026-09-17T15:18:53.783Z",
+      "url": "https://www.tabnews.com.br/bernardosimonassi/voces-usariam-uma-husky-receber-dolar-rodando-no-seu-terminal"
     },
     {
-      "id": "e418bb09-13b3-4487-a077-71cd034fb265",
-      "title": "SpaceX tentará colocar Starship em órbita pela primeira vez em 22 de setembro",
-      "slug": "spacex-tentara-colocar-starship-em-orbita-pela-primeira-vez-em-22-de-setembro",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "id": "d7fdb5e7-a7bb-45a1-91d4-7e6ac1300630",
+      "title": "UX analysis: indo além da construção de telas como dev frontend",
+      "slug": "ux-analysis-indo-alem-da-construcao-de-telas-como-dev-frontend",
+      "owner_username": "ArthurBorba",
+      "source_url": "https://posthog.com/",
+      "tabcoins": 6,
+      "children_deep_count": 0,
+      "published_at": "2026-09-17T14:29:33.862Z",
+      "url": "https://www.tabnews.com.br/ArthurBorba/ux-analysis-indo-alem-da-construcao-de-telas-como-dev-frontend"
+    },
+    {
+      "id": "dbbec07d-90aa-4109-82b6-e3db60f86fa0",
+      "title": "O Jev me fez repensar onde a IA deveria entrar no código",
+      "slug": "o-jev-me-fez-repensar-onde-a-ia-deveria-entrar-no-codigo",
+      "owner_username": "Nito",
+      "source_url": null,
       "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-09-16T14:20:05.876Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/spacex-tentara-colocar-starship-em-orbita-pela-primeira-vez-em-22-de-setembro"
+      "children_deep_count": 1,
+      "published_at": "2026-09-17T23:53:11.836Z",
+      "url": "https://www.tabnews.com.br/Nito/o-jev-me-fez-repensar-onde-a-ia-deveria-entrar-no-codigo"
     },
     {
-      "id": "43bfa8cb-24ad-4d53-8901-6506217c7a78",
-      "title": "Pitch: Mole — do CLI open source ao app Mac com dry-run antes de apagar",
-      "slug": "pitch-mole-do-cli-open-source-ao-app-mac-com-dry-run-antes-de-apagar",
-      "owner_username": "Tw93",
+      "id": "d2160890-3859-46b9-9ce4-6d13788150c3",
+      "title": "Fiz uma alternativa brasileira ao Discord, open source, rodando em 3 VPS por uns US$ 200/mês",
+      "slug": "fiz-uma-alternativa-brasileira-ao-discord-open-source-rodando-em-3-vps-por-uns-us-200-mes",
+      "owner_username": "rafaelcg",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-17T12:22:26.467Z",
-      "url": "https://www.tabnews.com.br/Tw93/pitch-mole-do-cli-open-source-ao-app-mac-com-dry-run-antes-de-apagar"
+      "tabcoins": 2,
+      "children_deep_count": 3,
+      "published_at": "2026-09-17T18:04:11.675Z",
+      "url": "https://www.tabnews.com.br/rafaelcg/fiz-uma-alternativa-brasileira-ao-discord-open-source-rodando-em-3-vps-por-uns-us-200-mes"
     },
     {
-      "id": "a829c551-f427-4db4-b5f2-009385a39287",
-      "title": "Valores grandes em APIs: preserve a precisão antes de chamar BigInt",
-      "slug": "valores-grandes-em-apis-preserve-a-precisao-antes-de-chamar-bigint",
-      "owner_username": "atlassystemtech",
+      "id": "e5d737f8-7a4e-41a5-ab6d-8d68495c7ee3",
+      "title": "Criei 2 geradores de senhas, e vou direto ao ponto sobre algumas noções sobre segurança e geração de números aleatórios",
+      "slug": "criei-2-geradores-de-senhas-e-vou-direto-ao-ponto-sobre-algumas-nocoes-sobre-seguranca-e-geracao-de-numeros-aleatorios",
+      "owner_username": "fernandoisnaldo",
       "source_url": null,
-      "tabcoins": 1,
+      "tabcoins": 2,
       "children_deep_count": 0,
-      "published_at": "2026-09-17T11:05:38.343Z",
-      "url": "https://www.tabnews.com.br/atlassystemtech/valores-grandes-em-apis-preserve-a-precisao-antes-de-chamar-bigint"
+      "published_at": "2026-09-18T04:22:45.434Z",
+      "url": "https://www.tabnews.com.br/fernandoisnaldo/criei-2-geradores-de-senhas-e-vou-direto-ao-ponto-sobre-algumas-nocoes-sobre-seguranca-e-geracao-de-numeros-aleatorios"
     },
     {
-      "id": "56bc92e0-b839-4535-a0ad-b5e716ebf29b",
-      "title": "Pitch: Manda5, um jogo de palavras multiplayer no navegador, e o que aprendi com tempo real e sala vazia",
-      "slug": "pitch-manda5-um-jogo-de-palavras-multiplayer-no-navegador-e-o-que-aprendi-com-tempo-real-e-sala-vazia",
-      "owner_username": "georgequeiroga",
+      "id": "585751be-b01d-4c61-a715-96db799b34f7",
+      "title": "Perdi a conta de quantos servicos eu tenho rodando no meu proprio computador",
+      "slug": "perdi-a-conta-de-quantos-servicos-eu-tenho-rodando-no-meu-proprio-computador",
+      "owner_username": "obrenoalvim",
       "source_url": null,
-      "tabcoins": 1,
+      "tabcoins": 2,
       "children_deep_count": 0,
-      "published_at": "2026-09-17T10:23:21.058Z",
-      "url": "https://www.tabnews.com.br/georgequeiroga/pitch-manda5-um-jogo-de-palavras-multiplayer-no-navegador-e-o-que-aprendi-com-tempo-real-e-sala-vazia"
+      "published_at": "2026-09-18T01:49:40.932Z",
+      "url": "https://www.tabnews.com.br/obrenoalvim/perdi-a-conta-de-quantos-servicos-eu-tenho-rodando-no-meu-proprio-computador"
     },
     {
-      "id": "17ba7073-d49f-413a-9476-82276d89ddf4",
-      "title": "Pitch: Construí um micro-SaaS para processar vídeos em lote no navegador com WebAssembly (ReelMass)",
-      "slug": "construi-um-micro-saas-para-processar-videos-em-lote-no-navegador-com-webassembly-reelmass",
-      "owner_username": "KauaSilv",
-      "source_url": "https://reelmass.com.br",
+      "id": "878b0d6d-531e-4faf-808b-7b239b8774ee",
+      "title": "Agentic RAG em produção: o agente decide 4 vezes na mesma pergunta - alucinação cai 3x, custo dobra",
+      "slug": "agentic-rag-em-producao-o-agente-decide-4-vezes-na-mesma-pergunta-alucinacao-cai-3x-custo-dobra",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/agentic-rag-4-iteracoes-3x-menos-alucinacao-2x-custo/",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-09-17T03:39:32.103Z",
-      "url": "https://www.tabnews.com.br/KauaSilv/construi-um-micro-saas-para-processar-videos-em-lote-no-navegador-com-webassembly-reelmass"
+      "published_at": "2026-09-18T12:00:03.611Z",
+      "url": "https://www.tabnews.com.br/kenimo49/agentic-rag-em-producao-o-agente-decide-4-vezes-na-mesma-pergunta-alucinacao-cai-3x-custo-dobra"
+    },
+    {
+      "id": "6fd7c8d2-b4be-440f-ad62-2d8de627d102",
+      "title": "Como Recuperar o Histórico de Conversas no Google Antigravity IDE (Engenharia Reversa, Mistério do Plano e Soluções Prontas)",
+      "slug": "como-recuperar-o-historico-de-conversas-no-google-antigravity-ide-engenharia-reversa-misterio-do-plano-e-solucoes-prontas",
+      "owner_username": "NdDaniel",
+      "source_url": "https://github.com/NdondaDaniel2020/antigravity-history-restorer",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-18T11:43:47.686Z",
+      "url": "https://www.tabnews.com.br/NdDaniel/como-recuperar-o-historico-de-conversas-no-google-antigravity-ide-engenharia-reversa-misterio-do-plano-e-solucoes-prontas"
     },
     {
       "id": "12ccde1a-8a8c-49d0-942e-4f00b7538c98",
@@ -74,42 +107,9 @@
       "owner_username": "cevheri",
       "source_url": "https://github.com/libredb/libredb-studio",
       "tabcoins": 10,
-      "children_deep_count": 10,
+      "children_deep_count": 12,
       "published_at": "2026-09-15T19:30:23.703Z",
       "url": "https://www.tabnews.com.br/cevheri/como-voces-esperam-que-o-botao-run-funcione-em-um-editor-sql"
-    },
-    {
-      "id": "9e75dee6-f56b-4847-b9f0-5c7f225f660c",
-      "title": "Acabei com o SPAM denunciando para esses 3 endereços",
-      "slug": "acabei-com-o-spam-denunciando-para-esses-3-enderecos",
-      "owner_username": "Wellington79",
-      "source_url": null,
-      "tabcoins": 10,
-      "children_deep_count": 2,
-      "published_at": "2026-09-15T11:01:20.499Z",
-      "url": "https://www.tabnews.com.br/Wellington79/acabei-com-o-spam-denunciando-para-esses-3-enderecos"
-    },
-    {
-      "id": "bd1a7636-8cd7-4138-934a-320a8bb70a32",
-      "title": "Hardening de SSH no Linux: Checklist prático para blindar servidores contra força bruta e botnets",
-      "slug": "hardening-de-ssh-no-linux-checklist-pratico-para-blindar-servidores-contra-forca-bruta-e-botnets",
-      "owner_username": "jonas556440",
-      "source_url": "https://tecmestre.com.br/como-configurar-ssh-seguro-linux-chaves-ed25519/",
-      "tabcoins": 8,
-      "children_deep_count": 4,
-      "published_at": "2026-09-15T13:03:29.702Z",
-      "url": "https://www.tabnews.com.br/jonas556440/hardening-de-ssh-no-linux-checklist-pratico-para-blindar-servidores-contra-forca-bruta-e-botnets"
-    },
-    {
-      "id": "a567c343-d760-4c2e-ab8e-eb384a89d1a1",
-      "title": "Pitch: Coeleo OS: um sistema operacional x64 feito do zero em Rust",
-      "slug": "coeleo-os-um-sistema-operacional-x64-feito-do-zero-em-rust",
-      "owner_username": "coeleodev",
-      "source_url": "https://www.linkedin.com/feed/update/urn:li:activity:7505752411970555904",
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-09-15T22:26:50.309Z",
-      "url": "https://www.tabnews.com.br/coeleodev/coeleo-os-um-sistema-operacional-x64-feito-do-zero-em-rust"
     }
   ]
 }
