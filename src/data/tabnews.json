@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-09-19T12:47:04.111Z",
+  "updated_at": "2026-09-20T13:21:27.398Z",
   "posts": [
     {
-      "id": "e5d737f8-7a4e-41a5-ab6d-8d68495c7ee3",
-      "title": "Criei 2 geradores de senhas, e vou direto ao ponto sobre algumas noções sobre segurança e geração de números aleatórios",
-      "slug": "criei-2-geradores-de-senhas-e-vou-direto-ao-ponto-sobre-algumas-nocoes-sobre-seguranca-e-geracao-de-numeros-aleatorios",
-      "owner_username": "fernandoisnaldo",
+      "id": "aae15670-9ad4-4886-977d-bc3a310870de",
+      "title": "Minha Game Engine 3D",
+      "slug": "minha-game-engine-apos-1-ano",
+      "owner_username": "vsantos1",
       "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-09-18T04:22:45.434Z",
-      "url": "https://www.tabnews.com.br/fernandoisnaldo/criei-2-geradores-de-senhas-e-vou-direto-ao-ponto-sobre-algumas-nocoes-sobre-seguranca-e-geracao-de-numeros-aleatorios"
-    },
-    {
-      "id": "80a1d93e-ab87-4d39-99bb-7d4d1008c978",
-      "title": "Procuro um falante nativo de português para traduzir o README de um SQL IDE open source (MIT)",
-      "slug": "procuro-um-falante-nativo-de-portugues-para-traduzir-o-readme-de-um-sql-ide-open-source-mit",
-      "owner_username": "cevheri",
-      "source_url": "https://github.com/libredb/libredb-studio",
-      "tabcoins": 6,
+      "tabcoins": 2,
       "children_deep_count": 0,
-      "published_at": "2026-09-18T20:29:15.879Z",
-      "url": "https://www.tabnews.com.br/cevheri/procuro-um-falante-nativo-de-portugues-para-traduzir-o-readme-de-um-sql-ide-open-source-mit"
+      "published_at": "2026-09-20T01:39:38.324Z",
+      "url": "https://www.tabnews.com.br/vsantos1/minha-game-engine-apos-1-ano"
     },
     {
-      "id": "6d164371-e0c4-47ed-aed3-9c8926aaa1f4",
-      "title": "Claude Code agora vai ler o AGENTS.md (finalmente!)",
-      "slug": "claude-code-agora-vai-ler-o-agents-md-finalmente",
-      "owner_username": "AndreiAlves",
-      "source_url": "https://x.com/trq212/status/2101009392611278961?s=20",
-      "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-09-18T18:50:27.399Z",
-      "url": "https://www.tabnews.com.br/AndreiAlves/claude-code-agora-vai-ler-o-agents-md-finalmente"
+      "id": "51216447-45f4-41b1-84ef-0e9e6ed27b24",
+      "title": "JEV na prática: decisões tipadas em FastAPI pelo Vercel AI Gateway",
+      "slug": "jev-na-pratica-decisoes-tipadas-em-fastapi-pelo-vercel-ai-gateway",
+      "owner_username": "andersonlimadev",
+      "source_url": "https://lemon.dev.br/pt/blog/jev-typesafe-fastapi-vercel-ai-gateway",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-20T08:26:22.256Z",
+      "url": "https://www.tabnews.com.br/andersonlimadev/jev-na-pratica-decisoes-tipadas-em-fastapi-pelo-vercel-ai-gateway"
+    },
+    {
+      "id": "7a816df7-34cd-43c2-9810-d36648d56ac3",
+      "title": "[PITCH] - Vídeo Direct - Gerador de Vídeos de Chats 'fake' estilo Direct do Insta (DM)",
+      "slug": "pitch-video-direct-gerador-de-videos-de-chats-fake-estilo-direct-do-insta-dm",
+      "owner_username": "jonwlf",
+      "source_url": "https://direct.jon.app.br",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-20T03:03:00.811Z",
+      "url": "https://www.tabnews.com.br/jonwlf/pitch-video-direct-gerador-de-videos-de-chats-fake-estilo-direct-do-insta-dm"
     },
     {
       "id": "60d4312c-9e3d-4e5d-a477-6e7f9a2e2421",
@@ -40,54 +40,10 @@
       "slug": "o-paradoxo-da-performance-no-frontend-e-o-pato",
       "owner_username": "gabrielbaiano",
       "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
+      "tabcoins": 4,
+      "children_deep_count": 2,
       "published_at": "2026-09-19T07:14:02.945Z",
       "url": "https://www.tabnews.com.br/gabrielbaiano/o-paradoxo-da-performance-no-frontend-e-o-pato"
-    },
-    {
-      "id": "8cc118ba-ef1b-45ac-b23e-c8ce2360fb03",
-      "title": "[ARTIGO] O custo que ninguém conta para quem constrói software inovador",
-      "slug": "artigo-o-custo-que-ninguem-conta-para-quem-constroi-software-inovador",
-      "owner_username": "macnator",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-19T12:26:54.810Z",
-      "url": "https://www.tabnews.com.br/macnator/artigo-o-custo-que-ninguem-conta-para-quem-constroi-software-inovador"
-    },
-    {
-      "id": "356f5077-cb05-4163-a8c6-b9294ee57e8a",
-      "title": "🔥 O Melhor da Semana no TabNews #36",
-      "slug": "o-melhor-da-semana-no-tabnews-36",
-      "owner_username": "TabNewsDigest",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-19T11:00:07.486Z",
-      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-36"
-    },
-    {
-      "id": "67ede1f1-c890-44fe-a31a-f77d42b12483",
-      "title": "Otimizando Sistemas de Pagamento de Alta Escala com Bit Packing: Conheça o JEC Enterprise (64-bit)",
-      "slug": "otimizando-sistemas-de-pagamento-de-alta-escala-com-bit-packing-conheca-o-jec-enterprise-64-bit",
-      "owner_username": "mlopes75",
-      "source_url": "https://mlopes75.github.io/jec-64bit-enterprise/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-19T06:25:15.429Z",
-      "url": "https://www.tabnews.com.br/mlopes75/otimizando-sistemas-de-pagamento-de-alta-escala-com-bit-packing-conheca-o-jec-enterprise-64-bit"
-    },
-    {
-      "id": "6fd7c8d2-b4be-440f-ad62-2d8de627d102",
-      "title": "Como Recuperar o Histórico de Conversas no Google Antigravity IDE (Engenharia Reversa, Mistério do Plano e Soluções Prontas)",
-      "slug": "como-recuperar-o-historico-de-conversas-no-google-antigravity-ide-engenharia-reversa-misterio-do-plano-e-solucoes-prontas",
-      "owner_username": "NdDaniel",
-      "source_url": "https://github.com/NdondaDaniel2020/antigravity-history-restorer",
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-09-18T11:43:47.686Z",
-      "url": "https://www.tabnews.com.br/NdDaniel/como-recuperar-o-historico-de-conversas-no-google-antigravity-ide-engenharia-reversa-misterio-do-plano-e-solucoes-prontas"
     },
     {
       "id": "dbbec07d-90aa-4109-82b6-e3db60f86fa0",
@@ -95,7 +51,7 @@
       "slug": "o-jev-me-fez-repensar-onde-a-ia-deveria-entrar-no-codigo",
       "owner_username": "Nito",
       "source_url": null,
-      "tabcoins": 12,
+      "tabcoins": 15,
       "children_deep_count": 4,
       "published_at": "2026-09-17T23:53:11.836Z",
       "url": "https://www.tabnews.com.br/Nito/o-jev-me-fez-repensar-onde-a-ia-deveria-entrar-no-codigo"
@@ -110,6 +66,50 @@
       "children_deep_count": 2,
       "published_at": "2026-09-17T16:06:12.596Z",
       "url": "https://www.tabnews.com.br/mksDEV08/fiz-meu-blog-com-ia-para-escrever-sem-ia"
+    },
+    {
+      "id": "c2480545-92e0-42a7-9017-b7772dd4941a",
+      "title": "Vocês usariam uma \"Husky\" (receber dólar) rodando no seu terminal?",
+      "slug": "voces-usariam-uma-husky-receber-dolar-rodando-no-seu-terminal",
+      "owner_username": "bernardosimonassi",
+      "source_url": "https://bul.ma/",
+      "tabcoins": 8,
+      "children_deep_count": 4,
+      "published_at": "2026-09-17T15:18:53.783Z",
+      "url": "https://www.tabnews.com.br/bernardosimonassi/voces-usariam-uma-husky-receber-dolar-rodando-no-seu-terminal"
+    },
+    {
+      "id": "80a1d93e-ab87-4d39-99bb-7d4d1008c978",
+      "title": "Procuro um falante nativo de português para traduzir o README de um SQL IDE open source (MIT)",
+      "slug": "procuro-um-falante-nativo-de-portugues-para-traduzir-o-readme-de-um-sql-ide-open-source-mit",
+      "owner_username": "cevheri",
+      "source_url": "https://github.com/libredb/libredb-studio",
+      "tabcoins": 7,
+      "children_deep_count": 5,
+      "published_at": "2026-09-18T20:29:15.879Z",
+      "url": "https://www.tabnews.com.br/cevheri/procuro-um-falante-nativo-de-portugues-para-traduzir-o-readme-de-um-sql-ide-open-source-mit"
+    },
+    {
+      "id": "e5d737f8-7a4e-41a5-ab6d-8d68495c7ee3",
+      "title": "Criei 2 geradores de senhas, e vou direto ao ponto sobre algumas noções sobre segurança e geração de números aleatórios",
+      "slug": "criei-2-geradores-de-senhas-e-vou-direto-ao-ponto-sobre-algumas-nocoes-sobre-seguranca-e-geracao-de-numeros-aleatorios",
+      "owner_username": "fernandoisnaldo",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 2,
+      "published_at": "2026-09-18T04:22:45.434Z",
+      "url": "https://www.tabnews.com.br/fernandoisnaldo/criei-2-geradores-de-senhas-e-vou-direto-ao-ponto-sobre-algumas-nocoes-sobre-seguranca-e-geracao-de-numeros-aleatorios"
+    },
+    {
+      "id": "d7fdb5e7-a7bb-45a1-91d4-7e6ac1300630",
+      "title": "UX analysis: indo além da construção de telas como dev frontend",
+      "slug": "ux-analysis-indo-alem-da-construcao-de-telas-como-dev-frontend",
+      "owner_username": "ArthurBorba",
+      "source_url": "https://posthog.com/",
+      "tabcoins": 7,
+      "children_deep_count": 0,
+      "published_at": "2026-09-17T14:29:33.862Z",
+      "url": "https://www.tabnews.com.br/ArthurBorba/ux-analysis-indo-alem-da-construcao-de-telas-como-dev-frontend"
     }
   ]
 }
