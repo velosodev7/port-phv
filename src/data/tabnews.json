@@ -1,82 +1,93 @@
 {
-  "updated_at": "2026-09-20T13:21:27.398Z",
+  "updated_at": "2026-09-21T15:30:33.657Z",
   "posts": [
     {
-      "id": "aae15670-9ad4-4886-977d-bc3a310870de",
-      "title": "Minha Game Engine 3D",
-      "slug": "minha-game-engine-apos-1-ano",
-      "owner_username": "vsantos1",
+      "id": "c74c0aa4-9c76-46a3-9408-cbfaf0a5e7e0",
+      "title": "Pitch: O projeto mais 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗼 que você vai ver hoje!",
+      "slug": "o-projeto-mais-que-voce-vai-ver-hoje",
+      "owner_username": "Zaqueu",
       "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-09-20T01:39:38.324Z",
-      "url": "https://www.tabnews.com.br/vsantos1/minha-game-engine-apos-1-ano"
+      "tabcoins": 8,
+      "children_deep_count": 1,
+      "published_at": "2026-09-21T11:09:12.755Z",
+      "url": "https://www.tabnews.com.br/Zaqueu/o-projeto-mais-que-voce-vai-ver-hoje"
     },
     {
-      "id": "51216447-45f4-41b1-84ef-0e9e6ed27b24",
-      "title": "JEV na prática: decisões tipadas em FastAPI pelo Vercel AI Gateway",
-      "slug": "jev-na-pratica-decisoes-tipadas-em-fastapi-pelo-vercel-ai-gateway",
-      "owner_username": "andersonlimadev",
-      "source_url": "https://lemon.dev.br/pt/blog/jev-typesafe-fastapi-vercel-ai-gateway",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-20T08:26:22.256Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/jev-na-pratica-decisoes-tipadas-em-fastapi-pelo-vercel-ai-gateway"
+      "id": "bc5c0e06-c50f-4824-bed5-ee4ed71974ea",
+      "title": "Coloquei 11 schemas JSON-LD. Em 3 meses, só 3 foram citados por IA",
+      "slug": "coloquei-11-schemas-json-ld-em-3-meses-so-3-foram-citados-por-ia",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/11-json-ld-apenas-3-citados/",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-09-21T12:00:04.168Z",
+      "url": "https://www.tabnews.com.br/kenimo49/coloquei-11-schemas-json-ld-em-3-meses-so-3-foram-citados-por-ia"
     },
     {
-      "id": "7a816df7-34cd-43c2-9810-d36648d56ac3",
-      "title": "[PITCH] - Vídeo Direct - Gerador de Vídeos de Chats 'fake' estilo Direct do Insta (DM)",
-      "slug": "pitch-video-direct-gerador-de-videos-de-chats-fake-estilo-direct-do-insta-dm",
-      "owner_username": "jonwlf",
-      "source_url": "https://direct.jon.app.br",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-20T03:03:00.811Z",
-      "url": "https://www.tabnews.com.br/jonwlf/pitch-video-direct-gerador-de-videos-de-chats-fake-estilo-direct-do-insta-dm"
-    },
-    {
-      "id": "60d4312c-9e3d-4e5d-a477-6e7f9a2e2421",
-      "title": "O paradoxo da performance no frontend e o pato",
-      "slug": "o-paradoxo-da-performance-no-frontend-e-o-pato",
-      "owner_username": "gabrielbaiano",
+      "id": "42082f58-ddd8-4404-9a12-d4839dc60899",
+      "title": "Desbloqueio PayJoy",
+      "slug": "desbloqueio-payjoy",
+      "owner_username": "vilkerduarte",
       "source_url": null,
       "tabcoins": 4,
       "children_deep_count": 2,
-      "published_at": "2026-09-19T07:14:02.945Z",
-      "url": "https://www.tabnews.com.br/gabrielbaiano/o-paradoxo-da-performance-no-frontend-e-o-pato"
+      "published_at": "2026-09-21T03:29:38.549Z",
+      "url": "https://www.tabnews.com.br/vilkerduarte/desbloqueio-payjoy"
     },
     {
-      "id": "dbbec07d-90aa-4109-82b6-e3db60f86fa0",
-      "title": "O Jev me fez repensar onde a IA deveria entrar no código",
-      "slug": "o-jev-me-fez-repensar-onde-a-ia-deveria-entrar-no-codigo",
-      "owner_username": "Nito",
+      "id": "f1d758e8-b305-4dd1-a9e4-5c097533655a",
+      "title": "Transactional Outbox Pattern: Resolvendo o Dual Write",
+      "slug": "transactional-outbox-pattern-resolvendo-o-dual-write",
+      "owner_username": "lzocateli",
+      "source_url": "https://zocate.li/posts/2026/transactional-outbox-pattern-dual-write/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-09-20T21:31:26.597Z",
+      "url": "https://www.tabnews.com.br/lzocateli/transactional-outbox-pattern-resolvendo-o-dual-write"
+    },
+    {
+      "id": "f84def0b-3064-4b52-a466-6ed9d78f39d5",
+      "title": "Como dar a um agente acesso à base de empresas do Brasil em um comando (MCP)",
+      "slug": "como-dar-a-um-agente-acesso-a-base-de-empresas-do-brasil-em-um-comando-mcp",
+      "owner_username": "oportunidados",
+      "source_url": "https://cnpj.ia.br/api-cnpj-para-agentes?utm_source=tabnews&utm_medium=article",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-21T15:10:36.211Z",
+      "url": "https://www.tabnews.com.br/oportunidados/como-dar-a-um-agente-acesso-a-base-de-empresas-do-brasil-em-um-comando-mcp"
+    },
+    {
+      "id": "ed4f3a59-cd77-4275-904c-30abdf3ee440",
+      "title": "Google revela que Gemini invadiu autonomamente três empresas durante testes de cibersegurança",
+      "slug": "google-revela-que-gemini-invadiu-autonomamente-tres-empresas-durante-testes-de-ciberseguranca",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-21T14:46:22.956Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/google-revela-que-gemini-invadiu-autonomamente-tres-empresas-durante-testes-de-ciberseguranca"
+    },
+    {
+      "id": "69b65b1e-1470-491c-b647-70496c41ce56",
+      "title": "Pitch: SmartScraping: quando fazer scraping não deveria significar brigar com seletores",
+      "slug": "pitchsmartscraping-quando-fazer-scraping-nao-deveria-significar-brigar-com-seletores",
+      "owner_username": "davidfernando",
       "source_url": null,
-      "tabcoins": 15,
-      "children_deep_count": 4,
-      "published_at": "2026-09-17T23:53:11.836Z",
-      "url": "https://www.tabnews.com.br/Nito/o-jev-me-fez-repensar-onde-a-ia-deveria-entrar-no-codigo"
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-21T14:41:15.916Z",
+      "url": "https://www.tabnews.com.br/davidfernando/pitchsmartscraping-quando-fazer-scraping-nao-deveria-significar-brigar-com-seletores"
     },
     {
-      "id": "f9fa1b22-9825-4b99-9508-8b6888b2048e",
-      "title": "Fiz meu blog com IA para escrever sem IA",
-      "slug": "fiz-meu-blog-com-ia-para-escrever-sem-ia",
-      "owner_username": "mksDEV08",
-      "source_url": "https://pedrosemia.com.br/threads/porque-decidi-comecar-a-escrever-um-blog-em-2026",
-      "tabcoins": 11,
-      "children_deep_count": 2,
-      "published_at": "2026-09-17T16:06:12.596Z",
-      "url": "https://www.tabnews.com.br/mksDEV08/fiz-meu-blog-com-ia-para-escrever-sem-ia"
-    },
-    {
-      "id": "c2480545-92e0-42a7-9017-b7772dd4941a",
-      "title": "Vocês usariam uma \"Husky\" (receber dólar) rodando no seu terminal?",
-      "slug": "voces-usariam-uma-husky-receber-dolar-rodando-no-seu-terminal",
-      "owner_username": "bernardosimonassi",
-      "source_url": "https://bul.ma/",
-      "tabcoins": 8,
-      "children_deep_count": 4,
-      "published_at": "2026-09-17T15:18:53.783Z",
-      "url": "https://www.tabnews.com.br/bernardosimonassi/voces-usariam-uma-husky-receber-dolar-rodando-no-seu-terminal"
+      "id": "fae06e67-8e6a-4b59-9ffa-d0f7c023ab48",
+      "title": "Comparar ou se informar: o que muda no jeito de usar as redes",
+      "slug": "comparar-ou-se-informar-o-que-muda-no-jeito-de-usar-as-redes",
+      "owner_username": "AndreLukin",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-21T13:49:18.756Z",
+      "url": "https://www.tabnews.com.br/AndreLukin/comparar-ou-se-informar-o-que-muda-no-jeito-de-usar-as-redes"
     },
     {
       "id": "80a1d93e-ab87-4d39-99bb-7d4d1008c978",
@@ -85,31 +96,20 @@
       "owner_username": "cevheri",
       "source_url": "https://github.com/libredb/libredb-studio",
       "tabcoins": 7,
-      "children_deep_count": 5,
+      "children_deep_count": 14,
       "published_at": "2026-09-18T20:29:15.879Z",
       "url": "https://www.tabnews.com.br/cevheri/procuro-um-falante-nativo-de-portugues-para-traduzir-o-readme-de-um-sql-ide-open-source-mit"
     },
     {
-      "id": "e5d737f8-7a4e-41a5-ab6d-8d68495c7ee3",
-      "title": "Criei 2 geradores de senhas, e vou direto ao ponto sobre algumas noções sobre segurança e geração de números aleatórios",
-      "slug": "criei-2-geradores-de-senhas-e-vou-direto-ao-ponto-sobre-algumas-nocoes-sobre-seguranca-e-geracao-de-numeros-aleatorios",
-      "owner_username": "fernandoisnaldo",
+      "id": "60d4312c-9e3d-4e5d-a477-6e7f9a2e2421",
+      "title": "O paradoxo da performance no frontend e o pato",
+      "slug": "o-paradoxo-da-performance-no-frontend-e-o-pato",
+      "owner_username": "gabrielbaiano",
       "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-09-18T04:22:45.434Z",
-      "url": "https://www.tabnews.com.br/fernandoisnaldo/criei-2-geradores-de-senhas-e-vou-direto-ao-ponto-sobre-algumas-nocoes-sobre-seguranca-e-geracao-de-numeros-aleatorios"
-    },
-    {
-      "id": "d7fdb5e7-a7bb-45a1-91d4-7e6ac1300630",
-      "title": "UX analysis: indo além da construção de telas como dev frontend",
-      "slug": "ux-analysis-indo-alem-da-construcao-de-telas-como-dev-frontend",
-      "owner_username": "ArthurBorba",
-      "source_url": "https://posthog.com/",
-      "tabcoins": 7,
-      "children_deep_count": 0,
-      "published_at": "2026-09-17T14:29:33.862Z",
-      "url": "https://www.tabnews.com.br/ArthurBorba/ux-analysis-indo-alem-da-construcao-de-telas-como-dev-frontend"
+      "tabcoins": 5,
+      "children_deep_count": 5,
+      "published_at": "2026-09-19T07:14:02.945Z",
+      "url": "https://www.tabnews.com.br/gabrielbaiano/o-paradoxo-da-performance-no-frontend-e-o-pato"
     }
   ]
 }
