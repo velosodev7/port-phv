@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:30:33.657Z",
+  "updated_at": "2026-09-22T13:47:34.728Z",
   "posts": [
     {
       "id": "c74c0aa4-9c76-46a3-9408-cbfaf0a5e7e0",
@@ -7,10 +7,21 @@
       "slug": "o-projeto-mais-que-voce-vai-ver-hoje",
       "owner_username": "Zaqueu",
       "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 1,
+      "tabcoins": 10,
+      "children_deep_count": 2,
       "published_at": "2026-09-21T11:09:12.755Z",
       "url": "https://www.tabnews.com.br/Zaqueu/o-projeto-mais-que-voce-vai-ver-hoje"
+    },
+    {
+      "id": "42082f58-ddd8-4404-9a12-d4839dc60899",
+      "title": "Desbloqueio PayJoy",
+      "slug": "desbloqueio-payjoy",
+      "owner_username": "vilkerduarte",
+      "source_url": null,
+      "tabcoins": 8,
+      "children_deep_count": 2,
+      "published_at": "2026-09-21T03:29:38.549Z",
+      "url": "https://www.tabnews.com.br/vilkerduarte/desbloqueio-payjoy"
     },
     {
       "id": "bc5c0e06-c50f-4824-bed5-ee4ed71974ea",
@@ -24,92 +35,81 @@
       "url": "https://www.tabnews.com.br/kenimo49/coloquei-11-schemas-json-ld-em-3-meses-so-3-foram-citados-por-ia"
     },
     {
-      "id": "42082f58-ddd8-4404-9a12-d4839dc60899",
-      "title": "Desbloqueio PayJoy",
-      "slug": "desbloqueio-payjoy",
-      "owner_username": "vilkerduarte",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-09-21T03:29:38.549Z",
-      "url": "https://www.tabnews.com.br/vilkerduarte/desbloqueio-payjoy"
-    },
-    {
-      "id": "f1d758e8-b305-4dd1-a9e4-5c097533655a",
-      "title": "Transactional Outbox Pattern: Resolvendo o Dual Write",
-      "slug": "transactional-outbox-pattern-resolvendo-o-dual-write",
-      "owner_username": "lzocateli",
-      "source_url": "https://zocate.li/posts/2026/transactional-outbox-pattern-dual-write/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-09-20T21:31:26.597Z",
-      "url": "https://www.tabnews.com.br/lzocateli/transactional-outbox-pattern-resolvendo-o-dual-write"
-    },
-    {
-      "id": "f84def0b-3064-4b52-a466-6ed9d78f39d5",
-      "title": "Como dar a um agente acesso à base de empresas do Brasil em um comando (MCP)",
-      "slug": "como-dar-a-um-agente-acesso-a-base-de-empresas-do-brasil-em-um-comando-mcp",
-      "owner_username": "oportunidados",
-      "source_url": "https://cnpj.ia.br/api-cnpj-para-agentes?utm_source=tabnews&utm_medium=article",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-21T15:10:36.211Z",
-      "url": "https://www.tabnews.com.br/oportunidados/como-dar-a-um-agente-acesso-a-base-de-empresas-do-brasil-em-um-comando-mcp"
-    },
-    {
-      "id": "ed4f3a59-cd77-4275-904c-30abdf3ee440",
-      "title": "Google revela que Gemini invadiu autonomamente três empresas durante testes de cibersegurança",
-      "slug": "google-revela-que-gemini-invadiu-autonomamente-tres-empresas-durante-testes-de-ciberseguranca",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-21T14:46:22.956Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/google-revela-que-gemini-invadiu-autonomamente-tres-empresas-durante-testes-de-ciberseguranca"
-    },
-    {
-      "id": "69b65b1e-1470-491c-b647-70496c41ce56",
-      "title": "Pitch: SmartScraping: quando fazer scraping não deveria significar brigar com seletores",
-      "slug": "pitchsmartscraping-quando-fazer-scraping-nao-deveria-significar-brigar-com-seletores",
-      "owner_username": "davidfernando",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-21T14:41:15.916Z",
-      "url": "https://www.tabnews.com.br/davidfernando/pitchsmartscraping-quando-fazer-scraping-nao-deveria-significar-brigar-com-seletores"
-    },
-    {
-      "id": "fae06e67-8e6a-4b59-9ffa-d0f7c023ab48",
-      "title": "Comparar ou se informar: o que muda no jeito de usar as redes",
-      "slug": "comparar-ou-se-informar-o-que-muda-no-jeito-de-usar-as-redes",
-      "owner_username": "AndreLukin",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-21T13:49:18.756Z",
-      "url": "https://www.tabnews.com.br/AndreLukin/comparar-ou-se-informar-o-que-muda-no-jeito-de-usar-as-redes"
-    },
-    {
-      "id": "80a1d93e-ab87-4d39-99bb-7d4d1008c978",
-      "title": "Procuro um falante nativo de português para traduzir o README de um SQL IDE open source (MIT)",
-      "slug": "procuro-um-falante-nativo-de-portugues-para-traduzir-o-readme-de-um-sql-ide-open-source-mit",
-      "owner_username": "cevheri",
-      "source_url": "https://github.com/libredb/libredb-studio",
-      "tabcoins": 7,
-      "children_deep_count": 14,
-      "published_at": "2026-09-18T20:29:15.879Z",
-      "url": "https://www.tabnews.com.br/cevheri/procuro-um-falante-nativo-de-portugues-para-traduzir-o-readme-de-um-sql-ide-open-source-mit"
-    },
-    {
-      "id": "60d4312c-9e3d-4e5d-a477-6e7f9a2e2421",
-      "title": "O paradoxo da performance no frontend e o pato",
-      "slug": "o-paradoxo-da-performance-no-frontend-e-o-pato",
-      "owner_username": "gabrielbaiano",
-      "source_url": null,
+      "id": "c2c2fc2a-7499-4814-845f-47c08c3c80b9",
+      "title": "[PITCH] Azurade AI: gerador de imagem e vídeo com crédito que não vence, agora em português com Pix",
+      "slug": "pitch-azurade-ai-gerador-de-imagem-e-video-com-credito-que-nao-vence-agora-em-portugues-com-pix",
+      "owner_username": "DenisAzurade",
+      "source_url": "https://azurade.com/pt-br/",
       "tabcoins": 5,
-      "children_deep_count": 5,
-      "published_at": "2026-09-19T07:14:02.945Z",
-      "url": "https://www.tabnews.com.br/gabrielbaiano/o-paradoxo-da-performance-no-frontend-e-o-pato"
+      "children_deep_count": 0,
+      "published_at": "2026-09-21T19:56:41.882Z",
+      "url": "https://www.tabnews.com.br/DenisAzurade/pitch-azurade-ai-gerador-de-imagem-e-video-com-credito-que-nao-vence-agora-em-portugues-com-pix"
+    },
+    {
+      "id": "6a571449-1bf6-48e5-8d35-c05879df559b",
+      "title": "Pitch: Depois de anos de trabalho, quero compartilhar a Asking — e o que queremos construir com ela",
+      "slug": "depois-de-anos-de-trabalho-quero-compartilhar-a-asking-e-o-que-queremos-construir-com-ela",
+      "owner_username": "wozzp",
+      "source_url": "http://asking.com.br/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-21T22:24:23.239Z",
+      "url": "https://www.tabnews.com.br/wozzp/depois-de-anos-de-trabalho-quero-compartilhar-a-asking-e-o-que-queremos-construir-com-ela"
+    },
+    {
+      "id": "a6768310-6332-40d2-9b1a-157c021cbf81",
+      "title": "[Pitch] Criei um “Strava para carros” e finalmente lancei meu primeiro app",
+      "slug": "pitch-criei-um-strava-para-carros-e-finalmente-lancei-meu-primeiro-app",
+      "owner_username": "joaomsmagno",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 2,
+      "published_at": "2026-09-22T07:10:22.670Z",
+      "url": "https://www.tabnews.com.br/joaomsmagno/pitch-criei-um-strava-para-carros-e-finalmente-lancei-meu-primeiro-app"
+    },
+    {
+      "id": "cb3a7b28-1312-4f54-8d46-c8fa0c0e1710",
+      "title": "Problemas enfrentados na instalação de uma distro linux.",
+      "slug": "problemas-enfrentados-na-instalacao-de-uma-distro-linux",
+      "owner_username": "Wotzy",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 2,
+      "published_at": "2026-09-22T03:56:11.201Z",
+      "url": "https://www.tabnews.com.br/Wotzy/problemas-enfrentados-na-instalacao-de-uma-distro-linux"
+    },
+    {
+      "id": "249f616f-d311-4ea1-8d5e-c5604ba8e6da",
+      "title": "O chat não é observabilidade: registre os eventos do seu agente",
+      "slug": "o-chat-nao-e-observabilidade-registre-os-eventos-do-seu-agente",
+      "owner_username": "Centelha",
+      "source_url": "https://github.com/microsoft/foundry-dev-tools/blob/main/WHATS_NEW.md",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-22T07:07:36.523Z",
+      "url": "https://www.tabnews.com.br/Centelha/o-chat-nao-e-observabilidade-registre-os-eventos-do-seu-agente"
+    },
+    {
+      "id": "11164ede-1ff3-43ea-b4f9-1d6f13e0732d",
+      "title": "Pitch: Cansei de abrir 10 painéis (Oracle, AWS, Hostinger, Vercel): criei um Hub Multi-Cloud com IA para controlar tudo em 1 lugar",
+      "slug": "cansei-de-abrir-10-paineis-oracle-aws-hostinger-vercel-criei-um-hub-multi-cloud-com-ia-para-controlar-tudo-em-1-lugar",
+      "owner_username": "viniScooper",
+      "source_url": "https://github.com/ViniScooper/CloudOps_Hub",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-09-19T17:42:42.134Z",
+      "url": "https://www.tabnews.com.br/viniScooper/cansei-de-abrir-10-paineis-oracle-aws-hostinger-vercel-criei-um-hub-multi-cloud-com-ia-para-controlar-tudo-em-1-lugar"
+    },
+    {
+      "id": "8ed12642-2964-419d-82c5-e11bda1de6c4",
+      "title": "E se a inteligência artificial funcionar bem demais?",
+      "slug": "e-se-a-inteligencia-artificial-funcionar-bem-demais",
+      "owner_username": "ewanderson",
+      "source_url": "https://medium.com/@ewanderson.flaviano/e-se-a-intelig%C3%AAncia-artificial-funcionar-bem-demais-68180d1f9295",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-09-20T23:28:42.588Z",
+      "url": "https://www.tabnews.com.br/ewanderson/e-se-a-inteligencia-artificial-funcionar-bem-demais"
     }
   ]
 }
