@@ -1,60 +1,16 @@
 {
-  "updated_at": "2026-09-22T13:47:34.728Z",
+  "updated_at": "2026-09-23T13:58:38.561Z",
   "posts": [
     {
-      "id": "c74c0aa4-9c76-46a3-9408-cbfaf0a5e7e0",
-      "title": "Pitch: O projeto mais 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗼 que você vai ver hoje!",
-      "slug": "o-projeto-mais-que-voce-vai-ver-hoje",
-      "owner_username": "Zaqueu",
-      "source_url": null,
+      "id": "0997cd29-1713-474a-8efe-e16e1e8daf4c",
+      "title": "Usuário de open source precisa parar de tratar mantenedor como funcionário",
+      "slug": "usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario",
+      "owner_username": "gabrielbaiano",
+      "source_url": "https://www.youtube.com/watch?v=9KNS8OI_8g8",
       "tabcoins": 10,
       "children_deep_count": 2,
-      "published_at": "2026-09-21T11:09:12.755Z",
-      "url": "https://www.tabnews.com.br/Zaqueu/o-projeto-mais-que-voce-vai-ver-hoje"
-    },
-    {
-      "id": "42082f58-ddd8-4404-9a12-d4839dc60899",
-      "title": "Desbloqueio PayJoy",
-      "slug": "desbloqueio-payjoy",
-      "owner_username": "vilkerduarte",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-09-21T03:29:38.549Z",
-      "url": "https://www.tabnews.com.br/vilkerduarte/desbloqueio-payjoy"
-    },
-    {
-      "id": "bc5c0e06-c50f-4824-bed5-ee4ed71974ea",
-      "title": "Coloquei 11 schemas JSON-LD. Em 3 meses, só 3 foram citados por IA",
-      "slug": "coloquei-11-schemas-json-ld-em-3-meses-so-3-foram-citados-por-ia",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/11-json-ld-apenas-3-citados/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-09-21T12:00:04.168Z",
-      "url": "https://www.tabnews.com.br/kenimo49/coloquei-11-schemas-json-ld-em-3-meses-so-3-foram-citados-por-ia"
-    },
-    {
-      "id": "c2c2fc2a-7499-4814-845f-47c08c3c80b9",
-      "title": "[PITCH] Azurade AI: gerador de imagem e vídeo com crédito que não vence, agora em português com Pix",
-      "slug": "pitch-azurade-ai-gerador-de-imagem-e-video-com-credito-que-nao-vence-agora-em-portugues-com-pix",
-      "owner_username": "DenisAzurade",
-      "source_url": "https://azurade.com/pt-br/",
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-09-21T19:56:41.882Z",
-      "url": "https://www.tabnews.com.br/DenisAzurade/pitch-azurade-ai-gerador-de-imagem-e-video-com-credito-que-nao-vence-agora-em-portugues-com-pix"
-    },
-    {
-      "id": "6a571449-1bf6-48e5-8d35-c05879df559b",
-      "title": "Pitch: Depois de anos de trabalho, quero compartilhar a Asking — e o que queremos construir com ela",
-      "slug": "depois-de-anos-de-trabalho-quero-compartilhar-a-asking-e-o-que-queremos-construir-com-ela",
-      "owner_username": "wozzp",
-      "source_url": "http://asking.com.br/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-21T22:24:23.239Z",
-      "url": "https://www.tabnews.com.br/wozzp/depois-de-anos-de-trabalho-quero-compartilhar-a-asking-e-o-que-queremos-construir-com-ela"
+      "published_at": "2026-09-22T17:04:39.260Z",
+      "url": "https://www.tabnews.com.br/gabrielbaiano/usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario"
     },
     {
       "id": "a6768310-6332-40d2-9b1a-157c021cbf81",
@@ -62,54 +18,98 @@
       "slug": "pitch-criei-um-strava-para-carros-e-finalmente-lancei-meu-primeiro-app",
       "owner_username": "joaomsmagno",
       "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 2,
+      "tabcoins": 5,
+      "children_deep_count": 6,
       "published_at": "2026-09-22T07:10:22.670Z",
       "url": "https://www.tabnews.com.br/joaomsmagno/pitch-criei-um-strava-para-carros-e-finalmente-lancei-meu-primeiro-app"
     },
     {
-      "id": "cb3a7b28-1312-4f54-8d46-c8fa0c0e1710",
-      "title": "Problemas enfrentados na instalação de uma distro linux.",
-      "slug": "problemas-enfrentados-na-instalacao-de-uma-distro-linux",
-      "owner_username": "Wotzy",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 2,
-      "published_at": "2026-09-22T03:56:11.201Z",
-      "url": "https://www.tabnews.com.br/Wotzy/problemas-enfrentados-na-instalacao-de-uma-distro-linux"
+      "id": "0f4bb7e1-a71d-403c-bc48-1877df019915",
+      "title": "AGENTS.md ou CLAUDE.md? 35 repos, 5 padrões",
+      "slug": "agents-md-ou-claude-md-35-repos-5-padroes",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/agents-md-ou-claude-md-35-repos-5-padroes/",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-09-23T12:00:03.689Z",
+      "url": "https://www.tabnews.com.br/kenimo49/agents-md-ou-claude-md-35-repos-5-padroes"
     },
     {
-      "id": "249f616f-d311-4ea1-8d5e-c5604ba8e6da",
-      "title": "O chat não é observabilidade: registre os eventos do seu agente",
-      "slug": "o-chat-nao-e-observabilidade-registre-os-eventos-do-seu-agente",
-      "owner_username": "Centelha",
-      "source_url": "https://github.com/microsoft/foundry-dev-tools/blob/main/WHATS_NEW.md",
+      "id": "dcbc0a06-1175-4400-a2de-9e738d245ff3",
+      "title": "A API de arquivos do Linux e a arte de fazer o impossível em C parte 2",
+      "slug": "a-api-de-arquivos-do-linux-e-a-arte-de-fazer-o-impossivel-em-c-parte-2",
+      "owner_username": "clacerda",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-09-23T01:47:55.383Z",
+      "url": "https://www.tabnews.com.br/clacerda/a-api-de-arquivos-do-linux-e-a-arte-de-fazer-o-impossivel-em-c-parte-2"
+    },
+    {
+      "id": "9bb4e247-b424-4c3e-8e2d-f3197eb05e35",
+      "title": "Meta anuncia primeiro cabo submarino transoceânico de internet com capacidade de 1 petabit por segundo",
+      "slug": "meta-anuncia-primeiro-cabo-submarino-transoceanico-de-internet-com-capacidade-de-1-petabit-por-segundo",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://about.fb.com/news/2026/09/announcing-petal-meta-petabit-transoceanic-cable/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-09-22T15:45:37.761Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/meta-anuncia-primeiro-cabo-submarino-transoceanico-de-internet-com-capacidade-de-1-petabit-por-segundo"
+    },
+    {
+      "id": "84f06668-f00e-4eff-b727-9b9e240f8124",
+      "title": "WordPress corrige falha crítica que possibilita execução remota de código em servidores",
+      "slug": "wordpress-corrige-falha-critica-que-possibilita-execucao-remota-de-codigo-em-servidores",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-09-22T07:07:36.523Z",
-      "url": "https://www.tabnews.com.br/Centelha/o-chat-nao-e-observabilidade-registre-os-eventos-do-seu-agente"
+      "published_at": "2026-09-23T13:35:29.211Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/wordpress-corrige-falha-critica-que-possibilita-execucao-remota-de-codigo-em-servidores"
     },
     {
-      "id": "11164ede-1ff3-43ea-b4f9-1d6f13e0732d",
-      "title": "Pitch: Cansei de abrir 10 painéis (Oracle, AWS, Hostinger, Vercel): criei um Hub Multi-Cloud com IA para controlar tudo em 1 lugar",
-      "slug": "cansei-de-abrir-10-paineis-oracle-aws-hostinger-vercel-criei-um-hub-multi-cloud-com-ia-para-controlar-tudo-em-1-lugar",
-      "owner_username": "viniScooper",
-      "source_url": "https://github.com/ViniScooper/CloudOps_Hub",
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-09-19T17:42:42.134Z",
-      "url": "https://www.tabnews.com.br/viniScooper/cansei-de-abrir-10-paineis-oracle-aws-hostinger-vercel-criei-um-hub-multi-cloud-com-ia-para-controlar-tudo-em-1-lugar"
+      "id": "d14b2200-e0ce-4c75-b62a-15949b2dd188",
+      "title": "Shell Script para Produção: Boas práticas para blindar automações contra falhas silenciosas",
+      "slug": "shell-script-para-producao-boas-praticas-para-blindar-automacoes-contra-falhas-silenciosas",
+      "owner_username": "jonas556440",
+      "source_url": "https://tecmestre.com.br/guia-pratico-shell-script-linux-exemplos/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-23T13:02:05.009Z",
+      "url": "https://www.tabnews.com.br/jonas556440/shell-script-para-producao-boas-praticas-para-blindar-automacoes-contra-falhas-silenciosas"
     },
     {
-      "id": "8ed12642-2964-419d-82c5-e11bda1de6c4",
-      "title": "E se a inteligência artificial funcionar bem demais?",
-      "slug": "e-se-a-inteligencia-artificial-funcionar-bem-demais",
-      "owner_username": "ewanderson",
-      "source_url": "https://medium.com/@ewanderson.flaviano/e-se-a-intelig%C3%AAncia-artificial-funcionar-bem-demais-68180d1f9295",
+      "id": "00874b1e-e427-4787-97f6-50d021cab31f",
+      "title": "Pitch: Criei o Brain Core: um workspace de notas",
+      "slug": "criei-o-brain-core-um-workspace-de-notas",
+      "owner_username": "LizardWizard",
+      "source_url": "https://github.com/lizard-wizard42/Brain_Core",
       "tabcoins": 5,
       "children_deep_count": 2,
-      "published_at": "2026-09-20T23:28:42.588Z",
-      "url": "https://www.tabnews.com.br/ewanderson/e-se-a-inteligencia-artificial-funcionar-bem-demais"
+      "published_at": "2026-09-22T13:10:02.436Z",
+      "url": "https://www.tabnews.com.br/LizardWizard/criei-o-brain-core-um-workspace-de-notas"
+    },
+    {
+      "id": "618ae1c5-8ec7-4798-abf0-f11e9e0eaf31",
+      "title": "Jev e a ilusão do JSON mode: por que forçar LLMs como classificadores custa caro",
+      "slug": "jev-e-a-ilusao-do-json-mode-por-que-forcar-llms-como-classificadores-custa-caro",
+      "owner_username": "jarbasgouveia",
+      "source_url": "https://docs.typesafe.ai/introduction",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-09-22T12:54:47.743Z",
+      "url": "https://www.tabnews.com.br/jarbasgouveia/jev-e-a-ilusao-do-json-mode-por-que-forcar-llms-como-classificadores-custa-caro"
+    },
+    {
+      "id": "c74c0aa4-9c76-46a3-9408-cbfaf0a5e7e0",
+      "title": "Pitch: O projeto mais 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗼 que você vai ver hoje!",
+      "slug": "o-projeto-mais-que-voce-vai-ver-hoje",
+      "owner_username": "Zaqueu",
+      "source_url": null,
+      "tabcoins": 11,
+      "children_deep_count": 3,
+      "published_at": "2026-09-21T11:09:12.755Z",
+      "url": "https://www.tabnews.com.br/Zaqueu/o-projeto-mais-que-voce-vai-ver-hoje"
     }
   ]
 }
