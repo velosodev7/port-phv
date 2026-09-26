@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-09-25T14:19:17.341Z",
+  "updated_at": "2026-09-26T13:30:07.333Z",
   "posts": [
-    {
-      "id": "7f51905f-c723-4fa4-aec3-3211b65f3f21",
-      "title": "Pitch: Lagario 3, meu clone de agar.io de 2018 refeito com gravidade de verdade e multiplayer sem servidor",
-      "slug": "pitch-lagario-3-meu-clone-de-agar-io-de-2018-refeito-com-gravidade-de-verdade-e-multiplayer-sem-servidor",
-      "owner_username": "lagario",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-09-25T04:22:52.466Z",
-      "url": "https://www.tabnews.com.br/lagario/pitch-lagario-3-meu-clone-de-agar-io-de-2018-refeito-com-gravidade-de-verdade-e-multiplayer-sem-servidor"
-    },
     {
       "id": "2ad606f5-5408-4f90-9d70-1efd52294cf4",
       "title": "Como a IA apagou um incêndio como se não fosse nada",
       "slug": "como-a-ia-apagou-um-incendio-como-se-nao-fosse-nada",
       "owner_username": "eduardoveiga",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
+      "tabcoins": 9,
+      "children_deep_count": 2,
       "published_at": "2026-09-25T13:07:57.900Z",
       "url": "https://www.tabnews.com.br/eduardoveiga/como-a-ia-apagou-um-incendio-como-se-nao-fosse-nada"
     },
     {
-      "id": "edf8aaa8-3a61-4b8d-b183-e8bf2a83830d",
-      "title": "Vendas de livros usados no Japão disparam, sob suspeitas de que empresas de IA estejam comprando as obras para treinar modelos e, posteriormente, destruí-las",
-      "slug": "vendas-de-livros-usados-no-japao-disparam-sob-suspeitas-de-que-empresas-de-ia-estejam-comprando-as-obras-para-treinar-modelos-e-posteriormente-destrui-las",
+      "id": "7f51905f-c723-4fa4-aec3-3211b65f3f21",
+      "title": "Pitch: Lagario 3, meu clone de agar.io de 2018 refeito com gravidade de verdade e multiplayer sem servidor",
+      "slug": "pitch-lagario-3-meu-clone-de-agar-io-de-2018-refeito-com-gravidade-de-verdade-e-multiplayer-sem-servidor",
+      "owner_username": "lagario",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 6,
+      "published_at": "2026-09-25T04:22:52.466Z",
+      "url": "https://www.tabnews.com.br/lagario/pitch-lagario-3-meu-clone-de-agar-io-de-2018-refeito-com-gravidade-de-verdade-e-multiplayer-sem-servidor"
+    },
+    {
+      "id": "6c59f1dc-76dd-4fd9-8faa-b017501eb60f",
+      "title": "Microsoft lança “super aplicativo” do Copilot que reúne chat, programação, agentes de IA e Office",
+      "slug": "microsoft-lanca-super-aplicativo-do-copilot-que-reune-chat-programacao-agentes-de-ia-e-office",
       "owner_username": "NewsletterOficial",
-      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-25T14:15:35.370Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/vendas-de-livros-usados-no-japao-disparam-sob-suspeitas-de-que-empresas-de-ia-estejam-comprando-as-obras-para-treinar-modelos-e-posteriormente-destrui-las"
-    },
-    {
-      "id": "fb20089b-90fc-4976-b373-fa28b1d2fff3",
-      "title": "Ferramentas de observabilidade no Front End: diferenças cruciais entre o Datadog e o PostHog",
-      "slug": "ferramentas-de-observabilidade-no-front-end-diferencas-cruciais-entre-o-datadog-e-o-posthog",
-      "owner_username": "allbertuu",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-25T14:02:05.898Z",
-      "url": "https://www.tabnews.com.br/allbertuu/ferramentas-de-observabilidade-no-front-end-diferencas-cruciais-entre-o-datadog-e-o-posthog"
-    },
-    {
-      "id": "c92fa7c2-4ab5-4064-98e3-582b42bd0aec",
-      "title": "Gerar código com AI é fácil, 𝘃𝗮𝗹𝗶𝗱𝗮𝗿 𝗾𝘂𝗲 𝗲𝗹𝗲 𝗳𝘂𝗻𝗰𝗶𝗼𝗻𝗮 é o problema.",
-      "slug": "como-software-gerado-por-ai",
-      "owner_username": "Zaqueu",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-25T12:53:47.987Z",
-      "url": "https://www.tabnews.com.br/Zaqueu/como-software-gerado-por-ai"
-    },
-    {
-      "id": "e534a359-1acd-42dc-aa31-b189b5b9df05",
-      "title": "Exit Zero: quem testa os gates que vigiam os agentes de código",
-      "slug": "exit-zero-quem-testa-os-gates-que-vigiam-os-agentes-de-codigo",
-      "owner_username": "SozoData",
-      "source_url": "https://sozodata.com.br/pt-BR/blog/exit-zero-quem-testa-os-gates-dos-agentes",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-25T12:47:32.030Z",
-      "url": "https://www.tabnews.com.br/SozoData/exit-zero-quem-testa-os-gates-que-vigiam-os-agentes-de-codigo"
-    },
-    {
-      "id": "0997cd29-1713-474a-8efe-e16e1e8daf4c",
-      "title": "Usuário de open source precisa parar de tratar mantenedor como funcionário",
-      "slug": "usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario",
-      "owner_username": "gabrielbaiano",
-      "source_url": "https://www.youtube.com/watch?v=9KNS8OI_8g8",
-      "tabcoins": 17,
-      "children_deep_count": 16,
-      "published_at": "2026-09-22T17:04:39.260Z",
-      "url": "https://www.tabnews.com.br/gabrielbaiano/usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario"
-    },
-    {
-      "id": "dcbc0a06-1175-4400-a2de-9e738d245ff3",
-      "title": "A API de arquivos do Linux e a arte de fazer o impossível em C parte 2",
-      "slug": "a-api-de-arquivos-do-linux-e-a-arte-de-fazer-o-impossivel-em-c-parte-2",
-      "owner_username": "clacerda",
-      "source_url": null,
-      "tabcoins": 17,
-      "children_deep_count": 3,
-      "published_at": "2026-09-23T01:47:55.383Z",
-      "url": "https://www.tabnews.com.br/clacerda/a-api-de-arquivos-do-linux-e-a-arte-de-fazer-o-impossivel-em-c-parte-2"
-    },
-    {
-      "id": "4399bb1a-02ef-42de-9148-8aa84ceb43ab",
-      "title": "Meta declara guerra aos chatbots de IA em seu WhatsAPP",
-      "slug": "meta-declara-guerra-aos-chatbots-de-ia-em-seu-whatsapp",
-      "owner_username": "welovetech",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 10,
-      "published_at": "2026-09-23T15:51:37.761Z",
-      "url": "https://www.tabnews.com.br/welovetech/meta-declara-guerra-aos-chatbots-de-ia-em-seu-whatsapp"
-    },
-    {
-      "id": "9bb4e247-b424-4c3e-8e2d-f3197eb05e35",
-      "title": "Meta anuncia primeiro cabo submarino transoceânico de internet com capacidade de 1 petabit por segundo",
-      "slug": "meta-anuncia-primeiro-cabo-submarino-transoceanico-de-internet-com-capacidade-de-1-petabit-por-segundo",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://about.fb.com/news/2026/09/announcing-petal-meta-petabit-transoceanic-cable/",
+      "source_url": "https://www.geekwire.com/2026/microsoft-unveils-all-in-one-copilot-app-taking-on-anthropic-and-openai-in-new-push-to-boost-adoption/",
       "tabcoins": 5,
       "children_deep_count": 0,
-      "published_at": "2026-09-22T15:45:37.761Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/meta-anuncia-primeiro-cabo-submarino-transoceanico-de-internet-com-capacidade-de-1-petabit-por-segundo"
+      "published_at": "2026-09-25T14:30:37.102Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/microsoft-lanca-super-aplicativo-do-copilot-que-reune-chat-programacao-agentes-de-ia-e-office"
+    },
+    {
+      "id": "35e345f8-d67d-414c-9079-8b7d9617a13a",
+      "title": "🌎Meu pull request não pedido para alguns parasitas🪱 da comunidade. Em resposta ao post: \"Usuário de open source precisa parar de tratar mantenedor como funcionário\" -  Guia de postura - Como \"cobrar\" melhoria",
+      "slug": "meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/mblog/mrj/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario-guia-de-postura-como-cobrar-melhoria",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-09-26T04:21:35.512Z",
+      "url": "https://www.tabnews.com.br/MrJ/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci"
+    },
+    {
+      "id": "d8cd8d01-6916-4dc6-b2d5-2f0b6379af52",
+      "title": "Como domar a árvore DOM e o bundle JS do Elementor: Um guia de engenharia para quem odeia page builders",
+      "slug": "como-domar-a-arvore-dom-e-o-bundle-js-do-elementor-um-guia-de-engenharia-para-quem-odeia-page-builders",
+      "owner_username": "zangmei2",
+      "source_url": "https://gplpal.com/product/elementor-pro/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-09-25T18:53:03.700Z",
+      "url": "https://www.tabnews.com.br/zangmei2/como-domar-a-arvore-dom-e-o-bundle-js-do-elementor-um-guia-de-engenharia-para-quem-odeia-page-builders"
+    },
+    {
+      "id": "557ab435-717d-4ce2-b73e-205bf5a40dac",
+      "title": "[Discussão] Como Acompanhar o Ritmo Tech",
+      "slug": "discussao-como-acompanhar-o-ritmo-tech",
+      "owner_username": "ArthurBorba",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 3,
+      "published_at": "2026-09-25T15:23:04.960Z",
+      "url": "https://www.tabnews.com.br/ArthurBorba/discussao-como-acompanhar-o-ritmo-tech"
+    },
+    {
+      "id": "1c80c325-6727-48a8-a142-babb96e97798",
+      "title": "Como levei um blog em PHP puro de 84 para 97 no PageSpeed (e a acessibilidade para 100)",
+      "slug": "como-levei-um-blog-em-php-puro-de-84-para-97-no-pagespeed-e-a-acessibilidade-para-100",
+      "owner_username": "algoritmodiario",
+      "source_url": "https://bizflowcraft.com",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-26T13:16:49.616Z",
+      "url": "https://www.tabnews.com.br/algoritmodiario/como-levei-um-blog-em-php-puro-de-84-para-97-no-pagespeed-e-a-acessibilidade-para-100"
+    },
+    {
+      "id": "989e6141-6015-4059-9771-ac9a6ab85e10",
+      "title": "Fiz um Jogo da Bolsa gratuito: R$ 100 mil virtuais, cotações reais e meta de chegar a R$ 1 milhão",
+      "slug": "fiz-um-jogo-da-bolsa-gratuito-r-100-mil-virtuais-cotacoes-reais-e-meta-de-chegar-a-r-1-milhao",
+      "owner_username": "Jonathantts",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-26T12:53:40.110Z",
+      "url": "https://www.tabnews.com.br/Jonathantts/fiz-um-jogo-da-bolsa-gratuito-r-100-mil-virtuais-cotacoes-reais-e-meta-de-chegar-a-r-1-milhao"
+    },
+    {
+      "id": "a7b2fb6f-5a02-4f21-a318-505ed46f9dfb",
+      "title": "🔥 O Melhor da Semana no TabNews #37",
+      "slug": "o-melhor-da-semana-no-tabnews-37",
+      "owner_username": "TabNewsDigest",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-26T11:00:07.302Z",
+      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-37"
+    },
+    {
+      "id": "94c54d22-649f-46c0-8135-90d2e91c5d04",
+      "title": "[TUTORIAL] - Html Executável",
+      "slug": "tutorial-html-executavel",
+      "owner_username": "RodrigoSchioMuniz",
+      "source_url": "https://rodrigoschiomuniz.github.io/procedimentos/#12",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-26T07:47:04.238Z",
+      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/tutorial-html-executavel"
     }
   ]
 }
