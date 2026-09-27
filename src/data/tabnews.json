@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-09-26T13:30:07.333Z",
+  "updated_at": "2026-09-27T14:26:13.184Z",
   "posts": [
+    {
+      "id": "35e345f8-d67d-414c-9079-8b7d9617a13a",
+      "title": "🌎Meu pull request não pedido para alguns parasitas🪱 da comunidade. Em resposta ao post: \"Usuário de open source precisa parar de tratar mantenedor como funcionário\" -  Guia de postura - Como \"cobrar\" melhoria",
+      "slug": "meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/mblog/mrj/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario-guia-de-postura-como-cobrar-melhoria",
+      "tabcoins": 10,
+      "children_deep_count": 5,
+      "published_at": "2026-09-26T04:21:35.512Z",
+      "url": "https://www.tabnews.com.br/MrJ/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci"
+    },
     {
       "id": "2ad606f5-5408-4f90-9d70-1efd52294cf4",
       "title": "Como a IA apagou um incêndio como se não fosse nada",
       "slug": "como-a-ia-apagou-um-incendio-como-se-nao-fosse-nada",
       "owner_username": "eduardoveiga",
       "source_url": null,
-      "tabcoins": 9,
-      "children_deep_count": 2,
+      "tabcoins": 12,
+      "children_deep_count": 3,
       "published_at": "2026-09-25T13:07:57.900Z",
       "url": "https://www.tabnews.com.br/eduardoveiga/como-a-ia-apagou-um-incendio-como-se-nao-fosse-nada"
     },
@@ -35,17 +46,6 @@
       "url": "https://www.tabnews.com.br/NewsletterOficial/microsoft-lanca-super-aplicativo-do-copilot-que-reune-chat-programacao-agentes-de-ia-e-office"
     },
     {
-      "id": "35e345f8-d67d-414c-9079-8b7d9617a13a",
-      "title": "🌎Meu pull request não pedido para alguns parasitas🪱 da comunidade. Em resposta ao post: \"Usuário de open source precisa parar de tratar mantenedor como funcionário\" -  Guia de postura - Como \"cobrar\" melhoria",
-      "slug": "meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/mblog/mrj/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario-guia-de-postura-como-cobrar-melhoria",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-09-26T04:21:35.512Z",
-      "url": "https://www.tabnews.com.br/MrJ/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci"
-    },
-    {
       "id": "d8cd8d01-6916-4dc6-b2d5-2f0b6379af52",
       "title": "Como domar a árvore DOM e o bundle JS do Elementor: Um guia de engenharia para quem odeia page builders",
       "slug": "como-domar-a-arvore-dom-e-o-bundle-js-do-elementor-um-guia-de-engenharia-para-quem-odeia-page-builders",
@@ -63,53 +63,53 @@
       "owner_username": "ArthurBorba",
       "source_url": null,
       "tabcoins": 3,
-      "children_deep_count": 3,
+      "children_deep_count": 5,
       "published_at": "2026-09-25T15:23:04.960Z",
       "url": "https://www.tabnews.com.br/ArthurBorba/discussao-como-acompanhar-o-ritmo-tech"
     },
     {
-      "id": "1c80c325-6727-48a8-a142-babb96e97798",
-      "title": "Como levei um blog em PHP puro de 84 para 97 no PageSpeed (e a acessibilidade para 100)",
-      "slug": "como-levei-um-blog-em-php-puro-de-84-para-97-no-pagespeed-e-a-acessibilidade-para-100",
-      "owner_username": "algoritmodiario",
-      "source_url": "https://bizflowcraft.com",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-26T13:16:49.616Z",
-      "url": "https://www.tabnews.com.br/algoritmodiario/como-levei-um-blog-em-php-puro-de-84-para-97-no-pagespeed-e-a-acessibilidade-para-100"
+      "id": "0997cd29-1713-474a-8efe-e16e1e8daf4c",
+      "title": "Usuário de open source precisa parar de tratar mantenedor como funcionário",
+      "slug": "usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario",
+      "owner_username": "gabrielbaiano",
+      "source_url": "https://www.youtube.com/watch?v=9KNS8OI_8g8",
+      "tabcoins": 24,
+      "children_deep_count": 18,
+      "published_at": "2026-09-22T17:04:39.260Z",
+      "url": "https://www.tabnews.com.br/gabrielbaiano/usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario"
     },
     {
-      "id": "989e6141-6015-4059-9771-ac9a6ab85e10",
-      "title": "Fiz um Jogo da Bolsa gratuito: R$ 100 mil virtuais, cotações reais e meta de chegar a R$ 1 milhão",
-      "slug": "fiz-um-jogo-da-bolsa-gratuito-r-100-mil-virtuais-cotacoes-reais-e-meta-de-chegar-a-r-1-milhao",
-      "owner_username": "Jonathantts",
+      "id": "dcbc0a06-1175-4400-a2de-9e738d245ff3",
+      "title": "A API de arquivos do Linux e a arte de fazer o impossível em C parte 2",
+      "slug": "a-api-de-arquivos-do-linux-e-a-arte-de-fazer-o-impossivel-em-c-parte-2",
+      "owner_username": "clacerda",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-26T12:53:40.110Z",
-      "url": "https://www.tabnews.com.br/Jonathantts/fiz-um-jogo-da-bolsa-gratuito-r-100-mil-virtuais-cotacoes-reais-e-meta-de-chegar-a-r-1-milhao"
+      "tabcoins": 19,
+      "children_deep_count": 3,
+      "published_at": "2026-09-23T01:47:55.383Z",
+      "url": "https://www.tabnews.com.br/clacerda/a-api-de-arquivos-do-linux-e-a-arte-de-fazer-o-impossivel-em-c-parte-2"
     },
     {
-      "id": "a7b2fb6f-5a02-4f21-a318-505ed46f9dfb",
-      "title": "🔥 O Melhor da Semana no TabNews #37",
-      "slug": "o-melhor-da-semana-no-tabnews-37",
-      "owner_username": "TabNewsDigest",
+      "id": "2170a985-c2e0-4549-aad2-fa14ea264a0e",
+      "title": "🐳 Como você usa Docker?",
+      "slug": "como-voce-usa-docker",
+      "owner_username": "allexcardos",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-26T11:00:07.302Z",
-      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-37"
+      "tabcoins": 11,
+      "children_deep_count": 11,
+      "published_at": "2026-09-21T21:20:11.116Z",
+      "url": "https://www.tabnews.com.br/allexcardos/como-voce-usa-docker"
     },
     {
-      "id": "94c54d22-649f-46c0-8135-90d2e91c5d04",
-      "title": "[TUTORIAL] - Html Executável",
-      "slug": "tutorial-html-executavel",
-      "owner_username": "RodrigoSchioMuniz",
-      "source_url": "https://rodrigoschiomuniz.github.io/procedimentos/#12",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-26T07:47:04.238Z",
-      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/tutorial-html-executavel"
+      "id": "c74c0aa4-9c76-46a3-9408-cbfaf0a5e7e0",
+      "title": "Pitch: O projeto mais 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗼 que você vai ver hoje!",
+      "slug": "o-projeto-mais-que-voce-vai-ver-hoje",
+      "owner_username": "Zaqueu",
+      "source_url": null,
+      "tabcoins": 11,
+      "children_deep_count": 3,
+      "published_at": "2026-09-21T11:09:12.755Z",
+      "url": "https://www.tabnews.com.br/Zaqueu/o-projeto-mais-que-voce-vai-ver-hoje"
     }
   ]
 }
