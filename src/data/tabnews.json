@@ -1,49 +1,104 @@
 {
-  "updated_at": "2026-09-27T14:26:13.184Z",
+  "updated_at": "2026-09-28T17:12:00.064Z",
   "posts": [
+    {
+      "id": "d1dc43a3-ed7f-43ec-a11a-52faaa4adf79",
+      "title": "Agente autônomo por 30 dias: 5 incidentes novos custaram R$ 8.400",
+      "slug": "agente-autonomo-por-30-dias-5-incidentes-novos-custaram-r-8-400",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/agente-autonomo-30-dias-5-incidentes-brl/",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-09-28T12:00:03.720Z",
+      "url": "https://www.tabnews.com.br/kenimo49/agente-autonomo-por-30-dias-5-incidentes-novos-custaram-r-8-400"
+    },
+    {
+      "id": "65da9e0b-6b3e-4099-ae38-84f96a01f094",
+      "title": "BullMQ: Quando usar e quando não usar",
+      "slug": "bullmq-quando-usar-e-quando-nao-usar",
+      "owner_username": "IamThiagoIT",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-09-27T23:22:26.517Z",
+      "url": "https://www.tabnews.com.br/IamThiagoIT/bullmq-quando-usar-e-quando-nao-usar"
+    },
+    {
+      "id": "58bff99b-f586-4bba-b734-17ac97ff0164",
+      "title": "SpaceX coloca Starship em órbita da Terra pela primeira vez",
+      "slug": "spacex-coloca-starship-em-orbita-da-terra-pela-primeira-vez",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-28T14:15:04.652Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/spacex-coloca-starship-em-orbita-da-terra-pela-primeira-vez"
+    },
+    {
+      "id": "5fcae7a1-d18e-493a-968f-4df43adf308e",
+      "title": "Pitch: Supera-Me, um ranking público de sites onde quem paga mais fica no topo (e como contei os cliques sem cookies)",
+      "slug": "pitch-supera-me-um-ranking-publico-de-sites-onde-quem-paga-mais-fica-no-topo-e-como-contei-os-cliques-sem-cookies",
+      "owner_username": "renannoronha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 2,
+      "published_at": "2026-09-28T14:40:29.607Z",
+      "url": "https://www.tabnews.com.br/renannoronha/pitch-supera-me-um-ranking-publico-de-sites-onde-quem-paga-mais-fica-no-topo-e-como-contei-os-cliques-sem-cookies"
+    },
+    {
+      "id": "f345a879-fa2b-424a-8da3-d07d1321ed4c",
+      "title": "Agente de IA Muse, da Meta, estaria utilizando modelos de outras empresas, como OpenAI e Anthropic, em determinadas tarefas",
+      "slug": "agente-de-ia-muse-da-meta-estaria-utilizando-modelos-de-outras-empresas-como-openai-e-anthropic-em-determinadas-tarefas",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://mouse.dev/blog/muse-special/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-28T14:30:06.130Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/agente-de-ia-muse-da-meta-estaria-utilizando-modelos-de-outras-empresas-como-openai-e-anthropic-em-determinadas-tarefas"
+    },
+    {
+      "id": "0480004c-fa32-4931-beed-6ab00e4851c1",
+      "title": "Pitch: CDCCore, uma solução de Change Data Capture escrita em Go.",
+      "slug": "cdccore-uma-solucao-de-change-data-capture-escrita-em-go",
+      "owner_username": "MisterF",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-28T13:25:36.341Z",
+      "url": "https://www.tabnews.com.br/MisterF/cdccore-uma-solucao-de-change-data-capture-escrita-em-go"
+    },
+    {
+      "id": "33b86a1b-91f5-4de9-8e98-b817b3d502a5",
+      "title": "Instalando o Claude Code no Windows e conectando à Crazyrouter (do erro 403 ao funcionamento)",
+      "slug": "instalando-o-claude-code-no-windows-e-conectando-a-crazyrouter-do-erro-403-ao-funcionamento",
+      "owner_username": "boluo",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-28T08:21:14.049Z",
+      "url": "https://www.tabnews.com.br/boluo/instalando-o-claude-code-no-windows-e-conectando-a-crazyrouter-do-erro-403-ao-funcionamento"
+    },
     {
       "id": "35e345f8-d67d-414c-9079-8b7d9617a13a",
       "title": "🌎Meu pull request não pedido para alguns parasitas🪱 da comunidade. Em resposta ao post: \"Usuário de open source precisa parar de tratar mantenedor como funcionário\" -  Guia de postura - Como \"cobrar\" melhoria",
       "slug": "meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci",
       "owner_username": "MrJ",
       "source_url": "https://crom.run/mblog/mrj/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario-guia-de-postura-como-cobrar-melhoria",
-      "tabcoins": 10,
-      "children_deep_count": 5,
+      "tabcoins": 15,
+      "children_deep_count": 8,
       "published_at": "2026-09-26T04:21:35.512Z",
       "url": "https://www.tabnews.com.br/MrJ/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci"
     },
     {
-      "id": "2ad606f5-5408-4f90-9d70-1efd52294cf4",
-      "title": "Como a IA apagou um incêndio como se não fosse nada",
-      "slug": "como-a-ia-apagou-um-incendio-como-se-nao-fosse-nada",
-      "owner_username": "eduardoveiga",
-      "source_url": null,
-      "tabcoins": 12,
-      "children_deep_count": 3,
-      "published_at": "2026-09-25T13:07:57.900Z",
-      "url": "https://www.tabnews.com.br/eduardoveiga/como-a-ia-apagou-um-incendio-como-se-nao-fosse-nada"
-    },
-    {
-      "id": "7f51905f-c723-4fa4-aec3-3211b65f3f21",
-      "title": "Pitch: Lagario 3, meu clone de agar.io de 2018 refeito com gravidade de verdade e multiplayer sem servidor",
-      "slug": "pitch-lagario-3-meu-clone-de-agar-io-de-2018-refeito-com-gravidade-de-verdade-e-multiplayer-sem-servidor",
-      "owner_username": "lagario",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 6,
-      "published_at": "2026-09-25T04:22:52.466Z",
-      "url": "https://www.tabnews.com.br/lagario/pitch-lagario-3-meu-clone-de-agar-io-de-2018-refeito-com-gravidade-de-verdade-e-multiplayer-sem-servidor"
-    },
-    {
-      "id": "6c59f1dc-76dd-4fd9-8faa-b017501eb60f",
-      "title": "Microsoft lança “super aplicativo” do Copilot que reúne chat, programação, agentes de IA e Office",
-      "slug": "microsoft-lanca-super-aplicativo-do-copilot-que-reune-chat-programacao-agentes-de-ia-e-office",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.geekwire.com/2026/microsoft-unveils-all-in-one-copilot-app-taking-on-anthropic-and-openai-in-new-push-to-boost-adoption/",
+      "id": "1c80c325-6727-48a8-a142-babb96e97798",
+      "title": "Como levei um blog em PHP puro de 84 para 97 no PageSpeed (e a acessibilidade para 100)",
+      "slug": "como-levei-um-blog-em-php-puro-de-84-para-97-no-pagespeed-e-a-acessibilidade-para-100",
+      "owner_username": "algoritmodiario",
+      "source_url": "https://bizflowcraft.com",
       "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-09-25T14:30:37.102Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/microsoft-lanca-super-aplicativo-do-copilot-que-reune-chat-programacao-agentes-de-ia-e-office"
+      "children_deep_count": 1,
+      "published_at": "2026-09-26T13:16:49.616Z",
+      "url": "https://www.tabnews.com.br/algoritmodiario/como-levei-um-blog-em-php-puro-de-84-para-97-no-pagespeed-e-a-acessibilidade-para-100"
     },
     {
       "id": "d8cd8d01-6916-4dc6-b2d5-2f0b6379af52",
@@ -55,61 +110,6 @@
       "children_deep_count": 0,
       "published_at": "2026-09-25T18:53:03.700Z",
       "url": "https://www.tabnews.com.br/zangmei2/como-domar-a-arvore-dom-e-o-bundle-js-do-elementor-um-guia-de-engenharia-para-quem-odeia-page-builders"
-    },
-    {
-      "id": "557ab435-717d-4ce2-b73e-205bf5a40dac",
-      "title": "[Discussão] Como Acompanhar o Ritmo Tech",
-      "slug": "discussao-como-acompanhar-o-ritmo-tech",
-      "owner_username": "ArthurBorba",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 5,
-      "published_at": "2026-09-25T15:23:04.960Z",
-      "url": "https://www.tabnews.com.br/ArthurBorba/discussao-como-acompanhar-o-ritmo-tech"
-    },
-    {
-      "id": "0997cd29-1713-474a-8efe-e16e1e8daf4c",
-      "title": "Usuário de open source precisa parar de tratar mantenedor como funcionário",
-      "slug": "usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario",
-      "owner_username": "gabrielbaiano",
-      "source_url": "https://www.youtube.com/watch?v=9KNS8OI_8g8",
-      "tabcoins": 24,
-      "children_deep_count": 18,
-      "published_at": "2026-09-22T17:04:39.260Z",
-      "url": "https://www.tabnews.com.br/gabrielbaiano/usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario"
-    },
-    {
-      "id": "dcbc0a06-1175-4400-a2de-9e738d245ff3",
-      "title": "A API de arquivos do Linux e a arte de fazer o impossível em C parte 2",
-      "slug": "a-api-de-arquivos-do-linux-e-a-arte-de-fazer-o-impossivel-em-c-parte-2",
-      "owner_username": "clacerda",
-      "source_url": null,
-      "tabcoins": 19,
-      "children_deep_count": 3,
-      "published_at": "2026-09-23T01:47:55.383Z",
-      "url": "https://www.tabnews.com.br/clacerda/a-api-de-arquivos-do-linux-e-a-arte-de-fazer-o-impossivel-em-c-parte-2"
-    },
-    {
-      "id": "2170a985-c2e0-4549-aad2-fa14ea264a0e",
-      "title": "🐳 Como você usa Docker?",
-      "slug": "como-voce-usa-docker",
-      "owner_username": "allexcardos",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 11,
-      "published_at": "2026-09-21T21:20:11.116Z",
-      "url": "https://www.tabnews.com.br/allexcardos/como-voce-usa-docker"
-    },
-    {
-      "id": "c74c0aa4-9c76-46a3-9408-cbfaf0a5e7e0",
-      "title": "Pitch: O projeto mais 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗼 que você vai ver hoje!",
-      "slug": "o-projeto-mais-que-voce-vai-ver-hoje",
-      "owner_username": "Zaqueu",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 3,
-      "published_at": "2026-09-21T11:09:12.755Z",
-      "url": "https://www.tabnews.com.br/Zaqueu/o-projeto-mais-que-voce-vai-ver-hoje"
     }
   ]
 }
