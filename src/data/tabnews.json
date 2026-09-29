@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T17:12:00.064Z",
+  "updated_at": "2026-09-29T15:15:09.734Z",
   "posts": [
     {
       "id": "d1dc43a3-ed7f-43ec-a11a-52faaa4adf79",
@@ -7,10 +7,98 @@
       "slug": "agente-autonomo-por-30-dias-5-incidentes-novos-custaram-r-8-400",
       "owner_username": "kenimo49",
       "source_url": "https://kenimoto.dev/pt/blog/agente-autonomo-30-dias-5-incidentes-brl/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
+      "tabcoins": 12,
+      "children_deep_count": 2,
       "published_at": "2026-09-28T12:00:03.720Z",
       "url": "https://www.tabnews.com.br/kenimo49/agente-autonomo-por-30-dias-5-incidentes-novos-custaram-r-8-400"
+    },
+    {
+      "id": "2f945446-b3bd-4fca-84df-b4c406a3c376",
+      "title": "Preciso desabafar sobre IA",
+      "slug": "preciso-desabafar-sobre-ia",
+      "owner_username": "marceloa0",
+      "source_url": null,
+      "tabcoins": 10,
+      "children_deep_count": 3,
+      "published_at": "2026-09-29T00:53:37.397Z",
+      "url": "https://www.tabnews.com.br/marceloa0/preciso-desabafar-sobre-ia"
+    },
+    {
+      "id": "b4cd1d71-9e86-46aa-8fe1-7ee6c4aede7b",
+      "title": "FortiClient VPN no Linux sem depender do FortiClient",
+      "slug": "forticlient-vpn-no-linux-sem-depender-do-forticlient",
+      "owner_username": "JeielMiranda",
+      "source_url": "https://jeielmiranda.com.br/blog/forticlient-vpn/",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-09-28T17:20:51.778Z",
+      "url": "https://www.tabnews.com.br/JeielMiranda/forticlient-vpn-no-linux-sem-depender-do-forticlient"
+    },
+    {
+      "id": "80337bb6-4ddb-4701-84f7-36502c318694",
+      "title": "Pitch: Montei um roadmap de engenharia de software com IA que mostra um tópico por vez",
+      "slug": "montei-um-roadmap-de-engenharia-de-software-com-ia-que-mostra-um-topico-por-vez",
+      "owner_username": "KaiD3v",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-09-28T19:41:49.312Z",
+      "url": "https://www.tabnews.com.br/KaiD3v/montei-um-roadmap-de-engenharia-de-software-com-ia-que-mostra-um-topico-por-vez"
+    },
+    {
+      "id": "9efc2d0c-884a-42aa-a751-67fa8add4d07",
+      "title": "Cansei de criar breakpoints no CSS! Achei uma solução diferente para responsividade",
+      "slug": "cansei-de-criar-breakpoints-no-css-achei-uma-solucao-diferente-para-responsividade",
+      "owner_username": "ArthurBorba",
+      "source_url": "https://uiscaler.com/",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-09-29T12:51:28.089Z",
+      "url": "https://www.tabnews.com.br/ArthurBorba/cansei-de-criar-breakpoints-no-css-achei-uma-solucao-diferente-para-responsividade"
+    },
+    {
+      "id": "56023785-f77b-4ed8-844d-ed56ab696566",
+      "title": "OpenAI teria cancelado lançamento do Astra 6.1 por comportamento considerado inseguro",
+      "slug": "openai-teria-cancelado-lancamento-do-astra-6-1-por-comportamento-considerado-inseguro",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-09-29T14:35:10.830Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/openai-teria-cancelado-lancamento-do-astra-6-1-por-comportamento-considerado-inseguro"
+    },
+    {
+      "id": "1ff2f498-9cc8-4d0e-800f-2ca5af6ffddc",
+      "title": "Saiu o SIMD portátil do Go 1.27, medi em dois sistemas de produção: um deu 2,7×  o outro zero e um grande risco encontrado",
+      "slug": "saiu-o-simd-portatil-do-go-1-27-medi-em-dois-sistemas-de-producao-um-deu-2-7-o-outro-zero-e-um-grande-risco-encontrado",
+      "owner_username": "andradeandrey",
+      "source_url": "https://stickybit.com.br/caderno/simd-outros-bits/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-29T13:02:46.386Z",
+      "url": "https://www.tabnews.com.br/andradeandrey/saiu-o-simd-portatil-do-go-1-27-medi-em-dois-sistemas-de-producao-um-deu-2-7-o-outro-zero-e-um-grande-risco-encontrado"
+    },
+    {
+      "id": "58d9aac8-65a2-4ebb-a50b-c99528bde080",
+      "title": "Seu agente terminou o frontend. A imagem está pronta para publicar?",
+      "slug": "seu-agente-terminou-o-frontend-a-imagem-esta-pronta-para-publicar",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-29T07:54:21.738Z",
+      "url": "https://www.tabnews.com.br/Centelha/seu-agente-terminou-o-frontend-a-imagem-esta-pronta-para-publicar"
+    },
+    {
+      "id": "86de02fc-69db-4a7b-ad79-e87685dd00c8",
+      "title": "🤖AGIB e ✨ASIB: o perigo não é a super IA, é o bug e vazio dentro dela - Todos os caminhos são possíveis, nem todos devem ser seguidos - A AGI/ASI não vai nos odiar (e é exatamente esse o problema) -🦾 Resolver é fácil. O difícil é o porquê.",
+      "slug": "agib-e-asib-o-perigo-nao-e-a-super-ia-e-o-bug-e-vazio-dentro-dela-todos-os-caminhos-sao-possiveis-nem-todos-devem-ser-seguidos-a-agi-asi-nao-vai-nos",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/agib-e-asib-o-perigo-nao-e-a-super-ia-e-o-bug-e-vazio-dentro-dela-todos-os-caminhos-sao-possiveis-nem-todos-devem-ser-seguidos-a-agiasi-nao-vai-nos-odiar-e-e-exatamente-esse-o-problema-resolver-e-facil-o-dificil-e-o-porque",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-09-28T00:56:51.866Z",
+      "url": "https://www.tabnews.com.br/MrJ/agib-e-asib-o-perigo-nao-e-a-super-ia-e-o-bug-e-vazio-dentro-dela-todos-os-caminhos-sao-possiveis-nem-todos-devem-ser-seguidos-a-agi-asi-nao-vai-nos"
     },
     {
       "id": "65da9e0b-6b3e-4099-ae38-84f96a01f094",
@@ -22,94 +110,6 @@
       "children_deep_count": 0,
       "published_at": "2026-09-27T23:22:26.517Z",
       "url": "https://www.tabnews.com.br/IamThiagoIT/bullmq-quando-usar-e-quando-nao-usar"
-    },
-    {
-      "id": "58bff99b-f586-4bba-b734-17ac97ff0164",
-      "title": "SpaceX coloca Starship em órbita da Terra pela primeira vez",
-      "slug": "spacex-coloca-starship-em-orbita-da-terra-pela-primeira-vez",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-28T14:15:04.652Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/spacex-coloca-starship-em-orbita-da-terra-pela-primeira-vez"
-    },
-    {
-      "id": "5fcae7a1-d18e-493a-968f-4df43adf308e",
-      "title": "Pitch: Supera-Me, um ranking público de sites onde quem paga mais fica no topo (e como contei os cliques sem cookies)",
-      "slug": "pitch-supera-me-um-ranking-publico-de-sites-onde-quem-paga-mais-fica-no-topo-e-como-contei-os-cliques-sem-cookies",
-      "owner_username": "renannoronha",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 2,
-      "published_at": "2026-09-28T14:40:29.607Z",
-      "url": "https://www.tabnews.com.br/renannoronha/pitch-supera-me-um-ranking-publico-de-sites-onde-quem-paga-mais-fica-no-topo-e-como-contei-os-cliques-sem-cookies"
-    },
-    {
-      "id": "f345a879-fa2b-424a-8da3-d07d1321ed4c",
-      "title": "Agente de IA Muse, da Meta, estaria utilizando modelos de outras empresas, como OpenAI e Anthropic, em determinadas tarefas",
-      "slug": "agente-de-ia-muse-da-meta-estaria-utilizando-modelos-de-outras-empresas-como-openai-e-anthropic-em-determinadas-tarefas",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://mouse.dev/blog/muse-special/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-28T14:30:06.130Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/agente-de-ia-muse-da-meta-estaria-utilizando-modelos-de-outras-empresas-como-openai-e-anthropic-em-determinadas-tarefas"
-    },
-    {
-      "id": "0480004c-fa32-4931-beed-6ab00e4851c1",
-      "title": "Pitch: CDCCore, uma solução de Change Data Capture escrita em Go.",
-      "slug": "cdccore-uma-solucao-de-change-data-capture-escrita-em-go",
-      "owner_username": "MisterF",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-28T13:25:36.341Z",
-      "url": "https://www.tabnews.com.br/MisterF/cdccore-uma-solucao-de-change-data-capture-escrita-em-go"
-    },
-    {
-      "id": "33b86a1b-91f5-4de9-8e98-b817b3d502a5",
-      "title": "Instalando o Claude Code no Windows e conectando à Crazyrouter (do erro 403 ao funcionamento)",
-      "slug": "instalando-o-claude-code-no-windows-e-conectando-a-crazyrouter-do-erro-403-ao-funcionamento",
-      "owner_username": "boluo",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-28T08:21:14.049Z",
-      "url": "https://www.tabnews.com.br/boluo/instalando-o-claude-code-no-windows-e-conectando-a-crazyrouter-do-erro-403-ao-funcionamento"
-    },
-    {
-      "id": "35e345f8-d67d-414c-9079-8b7d9617a13a",
-      "title": "🌎Meu pull request não pedido para alguns parasitas🪱 da comunidade. Em resposta ao post: \"Usuário de open source precisa parar de tratar mantenedor como funcionário\" -  Guia de postura - Como \"cobrar\" melhoria",
-      "slug": "meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/mblog/mrj/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funcionario-guia-de-postura-como-cobrar-melhoria",
-      "tabcoins": 15,
-      "children_deep_count": 8,
-      "published_at": "2026-09-26T04:21:35.512Z",
-      "url": "https://www.tabnews.com.br/MrJ/meu-pull-request-nao-pedido-para-alguns-parasitas-da-comunidade-em-resposta-ao-post-usuario-de-open-source-precisa-parar-de-tratar-mantenedor-como-funci"
-    },
-    {
-      "id": "1c80c325-6727-48a8-a142-babb96e97798",
-      "title": "Como levei um blog em PHP puro de 84 para 97 no PageSpeed (e a acessibilidade para 100)",
-      "slug": "como-levei-um-blog-em-php-puro-de-84-para-97-no-pagespeed-e-a-acessibilidade-para-100",
-      "owner_username": "algoritmodiario",
-      "source_url": "https://bizflowcraft.com",
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-09-26T13:16:49.616Z",
-      "url": "https://www.tabnews.com.br/algoritmodiario/como-levei-um-blog-em-php-puro-de-84-para-97-no-pagespeed-e-a-acessibilidade-para-100"
-    },
-    {
-      "id": "d8cd8d01-6916-4dc6-b2d5-2f0b6379af52",
-      "title": "Como domar a árvore DOM e o bundle JS do Elementor: Um guia de engenharia para quem odeia page builders",
-      "slug": "como-domar-a-arvore-dom-e-o-bundle-js-do-elementor-um-guia-de-engenharia-para-quem-odeia-page-builders",
-      "owner_username": "zangmei2",
-      "source_url": "https://gplpal.com/product/elementor-pro/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-09-25T18:53:03.700Z",
-      "url": "https://www.tabnews.com.br/zangmei2/como-domar-a-arvore-dom-e-o-bundle-js-do-elementor-um-guia-de-engenharia-para-quem-odeia-page-builders"
     }
   ]
 }
