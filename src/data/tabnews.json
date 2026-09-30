@@ -1,6 +1,94 @@
 {
-  "updated_at": "2026-09-29T15:15:09.734Z",
+  "updated_at": "2026-09-30T15:28:52.637Z",
   "posts": [
+    {
+      "id": "55e0f0c3-c31e-401d-9abf-b7ddecc5e976",
+      "title": "15 anos de Git e depois Jujutsu: por que não consigo mais voltar",
+      "slug": "15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar",
+      "owner_username": "oukayuka",
+      "source_url": "https://juju-chu.com/pt/blog/15years-git-then-jujutsu",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-09-30T03:18:22.905Z",
+      "url": "https://www.tabnews.com.br/oukayuka/15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar"
+    },
+    {
+      "id": "c33e90ab-bb06-4d9e-872a-bfc5d82add9e",
+      "title": "Eu estava procurando um ICP. Descobri que estava procurando o problema errado",
+      "slug": "eu-estava-procurando-um-icp-descobri-que-estava-procurando-o-problema-errado",
+      "owner_username": "eventhorizon",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-09-29T16:00:56.536Z",
+      "url": "https://www.tabnews.com.br/eventhorizon/eu-estava-procurando-um-icp-descobri-que-estava-procurando-o-problema-errado"
+    },
+    {
+      "id": "fd67db5e-3295-4f8d-84d6-a40f91a39594",
+      "title": "CLAUDE.md pede, hook impõe: os 3 níveis de contrato que separam 90% de 100%",
+      "slug": "claude-md-pede-hook-impoe-os-3-niveis-de-contrato-que-separam-90-por-cento-de-100-por-cento",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/claude-md-pede-hook-impoe-90-vs-100/",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-09-30T12:00:03.866Z",
+      "url": "https://www.tabnews.com.br/kenimo49/claude-md-pede-hook-impoe-os-3-niveis-de-contrato-que-separam-90-por-cento-de-100-por-cento"
+    },
+    {
+      "id": "9ab5d14c-9b1d-48e6-bc38-730aee96ced7",
+      "title": "Fiz um futebol de botão online em TypeScript: física determinística, bot sem IA treinada e uma campanha feita só de config",
+      "slug": "fiz-um-futebol-de-botao-online-em-typescript-fisica-deterministica-bot-sem-ia-treinada-e-uma-campanha-feita-so-de-config",
+      "owner_username": "savi8sant8s",
+      "source_url": "https://savi8sant8s.com/fiz-um-jogo-de-futebol-de-botao-online/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-30T14:54:13.935Z",
+      "url": "https://www.tabnews.com.br/savi8sant8s/fiz-um-futebol-de-botao-online-em-typescript-fisica-deterministica-bot-sem-ia-treinada-e-uma-campanha-feita-so-de-config"
+    },
+    {
+      "id": "7b8f088d-9235-484b-b349-2009caf03f6c",
+      "title": "Meta, Google, OpenAI, Anthropic e SpaceXAI assinam acordo de autorregulação com governo dos EUA focado em segurança",
+      "slug": "meta-google-openai-anthropic-e-spacexai-assinam-acordo-de-autorregulacao-com-governo-dos-eua-focado-em-seguranca",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-30T14:25:08.625Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/meta-google-openai-anthropic-e-spacexai-assinam-acordo-de-autorregulacao-com-governo-dos-eua-focado-em-seguranca"
+    },
+    {
+      "id": "d135f5dc-6cff-4f7f-b6c1-ad8a4f5cf387",
+      "title": "[PITCH] - Novidades no Stylish-Gen: Backgrounds coloridos",
+      "slug": "pitch-novidades-no-stylish-gen-backgrounds-coloridos",
+      "owner_username": "RodrigoSchioMuniz",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-09-30T12:25:21.741Z",
+      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/pitch-novidades-no-stylish-gen-backgrounds-coloridos"
+    },
+    {
+      "id": "9efc2d0c-884a-42aa-a751-67fa8add4d07",
+      "title": "Cansei de criar breakpoints no CSS! Achei uma solução diferente para responsividade",
+      "slug": "cansei-de-criar-breakpoints-no-css-achei-uma-solucao-diferente-para-responsividade",
+      "owner_username": "ArthurBorba",
+      "source_url": "https://uiscaler.com/",
+      "tabcoins": 5,
+      "children_deep_count": 0,
+      "published_at": "2026-09-29T12:51:28.089Z",
+      "url": "https://www.tabnews.com.br/ArthurBorba/cansei-de-criar-breakpoints-no-css-achei-uma-solucao-diferente-para-responsividade"
+    },
+    {
+      "id": "2f945446-b3bd-4fca-84df-b4c406a3c376",
+      "title": "Preciso desabafar sobre IA",
+      "slug": "preciso-desabafar-sobre-ia",
+      "owner_username": "marceloa0",
+      "source_url": null,
+      "tabcoins": 13,
+      "children_deep_count": 10,
+      "published_at": "2026-09-29T00:53:37.397Z",
+      "url": "https://www.tabnews.com.br/marceloa0/preciso-desabafar-sobre-ia"
+    },
     {
       "id": "d1dc43a3-ed7f-43ec-a11a-52faaa4adf79",
       "title": "Agente autônomo por 30 dias: 5 incidentes novos custaram R$ 8.400",
@@ -13,103 +101,15 @@
       "url": "https://www.tabnews.com.br/kenimo49/agente-autonomo-por-30-dias-5-incidentes-novos-custaram-r-8-400"
     },
     {
-      "id": "2f945446-b3bd-4fca-84df-b4c406a3c376",
-      "title": "Preciso desabafar sobre IA",
-      "slug": "preciso-desabafar-sobre-ia",
-      "owner_username": "marceloa0",
-      "source_url": null,
-      "tabcoins": 10,
-      "children_deep_count": 3,
-      "published_at": "2026-09-29T00:53:37.397Z",
-      "url": "https://www.tabnews.com.br/marceloa0/preciso-desabafar-sobre-ia"
-    },
-    {
-      "id": "b4cd1d71-9e86-46aa-8fe1-7ee6c4aede7b",
-      "title": "FortiClient VPN no Linux sem depender do FortiClient",
-      "slug": "forticlient-vpn-no-linux-sem-depender-do-forticlient",
-      "owner_username": "JeielMiranda",
-      "source_url": "https://jeielmiranda.com.br/blog/forticlient-vpn/",
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-09-28T17:20:51.778Z",
-      "url": "https://www.tabnews.com.br/JeielMiranda/forticlient-vpn-no-linux-sem-depender-do-forticlient"
-    },
-    {
-      "id": "80337bb6-4ddb-4701-84f7-36502c318694",
-      "title": "Pitch: Montei um roadmap de engenharia de software com IA que mostra um tópico por vez",
-      "slug": "montei-um-roadmap-de-engenharia-de-software-com-ia-que-mostra-um-topico-por-vez",
-      "owner_username": "KaiD3v",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-09-28T19:41:49.312Z",
-      "url": "https://www.tabnews.com.br/KaiD3v/montei-um-roadmap-de-engenharia-de-software-com-ia-que-mostra-um-topico-por-vez"
-    },
-    {
-      "id": "9efc2d0c-884a-42aa-a751-67fa8add4d07",
-      "title": "Cansei de criar breakpoints no CSS! Achei uma solução diferente para responsividade",
-      "slug": "cansei-de-criar-breakpoints-no-css-achei-uma-solucao-diferente-para-responsividade",
-      "owner_username": "ArthurBorba",
-      "source_url": "https://uiscaler.com/",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-09-29T12:51:28.089Z",
-      "url": "https://www.tabnews.com.br/ArthurBorba/cansei-de-criar-breakpoints-no-css-achei-uma-solucao-diferente-para-responsividade"
-    },
-    {
-      "id": "56023785-f77b-4ed8-844d-ed56ab696566",
-      "title": "OpenAI teria cancelado lançamento do Astra 6.1 por comportamento considerado inseguro",
-      "slug": "openai-teria-cancelado-lancamento-do-astra-6-1-por-comportamento-considerado-inseguro",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-09-29T14:35:10.830Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/openai-teria-cancelado-lancamento-do-astra-6-1-por-comportamento-considerado-inseguro"
-    },
-    {
-      "id": "1ff2f498-9cc8-4d0e-800f-2ca5af6ffddc",
-      "title": "Saiu o SIMD portátil do Go 1.27, medi em dois sistemas de produção: um deu 2,7×  o outro zero e um grande risco encontrado",
-      "slug": "saiu-o-simd-portatil-do-go-1-27-medi-em-dois-sistemas-de-producao-um-deu-2-7-o-outro-zero-e-um-grande-risco-encontrado",
-      "owner_username": "andradeandrey",
-      "source_url": "https://stickybit.com.br/caderno/simd-outros-bits/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-29T13:02:46.386Z",
-      "url": "https://www.tabnews.com.br/andradeandrey/saiu-o-simd-portatil-do-go-1-27-medi-em-dois-sistemas-de-producao-um-deu-2-7-o-outro-zero-e-um-grande-risco-encontrado"
-    },
-    {
-      "id": "58d9aac8-65a2-4ebb-a50b-c99528bde080",
-      "title": "Seu agente terminou o frontend. A imagem está pronta para publicar?",
-      "slug": "seu-agente-terminou-o-frontend-a-imagem-esta-pronta-para-publicar",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-29T07:54:21.738Z",
-      "url": "https://www.tabnews.com.br/Centelha/seu-agente-terminou-o-frontend-a-imagem-esta-pronta-para-publicar"
-    },
-    {
       "id": "86de02fc-69db-4a7b-ad79-e87685dd00c8",
       "title": "🤖AGIB e ✨ASIB: o perigo não é a super IA, é o bug e vazio dentro dela - Todos os caminhos são possíveis, nem todos devem ser seguidos - A AGI/ASI não vai nos odiar (e é exatamente esse o problema) -🦾 Resolver é fácil. O difícil é o porquê.",
       "slug": "agib-e-asib-o-perigo-nao-e-a-super-ia-e-o-bug-e-vazio-dentro-dela-todos-os-caminhos-sao-possiveis-nem-todos-devem-ser-seguidos-a-agi-asi-nao-vai-nos",
       "owner_username": "MrJ",
       "source_url": "https://crom.run/blog/agib-e-asib-o-perigo-nao-e-a-super-ia-e-o-bug-e-vazio-dentro-dela-todos-os-caminhos-sao-possiveis-nem-todos-devem-ser-seguidos-a-agiasi-nao-vai-nos-odiar-e-e-exatamente-esse-o-problema-resolver-e-facil-o-dificil-e-o-porque",
-      "tabcoins": 4,
+      "tabcoins": 7,
       "children_deep_count": 1,
       "published_at": "2026-09-28T00:56:51.866Z",
       "url": "https://www.tabnews.com.br/MrJ/agib-e-asib-o-perigo-nao-e-a-super-ia-e-o-bug-e-vazio-dentro-dela-todos-os-caminhos-sao-possiveis-nem-todos-devem-ser-seguidos-a-agi-asi-nao-vai-nos"
-    },
-    {
-      "id": "65da9e0b-6b3e-4099-ae38-84f96a01f094",
-      "title": "BullMQ: Quando usar e quando não usar",
-      "slug": "bullmq-quando-usar-e-quando-nao-usar",
-      "owner_username": "IamThiagoIT",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-09-27T23:22:26.517Z",
-      "url": "https://www.tabnews.com.br/IamThiagoIT/bullmq-quando-usar-e-quando-nao-usar"
     }
   ]
 }
