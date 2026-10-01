@@ -1,82 +1,104 @@
 {
-  "updated_at": "2026-09-30T15:28:52.637Z",
+  "updated_at": "2026-10-01T15:51:44.317Z",
   "posts": [
+    {
+      "id": "d30ce61d-43f5-4af2-91ba-da73f76ce845",
+      "title": "Transações com Pix caem 10% nos três dias seguintes à medida provisória que proíbe bets",
+      "slug": "transacoes-com-pix-caem-10-por-cento-nos-tres-dias-seguintes-a-medida-provisoria-que-proibe-bets",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://g1.globo.com/economia/noticia/2026/09/29/transacoes-com-pix-caem-apos-proibicao-das-bets-veja-os-dados.ghtml",
+      "tabcoins": 7,
+      "children_deep_count": 0,
+      "published_at": "2026-09-30T14:00:05.855Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/transacoes-com-pix-caem-10-por-cento-nos-tres-dias-seguintes-a-medida-provisoria-que-proibe-bets"
+    },
+    {
+      "id": "a11aab05-ab08-4a5b-b59b-ff4a19e960d7",
+      "title": "LibreDB Studio: editor de banco de dados open source, gratuito e self-hosted que roda no navegador, com suporte a 46 bancos",
+      "slug": "libredb-studio-editor-de-banco-de-dados-open-source-gratuito-e-self-hosted-que-roda-no-navegador-com-suporte-a-46-bancos",
+      "owner_username": "kayaabdullah",
+      "source_url": "https://libredb.org/blog/twelve-database-projects-list-libredb-studio/",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-09-30T18:24:37.066Z",
+      "url": "https://www.tabnews.com.br/kayaabdullah/libredb-studio-editor-de-banco-de-dados-open-source-gratuito-e-self-hosted-que-roda-no-navegador-com-suporte-a-46-bancos"
+    },
+    {
+      "id": "eeb3dd1d-4cb1-4dd3-b2e3-5992ba21b0b9",
+      "title": "Pitch: Depois de ver os mesmos problemas em centenas de sites, criei uma ferramenta para monitorá-los",
+      "slug": "pitch-depois-de-ver-os-mesmos-problemas-em-centenas-de-sites-criei-uma-ferramenta-para-monitora-los",
+      "owner_username": "tmoreira2020",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-09-30T18:49:13.095Z",
+      "url": "https://www.tabnews.com.br/tmoreira2020/pitch-depois-de-ver-os-mesmos-problemas-em-centenas-de-sites-criei-uma-ferramenta-para-monitora-los"
+    },
+    {
+      "id": "5a32a515-421c-4609-9f30-5b124415fa82",
+      "title": "Comissão Federal de Comércio dos EUA abre investigação contra empresas de IA, incluindo OpenAI e Anthropic, após recentes invasões cibernéticas realizadas por agentes autônomos",
+      "slug": "comissao-federal-de-comercio-dos-eua-abre-investigacao-contra-empresas-de-ia-incluindo-openai-e-anthropic-apos-recentes-invasoes-ciberneticas-realizadas-po",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-01T15:15:09.298Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/comissao-federal-de-comercio-dos-eua-abre-investigacao-contra-empresas-de-ia-incluindo-openai-e-anthropic-apos-recentes-invasoes-ciberneticas-realizadas-po"
+    },
+    {
+      "id": "7c61a2c5-35d4-4793-9d21-7462ff61c52f",
+      "title": "Pitch: Como criei um SaaS Híbrido (Extensão + Web) para rastrear bugs de preço e contornar bloqueios de WAF",
+      "slug": "como-criei-um-saas-hibrido-extensao-web-para-rastrear-bugs-de-preco-e-contornar-bloqueios-de-waf",
+      "owner_username": "GuinkNass",
+      "source_url": "https://www.dealhunterpro.com.br",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-01T14:57:38.812Z",
+      "url": "https://www.tabnews.com.br/GuinkNass/como-criei-um-saas-hibrido-extensao-web-para-rastrear-bugs-de-preco-e-contornar-bloqueios-de-waf"
+    },
+    {
+      "id": "72354d23-664e-4b36-a069-a714f1f88774",
+      "title": "Como calcular sub-redes IPv4 e máscaras CIDR usando operadores bitwise em JavaScript puro",
+      "slug": "como-calcular-sub-redes-ipv4-e-mascaras-cidr-usando-operadores-bitwise-em-javascript-puro",
+      "owner_username": "jonas556440",
+      "source_url": "https://tecmestre.com.br/calculadora-de-redes/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-01T13:04:41.974Z",
+      "url": "https://www.tabnews.com.br/jonas556440/como-calcular-sub-redes-ipv4-e-mascaras-cidr-usando-operadores-bitwise-em-javascript-puro"
+    },
+    {
+      "id": "10342434-3b7e-47f3-9a9a-7f93509c9ee3",
+      "title": "Pitch: Fiz um app de bandeja para ver a VRAM e descarregar modelos do Ollama com um clique",
+      "slug": "fiz-um-app-de-bandeja-para-ver-a-vram-e-descarregar-modelos-do-ollama-com-um-clique",
+      "owner_username": "guilhermecmt",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-01T10:12:52.654Z",
+      "url": "https://www.tabnews.com.br/guilhermecmt/fiz-um-app-de-bandeja-para-ver-a-vram-e-descarregar-modelos-do-ollama-com-um-clique"
+    },
+    {
+      "id": "9ab5d14c-9b1d-48e6-bc38-730aee96ced7",
+      "title": "Pitch: Fiz um futebol de botão online em TypeScript: física determinística, bot sem IA treinada e uma campanha feita só de config",
+      "slug": "fiz-um-futebol-de-botao-online-em-typescript-fisica-deterministica-bot-sem-ia-treinada-e-uma-campanha-feita-so-de-config",
+      "owner_username": "savi8sant8s",
+      "source_url": "https://savi8sant8s.com/fiz-um-jogo-de-futebol-de-botao-online/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-09-30T14:54:13.935Z",
+      "url": "https://www.tabnews.com.br/savi8sant8s/fiz-um-futebol-de-botao-online-em-typescript-fisica-deterministica-bot-sem-ia-treinada-e-uma-campanha-feita-so-de-config"
+    },
     {
       "id": "55e0f0c3-c31e-401d-9abf-b7ddecc5e976",
       "title": "15 anos de Git e depois Jujutsu: por que não consigo mais voltar",
       "slug": "15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar",
       "owner_username": "oukayuka",
       "source_url": "https://juju-chu.com/pt/blog/15years-git-then-jujutsu",
-      "tabcoins": 5,
-      "children_deep_count": 1,
+      "tabcoins": 16,
+      "children_deep_count": 3,
       "published_at": "2026-09-30T03:18:22.905Z",
       "url": "https://www.tabnews.com.br/oukayuka/15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar"
-    },
-    {
-      "id": "c33e90ab-bb06-4d9e-872a-bfc5d82add9e",
-      "title": "Eu estava procurando um ICP. Descobri que estava procurando o problema errado",
-      "slug": "eu-estava-procurando-um-icp-descobri-que-estava-procurando-o-problema-errado",
-      "owner_username": "eventhorizon",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-09-29T16:00:56.536Z",
-      "url": "https://www.tabnews.com.br/eventhorizon/eu-estava-procurando-um-icp-descobri-que-estava-procurando-o-problema-errado"
-    },
-    {
-      "id": "fd67db5e-3295-4f8d-84d6-a40f91a39594",
-      "title": "CLAUDE.md pede, hook impõe: os 3 níveis de contrato que separam 90% de 100%",
-      "slug": "claude-md-pede-hook-impoe-os-3-niveis-de-contrato-que-separam-90-por-cento-de-100-por-cento",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/claude-md-pede-hook-impoe-90-vs-100/",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-09-30T12:00:03.866Z",
-      "url": "https://www.tabnews.com.br/kenimo49/claude-md-pede-hook-impoe-os-3-niveis-de-contrato-que-separam-90-por-cento-de-100-por-cento"
-    },
-    {
-      "id": "9ab5d14c-9b1d-48e6-bc38-730aee96ced7",
-      "title": "Fiz um futebol de botão online em TypeScript: física determinística, bot sem IA treinada e uma campanha feita só de config",
-      "slug": "fiz-um-futebol-de-botao-online-em-typescript-fisica-deterministica-bot-sem-ia-treinada-e-uma-campanha-feita-so-de-config",
-      "owner_username": "savi8sant8s",
-      "source_url": "https://savi8sant8s.com/fiz-um-jogo-de-futebol-de-botao-online/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-30T14:54:13.935Z",
-      "url": "https://www.tabnews.com.br/savi8sant8s/fiz-um-futebol-de-botao-online-em-typescript-fisica-deterministica-bot-sem-ia-treinada-e-uma-campanha-feita-so-de-config"
-    },
-    {
-      "id": "7b8f088d-9235-484b-b349-2009caf03f6c",
-      "title": "Meta, Google, OpenAI, Anthropic e SpaceXAI assinam acordo de autorregulação com governo dos EUA focado em segurança",
-      "slug": "meta-google-openai-anthropic-e-spacexai-assinam-acordo-de-autorregulacao-com-governo-dos-eua-focado-em-seguranca",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-30T14:25:08.625Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/meta-google-openai-anthropic-e-spacexai-assinam-acordo-de-autorregulacao-com-governo-dos-eua-focado-em-seguranca"
-    },
-    {
-      "id": "d135f5dc-6cff-4f7f-b6c1-ad8a4f5cf387",
-      "title": "[PITCH] - Novidades no Stylish-Gen: Backgrounds coloridos",
-      "slug": "pitch-novidades-no-stylish-gen-backgrounds-coloridos",
-      "owner_username": "RodrigoSchioMuniz",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-09-30T12:25:21.741Z",
-      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/pitch-novidades-no-stylish-gen-backgrounds-coloridos"
-    },
-    {
-      "id": "9efc2d0c-884a-42aa-a751-67fa8add4d07",
-      "title": "Cansei de criar breakpoints no CSS! Achei uma solução diferente para responsividade",
-      "slug": "cansei-de-criar-breakpoints-no-css-achei-uma-solucao-diferente-para-responsividade",
-      "owner_username": "ArthurBorba",
-      "source_url": "https://uiscaler.com/",
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-09-29T12:51:28.089Z",
-      "url": "https://www.tabnews.com.br/ArthurBorba/cansei-de-criar-breakpoints-no-css-achei-uma-solucao-diferente-para-responsividade"
     },
     {
       "id": "2f945446-b3bd-4fca-84df-b4c406a3c376",
@@ -85,31 +107,9 @@
       "owner_username": "marceloa0",
       "source_url": null,
       "tabcoins": 13,
-      "children_deep_count": 10,
+      "children_deep_count": 13,
       "published_at": "2026-09-29T00:53:37.397Z",
       "url": "https://www.tabnews.com.br/marceloa0/preciso-desabafar-sobre-ia"
-    },
-    {
-      "id": "d1dc43a3-ed7f-43ec-a11a-52faaa4adf79",
-      "title": "Agente autônomo por 30 dias: 5 incidentes novos custaram R$ 8.400",
-      "slug": "agente-autonomo-por-30-dias-5-incidentes-novos-custaram-r-8-400",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/agente-autonomo-30-dias-5-incidentes-brl/",
-      "tabcoins": 12,
-      "children_deep_count": 2,
-      "published_at": "2026-09-28T12:00:03.720Z",
-      "url": "https://www.tabnews.com.br/kenimo49/agente-autonomo-por-30-dias-5-incidentes-novos-custaram-r-8-400"
-    },
-    {
-      "id": "86de02fc-69db-4a7b-ad79-e87685dd00c8",
-      "title": "🤖AGIB e ✨ASIB: o perigo não é a super IA, é o bug e vazio dentro dela - Todos os caminhos são possíveis, nem todos devem ser seguidos - A AGI/ASI não vai nos odiar (e é exatamente esse o problema) -🦾 Resolver é fácil. O difícil é o porquê.",
-      "slug": "agib-e-asib-o-perigo-nao-e-a-super-ia-e-o-bug-e-vazio-dentro-dela-todos-os-caminhos-sao-possiveis-nem-todos-devem-ser-seguidos-a-agi-asi-nao-vai-nos",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/blog/agib-e-asib-o-perigo-nao-e-a-super-ia-e-o-bug-e-vazio-dentro-dela-todos-os-caminhos-sao-possiveis-nem-todos-devem-ser-seguidos-a-agiasi-nao-vai-nos-odiar-e-e-exatamente-esse-o-problema-resolver-e-facil-o-dificil-e-o-porque",
-      "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-09-28T00:56:51.866Z",
-      "url": "https://www.tabnews.com.br/MrJ/agib-e-asib-o-perigo-nao-e-a-super-ia-e-o-bug-e-vazio-dentro-dela-todos-os-caminhos-sao-possiveis-nem-todos-devem-ser-seguidos-a-agi-asi-nao-vai-nos"
     }
   ]
 }
