@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-10-01T15:51:44.317Z",
+  "updated_at": "2026-10-02T15:12:54.735Z",
   "posts": [
     {
-      "id": "d30ce61d-43f5-4af2-91ba-da73f76ce845",
-      "title": "Transações com Pix caem 10% nos três dias seguintes à medida provisória que proíbe bets",
-      "slug": "transacoes-com-pix-caem-10-por-cento-nos-tres-dias-seguintes-a-medida-provisoria-que-proibe-bets",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://g1.globo.com/economia/noticia/2026/09/29/transacoes-com-pix-caem-apos-proibicao-das-bets-veja-os-dados.ghtml",
-      "tabcoins": 7,
-      "children_deep_count": 0,
-      "published_at": "2026-09-30T14:00:05.855Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/transacoes-com-pix-caem-10-por-cento-nos-tres-dias-seguintes-a-medida-provisoria-que-proibe-bets"
-    },
-    {
-      "id": "a11aab05-ab08-4a5b-b59b-ff4a19e960d7",
-      "title": "LibreDB Studio: editor de banco de dados open source, gratuito e self-hosted que roda no navegador, com suporte a 46 bancos",
-      "slug": "libredb-studio-editor-de-banco-de-dados-open-source-gratuito-e-self-hosted-que-roda-no-navegador-com-suporte-a-46-bancos",
-      "owner_username": "kayaabdullah",
-      "source_url": "https://libredb.org/blog/twelve-database-projects-list-libredb-studio/",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-09-30T18:24:37.066Z",
-      "url": "https://www.tabnews.com.br/kayaabdullah/libredb-studio-editor-de-banco-de-dados-open-source-gratuito-e-self-hosted-que-roda-no-navegador-com-suporte-a-46-bancos"
-    },
-    {
-      "id": "eeb3dd1d-4cb1-4dd3-b2e3-5992ba21b0b9",
-      "title": "Pitch: Depois de ver os mesmos problemas em centenas de sites, criei uma ferramenta para monitorá-los",
-      "slug": "pitch-depois-de-ver-os-mesmos-problemas-em-centenas-de-sites-criei-uma-ferramenta-para-monitora-los",
-      "owner_username": "tmoreira2020",
+      "id": "8ce647cb-7158-4f93-b5dd-db98e3d63da6",
+      "title": "[TabNews – Postmortem] XSS no feed RSS e CSRF na API",
+      "slug": "tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api",
+      "owner_username": "rafael",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-09-30T18:49:13.095Z",
-      "url": "https://www.tabnews.com.br/tmoreira2020/pitch-depois-de-ver-os-mesmos-problemas-em-centenas-de-sites-criei-uma-ferramenta-para-monitora-los"
+      "tabcoins": 12,
+      "children_deep_count": 1,
+      "published_at": "2026-10-02T11:34:06.360Z",
+      "url": "https://www.tabnews.com.br/rafael/tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api"
+    },
+    {
+      "id": "3c46f08f-2f5d-4eb9-916a-1849cbe38c98",
+      "title": "Google anuncia Gemini 4 Argon",
+      "slug": "google-anuncia-gemini-4-argon",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "tabcoins": 8,
+      "children_deep_count": 1,
+      "published_at": "2026-10-01T15:10:08.738Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/google-anuncia-gemini-4-argon"
+    },
+    {
+      "id": "b9ba707d-3618-4c0d-96e4-c0ce17d7699b",
+      "title": "Programar não é sobre a linguagem X, é sobre resolução de problemas",
+      "slug": "programar-nao-e-sobre-a-linguagem-x-e-sobre-resolucao-de-problemas",
+      "owner_username": "JoseCarlos67",
+      "source_url": "https://www.youtube.com/watch?v=UuIEbpQms8o&list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6&index=2",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-10-01T19:19:11.934Z",
+      "url": "https://www.tabnews.com.br/JoseCarlos67/programar-nao-e-sobre-a-linguagem-x-e-sobre-resolucao-de-problemas"
     },
     {
       "id": "5a32a515-421c-4609-9f30-5b124415fa82",
@@ -40,76 +40,76 @@
       "slug": "comissao-federal-de-comercio-dos-eua-abre-investigacao-contra-empresas-de-ia-incluindo-openai-e-anthropic-apos-recentes-invasoes-ciberneticas-realizadas-po",
       "owner_username": "NewsletterOficial",
       "source_url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 4,
+      "children_deep_count": 3,
       "published_at": "2026-10-01T15:15:09.298Z",
       "url": "https://www.tabnews.com.br/NewsletterOficial/comissao-federal-de-comercio-dos-eua-abre-investigacao-contra-empresas-de-ia-incluindo-openai-e-anthropic-apos-recentes-invasoes-ciberneticas-realizadas-po"
     },
     {
-      "id": "7c61a2c5-35d4-4793-9d21-7462ff61c52f",
-      "title": "Pitch: Como criei um SaaS Híbrido (Extensão + Web) para rastrear bugs de preço e contornar bloqueios de WAF",
-      "slug": "como-criei-um-saas-hibrido-extensao-web-para-rastrear-bugs-de-preco-e-contornar-bloqueios-de-waf",
-      "owner_username": "GuinkNass",
-      "source_url": "https://www.dealhunterpro.com.br",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-01T14:57:38.812Z",
-      "url": "https://www.tabnews.com.br/GuinkNass/como-criei-um-saas-hibrido-extensao-web-para-rastrear-bugs-de-preco-e-contornar-bloqueios-de-waf"
-    },
-    {
-      "id": "72354d23-664e-4b36-a069-a714f1f88774",
-      "title": "Como calcular sub-redes IPv4 e máscaras CIDR usando operadores bitwise em JavaScript puro",
-      "slug": "como-calcular-sub-redes-ipv4-e-mascaras-cidr-usando-operadores-bitwise-em-javascript-puro",
-      "owner_username": "jonas556440",
-      "source_url": "https://tecmestre.com.br/calculadora-de-redes/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-01T13:04:41.974Z",
-      "url": "https://www.tabnews.com.br/jonas556440/como-calcular-sub-redes-ipv4-e-mascaras-cidr-usando-operadores-bitwise-em-javascript-puro"
-    },
-    {
-      "id": "10342434-3b7e-47f3-9a9a-7f93509c9ee3",
-      "title": "Pitch: Fiz um app de bandeja para ver a VRAM e descarregar modelos do Ollama com um clique",
-      "slug": "fiz-um-app-de-bandeja-para-ver-a-vram-e-descarregar-modelos-do-ollama-com-um-clique",
-      "owner_username": "guilhermecmt",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-01T10:12:52.654Z",
-      "url": "https://www.tabnews.com.br/guilhermecmt/fiz-um-app-de-bandeja-para-ver-a-vram-e-descarregar-modelos-do-ollama-com-um-clique"
-    },
-    {
-      "id": "9ab5d14c-9b1d-48e6-bc38-730aee96ced7",
-      "title": "Pitch: Fiz um futebol de botão online em TypeScript: física determinística, bot sem IA treinada e uma campanha feita só de config",
-      "slug": "fiz-um-futebol-de-botao-online-em-typescript-fisica-deterministica-bot-sem-ia-treinada-e-uma-campanha-feita-so-de-config",
-      "owner_username": "savi8sant8s",
-      "source_url": "https://savi8sant8s.com/fiz-um-jogo-de-futebol-de-botao-online/",
+      "id": "a93aa62a-c7bd-4605-8847-9b56c0ad236a",
+      "title": "31 de janeiro + 1 mês: o bug que encontrei comparando JavaScript e Python",
+      "slug": "31-de-janeiro-1-mes-o-bug-que-encontrei-comparando-javascript-e-python",
+      "owner_username": "PraDev",
+      "source_url": "https://pradev.com.br/guias/somar-meses-e-calcular-idade-sem-erro",
       "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-09-30T14:54:13.935Z",
-      "url": "https://www.tabnews.com.br/savi8sant8s/fiz-um-futebol-de-botao-online-em-typescript-fisica-deterministica-bot-sem-ia-treinada-e-uma-campanha-feita-so-de-config"
+      "children_deep_count": 4,
+      "published_at": "2026-10-01T20:15:33.930Z",
+      "url": "https://www.tabnews.com.br/PraDev/31-de-janeiro-1-mes-o-bug-que-encontrei-comparando-javascript-e-python"
     },
     {
-      "id": "55e0f0c3-c31e-401d-9abf-b7ddecc5e976",
-      "title": "15 anos de Git e depois Jujutsu: por que não consigo mais voltar",
-      "slug": "15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar",
-      "owner_username": "oukayuka",
-      "source_url": "https://juju-chu.com/pt/blog/15years-git-then-jujutsu",
-      "tabcoins": 16,
-      "children_deep_count": 3,
-      "published_at": "2026-09-30T03:18:22.905Z",
-      "url": "https://www.tabnews.com.br/oukayuka/15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar"
-    },
-    {
-      "id": "2f945446-b3bd-4fca-84df-b4c406a3c376",
-      "title": "Preciso desabafar sobre IA",
-      "slug": "preciso-desabafar-sobre-ia",
-      "owner_username": "marceloa0",
+      "id": "3eed75b2-2afb-49e2-b7e7-03c9949a85ed",
+      "title": "Um ano depois: o Quickpost foi de 550 para 801 usuários e ganhou um chat",
+      "slug": "um-ano-depois-o-quickpost-foi-de-550-para-801-usuarios-e-ganhou-um-chat",
+      "owner_username": "Random241",
       "source_url": null,
-      "tabcoins": 13,
-      "children_deep_count": 13,
-      "published_at": "2026-09-29T00:53:37.397Z",
-      "url": "https://www.tabnews.com.br/marceloa0/preciso-desabafar-sobre-ia"
+      "tabcoins": 3,
+      "children_deep_count": 7,
+      "published_at": "2026-10-02T12:23:40.190Z",
+      "url": "https://www.tabnews.com.br/Random241/um-ano-depois-o-quickpost-foi-de-550-para-801-usuarios-e-ganhou-um-chat"
+    },
+    {
+      "id": "74440afb-cb0c-40e3-8982-2aacc2d6b2cb",
+      "title": "OpenAI alerta mais de 100 organizações sobre atividades não autorizadas de seus agentes de IA",
+      "slug": "openai-alerta-mais-de-100-organizacoes-sobre-atividades-nao-autorizadas-de-seus-agentes-de-ia",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-02T15:00:07.288Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/openai-alerta-mais-de-100-organizacoes-sobre-atividades-nao-autorizadas-de-seus-agentes-de-ia"
+    },
+    {
+      "id": "20e6352c-3297-4abf-b7c3-afc9c285f082",
+      "title": "Pitch: Fiz um app de setlist pra usar no palco (Rust e Next.js)",
+      "slug": "pitch-fiz-um-app-de-setlist-pra-usar-no-palco-rust-e-next-js",
+      "owner_username": "allansomensi",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-02T14:05:14.405Z",
+      "url": "https://www.tabnews.com.br/allansomensi/pitch-fiz-um-app-de-setlist-pra-usar-no-palco-rust-e-next-js"
+    },
+    {
+      "id": "b0f42f2f-a6f0-4e69-9136-41be3c3a95e6",
+      "title": "TypeScript Compiler API: preservando o narrowing de nós filhos em type guards reutilizáveis 🔧",
+      "slug": "typescript-compiler-api-preservando-o-narrowing-de-nos-filhos-em-type-guards-reutilizaveis",
+      "owner_username": "nyaomaru",
+      "source_url": "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-02T12:46:58.361Z",
+      "url": "https://www.tabnews.com.br/nyaomaru/typescript-compiler-api-preservando-o-narrowing-de-nos-filhos-em-type-guards-reutilizaveis"
+    },
+    {
+      "id": "9f46f895-8963-4e25-9d44-ec2c3c1ed612",
+      "title": "De forma breve, o que é o React Compiler e porquê o create-next-app me pede pra decidir?",
+      "slug": "de-forma-breve-o-que-e-o-react-compiler-e-porque-o-create-next-app-me-pede-pra-decidir",
+      "owner_username": "allbertuu",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-02T12:08:24.657Z",
+      "url": "https://www.tabnews.com.br/allbertuu/de-forma-breve-o-que-e-o-react-compiler-e-porque-o-create-next-app-me-pede-pra-decidir"
     }
   ]
 }
