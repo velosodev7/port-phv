@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T15:12:54.735Z",
+  "updated_at": "2026-10-03T14:04:55.524Z",
   "posts": [
     {
       "id": "8ce647cb-7158-4f93-b5dd-db98e3d63da6",
@@ -7,10 +7,87 @@
       "slug": "tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api",
       "owner_username": "rafael",
       "source_url": null,
-      "tabcoins": 12,
-      "children_deep_count": 1,
+      "tabcoins": 16,
+      "children_deep_count": 2,
       "published_at": "2026-10-02T11:34:06.360Z",
       "url": "https://www.tabnews.com.br/rafael/tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api"
+    },
+    {
+      "id": "4a33cefb-e3f0-41f7-a7cd-48f067828cb9",
+      "title": "📺 Crom TV: fiz uma TV de internet em 6 dias com uma equipe de IAs — 865 commits, ~880 agentes, 888 testes e um site que aguenta 15 mil pessoas ao mesmo tempo - 1.5 milhões de vídeos",
+      "slug": "crom-tv-fiz-uma-tv-de-internet-em-6-dias-com-uma-equipe-de-ias-865-commits-880-agentes-888-testes-e-um-site-que-aguenta-15-mil-pessoas-ao-mesmo-tempo",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/crom-tv-fiz-uma-tv-de-internet-em-6-dias-com-uma-equipe-de-ias-865-commits-880-agentes-888-testes-e-um-site-que-aguenta-15-mil-pessoas-ao-mesmo-tempo",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-10-03T08:49:13.953Z",
+      "url": "https://www.tabnews.com.br/MrJ/crom-tv-fiz-uma-tv-de-internet-em-6-dias-com-uma-equipe-de-ias-865-commits-880-agentes-888-testes-e-um-site-que-aguenta-15-mil-pessoas-ao-mesmo-tempo"
+    },
+    {
+      "id": "3486817e-f86d-414b-853f-2df677282a99",
+      "title": "Reverse-Engineered Acer FOTA & Stock Firmware Extractor: Como extraí firmwares oficiais de fábrica direto da AWS S3",
+      "slug": "reverse-engineered-acer-fota-e-stock-firmware-extractor-como-extrai-firmwares-oficiais-de-fabrica-direto-da-aws-s3",
+      "owner_username": "despensativo",
+      "source_url": "https://github.com/Despensativo/acer-predator-fota-extractor",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-10-02T20:21:40.983Z",
+      "url": "https://www.tabnews.com.br/despensativo/reverse-engineered-acer-fota-e-stock-firmware-extractor-como-extrai-firmwares-oficiais-de-fabrica-direto-da-aws-s3"
+    },
+    {
+      "id": "8219af74-3490-4f69-9950-7009e1d70036",
+      "title": "[Pitch] - Criei um app open-source, gratuito e local-first e coloquei o Codex para trabalhar nele todos os dias",
+      "slug": "criei-um-app-open-source-gratuito-e-local-first-e-coloquei-o-codex-para-trabalhar-nele-todos-os-dias",
+      "owner_username": "ewanderson",
+      "source_url": "https://github.com/ewflaviano/livro-a-livro",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-10-02T15:19:20.943Z",
+      "url": "https://www.tabnews.com.br/ewanderson/criei-um-app-open-source-gratuito-e-local-first-e-coloquei-o-codex-para-trabalhar-nele-todos-os-dias"
+    },
+    {
+      "id": "da938471-d3a5-4a83-912d-8dd66d9c3c23",
+      "title": "Seu currículo pode estar escondendo exatamente o que faz você ser sênior",
+      "slug": "seu-curriculo-pode-estar-escondendo-exatamente-o-que-faz-voce-ser-senior",
+      "owner_username": "devvaluelab",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-10-03T02:56:46.078Z",
+      "url": "https://www.tabnews.com.br/devvaluelab/seu-curriculo-pode-estar-escondendo-exatamente-o-que-faz-voce-ser-senior"
+    },
+    {
+      "id": "3dfad326-10c2-4fa6-8d50-03af4981acbc",
+      "title": "🔥 O Melhor da Semana no TabNews #38",
+      "slug": "o-melhor-da-semana-no-tabnews-38",
+      "owner_username": "TabNewsDigest",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-03T11:00:07.535Z",
+      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-38"
+    },
+    {
+      "id": "e401b2c7-04b1-48c8-b90c-1cbc8b9d871f",
+      "title": "Trocar de agente na IDE não garante o mesmo contexto de trabalho",
+      "slug": "trocar-de-agente-na-ide-nao-garante-o-mesmo-contexto-de-trabalho",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-03T07:33:09.901Z",
+      "url": "https://www.tabnews.com.br/Centelha/trocar-de-agente-na-ide-nao-garante-o-mesmo-contexto-de-trabalho"
+    },
+    {
+      "id": "5188c387-9824-4411-87c2-f404f430c645",
+      "title": "[Pitch] Streamlite Player m3u: Desafios técnicos",
+      "slug": "pitch-streamlite-player-m3u-desafios-tecnicos",
+      "owner_username": "Vmello",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-03T02:54:42.064Z",
+      "url": "https://www.tabnews.com.br/Vmello/pitch-streamlite-player-m3u-desafios-tecnicos"
     },
     {
       "id": "3c46f08f-2f5d-4eb9-916a-1849cbe38c98",
@@ -19,7 +96,7 @@
       "owner_username": "NewsletterOficial",
       "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "tabcoins": 8,
-      "children_deep_count": 1,
+      "children_deep_count": 2,
       "published_at": "2026-10-01T15:10:08.738Z",
       "url": "https://www.tabnews.com.br/NewsletterOficial/google-anuncia-gemini-4-argon"
     },
@@ -30,86 +107,9 @@
       "owner_username": "JoseCarlos67",
       "source_url": "https://www.youtube.com/watch?v=UuIEbpQms8o&list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6&index=2",
       "tabcoins": 5,
-      "children_deep_count": 1,
+      "children_deep_count": 3,
       "published_at": "2026-10-01T19:19:11.934Z",
       "url": "https://www.tabnews.com.br/JoseCarlos67/programar-nao-e-sobre-a-linguagem-x-e-sobre-resolucao-de-problemas"
-    },
-    {
-      "id": "5a32a515-421c-4609-9f30-5b124415fa82",
-      "title": "Comissão Federal de Comércio dos EUA abre investigação contra empresas de IA, incluindo OpenAI e Anthropic, após recentes invasões cibernéticas realizadas por agentes autônomos",
-      "slug": "comissao-federal-de-comercio-dos-eua-abre-investigacao-contra-empresas-de-ia-incluindo-openai-e-anthropic-apos-recentes-invasoes-ciberneticas-realizadas-po",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
-      "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-10-01T15:15:09.298Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/comissao-federal-de-comercio-dos-eua-abre-investigacao-contra-empresas-de-ia-incluindo-openai-e-anthropic-apos-recentes-invasoes-ciberneticas-realizadas-po"
-    },
-    {
-      "id": "a93aa62a-c7bd-4605-8847-9b56c0ad236a",
-      "title": "31 de janeiro + 1 mês: o bug que encontrei comparando JavaScript e Python",
-      "slug": "31-de-janeiro-1-mes-o-bug-que-encontrei-comparando-javascript-e-python",
-      "owner_username": "PraDev",
-      "source_url": "https://pradev.com.br/guias/somar-meses-e-calcular-idade-sem-erro",
-      "tabcoins": 4,
-      "children_deep_count": 4,
-      "published_at": "2026-10-01T20:15:33.930Z",
-      "url": "https://www.tabnews.com.br/PraDev/31-de-janeiro-1-mes-o-bug-que-encontrei-comparando-javascript-e-python"
-    },
-    {
-      "id": "3eed75b2-2afb-49e2-b7e7-03c9949a85ed",
-      "title": "Um ano depois: o Quickpost foi de 550 para 801 usuários e ganhou um chat",
-      "slug": "um-ano-depois-o-quickpost-foi-de-550-para-801-usuarios-e-ganhou-um-chat",
-      "owner_username": "Random241",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 7,
-      "published_at": "2026-10-02T12:23:40.190Z",
-      "url": "https://www.tabnews.com.br/Random241/um-ano-depois-o-quickpost-foi-de-550-para-801-usuarios-e-ganhou-um-chat"
-    },
-    {
-      "id": "74440afb-cb0c-40e3-8982-2aacc2d6b2cb",
-      "title": "OpenAI alerta mais de 100 organizações sobre atividades não autorizadas de seus agentes de IA",
-      "slug": "openai-alerta-mais-de-100-organizacoes-sobre-atividades-nao-autorizadas-de-seus-agentes-de-ia",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-02T15:00:07.288Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/openai-alerta-mais-de-100-organizacoes-sobre-atividades-nao-autorizadas-de-seus-agentes-de-ia"
-    },
-    {
-      "id": "20e6352c-3297-4abf-b7c3-afc9c285f082",
-      "title": "Pitch: Fiz um app de setlist pra usar no palco (Rust e Next.js)",
-      "slug": "pitch-fiz-um-app-de-setlist-pra-usar-no-palco-rust-e-next-js",
-      "owner_username": "allansomensi",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-02T14:05:14.405Z",
-      "url": "https://www.tabnews.com.br/allansomensi/pitch-fiz-um-app-de-setlist-pra-usar-no-palco-rust-e-next-js"
-    },
-    {
-      "id": "b0f42f2f-a6f0-4e69-9136-41be3c3a95e6",
-      "title": "TypeScript Compiler API: preservando o narrowing de nós filhos em type guards reutilizáveis 🔧",
-      "slug": "typescript-compiler-api-preservando-o-narrowing-de-nos-filhos-em-type-guards-reutilizaveis",
-      "owner_username": "nyaomaru",
-      "source_url": "https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-02T12:46:58.361Z",
-      "url": "https://www.tabnews.com.br/nyaomaru/typescript-compiler-api-preservando-o-narrowing-de-nos-filhos-em-type-guards-reutilizaveis"
-    },
-    {
-      "id": "9f46f895-8963-4e25-9d44-ec2c3c1ed612",
-      "title": "De forma breve, o que é o React Compiler e porquê o create-next-app me pede pra decidir?",
-      "slug": "de-forma-breve-o-que-e-o-react-compiler-e-porque-o-create-next-app-me-pede-pra-decidir",
-      "owner_username": "allbertuu",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-02T12:08:24.657Z",
-      "url": "https://www.tabnews.com.br/allbertuu/de-forma-breve-o-que-e-o-react-compiler-e-porque-o-create-next-app-me-pede-pra-decidir"
     }
   ]
 }
