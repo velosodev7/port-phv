@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-10-04T14:31:05.624Z",
+  "updated_at": "2026-10-05T17:37:00.179Z",
   "posts": [
+    {
+      "id": "d60939ec-7233-471e-8e95-4b9801b3e170",
+      "title": "🗳️ Como funciona a urna eletrônica brasileira - O que acontece quando você aperta Confirma na urna - 30 anos de urna eletrônica: o que mudou de 1996 até agora - A urna não transmite nada. Então como o TSE soma os votos?",
+      "slug": "como-funciona-a-urna-eletronica-brasileira-o-que-acontece-quando-voce-aperta-confirma-na-urna-30-anos-de-urna-eletronica-o-que-mudou-de-1996-ate-agora",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/como-funciona-a-urna-eletronica-brasileira-o-que-acontece-quando-voce-aperta-confirma-na-urna-30-anos-de-urna-eletronica-o-que-mudou-de-1996-ate-agora-a-urna-nao-transmite-nada-entao-como-o-tse-soma-os-votos",
+      "tabcoins": 11,
+      "children_deep_count": 3,
+      "published_at": "2026-10-05T04:43:41.873Z",
+      "url": "https://www.tabnews.com.br/MrJ/como-funciona-a-urna-eletronica-brasileira-o-que-acontece-quando-voce-aperta-confirma-na-urna-30-anos-de-urna-eletronica-o-que-mudou-de-1996-ate-agora"
+    },
+    {
+      "id": "76f9ebd9-bdcb-43e3-8a1f-07035b324fe5",
+      "title": "[PITCH] - PULL-REQUEST",
+      "slug": "pitch-pull-request",
+      "owner_username": "RodrigoSchioMuniz",
+      "source_url": "https://github.com/RodrigoSchioMuniz/procedimentos/issues",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-05T17:06:29.611Z",
+      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/pitch-pull-request"
+    },
+    {
+      "id": "1471002f-a13e-4cdf-80ac-9036d7bf562c",
+      "title": "Como recortar uma foto 3x4 pela norma usando só o navegador (MediaPipe, sem enviar a foto para servidor)",
+      "slug": "como-recortar-uma-foto-3x4-pela-norma-usando-so-o-navegador-mediapipe-sem-enviar-a-foto-para-servidor",
+      "owner_username": "rubin",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-05T16:42:52.093Z",
+      "url": "https://www.tabnews.com.br/rubin/como-recortar-uma-foto-3x4-pela-norma-usando-so-o-navegador-mediapipe-sem-enviar-a-foto-para-servidor"
+    },
+    {
+      "id": "fcde781b-e0a1-4c3c-9ef2-3155ff57e6f7",
+      "title": "[Pitch] Criei o Floani para animar diagramas e explicar sistemas",
+      "slug": "pitch-criei-o-floani-para-animar-diagramas-e-explicar-sistemas",
+      "owner_username": "elberrd",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-05T16:35:05.855Z",
+      "url": "https://www.tabnews.com.br/elberrd/pitch-criei-o-floani-para-animar-diagramas-e-explicar-sistemas"
+    },
+    {
+      "id": "65e57240-5cb2-4281-98e1-83bd617c80e7",
+      "title": "[Pitch] Criei um site de compartilhamento de arte",
+      "slug": "pitch-criei-um-site-de-compartilhamento-de-arte",
+      "owner_username": "giuseppe",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-05T16:32:54.268Z",
+      "url": "https://www.tabnews.com.br/giuseppe/pitch-criei-um-site-de-compartilhamento-de-arte"
+    },
+    {
+      "id": "da938471-d3a5-4a83-912d-8dd66d9c3c23",
+      "title": "Seu currículo pode estar escondendo exatamente o que faz você ser sênior",
+      "slug": "seu-curriculo-pode-estar-escondendo-exatamente-o-que-faz-voce-ser-senior",
+      "owner_username": "devvaluelab",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-10-03T02:56:46.078Z",
+      "url": "https://www.tabnews.com.br/devvaluelab/seu-curriculo-pode-estar-escondendo-exatamente-o-que-faz-voce-ser-senior"
+    },
+    {
+      "id": "98317c41-02c0-41b8-a16d-60feb9da05c9",
+      "title": "[Pitch] Usando a base aberta da Receita pra achar quem abriu CNPJ nos últimos 60 dias",
+      "slug": "pitch-usando-a-base-aberta-da-receita-pra-achar-quem-abriu-cnpj-nos-ultimos-60-dias",
+      "owner_username": "mazxy",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 6,
+      "published_at": "2026-10-03T16:31:33.789Z",
+      "url": "https://www.tabnews.com.br/mazxy/pitch-usando-a-base-aberta-da-receita-pra-achar-quem-abriu-cnpj-nos-ultimos-60-dias"
+    },
     {
       "id": "86904a73-9cc7-4084-b9bf-9053d4064fb9",
       "title": "Criando um Identificador de Fontes Gratuito por IA no Edge (Sem Paywall)",
@@ -13,103 +90,26 @@
       "url": "https://www.tabnews.com.br/hardiksharmaai/criando-um-identificador-de-fontes-gratuito-por-ia-no-edge-sem-paywall"
     },
     {
-      "id": "4dd5f733-b9ec-4949-99bd-75cae4a94bd9",
-      "title": "Pitch: 5 pegadinhas ao converter XML de NF-e em planilha (com código Python)",
-      "slug": "pitch-5-pegadinhas-ao-converter-xml-de-nf-e-em-planilha-com-codigo-python",
-      "owner_username": "brasilutils",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-04T13:08:58.244Z",
-      "url": "https://www.tabnews.com.br/brasilutils/pitch-5-pegadinhas-ao-converter-xml-de-nf-e-em-planilha-com-codigo-python"
-    },
-    {
-      "id": "829a1e8f-996a-40b5-807f-77b916d10d93",
-      "title": "Pitch: CriAI — o mesmo app, três caras: a IA cria um app sob medida que roda no seu iPhone. O que aprendi construindo sozinho",
-      "slug": "pitch-criai-o-mesmo-app-tres-caras-a-ia-cria-um-app-sob-medida-que-roda-no-seu-iphone-o-que-aprendi-construindo-sozinho",
-      "owner_username": "casrenat",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-04T12:16:57.373Z",
-      "url": "https://www.tabnews.com.br/casrenat/pitch-criai-o-mesmo-app-tres-caras-a-ia-cria-um-app-sob-medida-que-roda-no-seu-iphone-o-que-aprendi-construindo-sozinho"
-    },
-    {
-      "id": "da938471-d3a5-4a83-912d-8dd66d9c3c23",
-      "title": "Seu currículo pode estar escondendo exatamente o que faz você ser sênior",
-      "slug": "seu-curriculo-pode-estar-escondendo-exatamente-o-que-faz-voce-ser-senior",
-      "owner_username": "devvaluelab",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-10-03T02:56:46.078Z",
-      "url": "https://www.tabnews.com.br/devvaluelab/seu-curriculo-pode-estar-escondendo-exatamente-o-que-faz-voce-ser-senior"
-    },
-    {
-      "id": "8ce647cb-7158-4f93-b5dd-db98e3d63da6",
-      "title": "[TabNews – Postmortem] XSS no feed RSS e CSRF na API",
-      "slug": "tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api",
-      "owner_username": "rafael",
-      "source_url": null,
-      "tabcoins": 18,
-      "children_deep_count": 2,
-      "published_at": "2026-10-02T11:34:06.360Z",
-      "url": "https://www.tabnews.com.br/rafael/tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api"
-    },
-    {
-      "id": "3c46f08f-2f5d-4eb9-916a-1849cbe38c98",
-      "title": "Google anuncia Gemini 4 Argon",
-      "slug": "google-anuncia-gemini-4-argon",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-10-01T15:10:08.738Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/google-anuncia-gemini-4-argon"
-    },
-    {
-      "id": "b9ba707d-3618-4c0d-96e4-c0ce17d7699b",
-      "title": "Programar não é sobre a linguagem X, é sobre resolução de problemas",
-      "slug": "programar-nao-e-sobre-a-linguagem-x-e-sobre-resolucao-de-problemas",
-      "owner_username": "JoseCarlos67",
-      "source_url": "https://www.youtube.com/watch?v=UuIEbpQms8o&list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6&index=2",
-      "tabcoins": 5,
-      "children_deep_count": 3,
-      "published_at": "2026-10-01T19:19:11.934Z",
-      "url": "https://www.tabnews.com.br/JoseCarlos67/programar-nao-e-sobre-a-linguagem-x-e-sobre-resolucao-de-problemas"
-    },
-    {
-      "id": "5a32a515-421c-4609-9f30-5b124415fa82",
-      "title": "Comissão Federal de Comércio dos EUA abre investigação contra empresas de IA, incluindo OpenAI e Anthropic, após recentes invasões cibernéticas realizadas por agentes autônomos",
-      "slug": "comissao-federal-de-comercio-dos-eua-abre-investigacao-contra-empresas-de-ia-incluindo-openai-e-anthropic-apos-recentes-invasoes-ciberneticas-realizadas-po",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
-      "tabcoins": 4,
-      "children_deep_count": 4,
-      "published_at": "2026-10-01T15:15:09.298Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/comissao-federal-de-comercio-dos-eua-abre-investigacao-contra-empresas-de-ia-incluindo-openai-e-anthropic-apos-recentes-invasoes-ciberneticas-realizadas-po"
-    },
-    {
-      "id": "a93aa62a-c7bd-4605-8847-9b56c0ad236a",
-      "title": "31 de janeiro + 1 mês: o bug que encontrei comparando JavaScript e Python",
-      "slug": "31-de-janeiro-1-mes-o-bug-que-encontrei-comparando-javascript-e-python",
-      "owner_username": "PraDev",
-      "source_url": "https://pradev.com.br/guias/somar-meses-e-calcular-idade-sem-erro",
-      "tabcoins": 4,
-      "children_deep_count": 4,
-      "published_at": "2026-10-01T20:15:33.930Z",
-      "url": "https://www.tabnews.com.br/PraDev/31-de-janeiro-1-mes-o-bug-que-encontrei-comparando-javascript-e-python"
-    },
-    {
-      "id": "3eed75b2-2afb-49e2-b7e7-03c9949a85ed",
-      "title": "[Pitch] Um ano depois: o Quickpost foi de 550 para 801 usuários e ganhou um chat",
-      "slug": "um-ano-depois-o-quickpost-foi-de-550-para-801-usuarios-e-ganhou-um-chat",
-      "owner_username": "Random241",
-      "source_url": null,
+      "id": "3486817e-f86d-414b-853f-2df677282a99",
+      "title": "Reverse-Engineered Acer FOTA & Stock Firmware Extractor: Como extraí firmwares oficiais de fábrica direto da AWS S3",
+      "slug": "reverse-engineered-acer-fota-e-stock-firmware-extractor-como-extrai-firmwares-oficiais-de-fabrica-direto-da-aws-s3",
+      "owner_username": "despensativo",
+      "source_url": "https://github.com/Despensativo/acer-predator-fota-extractor",
       "tabcoins": 3,
-      "children_deep_count": 8,
-      "published_at": "2026-10-02T12:23:40.190Z",
-      "url": "https://www.tabnews.com.br/Random241/um-ano-depois-o-quickpost-foi-de-550-para-801-usuarios-e-ganhou-um-chat"
+      "children_deep_count": 0,
+      "published_at": "2026-10-02T20:21:40.983Z",
+      "url": "https://www.tabnews.com.br/despensativo/reverse-engineered-acer-fota-e-stock-firmware-extractor-como-extrai-firmwares-oficiais-de-fabrica-direto-da-aws-s3"
+    },
+    {
+      "id": "55e0f0c3-c31e-401d-9abf-b7ddecc5e976",
+      "title": "15 anos de Git e depois Jujutsu: por que não consigo mais voltar",
+      "slug": "15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar",
+      "owner_username": "oukayuka",
+      "source_url": "https://juju-chu.com/pt/blog/15years-git-then-jujutsu",
+      "tabcoins": 19,
+      "children_deep_count": 3,
+      "published_at": "2026-09-30T03:18:22.905Z",
+      "url": "https://www.tabnews.com.br/oukayuka/15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar"
     }
   ]
 }
