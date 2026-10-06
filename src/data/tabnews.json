@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T17:37:00.179Z",
+  "updated_at": "2026-10-06T15:34:58.460Z",
   "posts": [
     {
       "id": "d60939ec-7233-471e-8e95-4b9801b3e170",
@@ -7,21 +7,21 @@
       "slug": "como-funciona-a-urna-eletronica-brasileira-o-que-acontece-quando-voce-aperta-confirma-na-urna-30-anos-de-urna-eletronica-o-que-mudou-de-1996-ate-agora",
       "owner_username": "MrJ",
       "source_url": "https://crom.run/blog/como-funciona-a-urna-eletronica-brasileira-o-que-acontece-quando-voce-aperta-confirma-na-urna-30-anos-de-urna-eletronica-o-que-mudou-de-1996-ate-agora-a-urna-nao-transmite-nada-entao-como-o-tse-soma-os-votos",
-      "tabcoins": 11,
-      "children_deep_count": 3,
+      "tabcoins": 16,
+      "children_deep_count": 4,
       "published_at": "2026-10-05T04:43:41.873Z",
       "url": "https://www.tabnews.com.br/MrJ/como-funciona-a-urna-eletronica-brasileira-o-que-acontece-quando-voce-aperta-confirma-na-urna-30-anos-de-urna-eletronica-o-que-mudou-de-1996-ate-agora"
     },
     {
-      "id": "76f9ebd9-bdcb-43e3-8a1f-07035b324fe5",
-      "title": "[PITCH] - PULL-REQUEST",
-      "slug": "pitch-pull-request",
-      "owner_username": "RodrigoSchioMuniz",
-      "source_url": "https://github.com/RodrigoSchioMuniz/procedimentos/issues",
-      "tabcoins": 1,
+      "id": "07aa0979-fc3c-4b1a-9eb6-cd8ec12eeb28",
+      "title": "Pitch: Estou construindo o Orinonu e buscando colaboradores para evoluir agentes de IA",
+      "slug": "estou-construindo-o-orinonu-e-buscando-colaboradores-para-evoluir-agentes-de-ia",
+      "owner_username": "OriInonu",
+      "source_url": "https://github.com/Orinonu/orinonu",
+      "tabcoins": 4,
       "children_deep_count": 0,
-      "published_at": "2026-10-05T17:06:29.611Z",
-      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/pitch-pull-request"
+      "published_at": "2026-10-05T22:15:47.078Z",
+      "url": "https://www.tabnews.com.br/OriInonu/estou-construindo-o-orinonu-e-buscando-colaboradores-para-evoluir-agentes-de-ia"
     },
     {
       "id": "1471002f-a13e-4cdf-80ac-9036d7bf562c",
@@ -29,43 +29,54 @@
       "slug": "como-recortar-uma-foto-3x4-pela-norma-usando-so-o-navegador-mediapipe-sem-enviar-a-foto-para-servidor",
       "owner_username": "rubin",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 3,
+      "children_deep_count": 4,
       "published_at": "2026-10-05T16:42:52.093Z",
       "url": "https://www.tabnews.com.br/rubin/como-recortar-uma-foto-3x4-pela-norma-usando-so-o-navegador-mediapipe-sem-enviar-a-foto-para-servidor"
     },
     {
-      "id": "fcde781b-e0a1-4c3c-9ef2-3155ff57e6f7",
-      "title": "[Pitch] Criei o Floani para animar diagramas e explicar sistemas",
-      "slug": "pitch-criei-o-floani-para-animar-diagramas-e-explicar-sistemas",
-      "owner_username": "elberrd",
+      "id": "2d8133cd-c253-41e3-a0ec-f4acbf54b8b3",
+      "title": "Atualização do site example.com",
+      "slug": "atualizacao-do-site-example-com",
+      "owner_username": "mstrey",
       "source_url": null,
       "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-05T16:35:05.855Z",
-      "url": "https://www.tabnews.com.br/elberrd/pitch-criei-o-floani-para-animar-diagramas-e-explicar-sistemas"
+      "children_deep_count": 5,
+      "published_at": "2026-10-06T13:41:03.297Z",
+      "url": "https://www.tabnews.com.br/mstrey/atualizacao-do-site-example-com"
     },
     {
-      "id": "65e57240-5cb2-4281-98e1-83bd617c80e7",
-      "title": "[Pitch] Criei um site de compartilhamento de arte",
-      "slug": "pitch-criei-um-site-de-compartilhamento-de-arte",
-      "owner_username": "giuseppe",
-      "source_url": null,
+      "id": "4966d690-d5f8-437a-bd5f-7a2370738872",
+      "title": "Openheinerss: O Maestro Universal de AI Coding Agents Harness - Orquestrador de cli's e sdk's oficiais - AGY, claude-code, codex, aider, opencode",
+      "slug": "openheinerss-o-maestro-universal-de-ai-coding-agents-harness-orquestrador-de-clis-e-sdks-oficiais-agy-claude-code-codex-aider-opencode",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/openheinerss-o-maestro-universal-de-ai-coding-agents-harness-orquestrador-de-clis-e-sdks-oficiais-agy-claude-code-codex-aider-opencode",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-05T16:32:54.268Z",
-      "url": "https://www.tabnews.com.br/giuseppe/pitch-criei-um-site-de-compartilhamento-de-arte"
+      "published_at": "2026-10-06T15:00:18.245Z",
+      "url": "https://www.tabnews.com.br/MrJ/openheinerss-o-maestro-universal-de-ai-coding-agents-harness-orquestrador-de-clis-e-sdks-oficiais-agy-claude-code-codex-aider-opencode"
     },
     {
-      "id": "da938471-d3a5-4a83-912d-8dd66d9c3c23",
-      "title": "Seu currículo pode estar escondendo exatamente o que faz você ser sênior",
-      "slug": "seu-curriculo-pode-estar-escondendo-exatamente-o-que-faz-voce-ser-senior",
-      "owner_username": "devvaluelab",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-10-03T02:56:46.078Z",
-      "url": "https://www.tabnews.com.br/devvaluelab/seu-curriculo-pode-estar-escondendo-exatamente-o-que-faz-voce-ser-senior"
+      "id": "8c06b9bc-9151-4b81-bed7-183d912e4c3d",
+      "title": "Google anuncia mudanças no acesso aos modelos do Gemini nos planos gratuito e pagos",
+      "slug": "google-anuncia-mudancas-no-acesso-aos-modelos-do-gemini-nos-planos-gratuito-e-pagos",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://tecnoblog.net/noticias/gemini-vai-ficar-mais-limitado-para-usuarios-de-contas-gratuitas/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-06T15:00:06.976Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/google-anuncia-mudancas-no-acesso-aos-modelos-do-gemini-nos-planos-gratuito-e-pagos"
+    },
+    {
+      "id": "13d6f55a-530d-42ef-beee-15ae75f3079f",
+      "title": "Por que continuo escolhendo o Jujutsu mesmo com a IA cuidando do Git",
+      "slug": "por-que-continuo-escolhendo-o-jujutsu-mesmo-com-a-ia-cuidando-do-git",
+      "owner_username": "oukayuka",
+      "source_url": "https://juju-chu.com/pt/blog/why-jj-when-ai-runs-git",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-06T13:07:03.775Z",
+      "url": "https://www.tabnews.com.br/oukayuka/por-que-continuo-escolhendo-o-jujutsu-mesmo-com-a-ia-cuidando-do-git"
     },
     {
       "id": "98317c41-02c0-41b8-a16d-60feb9da05c9",
@@ -79,28 +90,6 @@
       "url": "https://www.tabnews.com.br/mazxy/pitch-usando-a-base-aberta-da-receita-pra-achar-quem-abriu-cnpj-nos-ultimos-60-dias"
     },
     {
-      "id": "86904a73-9cc7-4084-b9bf-9053d4064fb9",
-      "title": "Criando um Identificador de Fontes Gratuito por IA no Edge (Sem Paywall)",
-      "slug": "criando-um-identificador-de-fontes-gratuito-por-ia-no-edge-sem-paywall",
-      "owner_username": "hardiksharmaai",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-10-03T15:32:17.298Z",
-      "url": "https://www.tabnews.com.br/hardiksharmaai/criando-um-identificador-de-fontes-gratuito-por-ia-no-edge-sem-paywall"
-    },
-    {
-      "id": "3486817e-f86d-414b-853f-2df677282a99",
-      "title": "Reverse-Engineered Acer FOTA & Stock Firmware Extractor: Como extraí firmwares oficiais de fábrica direto da AWS S3",
-      "slug": "reverse-engineered-acer-fota-e-stock-firmware-extractor-como-extrai-firmwares-oficiais-de-fabrica-direto-da-aws-s3",
-      "owner_username": "despensativo",
-      "source_url": "https://github.com/Despensativo/acer-predator-fota-extractor",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-10-02T20:21:40.983Z",
-      "url": "https://www.tabnews.com.br/despensativo/reverse-engineered-acer-fota-e-stock-firmware-extractor-como-extrai-firmwares-oficiais-de-fabrica-direto-da-aws-s3"
-    },
-    {
       "id": "55e0f0c3-c31e-401d-9abf-b7ddecc5e976",
       "title": "15 anos de Git e depois Jujutsu: por que não consigo mais voltar",
       "slug": "15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar",
@@ -110,6 +99,17 @@
       "children_deep_count": 3,
       "published_at": "2026-09-30T03:18:22.905Z",
       "url": "https://www.tabnews.com.br/oukayuka/15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar"
+    },
+    {
+      "id": "8ce647cb-7158-4f93-b5dd-db98e3d63da6",
+      "title": "[TabNews – Postmortem] XSS no feed RSS e CSRF na API",
+      "slug": "tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api",
+      "owner_username": "rafael",
+      "source_url": null,
+      "tabcoins": 19,
+      "children_deep_count": 2,
+      "published_at": "2026-10-02T11:34:06.360Z",
+      "url": "https://www.tabnews.com.br/rafael/tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api"
     }
   ]
 }
