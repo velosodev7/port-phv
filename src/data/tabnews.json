@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-10-06T15:34:58.460Z",
+  "updated_at": "2026-10-07T15:55:27.551Z",
   "posts": [
+    {
+      "id": "91713ed3-c911-45bf-bcc2-827f948c49b6",
+      "title": "Meu novo portfolio",
+      "slug": "meu-novo-portfolio",
+      "owner_username": "MageVgl",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 5,
+      "published_at": "2026-10-07T06:59:51.746Z",
+      "url": "https://www.tabnews.com.br/MageVgl/meu-novo-portfolio"
+    },
+    {
+      "id": "e70f77f5-5fe6-4364-ada8-2c41d79f5931",
+      "title": "Pitch: Fiz uma CLI que transforma seu PC num \"AirDrop\" com um QR code no terminal",
+      "slug": "fiz-uma-cli-que-transforma-seu-pc-num-airdrop-com-um-qr-code-no-terminal",
+      "owner_username": "zrdep",
+      "source_url": "https://github.com/zrdep/chegou",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-10-06T20:29:11.854Z",
+      "url": "https://www.tabnews.com.br/zrdep/fiz-uma-cli-que-transforma-seu-pc-num-airdrop-com-um-qr-code-no-terminal"
+    },
+    {
+      "id": "8c07373c-56d4-4660-b6f4-6ab63c99faf0",
+      "title": "Encontrei empresas com o problema. E mesmo assim elas não precisavam da minha solução.",
+      "slug": "encontrei-empresas-com-o-problema-e-mesmo-assim-elas-nao-precisavam-da-minha-solucao",
+      "owner_username": "eventhorizon",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 5,
+      "published_at": "2026-10-06T16:39:04.270Z",
+      "url": "https://www.tabnews.com.br/eventhorizon/encontrei-empresas-com-o-problema-e-mesmo-assim-elas-nao-precisavam-da-minha-solucao"
+    },
+    {
+      "id": "d19b21f5-cb37-4069-9597-3d57846e5b3b",
+      "title": "Desenvolvedor lança alternativas gratuitas e de código aberto a sete aplicativos da Adobe, escritas em Rust",
+      "slug": "desenvolvedor-lanca-alternativas-gratuitas-e-de-codigo-aberto-a-sete-aplicativos-da-adobe-escritas-em-rust",
+      "owner_username": "NewsletterOficial",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-10-07T14:35:04.975Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/desenvolvedor-lanca-alternativas-gratuitas-e-de-codigo-aberto-a-sete-aplicativos-da-adobe-escritas-em-rust"
+    },
+    {
+      "id": "8e9235b1-7574-4bcc-943b-5e1a7d4468a7",
+      "title": "[Pitch] Criei a AAL (Agent Architecture Language): uma especificação em YAML para desenhar sistemas de IA",
+      "slug": "pitch-criei-a-aal-agent-architecture-language-uma-especificacao-em-yaml-para-desenhar-sistemas-de-ia",
+      "owner_username": "arpavan",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-10-07T13:14:40.504Z",
+      "url": "https://www.tabnews.com.br/arpavan/pitch-criei-a-aal-agent-architecture-language-uma-especificacao-em-yaml-para-desenhar-sistemas-de-ia"
+    },
+    {
+      "id": "8a938c6e-8357-4565-bbab-83a22e54e823",
+      "title": "Aquisição da Warner pela Paramount, por 111 bilhões de dólares, é oficialmente concluída",
+      "slug": "aquisicao-da-warner-pela-paramount-por-111-bilhoes-de-dolares-e-oficialmente-concluida",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://tecnoblog.net/noticias/skydance-nasce-apos-fusao-de-paramount-e-warner/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-07T14:55:07.375Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/aquisicao-da-warner-pela-paramount-por-111-bilhoes-de-dolares-e-oficialmente-concluida"
+    },
+    {
+      "id": "e5deae85-038e-4cc0-ac50-3cb06ecc06f3",
+      "title": "Criei meu próprio app de finanças porque cansei de me perder no cartão de crédito (e queria o feedback de vocês)",
+      "slug": "criei-meu-proprio-app-de-financas-porque-cansei-de-me-perder-no-cartao-de-credito-e-queria-o-feedback-de-voces",
+      "owner_username": "Clovin",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-07T13:37:19.452Z",
+      "url": "https://www.tabnews.com.br/Clovin/criei-meu-proprio-app-de-financas-porque-cansei-de-me-perder-no-cartao-de-credito-e-queria-o-feedback-de-voces"
+    },
+    {
+      "id": "41578d6d-57f1-4373-ba42-a2fec002ba33",
+      "title": "Flare ou Sunburst? Teste a edição completa antes de escolher",
+      "slug": "flare-ou-sunburst-teste-a-edicao-completa-antes-de-escolher",
+      "owner_username": "Centelha",
+      "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-07T13:21:16.752Z",
+      "url": "https://www.tabnews.com.br/Centelha/flare-ou-sunburst-teste-a-edicao-completa-antes-de-escolher"
+    },
+    {
+      "id": "aee2e241-5add-41fc-abad-00d189fb9fb9",
+      "title": "CLAUDE.md em equipe: 7 padrões e 3 armadilhas",
+      "slug": "claude-md-em-equipe-7-padroes-e-3-armadilhas",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/claude-md-time-7-padroes-3-quebras/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-07T12:00:03.457Z",
+      "url": "https://www.tabnews.com.br/kenimo49/claude-md-em-equipe-7-padroes-e-3-armadilhas"
+    },
     {
       "id": "d60939ec-7233-471e-8e95-4b9801b3e170",
       "title": "🗳️ Como funciona a urna eletrônica brasileira - O que acontece quando você aperta Confirma na urna - 30 anos de urna eletrônica: o que mudou de 1996 até agora - A urna não transmite nada. Então como o TSE soma os votos?",
@@ -11,105 +110,6 @@
       "children_deep_count": 4,
       "published_at": "2026-10-05T04:43:41.873Z",
       "url": "https://www.tabnews.com.br/MrJ/como-funciona-a-urna-eletronica-brasileira-o-que-acontece-quando-voce-aperta-confirma-na-urna-30-anos-de-urna-eletronica-o-que-mudou-de-1996-ate-agora"
-    },
-    {
-      "id": "07aa0979-fc3c-4b1a-9eb6-cd8ec12eeb28",
-      "title": "Pitch: Estou construindo o Orinonu e buscando colaboradores para evoluir agentes de IA",
-      "slug": "estou-construindo-o-orinonu-e-buscando-colaboradores-para-evoluir-agentes-de-ia",
-      "owner_username": "OriInonu",
-      "source_url": "https://github.com/Orinonu/orinonu",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-10-05T22:15:47.078Z",
-      "url": "https://www.tabnews.com.br/OriInonu/estou-construindo-o-orinonu-e-buscando-colaboradores-para-evoluir-agentes-de-ia"
-    },
-    {
-      "id": "1471002f-a13e-4cdf-80ac-9036d7bf562c",
-      "title": "Como recortar uma foto 3x4 pela norma usando só o navegador (MediaPipe, sem enviar a foto para servidor)",
-      "slug": "como-recortar-uma-foto-3x4-pela-norma-usando-so-o-navegador-mediapipe-sem-enviar-a-foto-para-servidor",
-      "owner_username": "rubin",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 4,
-      "published_at": "2026-10-05T16:42:52.093Z",
-      "url": "https://www.tabnews.com.br/rubin/como-recortar-uma-foto-3x4-pela-norma-usando-so-o-navegador-mediapipe-sem-enviar-a-foto-para-servidor"
-    },
-    {
-      "id": "2d8133cd-c253-41e3-a0ec-f4acbf54b8b3",
-      "title": "Atualização do site example.com",
-      "slug": "atualizacao-do-site-example-com",
-      "owner_username": "mstrey",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 5,
-      "published_at": "2026-10-06T13:41:03.297Z",
-      "url": "https://www.tabnews.com.br/mstrey/atualizacao-do-site-example-com"
-    },
-    {
-      "id": "4966d690-d5f8-437a-bd5f-7a2370738872",
-      "title": "Openheinerss: O Maestro Universal de AI Coding Agents Harness - Orquestrador de cli's e sdk's oficiais - AGY, claude-code, codex, aider, opencode",
-      "slug": "openheinerss-o-maestro-universal-de-ai-coding-agents-harness-orquestrador-de-clis-e-sdks-oficiais-agy-claude-code-codex-aider-opencode",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/blog/openheinerss-o-maestro-universal-de-ai-coding-agents-harness-orquestrador-de-clis-e-sdks-oficiais-agy-claude-code-codex-aider-opencode",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-06T15:00:18.245Z",
-      "url": "https://www.tabnews.com.br/MrJ/openheinerss-o-maestro-universal-de-ai-coding-agents-harness-orquestrador-de-clis-e-sdks-oficiais-agy-claude-code-codex-aider-opencode"
-    },
-    {
-      "id": "8c06b9bc-9151-4b81-bed7-183d912e4c3d",
-      "title": "Google anuncia mudanças no acesso aos modelos do Gemini nos planos gratuito e pagos",
-      "slug": "google-anuncia-mudancas-no-acesso-aos-modelos-do-gemini-nos-planos-gratuito-e-pagos",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://tecnoblog.net/noticias/gemini-vai-ficar-mais-limitado-para-usuarios-de-contas-gratuitas/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-06T15:00:06.976Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/google-anuncia-mudancas-no-acesso-aos-modelos-do-gemini-nos-planos-gratuito-e-pagos"
-    },
-    {
-      "id": "13d6f55a-530d-42ef-beee-15ae75f3079f",
-      "title": "Por que continuo escolhendo o Jujutsu mesmo com a IA cuidando do Git",
-      "slug": "por-que-continuo-escolhendo-o-jujutsu-mesmo-com-a-ia-cuidando-do-git",
-      "owner_username": "oukayuka",
-      "source_url": "https://juju-chu.com/pt/blog/why-jj-when-ai-runs-git",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-06T13:07:03.775Z",
-      "url": "https://www.tabnews.com.br/oukayuka/por-que-continuo-escolhendo-o-jujutsu-mesmo-com-a-ia-cuidando-do-git"
-    },
-    {
-      "id": "98317c41-02c0-41b8-a16d-60feb9da05c9",
-      "title": "[Pitch] Usando a base aberta da Receita pra achar quem abriu CNPJ nos últimos 60 dias",
-      "slug": "pitch-usando-a-base-aberta-da-receita-pra-achar-quem-abriu-cnpj-nos-ultimos-60-dias",
-      "owner_username": "mazxy",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 6,
-      "published_at": "2026-10-03T16:31:33.789Z",
-      "url": "https://www.tabnews.com.br/mazxy/pitch-usando-a-base-aberta-da-receita-pra-achar-quem-abriu-cnpj-nos-ultimos-60-dias"
-    },
-    {
-      "id": "55e0f0c3-c31e-401d-9abf-b7ddecc5e976",
-      "title": "15 anos de Git e depois Jujutsu: por que não consigo mais voltar",
-      "slug": "15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar",
-      "owner_username": "oukayuka",
-      "source_url": "https://juju-chu.com/pt/blog/15years-git-then-jujutsu",
-      "tabcoins": 19,
-      "children_deep_count": 3,
-      "published_at": "2026-09-30T03:18:22.905Z",
-      "url": "https://www.tabnews.com.br/oukayuka/15-anos-de-git-e-depois-jujutsu-por-que-nao-consigo-mais-voltar"
-    },
-    {
-      "id": "8ce647cb-7158-4f93-b5dd-db98e3d63da6",
-      "title": "[TabNews – Postmortem] XSS no feed RSS e CSRF na API",
-      "slug": "tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api",
-      "owner_username": "rafael",
-      "source_url": null,
-      "tabcoins": 19,
-      "children_deep_count": 2,
-      "published_at": "2026-10-02T11:34:06.360Z",
-      "url": "https://www.tabnews.com.br/rafael/tabnews-postmortem-xss-no-feed-rss-e-csrf-na-api"
     }
   ]
 }
