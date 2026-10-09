@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-10-08T15:58:13.126Z",
+  "updated_at": "2026-10-09T15:40:42.247Z",
   "posts": [
+    {
+      "id": "8642b93c-10ff-45cc-9a87-447d32d12672",
+      "title": "Foi o meu primeiro site",
+      "slug": "foi-o-meu-primeiro-site",
+      "owner_username": "ArthurOlivern",
+      "source_url": "https://mori2130.github.io/Tudo-sobre-transtornos/",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-10-08T22:32:06.126Z",
+      "url": "https://www.tabnews.com.br/ArthurOlivern/foi-o-meu-primeiro-site"
+    },
+    {
+      "id": "d862ac33-7774-403f-bb40-9e018ab2a4fc",
+      "title": "Filtro duplo de IA no PR: CodeRabbit + Claude Code Action cortaram 47% dos comentários humanos (ch10)",
+      "slug": "filtro-duplo-de-ia-no-pr-coderabbit-claude-code-action-cortaram-47-por-cento-dos-comentarios-humanos-ch10",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/filtro-duplo-ia-pr-coderabbit-claude-code-action-cortou-47/",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-10-09T12:00:04.370Z",
+      "url": "https://www.tabnews.com.br/kenimo49/filtro-duplo-de-ia-no-pr-coderabbit-claude-code-action-cortaram-47-por-cento-dos-comentarios-humanos-ch10"
+    },
+    {
+      "id": "96743b35-f4e6-4b4e-ac71-b3435f6c6545",
+      "title": "O prazer de criar",
+      "slug": "o-prazer-de-criar",
+      "owner_username": "marlon",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-10-09T02:07:15.565Z",
+      "url": "https://www.tabnews.com.br/marlon/o-prazer-de-criar"
+    },
+    {
+      "id": "46a5a00b-2e2b-436c-aed5-866d792960f9",
+      "title": "Reaproveitando Smartphones Antigos como Servidores de IA de Borda com Linux (PostmarketOS / ARM64)",
+      "slug": "reaproveitando-smartphones-antigos-como-servidores-de-ia-de-borda-com-linux-postmarketos-arm64",
+      "owner_username": "EvandroCarvalho",
+      "source_url": "https://landingfymax.com.br/inteligencia-artificial/edge-ai-smartphones-antigos-linux-postmarketos-2026",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-10-09T01:02:16.137Z",
+      "url": "https://www.tabnews.com.br/EvandroCarvalho/reaproveitando-smartphones-antigos-como-servidores-de-ia-de-borda-com-linux-postmarketos-arm64"
+    },
+    {
+      "id": "b85c97ee-b9cd-4f77-8310-a80911bee55e",
+      "title": "Como Montar um SIEM Doméstico no Linux com Detecção de Intrusos ARP e Fabricante OUI",
+      "slug": "como-montar-um-siem-domestico-no-linux-com-deteccao-de-intrusos-arp-e-fabricante-oui",
+      "owner_username": "EvandroCarvalho",
+      "source_url": "https://landingfymax.com.br/tutoriais/tutorial-montar-siem-domestico-arp-oui-linux-2026",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-10-09T01:01:08.264Z",
+      "url": "https://www.tabnews.com.br/EvandroCarvalho/como-montar-um-siem-domestico-no-linux-com-deteccao-de-intrusos-arp-e-fabricante-oui"
+    },
+    {
+      "id": "a802ab6e-55dd-4103-9ff0-0f928de89cf5",
+      "title": "SpaceX quer transformar Starlink Mobile em uma grande operadora de telefonia móvel nos EUA",
+      "slug": "spacex-quer-transformar-starlink-mobile-em-uma-grande-operadora-de-telefonia-movel-nos-eua",
+      "owner_username": "NewsletterOficial",
+      "source_url": "http://archive.today/2026.10.09-114442/https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-09T15:05:07.602Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/spacex-quer-transformar-starlink-mobile-em-uma-grande-operadora-de-telefonia-movel-nos-eua"
+    },
+    {
+      "id": "a4be0a38-bf85-4a2d-92ea-f1253c280b25",
+      "title": "Pitch: DatI — Transforme bancos de dados em serviços MCP seguros e semanticamente enriquecidos",
+      "slug": "pitch-dati-transforme-bancos-de-dados-em-servicos-mcp-seguros-e-semanticamente-enriquecidos",
+      "owner_username": "yimindev",
+      "source_url": "https://github.com/yimindev/dati",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-09T14:58:07.520Z",
+      "url": "https://www.tabnews.com.br/yimindev/pitch-dati-transforme-bancos-de-dados-em-servicos-mcp-seguros-e-semanticamente-enriquecidos"
+    },
+    {
+      "id": "07da9897-93a1-47fe-9268-6ccdeb291960",
+      "title": "Deno se junta à Cloudflare; e o runtime tem apenas mais 1 ano de suporte oficial",
+      "slug": "deno-se-junta-a-cloudflare-e-o-runtime-tem-apenas-mais-1-ano-de-suporte-oficial",
+      "owner_username": "rafael",
+      "source_url": "https://deno.com/blog/cloudflare",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-09T14:23:23.976Z",
+      "url": "https://www.tabnews.com.br/rafael/deno-se-junta-a-cloudflare-e-o-runtime-tem-apenas-mais-1-ano-de-suporte-oficial"
+    },
+    {
+      "id": "e87699b6-d463-4a17-9df1-0ef25bb46144",
+      "title": "Reflexão do dia",
+      "slug": "reflexao-do-dia",
+      "owner_username": "OutroHelder",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-09T13:41:29.785Z",
+      "url": "https://www.tabnews.com.br/OutroHelder/reflexao-do-dia"
+    },
     {
       "id": "91713ed3-c911-45bf-bcc2-827f948c49b6",
       "title": "Meu novo portfolio",
       "slug": "meu-novo-portfolio",
       "owner_username": "MageVgl",
       "source_url": null,
-      "tabcoins": 10,
-      "children_deep_count": 12,
+      "tabcoins": 12,
+      "children_deep_count": 15,
       "published_at": "2026-10-07T06:59:51.746Z",
       "url": "https://www.tabnews.com.br/MageVgl/meu-novo-portfolio"
-    },
-    {
-      "id": "d19b21f5-cb37-4069-9597-3d57846e5b3b",
-      "title": "Desenvolvedor lança alternativas gratuitas e de código aberto a sete aplicativos da Adobe, escritas em Rust",
-      "slug": "desenvolvedor-lanca-alternativas-gratuitas-e-de-codigo-aberto-a-sete-aplicativos-da-adobe-escritas-em-rust",
-      "owner_username": "NewsletterOficial",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 5,
-      "published_at": "2026-10-07T14:35:04.975Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/desenvolvedor-lanca-alternativas-gratuitas-e-de-codigo-aberto-a-sete-aplicativos-da-adobe-escritas-em-rust"
-    },
-    {
-      "id": "aab39756-eb96-4cd4-b2b7-e71c5506303e",
-      "title": "OpenAI amplia acesso ao GPT-6 e lança interface interativa no ChatGPT",
-      "slug": "openai-amplia-acesso-ao-gpt-6-e-lanca-interface-interativa-no-chatgpt",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://openai.com/index/gpt-6-for-everyone/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-08T15:00:07.828Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/openai-amplia-acesso-ao-gpt-6-e-lanca-interface-interativa-no-chatgpt"
-    },
-    {
-      "id": "cdabee2d-57e1-4cdb-a79d-5d988751dde5",
-      "title": "Pitch: Construí uma plataforma para ensinar programação pelo celular, com Python, SQL e Flask rodando no navegador",
-      "slug": "construi-uma-plataforma-para-ensinar-programacao-pelo-celular-com-python-sql-e-flask-rodando-no-navegador",
-      "owner_username": "juniojacks",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-08T11:47:59.301Z",
-      "url": "https://www.tabnews.com.br/juniojacks/construi-uma-plataforma-para-ensinar-programacao-pelo-celular-com-python-sql-e-flask-rodando-no-navegador"
-    },
-    {
-      "id": "b210de5e-6a7f-4167-8ef1-2287323c50f7",
-      "title": "Pitch: Movimenta Saúde: UBS, UPA ou urgência?",
-      "slug": "movimenta-saude-ubs-upa-ou-urgencia",
-      "owner_username": "Maiconjss",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-08T11:47:03.597Z",
-      "url": "https://www.tabnews.com.br/Maiconjss/movimenta-saude-ubs-upa-ou-urgencia"
-    },
-    {
-      "id": "8e8b8eae-b3d4-4a3d-8fe5-8c6f26312008",
-      "title": "Pitch: Anonimato de verdade: por que fugimos de CDN e apostamos no Tor via Arti",
-      "slug": "anonimato-de-verdade-por-que-fugimos-de-cdn-e-apostamos-no-tor-via-arti",
-      "owner_username": "jgbispo",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-08T11:45:47.063Z",
-      "url": "https://www.tabnews.com.br/jgbispo/anonimato-de-verdade-por-que-fugimos-de-cdn-e-apostamos-no-tor-via-arti"
-    },
-    {
-      "id": "8e9235b1-7574-4bcc-943b-5e1a7d4468a7",
-      "title": "[Pitch] Criei a AAL (Agent Architecture Language): uma especificação em YAML para desenhar sistemas de IA",
-      "slug": "pitch-criei-a-aal-agent-architecture-language-uma-especificacao-em-yaml-para-desenhar-sistemas-de-ia",
-      "owner_username": "arpavan",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-10-07T13:14:40.504Z",
-      "url": "https://www.tabnews.com.br/arpavan/pitch-criei-a-aal-agent-architecture-language-uma-especificacao-em-yaml-para-desenhar-sistemas-de-ia"
-    },
-    {
-      "id": "e70f77f5-5fe6-4364-ada8-2c41d79f5931",
-      "title": "Pitch: Fiz uma CLI que transforma seu PC num \"AirDrop\" com um QR code no terminal",
-      "slug": "fiz-uma-cli-que-transforma-seu-pc-num-airdrop-com-um-qr-code-no-terminal",
-      "owner_username": "zrdep",
-      "source_url": "https://github.com/zrdep/chegou",
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-10-06T20:29:11.854Z",
-      "url": "https://www.tabnews.com.br/zrdep/fiz-uma-cli-que-transforma-seu-pc-num-airdrop-com-um-qr-code-no-terminal"
-    },
-    {
-      "id": "1471002f-a13e-4cdf-80ac-9036d7bf562c",
-      "title": "Como recortar uma foto 3x4 pela norma usando só o navegador (MediaPipe, sem enviar a foto para servidor)",
-      "slug": "como-recortar-uma-foto-3x4-pela-norma-usando-so-o-navegador-mediapipe-sem-enviar-a-foto-para-servidor",
-      "owner_username": "rubin",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 4,
-      "published_at": "2026-10-05T16:42:52.093Z",
-      "url": "https://www.tabnews.com.br/rubin/como-recortar-uma-foto-3x4-pela-norma-usando-so-o-navegador-mediapipe-sem-enviar-a-foto-para-servidor"
-    },
-    {
-      "id": "8c07373c-56d4-4660-b6f4-6ab63c99faf0",
-      "title": "Encontrei empresas com o problema. E mesmo assim elas não precisavam da minha solução.",
-      "slug": "encontrei-empresas-com-o-problema-e-mesmo-assim-elas-nao-precisavam-da-minha-solucao",
-      "owner_username": "eventhorizon",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 6,
-      "published_at": "2026-10-06T16:39:04.270Z",
-      "url": "https://www.tabnews.com.br/eventhorizon/encontrei-empresas-com-o-problema-e-mesmo-assim-elas-nao-precisavam-da-minha-solucao"
     }
   ]
 }
