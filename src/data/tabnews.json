@@ -1,16 +1,49 @@
 {
-  "updated_at": "2026-10-09T15:40:42.247Z",
+  "updated_at": "2026-10-10T14:55:33.368Z",
   "posts": [
     {
-      "id": "8642b93c-10ff-45cc-9a87-447d32d12672",
-      "title": "Foi o meu primeiro site",
-      "slug": "foi-o-meu-primeiro-site",
-      "owner_username": "ArthurOlivern",
-      "source_url": "https://mori2130.github.io/Tudo-sobre-transtornos/",
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-10-08T22:32:06.126Z",
-      "url": "https://www.tabnews.com.br/ArthurOlivern/foi-o-meu-primeiro-site"
+      "id": "a60a87fe-14a7-4bf2-8a50-5867f0446eb5",
+      "title": "Pitch: Criei um app de hábitos: Expo, SQLite local, TanStack Start no Cloudflare e marketing com IA",
+      "slug": "criei-um-app-de-habitos-sozinho-expo-sqlite-local-tanstack-start-no-cloudflare-e-marketing-com-ia",
+      "owner_username": "CarlosZiegler",
+      "source_url": "https://kada.day",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-10-10T08:34:48.118Z",
+      "url": "https://www.tabnews.com.br/CarlosZiegler/criei-um-app-de-habitos-sozinho-expo-sqlite-local-tanstack-start-no-cloudflare-e-marketing-com-ia"
+    },
+    {
+      "id": "a5d6d165-4f94-42c0-a57b-97fcd57031a4",
+      "title": "El Niño, Secas Relâmpago e Microclima: Como Proteger a Saúde no Ar Seco",
+      "slug": "el-nino-secas-relampago-e-microclima-como-proteger-a-saude-no-ar-seco",
+      "owner_username": "maldigital026",
+      "source_url": "https://melhorumidificadordear.com/umidificador-de-ar-seca-nordeste/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-10T14:05:04.465Z",
+      "url": "https://www.tabnews.com.br/maldigital026/el-nino-secas-relampago-e-microclima-como-proteger-a-saude-no-ar-seco"
+    },
+    {
+      "id": "2156fc21-43ef-4035-8aca-26b61e63b59c",
+      "title": "Como contornei estouro de memória (OOM) decifrando mídias pesadas 100% em RAM no mobile (+ a saga dos 14 dias do Google)",
+      "slug": "como-contornei-estouro-de-memoria-oom-decifrando-midias-pesadas-100-por-cento-em-ram-no-mobile-a-saga-dos-14-dias-do-google",
+      "owner_username": "Alexh",
+      "source_url": "https://www.criptoveu.com/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-10T13:57:53.096Z",
+      "url": "https://www.tabnews.com.br/Alexh/como-contornei-estouro-de-memoria-oom-decifrando-midias-pesadas-100-por-cento-em-ram-no-mobile-a-saga-dos-14-dias-do-google"
+    },
+    {
+      "id": "9ec102dd-4344-40a2-93aa-23b2158e391a",
+      "title": "Diário de desenvolvimento: separar visitas, prévias de links e falhas de analytics",
+      "slug": "diario-de-desenvolvimento-separar-visitas-previas-de-links-e-falhas-de-analytics",
+      "owner_username": "plopino",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-10T09:30:46.614Z",
+      "url": "https://www.tabnews.com.br/plopino/diario-de-desenvolvimento-separar-visitas-previas-de-links-e-falhas-de-analytics"
     },
     {
       "id": "d862ac33-7774-403f-bb40-9e018ab2a4fc",
@@ -24,6 +57,28 @@
       "url": "https://www.tabnews.com.br/kenimo49/filtro-duplo-de-ia-no-pr-coderabbit-claude-code-action-cortaram-47-por-cento-dos-comentarios-humanos-ch10"
     },
     {
+      "id": "8642b93c-10ff-45cc-9a87-447d32d12672",
+      "title": "Foi o meu primeiro site",
+      "slug": "foi-o-meu-primeiro-site",
+      "owner_username": "ArthurOlivern",
+      "source_url": "https://mori2130.github.io/Tudo-sobre-transtornos/",
+      "tabcoins": 9,
+      "children_deep_count": 3,
+      "published_at": "2026-10-08T22:32:06.126Z",
+      "url": "https://www.tabnews.com.br/ArthurOlivern/foi-o-meu-primeiro-site"
+    },
+    {
+      "id": "46a5a00b-2e2b-436c-aed5-866d792960f9",
+      "title": "Reaproveitando Smartphones Antigos como Servidores de IA de Borda com Linux (PostmarketOS / ARM64)",
+      "slug": "reaproveitando-smartphones-antigos-como-servidores-de-ia-de-borda-com-linux-postmarketos-arm64",
+      "owner_username": "EvandroCarvalho",
+      "source_url": "https://landingfymax.com.br/inteligencia-artificial/edge-ai-smartphones-antigos-linux-postmarketos-2026",
+      "tabcoins": 7,
+      "children_deep_count": 1,
+      "published_at": "2026-10-09T01:02:16.137Z",
+      "url": "https://www.tabnews.com.br/EvandroCarvalho/reaproveitando-smartphones-antigos-como-servidores-de-ia-de-borda-com-linux-postmarketos-arm64"
+    },
+    {
       "id": "96743b35-f4e6-4b4e-ac71-b3435f6c6545",
       "title": "O prazer de criar",
       "slug": "o-prazer-de-criar",
@@ -33,17 +88,6 @@
       "children_deep_count": 1,
       "published_at": "2026-10-09T02:07:15.565Z",
       "url": "https://www.tabnews.com.br/marlon/o-prazer-de-criar"
-    },
-    {
-      "id": "46a5a00b-2e2b-436c-aed5-866d792960f9",
-      "title": "Reaproveitando Smartphones Antigos como Servidores de IA de Borda com Linux (PostmarketOS / ARM64)",
-      "slug": "reaproveitando-smartphones-antigos-como-servidores-de-ia-de-borda-com-linux-postmarketos-arm64",
-      "owner_username": "EvandroCarvalho",
-      "source_url": "https://landingfymax.com.br/inteligencia-artificial/edge-ai-smartphones-antigos-linux-postmarketos-2026",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-10-09T01:02:16.137Z",
-      "url": "https://www.tabnews.com.br/EvandroCarvalho/reaproveitando-smartphones-antigos-como-servidores-de-ia-de-borda-com-linux-postmarketos-arm64"
     },
     {
       "id": "b85c97ee-b9cd-4f77-8310-a80911bee55e",
@@ -57,59 +101,15 @@
       "url": "https://www.tabnews.com.br/EvandroCarvalho/como-montar-um-siem-domestico-no-linux-com-deteccao-de-intrusos-arp-e-fabricante-oui"
     },
     {
-      "id": "a802ab6e-55dd-4103-9ff0-0f928de89cf5",
-      "title": "SpaceX quer transformar Starlink Mobile em uma grande operadora de telefonia móvel nos EUA",
-      "slug": "spacex-quer-transformar-starlink-mobile-em-uma-grande-operadora-de-telefonia-movel-nos-eua",
-      "owner_username": "NewsletterOficial",
-      "source_url": "http://archive.today/2026.10.09-114442/https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-09T15:05:07.602Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/spacex-quer-transformar-starlink-mobile-em-uma-grande-operadora-de-telefonia-movel-nos-eua"
-    },
-    {
-      "id": "a4be0a38-bf85-4a2d-92ea-f1253c280b25",
-      "title": "Pitch: DatI — Transforme bancos de dados em serviços MCP seguros e semanticamente enriquecidos",
-      "slug": "pitch-dati-transforme-bancos-de-dados-em-servicos-mcp-seguros-e-semanticamente-enriquecidos",
-      "owner_username": "yimindev",
-      "source_url": "https://github.com/yimindev/dati",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-09T14:58:07.520Z",
-      "url": "https://www.tabnews.com.br/yimindev/pitch-dati-transforme-bancos-de-dados-em-servicos-mcp-seguros-e-semanticamente-enriquecidos"
-    },
-    {
-      "id": "07da9897-93a1-47fe-9268-6ccdeb291960",
-      "title": "Deno se junta à Cloudflare; e o runtime tem apenas mais 1 ano de suporte oficial",
-      "slug": "deno-se-junta-a-cloudflare-e-o-runtime-tem-apenas-mais-1-ano-de-suporte-oficial",
-      "owner_username": "rafael",
-      "source_url": "https://deno.com/blog/cloudflare",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-09T14:23:23.976Z",
-      "url": "https://www.tabnews.com.br/rafael/deno-se-junta-a-cloudflare-e-o-runtime-tem-apenas-mais-1-ano-de-suporte-oficial"
-    },
-    {
-      "id": "e87699b6-d463-4a17-9df1-0ef25bb46144",
-      "title": "Reflexão do dia",
-      "slug": "reflexao-do-dia",
-      "owner_username": "OutroHelder",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-09T13:41:29.785Z",
-      "url": "https://www.tabnews.com.br/OutroHelder/reflexao-do-dia"
-    },
-    {
-      "id": "91713ed3-c911-45bf-bcc2-827f948c49b6",
-      "title": "Meu novo portfolio",
-      "slug": "meu-novo-portfolio",
+      "id": "30214b4d-552f-4bf4-8dd3-6065b54faea9",
+      "title": "Construí um SaaS inteiro antes de descobrir como vender",
+      "slug": "construi-um-saas-inteiro-antes-de-descobrir-como-vender",
       "owner_username": "MageVgl",
       "source_url": null,
-      "tabcoins": 12,
-      "children_deep_count": 15,
-      "published_at": "2026-10-07T06:59:51.746Z",
-      "url": "https://www.tabnews.com.br/MageVgl/meu-novo-portfolio"
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-10-08T04:02:15.647Z",
+      "url": "https://www.tabnews.com.br/MageVgl/construi-um-saas-inteiro-antes-de-descobrir-como-vender"
     }
   ]
 }
