@@ -1,27 +1,60 @@
 {
-  "updated_at": "2026-10-10T14:55:33.368Z",
+  "updated_at": "2026-10-11T15:12:14.256Z",
   "posts": [
     {
-      "id": "a60a87fe-14a7-4bf2-8a50-5867f0446eb5",
-      "title": "Pitch: Criei um app de hábitos: Expo, SQLite local, TanStack Start no Cloudflare e marketing com IA",
-      "slug": "criei-um-app-de-habitos-sozinho-expo-sqlite-local-tanstack-start-no-cloudflare-e-marketing-com-ia",
-      "owner_username": "CarlosZiegler",
-      "source_url": "https://kada.day",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-10-10T08:34:48.118Z",
-      "url": "https://www.tabnews.com.br/CarlosZiegler/criei-um-app-de-habitos-sozinho-expo-sqlite-local-tanstack-start-no-cloudflare-e-marketing-com-ia"
+      "id": "25abee33-bc44-4d9c-ad91-1e086d7fbcc8",
+      "title": "Construindo uma startup de crédito de carbono na Caatinga: tenho produtores interessados, mas falta capital pra tirar os projetos do papel",
+      "slug": "construindo-uma-startup-de-credito-de-carbono-na-caatinga-tenho-produtores-interessados-mas-falta-capital-pra-tirar-os-projetos-do-papel",
+      "owner_username": "lucasreiiss",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-10-10T18:46:57.089Z",
+      "url": "https://www.tabnews.com.br/lucasreiiss/construindo-uma-startup-de-credito-de-carbono-na-caatinga-tenho-produtores-interessados-mas-falta-capital-pra-tirar-os-projetos-do-papel"
     },
     {
-      "id": "a5d6d165-4f94-42c0-a57b-97fcd57031a4",
-      "title": "El Niño, Secas Relâmpago e Microclima: Como Proteger a Saúde no Ar Seco",
-      "slug": "el-nino-secas-relampago-e-microclima-como-proteger-a-saude-no-ar-seco",
-      "owner_username": "maldigital026",
-      "source_url": "https://melhorumidificadordear.com/umidificador-de-ar-seca-nordeste/",
+      "id": "edabf97d-9072-4b4e-9ce0-b86ef1cfb2c5",
+      "title": "Pitch: Estou construindo um SaaS para modernizar a gestão de funerárias no Brasil",
+      "slug": "pitch-estou-construindo-um-saas-para-modernizar-a-gestao-de-funerarias-no-brasil",
+      "owner_username": "jonatank2882",
+      "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-10T14:05:04.465Z",
-      "url": "https://www.tabnews.com.br/maldigital026/el-nino-secas-relampago-e-microclima-como-proteger-a-saude-no-ar-seco"
+      "published_at": "2026-10-11T14:00:59.777Z",
+      "url": "https://www.tabnews.com.br/jonatank2882/pitch-estou-construindo-um-saas-para-modernizar-a-gestao-de-funerarias-no-brasil"
+    },
+    {
+      "id": "92c1eddf-346b-45f1-9bcf-0fcd4edbea88",
+      "title": "Tempos de IA: ter o código  não é diferencial; entendê-lo, sim.",
+      "slug": "tempos-de-ia-ter-o-codigo-nao-e-diferencial-entende-lo-sim",
+      "owner_username": "Gabriela33",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-11T12:36:35.680Z",
+      "url": "https://www.tabnews.com.br/Gabriela33/tempos-de-ia-ter-o-codigo-nao-e-diferencial-entende-lo-sim"
+    },
+    {
+      "id": "1c858ae0-6cd6-4d18-a7c6-27f236a94843",
+      "title": "Pitch: criei o FirstMate, um gerenciador de ferramentas locais",
+      "slug": "pitch-criei-o-firstmate-um-gerenciador-de-ferramentas-locais",
+      "owner_username": "LuanAfons0",
+      "source_url": "https://github.com/luanAfons0/FirstMate",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-11T11:11:00.930Z",
+      "url": "https://www.tabnews.com.br/LuanAfons0/pitch-criei-o-firstmate-um-gerenciador-de-ferramentas-locais"
+    },
+    {
+      "id": "bb189099-af9a-4dad-a916-add01ed377bc",
+      "title": "Pitch: Criei o GirarPDF: ferramentas de PDF que rodam 100% no navegador e respeitam a LGPD",
+      "slug": "criei-o-girarpdf-ferramentas-de-pdf-que-rodam-100-por-cento-no-navegador-e-respeitam-a-lgpd",
+      "owner_username": "girarpdf",
+      "source_url": "https://girarpdf.com",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-11T09:52:23.584Z",
+      "url": "https://www.tabnews.com.br/girarpdf/criei-o-girarpdf-ferramentas-de-pdf-que-rodam-100-por-cento-no-navegador-e-respeitam-a-lgpd"
     },
     {
       "id": "2156fc21-43ef-4035-8aca-26b61e63b59c",
@@ -29,32 +62,10 @@
       "slug": "como-contornei-estouro-de-memoria-oom-decifrando-midias-pesadas-100-por-cento-em-ram-no-mobile-a-saga-dos-14-dias-do-google",
       "owner_username": "Alexh",
       "source_url": "https://www.criptoveu.com/",
-      "tabcoins": 1,
+      "tabcoins": 4,
       "children_deep_count": 0,
       "published_at": "2026-10-10T13:57:53.096Z",
       "url": "https://www.tabnews.com.br/Alexh/como-contornei-estouro-de-memoria-oom-decifrando-midias-pesadas-100-por-cento-em-ram-no-mobile-a-saga-dos-14-dias-do-google"
-    },
-    {
-      "id": "9ec102dd-4344-40a2-93aa-23b2158e391a",
-      "title": "Diário de desenvolvimento: separar visitas, prévias de links e falhas de analytics",
-      "slug": "diario-de-desenvolvimento-separar-visitas-previas-de-links-e-falhas-de-analytics",
-      "owner_username": "plopino",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-10T09:30:46.614Z",
-      "url": "https://www.tabnews.com.br/plopino/diario-de-desenvolvimento-separar-visitas-previas-de-links-e-falhas-de-analytics"
-    },
-    {
-      "id": "d862ac33-7774-403f-bb40-9e018ab2a4fc",
-      "title": "Filtro duplo de IA no PR: CodeRabbit + Claude Code Action cortaram 47% dos comentários humanos (ch10)",
-      "slug": "filtro-duplo-de-ia-no-pr-coderabbit-claude-code-action-cortaram-47-por-cento-dos-comentarios-humanos-ch10",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/filtro-duplo-ia-pr-coderabbit-claude-code-action-cortou-47/",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-10-09T12:00:04.370Z",
-      "url": "https://www.tabnews.com.br/kenimo49/filtro-duplo-de-ia-no-pr-coderabbit-claude-code-action-cortaram-47-por-cento-dos-comentarios-humanos-ch10"
     },
     {
       "id": "8642b93c-10ff-45cc-9a87-447d32d12672",
@@ -62,7 +73,7 @@
       "slug": "foi-o-meu-primeiro-site",
       "owner_username": "ArthurOlivern",
       "source_url": "https://mori2130.github.io/Tudo-sobre-transtornos/",
-      "tabcoins": 9,
+      "tabcoins": 10,
       "children_deep_count": 3,
       "published_at": "2026-10-08T22:32:06.126Z",
       "url": "https://www.tabnews.com.br/ArthurOlivern/foi-o-meu-primeiro-site"
@@ -79,6 +90,17 @@
       "url": "https://www.tabnews.com.br/EvandroCarvalho/reaproveitando-smartphones-antigos-como-servidores-de-ia-de-borda-com-linux-postmarketos-arm64"
     },
     {
+      "id": "d862ac33-7774-403f-bb40-9e018ab2a4fc",
+      "title": "Filtro duplo de IA no PR: CodeRabbit + Claude Code Action cortaram 47% dos comentários humanos (ch10)",
+      "slug": "filtro-duplo-de-ia-no-pr-coderabbit-claude-code-action-cortaram-47-por-cento-dos-comentarios-humanos-ch10",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/filtro-duplo-ia-pr-coderabbit-claude-code-action-cortou-47/",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-10-09T12:00:04.370Z",
+      "url": "https://www.tabnews.com.br/kenimo49/filtro-duplo-de-ia-no-pr-coderabbit-claude-code-action-cortaram-47-por-cento-dos-comentarios-humanos-ch10"
+    },
+    {
       "id": "96743b35-f4e6-4b4e-ac71-b3435f6c6545",
       "title": "O prazer de criar",
       "slug": "o-prazer-de-criar",
@@ -88,28 +110,6 @@
       "children_deep_count": 1,
       "published_at": "2026-10-09T02:07:15.565Z",
       "url": "https://www.tabnews.com.br/marlon/o-prazer-de-criar"
-    },
-    {
-      "id": "b85c97ee-b9cd-4f77-8310-a80911bee55e",
-      "title": "Como Montar um SIEM Doméstico no Linux com Detecção de Intrusos ARP e Fabricante OUI",
-      "slug": "como-montar-um-siem-domestico-no-linux-com-deteccao-de-intrusos-arp-e-fabricante-oui",
-      "owner_username": "EvandroCarvalho",
-      "source_url": "https://landingfymax.com.br/tutoriais/tutorial-montar-siem-domestico-arp-oui-linux-2026",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-10-09T01:01:08.264Z",
-      "url": "https://www.tabnews.com.br/EvandroCarvalho/como-montar-um-siem-domestico-no-linux-com-deteccao-de-intrusos-arp-e-fabricante-oui"
-    },
-    {
-      "id": "30214b4d-552f-4bf4-8dd3-6065b54faea9",
-      "title": "Construí um SaaS inteiro antes de descobrir como vender",
-      "slug": "construi-um-saas-inteiro-antes-de-descobrir-como-vender",
-      "owner_username": "MageVgl",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-10-08T04:02:15.647Z",
-      "url": "https://www.tabnews.com.br/MageVgl/construi-um-saas-inteiro-antes-de-descobrir-como-vender"
     }
   ]
 }
