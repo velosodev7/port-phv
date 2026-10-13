@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-12T18:23:39.795Z",
+  "updated_at": "2026-10-13T16:36:04.877Z",
   "posts": [
     {
-      "id": "0e740cd4-f3e5-4b6f-941e-46a775ff9614",
-      "title": "📚 AI Tree & Knowledge: uma árvore interativa da evolução da IA, para professores e estudantes",
-      "slug": "ai-tech-tree-e-knowledge-uma-arvore-interativa-da-evolucao-da-ia-para-professores-e-estudantes",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/mblog/mrj/ai-tech-tree-knowledge-uma-arvore-interativa-da-evolucao-da-ia-para-professores-e-estudantes",
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-10-12T10:29:37.747Z",
-      "url": "https://www.tabnews.com.br/MrJ/ai-tech-tree-e-knowledge-uma-arvore-interativa-da-evolucao-da-ia-para-professores-e-estudantes"
+      "id": "67b46c26-fdc0-44f0-8521-6924d5a204fc",
+      "title": "Pitch: Por que ainda é tão difícil substituir o AutoCAD por um CAD 2D open source?",
+      "slug": "por-que-ainda-e-tao-dificil-substituir-o-autocad-por-um-cad-2d-open-source",
+      "owner_username": "GokuCartasLokas",
+      "source_url": null,
+      "tabcoins": 12,
+      "children_deep_count": 2,
+      "published_at": "2026-10-12T21:31:31.818Z",
+      "url": "https://www.tabnews.com.br/GokuCartasLokas/por-que-ainda-e-tao-dificil-substituir-o-autocad-por-um-cad-2d-open-source"
     },
     {
       "id": "5087a78d-451c-4516-ab5d-8ecb4aa0206b",
@@ -18,98 +18,98 @@
       "slug": "disseram-que-ingles-e-a-nova-linguagem-de-programacao-passei-3-meses-programando-assim-e-ainda-preciso-saber-programar",
       "owner_username": "kenimo49",
       "source_url": "https://kenimoto.dev/pt/blog/ingles-nao-e-a-nova-linguagem-de-programacao/",
-      "tabcoins": 4,
+      "tabcoins": 9,
       "children_deep_count": 3,
       "published_at": "2026-10-12T12:00:03.985Z",
       "url": "https://www.tabnews.com.br/kenimo49/disseram-que-ingles-e-a-nova-linguagem-de-programacao-passei-3-meses-programando-assim-e-ainda-preciso-saber-programar"
     },
     {
-      "id": "6a09e3f9-c384-4281-88be-61115d5bac10",
-      "title": "Hardening de Servidores Linux: Como Blindar o SSH com Chaves Ed25519 e Eliminar Ataques de Força Bruta",
-      "slug": "hardening-de-servidores-linux-como-blindar-o-ssh-com-chaves-ed25519-e-eliminar-ataques-de-forca-bruta",
-      "owner_username": "EvandroCarvalho",
-      "source_url": "https://sentinel.vexisone.com/ciberseguranca/tutorial-hardening-ssh-chaves-ed25519-fail2ban-2026",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-10-12T13:27:24.700Z",
-      "url": "https://www.tabnews.com.br/EvandroCarvalho/hardening-de-servidores-linux-como-blindar-o-ssh-com-chaves-ed25519-e-eliminar-ataques-de-forca-bruta"
-    },
-    {
-      "id": "20f29243-82d2-4ddc-86ca-e71b4e6e9371",
-      "title": "Hexagonal Architecture: Protegendo a Lógica de Negócio de Frameworks e Infraestrutura (2026 edicao)",
-      "slug": "hexagonal-architecture-protegendo-a-logica-de-negocio-de-frameworks-e-infraestrutura-2026-edicao",
-      "owner_username": "andersonlimadev",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-12T18:23:12.610Z",
-      "url": "https://www.tabnews.com.br/andersonlimadev/hexagonal-architecture-protegendo-a-logica-de-negocio-de-frameworks-e-infraestrutura-2026-edicao"
-    },
-    {
-      "id": "e4a19e75-bbbb-4541-8f40-cab9b8e79f12",
-      "title": "O bug do CNPJ alfanumérico pega mais fácil em quem fez certo",
-      "slug": "o-bug-do-cnpj-alfanumerico-pega-mais-facil-em-quem-fez-certo",
-      "owner_username": "EdsonFerreira",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-12T18:21:55.312Z",
-      "url": "https://www.tabnews.com.br/EdsonFerreira/o-bug-do-cnpj-alfanumerico-pega-mais-facil-em-quem-fez-certo"
-    },
-    {
       "id": "ec7a98c3-348b-4cf2-a6a2-3ba02f86ce12",
-      "title": "Fiz um mascote de mesa com ESP32 que reage ao Claude Code, sem OAuth e sem gastar token",
+      "title": "Pitch: Fiz um mascote de mesa com ESP32 que reage ao Claude Code, sem OAuth e sem gastar token",
       "slug": "fiz-um-mascote-de-mesa-com-esp32-que-reage-ao-claude-code-sem-oauth-e-sem-gastar-token",
       "owner_username": "ArgeuThiesen",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 9,
+      "children_deep_count": 1,
       "published_at": "2026-10-12T18:00:49.070Z",
       "url": "https://www.tabnews.com.br/ArgeuThiesen/fiz-um-mascote-de-mesa-com-esp32-que-reage-ao-claude-code-sem-oauth-e-sem-gastar-token"
     },
     {
-      "id": "cba723cc-0118-41a2-80ad-d7922cacac21",
-      "title": "Pitch: CODEVERSO — uma série animada em three.js que ensina lógica e Python (e como renderizamos sem estourar a memória)",
-      "slug": "pitch-codeverso-uma-serie-animada-em-three-js-que-ensina-logica-e-python-e-como-renderizamos-sem-estourar-a-memoria",
-      "owner_username": "Alefpl",
+      "id": "0e740cd4-f3e5-4b6f-941e-46a775ff9614",
+      "title": "📚 AI Tree & Knowledge: uma árvore interativa da evolução da IA, para professores e estudantes",
+      "slug": "ai-tech-tree-e-knowledge-uma-arvore-interativa-da-evolucao-da-ia-para-professores-e-estudantes",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/mblog/mrj/ai-tech-tree-knowledge-uma-arvore-interativa-da-evolucao-da-ia-para-professores-e-estudantes",
+      "tabcoins": 7,
+      "children_deep_count": 1,
+      "published_at": "2026-10-12T10:29:37.747Z",
+      "url": "https://www.tabnews.com.br/MrJ/ai-tech-tree-e-knowledge-uma-arvore-interativa-da-evolucao-da-ia-para-professores-e-estudantes"
+    },
+    {
+      "id": "970bb7a4-dc3d-4a5f-9eb1-67be9bb9709d",
+      "title": "O que é eBPF e por que ele é o melhor caminho pra detectar ataques pelo comportamento",
+      "slug": "o-que-e-ebpf-e-por-que-ele-e-o-melhor-caminho-pra-detectar-ataques-pelo-comportamento",
+      "owner_username": "rodrigofreire",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-10-13T01:18:27.939Z",
+      "url": "https://www.tabnews.com.br/rodrigofreire/o-que-e-ebpf-e-por-que-ele-e-o-melhor-caminho-pra-detectar-ataques-pelo-comportamento"
+    },
+    {
+      "id": "cbfc51b7-f147-409b-8117-935c058c6dc0",
+      "title": "🇧🇷 Aplicação prática para o microcontrolador u32br (BlueMacaw) -  Andrei Rimsa - Quer ajudar criar soberania no nosso país ? Aprenda com esse vídeo - Se você esta macetando a IA, essa é a hora de fazer Transferência de Tecnologia para o Brasil",
+      "slug": "aplicacao-pratica-para-o-microcontrolador-u32br-bluemacaw-andrei-rimsa-quer-ajudar-criar-soberania-no-nosso-pais-aprenda-com-esse-video-se-voce-e",
+      "owner_username": "MrJ",
+      "source_url": "https://www.youtube.com/watch?v=Hvn6xEScHp4",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-10-12T20:47:19.645Z",
+      "url": "https://www.tabnews.com.br/MrJ/aplicacao-pratica-para-o-microcontrolador-u32br-bluemacaw-andrei-rimsa-quer-ajudar-criar-soberania-no-nosso-pais-aprenda-com-esse-video-se-voce-e"
+    },
+    {
+      "id": "1b6f4d88-59a6-4e1d-b3c1-72cb83c16d45",
+      "title": "Dez coisas para conferir em um projeto Supabase antes que ele dê problema em produção",
+      "slug": "dez-coisas-para-conferir-em-um-projeto-supabase-antes-que-ele-de-problema-em-producao",
+      "owner_username": "Caikesouza",
+      "source_url": "https://github.com/dradecaike/checklist-infra-aws-supabase",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-10-13T12:58:15.826Z",
+      "url": "https://www.tabnews.com.br/Caikesouza/dez-coisas-para-conferir-em-um-projeto-supabase-antes-que-ele-de-problema-em-producao"
+    },
+    {
+      "id": "19797b06-1e2a-451b-a2bd-315b319779e0",
+      "title": "Desabafo: Cansei! Claude, tudo que é assinatura faça open-source",
+      "slug": "desabafo-cansei-claude-tudo-que-e-assinatura-faca-open-source",
+      "owner_username": "juniojacks",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-10-13T12:53:46.958Z",
+      "url": "https://www.tabnews.com.br/juniojacks/desabafo-cansei-claude-tudo-que-e-assinatura-faca-open-source"
+    },
+    {
+      "id": "57cba64a-794b-4d9d-9e94-9078d9d0c312",
+      "title": "Rust vale a pena ?",
+      "slug": "rust-vale-a-pena",
+      "owner_username": "TIGuy",
       "source_url": null,
       "tabcoins": 1,
+      "children_deep_count": 2,
+      "published_at": "2026-10-13T14:12:08.670Z",
+      "url": "https://www.tabnews.com.br/TIGuy/rust-vale-a-pena"
+    },
+    {
+      "id": "393e5548-7801-427a-8d16-ab75db1db741",
+      "title": "Anthropic corta acesso à internet em testes internos de modelos de IA após eles invadirem sites governamentais dos EUA",
+      "slug": "anthropic-corta-acesso-a-internet-em-testes-internos-de-modelos-de-ia-apos-eles-invadirem-sites-governamentais-dos-eua",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-12T17:50:10.913Z",
-      "url": "https://www.tabnews.com.br/Alefpl/pitch-codeverso-uma-serie-animada-em-three-js-que-ensina-logica-e-python-e-como-renderizamos-sem-estourar-a-memoria"
-    },
-    {
-      "id": "2156fc21-43ef-4035-8aca-26b61e63b59c",
-      "title": "Como contornei estouro de memória (OOM) decifrando mídias pesadas 100% em RAM no mobile (+ a saga dos 14 dias do Google)",
-      "slug": "como-contornei-estouro-de-memoria-oom-decifrando-midias-pesadas-100-por-cento-em-ram-no-mobile-a-saga-dos-14-dias-do-google",
-      "owner_username": "Alexh",
-      "source_url": "https://www.criptoveu.com/",
-      "tabcoins": 10,
-      "children_deep_count": 1,
-      "published_at": "2026-10-10T13:57:53.096Z",
-      "url": "https://www.tabnews.com.br/Alexh/como-contornei-estouro-de-memoria-oom-decifrando-midias-pesadas-100-por-cento-em-ram-no-mobile-a-saga-dos-14-dias-do-google"
-    },
-    {
-      "id": "25abee33-bc44-4d9c-ad91-1e086d7fbcc8",
-      "title": "Construindo uma startup de crédito de carbono na Caatinga: tenho produtores interessados, mas falta capital pra tirar os projetos do papel",
-      "slug": "construindo-uma-startup-de-credito-de-carbono-na-caatinga-tenho-produtores-interessados-mas-falta-capital-pra-tirar-os-projetos-do-papel",
-      "owner_username": "lucasreiiss",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 3,
-      "published_at": "2026-10-10T18:46:57.089Z",
-      "url": "https://www.tabnews.com.br/lucasreiiss/construindo-uma-startup-de-credito-de-carbono-na-caatinga-tenho-produtores-interessados-mas-falta-capital-pra-tirar-os-projetos-do-papel"
-    },
-    {
-      "id": "a60a87fe-14a7-4bf2-8a50-5867f0446eb5",
-      "title": "Pitch: Criei um app de hábitos: Expo, SQLite local, TanStack Start no Cloudflare e marketing com IA",
-      "slug": "criei-um-app-de-habitos-sozinho-expo-sqlite-local-tanstack-start-no-cloudflare-e-marketing-com-ia",
-      "owner_username": "CarlosZiegler",
-      "source_url": "https://kada.day",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-10-10T08:34:48.118Z",
-      "url": "https://www.tabnews.com.br/CarlosZiegler/criei-um-app-de-habitos-sozinho-expo-sqlite-local-tanstack-start-no-cloudflare-e-marketing-com-ia"
+      "published_at": "2026-10-13T15:05:07.363Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/anthropic-corta-acesso-a-internet-em-testes-internos-de-modelos-de-ia-apos-eles-invadirem-sites-governamentais-dos-eua"
     }
   ]
 }
