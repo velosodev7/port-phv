@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T13:48:31.490Z",
+  "updated_at": "2026-10-16T13:38:29.916Z",
   "posts": [
     {
       "id": "c9f9fad8-3c7b-4764-b681-198da76dbf28",
@@ -7,43 +7,10 @@
       "slug": "usando-uma-planilha-como-back-end-custo-r0",
       "owner_username": "refernando",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 2,
+      "tabcoins": 14,
+      "children_deep_count": 9,
       "published_at": "2026-10-15T12:07:38.176Z",
       "url": "https://www.tabnews.com.br/refernando/usando-uma-planilha-como-back-end-custo-r0"
-    },
-    {
-      "id": "6143eecc-87da-4abc-9b9e-8c12fcf324d7",
-      "title": "Pitch: juntei 22 mil servidores MCP e skills de agentes num lugar só, com o comando de instalação pronto",
-      "slug": "pitch-juntei-22-mil-servidores-mcp-e-skills-de-agentes-num-lugar-so-com-o-comando-de-instalacao-pronto",
-      "owner_username": "plugandship",
-      "source_url": "https://plugandship.dev",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-10-15T13:14:18.780Z",
-      "url": "https://www.tabnews.com.br/plugandship/pitch-juntei-22-mil-servidores-mcp-e-skills-de-agentes-num-lugar-so-com-o-comando-de-instalacao-pronto"
-    },
-    {
-      "id": "99982c63-3529-40a7-8a7b-ce7a266b938e",
-      "title": "Pitch: Fiz um mapa de viagens que descobre onde você já esteve lendo a localização das suas fotos",
-      "slug": "fiz-um-mapa-de-viagens-que-descobre-onde-voce-ja-esteve-lendo-a-localizacao-das-suas-fotos",
-      "owner_username": "seujunio",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-10-14T16:48:39.506Z",
-      "url": "https://www.tabnews.com.br/seujunio/fiz-um-mapa-de-viagens-que-descobre-onde-voce-ja-esteve-lendo-a-localizacao-das-suas-fotos"
-    },
-    {
-      "id": "ac7bcddb-c33a-47b9-b2bd-e04300a66059",
-      "title": "Perdi o SSD e o HD de backup juntos, sem git: como a IA me ajudou a reconstruir o homelab",
-      "slug": "perdi-o-ssd-e-o-hd-de-backup-juntos-sem-git-como-a-ia-me-ajudou-a-reconstruir-o-homelab",
-      "owner_username": "bmarino01",
-      "source_url": "https://blog.brumarino.com/ia-reconstruir-homelab-claude-code/?de=tabnews",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-10-15T11:00:58.595Z",
-      "url": "https://www.tabnews.com.br/bmarino01/perdi-o-ssd-e-o-hd-de-backup-juntos-sem-git-como-a-ia-me-ajudou-a-reconstruir-o-homelab"
     },
     {
       "id": "6b6c0c4a-fd46-40ac-9983-63daaa4ac593",
@@ -51,43 +18,43 @@
       "slug": "ainda-ha-espaco-para-fazer-grana-com-livros",
       "owner_username": "josehypado",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
+      "tabcoins": 4,
+      "children_deep_count": 17,
       "published_at": "2026-10-15T13:22:13.043Z",
       "url": "https://www.tabnews.com.br/josehypado/ainda-ha-espaco-para-fazer-grana-com-livros"
     },
     {
-      "id": "d794e71a-2162-4f2b-aa54-42d92149fe85",
-      "title": "Pitch: FACE, uma janela no navegador sobre o Claude Code, o Codex e mais cinco agentes, com o plano em arquivos no repositório",
-      "slug": "pitch-face-uma-janela-no-navegador-sobre-o-claude-code-o-codex-e-mais-cinco-agentes-com-o-plano-em-arquivos-no-repositorio",
-      "owner_username": "jckodel",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-15T12:57:25.179Z",
-      "url": "https://www.tabnews.com.br/jckodel/pitch-face-uma-janela-no-navegador-sobre-o-claude-code-o-codex-e-mais-cinco-agentes-com-o-plano-em-arquivos-no-repositorio"
+      "id": "6143eecc-87da-4abc-9b9e-8c12fcf324d7",
+      "title": "Pitch: juntei 22 mil servidores MCP e skills de agentes num lugar só, com o comando de instalação pronto",
+      "slug": "pitch-juntei-22-mil-servidores-mcp-e-skills-de-agentes-num-lugar-so-com-o-comando-de-instalacao-pronto",
+      "owner_username": "plugandship",
+      "source_url": "https://plugandship.dev",
+      "tabcoins": 5,
+      "children_deep_count": 3,
+      "published_at": "2026-10-15T13:14:18.780Z",
+      "url": "https://www.tabnews.com.br/plugandship/pitch-juntei-22-mil-servidores-mcp-e-skills-de-agentes-num-lugar-so-com-o-comando-de-instalacao-pronto"
     },
     {
-      "id": "c863d485-3f17-4bc3-b927-7b2cbd984db3",
-      "title": "Por que sistemas distribuídos não confiam no relógio (e o que usam no lugar)",
-      "slug": "por-que-sistemas-distribuidos-nao-confiam-no-relogio-e-o-que-usam-no-lugar",
-      "owner_username": "willybr",
+      "id": "d507e815-e6c5-471e-ad3f-93fa11021555",
+      "title": "Dev Pleno pós Layoff",
+      "slug": "dev-pleno-pos-layoff",
+      "owner_username": "krhuhun",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-15T11:31:25.371Z",
-      "url": "https://www.tabnews.com.br/willybr/por-que-sistemas-distribuidos-nao-confiam-no-relogio-e-o-que-usam-no-lugar"
+      "tabcoins": 3,
+      "children_deep_count": 3,
+      "published_at": "2026-10-15T15:52:22.708Z",
+      "url": "https://www.tabnews.com.br/krhuhun/dev-pleno-pos-layoff"
     },
     {
-      "id": "67b46c26-fdc0-44f0-8521-6924d5a204fc",
-      "title": "Pitch: Por que ainda é tão difícil substituir o AutoCAD por um CAD 2D open source?",
-      "slug": "por-que-ainda-e-tao-dificil-substituir-o-autocad-por-um-cad-2d-open-source",
-      "owner_username": "GokuCartasLokas",
-      "source_url": null,
-      "tabcoins": 17,
-      "children_deep_count": 2,
-      "published_at": "2026-10-12T21:31:31.818Z",
-      "url": "https://www.tabnews.com.br/GokuCartasLokas/por-que-ainda-e-tao-dificil-substituir-o-autocad-por-um-cad-2d-open-source"
+      "id": "c229f399-53c8-4d05-8219-7ce363e882f7",
+      "title": "LLMO sem teste quebra: Playwright CI em 7 passos",
+      "slug": "llmo-sem-teste-quebra-playwright-ci-em-7-passos",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/playwright-ci-llmo-7-passos/",
+      "tabcoins": 2,
+      "children_deep_count": 1,
+      "published_at": "2026-10-16T12:00:03.956Z",
+      "url": "https://www.tabnews.com.br/kenimo49/llmo-sem-teste-quebra-playwright-ci-em-7-passos"
     },
     {
       "id": "053ccdc7-2c6f-437c-bd79-91c635b73453",
@@ -101,15 +68,48 @@
       "url": "https://www.tabnews.com.br/HargenSoftware/pitch-api-gratuita-com-todos-os-resultados-da-mega-sena-em-json-sem-cadastro-com-cors"
     },
     {
-      "id": "970bb7a4-dc3d-4a5f-9eb1-67be9bb9709d",
-      "title": "O que é eBPF e por que ele é o melhor caminho pra detectar ataques pelo comportamento",
-      "slug": "o-que-e-ebpf-e-por-que-ele-e-o-melhor-caminho-pra-detectar-ataques-pelo-comportamento",
-      "owner_username": "rodrigofreire",
+      "id": "47546c8d-0471-4eeb-9aac-53e8a53deed8",
+      "title": "Sei fazer, mas travo para explicar. Como vocês melhoraram nisso?",
+      "slug": "sei-fazer-mas-travo-para-explicar-como-voces-melhoraram-nisso",
+      "owner_username": "alanfjesus",
       "source_url": null,
-      "tabcoins": 6,
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-10-14T01:42:38.974Z",
+      "url": "https://www.tabnews.com.br/alanfjesus/sei-fazer-mas-travo-para-explicar-como-voces-melhoraram-nisso"
+    },
+    {
+      "id": "a20dfd96-eb9e-4660-b98b-ed6f3f7317dc",
+      "title": "Criei meu primeiro portoflio",
+      "slug": "criei-meu-primeiro-portoflio",
+      "owner_username": "luansemz",
+      "source_url": "https://luannzin.com/",
+      "tabcoins": 4,
+      "children_deep_count": 5,
+      "published_at": "2026-10-13T16:47:36.732Z",
+      "url": "https://www.tabnews.com.br/luansemz/criei-meu-primeiro-portoflio"
+    },
+    {
+      "id": "99982c63-3529-40a7-8a7b-ce7a266b938e",
+      "title": "Pitch: Fiz um mapa de viagens que descobre onde você já esteve lendo a localização das suas fotos",
+      "slug": "fiz-um-mapa-de-viagens-que-descobre-onde-voce-ja-esteve-lendo-a-localizacao-das-suas-fotos",
+      "owner_username": "seujunio",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-10-14T16:48:39.506Z",
+      "url": "https://www.tabnews.com.br/seujunio/fiz-um-mapa-de-viagens-que-descobre-onde-voce-ja-esteve-lendo-a-localizacao-das-suas-fotos"
+    },
+    {
+      "id": "7a3d1fb7-f6fd-49ca-83a3-67536f9b3135",
+      "title": "USDC para quem recebe do exterior: o que vale entender antes de usar",
+      "slug": "usdc-para-quem-recebe-do-exterior-o-que-vale-entender-antes-de-usar",
+      "owner_username": "KristinaTT",
+      "source_url": null,
+      "tabcoins": 3,
       "children_deep_count": 2,
-      "published_at": "2026-10-13T01:18:27.939Z",
-      "url": "https://www.tabnews.com.br/rodrigofreire/o-que-e-ebpf-e-por-que-ele-e-o-melhor-caminho-pra-detectar-ataques-pelo-comportamento"
+      "published_at": "2026-10-14T12:46:11.566Z",
+      "url": "https://www.tabnews.com.br/KristinaTT/usdc-para-quem-recebe-do-exterior-o-que-vale-entender-antes-de-usar"
     }
   ]
 }
