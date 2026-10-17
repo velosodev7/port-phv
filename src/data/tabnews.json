@@ -1,13 +1,68 @@
 {
-  "updated_at": "2026-10-16T13:38:29.916Z",
+  "updated_at": "2026-10-17T12:35:33.713Z",
   "posts": [
+    {
+      "id": "c229f399-53c8-4d05-8219-7ce363e882f7",
+      "title": "LLMO sem teste quebra: Playwright CI em 7 passos",
+      "slug": "llmo-sem-teste-quebra-playwright-ci-em-7-passos",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/playwright-ci-llmo-7-passos/",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-10-16T12:00:03.956Z",
+      "url": "https://www.tabnews.com.br/kenimo49/llmo-sem-teste-quebra-playwright-ci-em-7-passos"
+    },
+    {
+      "id": "667bb930-7e03-44cd-bf52-b76ad6d19988",
+      "title": "Como o nome da minha máquina Fedora colocou um usuário de 2015 no meu repositório e o que descobri abrindo a API do GitHub",
+      "slug": "como-o-nome-da-minha-maquina-fedora-colocou-um-usuario-de-2015-no-meu-repositorio-e-o-que-descobri-abrindo-a-api-do-github",
+      "owner_username": "lipebarbosa",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-10-17T08:45:03.905Z",
+      "url": "https://www.tabnews.com.br/lipebarbosa/como-o-nome-da-minha-maquina-fedora-colocou-um-usuario-de-2015-no-meu-repositorio-e-o-que-descobri-abrindo-a-api-do-github"
+    },
+    {
+      "id": "f4000c51-b10e-47ae-b97e-7b97e0a671a1",
+      "title": "Como deixei meu site de jogos de navegador em 8 idiomas (Python, Docker e um LLM gratuito)",
+      "slug": "como-deixei-meu-site-de-jogos-de-navegador-em-8-idiomas-python-docker-e-um-llm-gratuito",
+      "owner_username": "yeoulcom",
+      "source_url": "https://yeoulgame.com/?lang=pt&ref=tabnews",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-17T11:46:17.906Z",
+      "url": "https://www.tabnews.com.br/yeoulcom/como-deixei-meu-site-de-jogos-de-navegador-em-8-idiomas-python-docker-e-um-llm-gratuito"
+    },
+    {
+      "id": "cd66d775-507c-462e-990e-19ca4cac0531",
+      "title": "[PITCH] - Desde o Zero: **Codando uma IA**",
+      "slug": "pitch-desde-o-zero-codando-uma-ia",
+      "owner_username": "RodrigoSchioMuniz",
+      "source_url": "https://rodrigoschiomuniz.github.io/perceptron/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-17T10:09:20.719Z",
+      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/pitch-desde-o-zero-codando-uma-ia"
+    },
+    {
+      "id": "cdef1c02-37e7-4fe3-9b99-2b8fbfe762d0",
+      "title": "Antes de confiar na revisão de PRs por IA, teste os bugs que ela deixa passar",
+      "slug": "antes-de-confiar-na-revisao-de-prs-por-ia-teste-os-bugs-que-ela-deixa-passar",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-17T06:57:11.442Z",
+      "url": "https://www.tabnews.com.br/Centelha/antes-de-confiar-na-revisao-de-prs-por-ia-teste-os-bugs-que-ela-deixa-passar"
+    },
     {
       "id": "c9f9fad8-3c7b-4764-b681-198da76dbf28",
       "title": "📈 Usando uma planilha como back-end: custo R$0",
       "slug": "usando-uma-planilha-como-back-end-custo-r0",
       "owner_username": "refernando",
       "source_url": null,
-      "tabcoins": 14,
+      "tabcoins": 16,
       "children_deep_count": 9,
       "published_at": "2026-10-15T12:07:38.176Z",
       "url": "https://www.tabnews.com.br/refernando/usando-uma-planilha-como-back-end-custo-r0"
@@ -18,8 +73,8 @@
       "slug": "ainda-ha-espaco-para-fazer-grana-com-livros",
       "owner_username": "josehypado",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 17,
+      "tabcoins": 8,
+      "children_deep_count": 25,
       "published_at": "2026-10-15T13:22:13.043Z",
       "url": "https://www.tabnews.com.br/josehypado/ainda-ha-espaco-para-fazer-grana-com-livros"
     },
@@ -29,10 +84,21 @@
       "slug": "pitch-juntei-22-mil-servidores-mcp-e-skills-de-agentes-num-lugar-so-com-o-comando-de-instalacao-pronto",
       "owner_username": "plugandship",
       "source_url": "https://plugandship.dev",
-      "tabcoins": 5,
-      "children_deep_count": 3,
+      "tabcoins": 6,
+      "children_deep_count": 5,
       "published_at": "2026-10-15T13:14:18.780Z",
       "url": "https://www.tabnews.com.br/plugandship/pitch-juntei-22-mil-servidores-mcp-e-skills-de-agentes-num-lugar-so-com-o-comando-de-instalacao-pronto"
+    },
+    {
+      "id": "0f64f989-a062-4764-9233-0a3ece154a4a",
+      "title": "Pitch: Plataforma CVE Intelligence",
+      "slug": "plataforma-cve-intelligence",
+      "owner_username": "janeiaraujo",
+      "source_url": "https://cve.inmanager.com.br/",
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-10-15T23:25:18.832Z",
+      "url": "https://www.tabnews.com.br/janeiaraujo/plataforma-cve-intelligence"
     },
     {
       "id": "d507e815-e6c5-471e-ad3f-93fa11021555",
@@ -40,76 +106,10 @@
       "slug": "dev-pleno-pos-layoff",
       "owner_username": "krhuhun",
       "source_url": null,
-      "tabcoins": 3,
+      "tabcoins": 4,
       "children_deep_count": 3,
       "published_at": "2026-10-15T15:52:22.708Z",
       "url": "https://www.tabnews.com.br/krhuhun/dev-pleno-pos-layoff"
-    },
-    {
-      "id": "c229f399-53c8-4d05-8219-7ce363e882f7",
-      "title": "LLMO sem teste quebra: Playwright CI em 7 passos",
-      "slug": "llmo-sem-teste-quebra-playwright-ci-em-7-passos",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/playwright-ci-llmo-7-passos/",
-      "tabcoins": 2,
-      "children_deep_count": 1,
-      "published_at": "2026-10-16T12:00:03.956Z",
-      "url": "https://www.tabnews.com.br/kenimo49/llmo-sem-teste-quebra-playwright-ci-em-7-passos"
-    },
-    {
-      "id": "053ccdc7-2c6f-437c-bd79-91c635b73453",
-      "title": "[PITCH] API gratuita com todos os resultados da Mega-Sena em JSON (sem cadastro, com CORS)",
-      "slug": "pitch-api-gratuita-com-todos-os-resultados-da-mega-sena-em-json-sem-cadastro-com-cors",
-      "owner_username": "HargenSoftware",
-      "source_url": "https://resultadomega.com.br/api/",
-      "tabcoins": 6,
-      "children_deep_count": 8,
-      "published_at": "2026-10-13T21:58:17.612Z",
-      "url": "https://www.tabnews.com.br/HargenSoftware/pitch-api-gratuita-com-todos-os-resultados-da-mega-sena-em-json-sem-cadastro-com-cors"
-    },
-    {
-      "id": "47546c8d-0471-4eeb-9aac-53e8a53deed8",
-      "title": "Sei fazer, mas travo para explicar. Como vocês melhoraram nisso?",
-      "slug": "sei-fazer-mas-travo-para-explicar-como-voces-melhoraram-nisso",
-      "owner_username": "alanfjesus",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-10-14T01:42:38.974Z",
-      "url": "https://www.tabnews.com.br/alanfjesus/sei-fazer-mas-travo-para-explicar-como-voces-melhoraram-nisso"
-    },
-    {
-      "id": "a20dfd96-eb9e-4660-b98b-ed6f3f7317dc",
-      "title": "Criei meu primeiro portoflio",
-      "slug": "criei-meu-primeiro-portoflio",
-      "owner_username": "luansemz",
-      "source_url": "https://luannzin.com/",
-      "tabcoins": 4,
-      "children_deep_count": 5,
-      "published_at": "2026-10-13T16:47:36.732Z",
-      "url": "https://www.tabnews.com.br/luansemz/criei-meu-primeiro-portoflio"
-    },
-    {
-      "id": "99982c63-3529-40a7-8a7b-ce7a266b938e",
-      "title": "Pitch: Fiz um mapa de viagens que descobre onde você já esteve lendo a localização das suas fotos",
-      "slug": "fiz-um-mapa-de-viagens-que-descobre-onde-voce-ja-esteve-lendo-a-localizacao-das-suas-fotos",
-      "owner_username": "seujunio",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-10-14T16:48:39.506Z",
-      "url": "https://www.tabnews.com.br/seujunio/fiz-um-mapa-de-viagens-que-descobre-onde-voce-ja-esteve-lendo-a-localizacao-das-suas-fotos"
-    },
-    {
-      "id": "7a3d1fb7-f6fd-49ca-83a3-67536f9b3135",
-      "title": "USDC para quem recebe do exterior: o que vale entender antes de usar",
-      "slug": "usdc-para-quem-recebe-do-exterior-o-que-vale-entender-antes-de-usar",
-      "owner_username": "KristinaTT",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-10-14T12:46:11.566Z",
-      "url": "https://www.tabnews.com.br/KristinaTT/usdc-para-quem-recebe-do-exterior-o-que-vale-entender-antes-de-usar"
     }
   ]
 }
