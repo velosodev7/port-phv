@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-18T12:53:25.685Z",
+  "updated_at": "2026-10-19T16:02:27.934Z",
   "posts": [
     {
-      "id": "667bb930-7e03-44cd-bf52-b76ad6d19988",
-      "title": "Como o nome da minha máquina Fedora colocou um usuário de 2015 no meu repositório e o que descobri abrindo a API do GitHub",
-      "slug": "como-o-nome-da-minha-maquina-fedora-colocou-um-usuario-de-2015-no-meu-repositorio-e-o-que-descobri-abrindo-a-api-do-github",
-      "owner_username": "lipebarbosa",
+      "id": "4b5727c0-9c5b-4630-947b-87dfa7533b42",
+      "title": "Pitch: Vibe codei um plugin para ler o TabNews no Kindle (e ele se atualiza sozinho)",
+      "slug": "pitch-vibe-codei-um-plugin-para-ler-o-tabnews-no-kindle-e-ele-se-atualiza-sozinho",
+      "owner_username": "DougNeo",
       "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 5,
-      "published_at": "2026-10-17T08:45:03.905Z",
-      "url": "https://www.tabnews.com.br/lipebarbosa/como-o-nome-da-minha-maquina-fedora-colocou-um-usuario-de-2015-no-meu-repositorio-e-o-que-descobri-abrindo-a-api-do-github"
+      "tabcoins": 7,
+      "children_deep_count": 3,
+      "published_at": "2026-10-19T02:20:29.603Z",
+      "url": "https://www.tabnews.com.br/DougNeo/pitch-vibe-codei-um-plugin-para-ler-o-tabnews-no-kindle-e-ele-se-atualiza-sozinho"
     },
     {
       "id": "531ced56-dee4-40a3-92e1-82ff5e0dad8a",
@@ -18,10 +18,87 @@
       "slug": "sou-dev-e-quero-aprofundar-meus-conhecimentos-em-pentest-e-seguranca-o-que-voces-recomendam",
       "owner_username": "DougNeo",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 2,
+      "tabcoins": 6,
+      "children_deep_count": 6,
       "published_at": "2026-10-18T05:02:11.494Z",
       "url": "https://www.tabnews.com.br/DougNeo/sou-dev-e-quero-aprofundar-meus-conhecimentos-em-pentest-e-seguranca-o-que-voces-recomendam"
+    },
+    {
+      "id": "f4c7fbc3-3a70-4f78-a958-bbebe9cea5d3",
+      "title": "Pitch: Criei o AI gateway mais rápido do mundo (e ele é open source)",
+      "slug": "criei-o-ai-gateway-mais-rapido-do-mundo-e-ele-e-open-source",
+      "owner_username": "biondoel",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-10-18T15:38:16.130Z",
+      "url": "https://www.tabnews.com.br/biondoel/criei-o-ai-gateway-mais-rapido-do-mundo-e-ele-e-open-source"
+    },
+    {
+      "id": "98c6ffdc-fb66-4062-bbeb-52276d2a847b",
+      "title": "Pitch: Como coloquei em produção um ecossistema de 76 módulos (v3.0.8) em par com agentes de IA usando Memory-Driven Development (e por que virei o gargalo humano)",
+      "slug": "como-coloquei-em-producao-um-ecossistema-de-76-modulos-v3-0-8-em-par-com-agentes-de-ia-usando-memory-driven-development-e-por-que-virei-o-gargalo-humano",
+      "owner_username": "otavioserra",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-10-19T13:54:06.545Z",
+      "url": "https://www.tabnews.com.br/otavioserra/como-coloquei-em-producao-um-ecossistema-de-76-modulos-v3-0-8-em-par-com-agentes-de-ia-usando-memory-driven-development-e-por-que-virei-o-gargalo-humano"
+    },
+    {
+      "id": "40ac3ee5-d8ea-4d8b-b00e-2779352c3ae6",
+      "title": "[RELATO] Post-mortem de um golpe: quando a ganância desliga o senso crítico de um DEV (e cai num golpe de crypto)",
+      "slug": "relato-post-mortem-de-um-golpe-quando-a-ganancia-desliga-o-senso-critico-de-um-dev-e-cai-num-golpe-de-crypto",
+      "owner_username": "postmortemdev",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-10-19T15:19:28.554Z",
+      "url": "https://www.tabnews.com.br/postmortemdev/relato-post-mortem-de-um-golpe-quando-a-ganancia-desliga-o-senso-critico-de-um-dev-e-cai-num-golpe-de-crypto"
+    },
+    {
+      "id": "a2867195-ad4e-4780-af81-204dba391084",
+      "title": "A Frustração de Criar Algo que Ninguém Usa",
+      "slug": "a-frustracao-de-criar-algo-que-ninguem-usa",
+      "owner_username": "hugomos",
+      "source_url": "https://www.tabnews.com.br/hugomos/verbum-uma-plataforma-de-estudo-biblico-construida-por-frustracao",
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-10-19T13:47:45.425Z",
+      "url": "https://www.tabnews.com.br/hugomos/a-frustracao-de-criar-algo-que-ninguem-usa"
+    },
+    {
+      "id": "5ac5c422-dd7e-464c-aafd-dd028055906c",
+      "title": "Site que reunia projetos de descompilação de jogos anuncia encerramento devido ao avanço da IA",
+      "slug": "site-que-reunia-projetos-de-descompilacao-de-jogos-anuncia-encerramento-devido-ao-avanco-da-ia",
+      "owner_username": "NewsletterOficial",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-19T15:05:07.332Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/site-que-reunia-projetos-de-descompilacao-de-jogos-anuncia-encerramento-devido-ao-avanco-da-ia"
+    },
+    {
+      "id": "949c36b3-7dd6-468c-a8b5-6f685a678b37",
+      "title": "O que aprendi construindo um servidor MCP para o agente de IA fazer deploy e ler os erros de produção",
+      "slug": "o-que-aprendi-construindo-um-servidor-mcp-para-o-agente-de-ia-fazer-deploy-e-ler-os-erros-de-producao",
+      "owner_username": "csbills",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-19T14:15:03.134Z",
+      "url": "https://www.tabnews.com.br/csbills/o-que-aprendi-construindo-um-servidor-mcp-para-o-agente-de-ia-fazer-deploy-e-ler-os-erros-de-producao"
+    },
+    {
+      "id": "667bb930-7e03-44cd-bf52-b76ad6d19988",
+      "title": "Como o nome da minha máquina Fedora colocou um usuário de 2015 no meu repositório e o que descobri abrindo a API do GitHub",
+      "slug": "como-o-nome-da-minha-maquina-fedora-colocou-um-usuario-de-2015-no-meu-repositorio-e-o-que-descobri-abrindo-a-api-do-github",
+      "owner_username": "lipebarbosa",
+      "source_url": null,
+      "tabcoins": 12,
+      "children_deep_count": 5,
+      "published_at": "2026-10-17T08:45:03.905Z",
+      "url": "https://www.tabnews.com.br/lipebarbosa/como-o-nome-da-minha-maquina-fedora-colocou-um-usuario-de-2015-no-meu-repositorio-e-o-que-descobri-abrindo-a-api-do-github"
     },
     {
       "id": "8487a516-860b-42ed-a424-6e4151071b4a",
@@ -29,87 +106,10 @@
       "slug": "vale-apena-estudar-programacao",
       "owner_username": "Cen",
       "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 6,
+      "tabcoins": 5,
+      "children_deep_count": 18,
       "published_at": "2026-10-17T22:13:17.247Z",
       "url": "https://www.tabnews.com.br/Cen/vale-apena-estudar-programacao"
-    },
-    {
-      "id": "c2f8fc75-0293-4cbb-bfe2-b7dccb1cd9b5",
-      "title": "A linha de código enfadonha por trás do primeiro desastre da Internet",
-      "slug": "a-linha-de-codigo-enfadonha-por-tras-do-primeiro-desastre-da-internet",
-      "owner_username": "gorpo85",
-      "source_url": "https://comuniq.xyz/Programming/post?t=1762",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-18T10:30:41.914Z",
-      "url": "https://www.tabnews.com.br/gorpo85/a-linha-de-codigo-enfadonha-por-tras-do-primeiro-desastre-da-internet"
-    },
-    {
-      "id": "6b6c0c4a-fd46-40ac-9983-63daaa4ac593",
-      "title": "Ainda há espaço para fazer grana com livros?",
-      "slug": "ainda-ha-espaco-para-fazer-grana-com-livros",
-      "owner_username": "josehypado",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 27,
-      "published_at": "2026-10-15T13:22:13.043Z",
-      "url": "https://www.tabnews.com.br/josehypado/ainda-ha-espaco-para-fazer-grana-com-livros"
-    },
-    {
-      "id": "6143eecc-87da-4abc-9b9e-8c12fcf324d7",
-      "title": "Pitch: juntei 22 mil servidores MCP e skills de agentes num lugar só, com o comando de instalação pronto",
-      "slug": "pitch-juntei-22-mil-servidores-mcp-e-skills-de-agentes-num-lugar-so-com-o-comando-de-instalacao-pronto",
-      "owner_username": "plugandship",
-      "source_url": "https://plugandship.dev",
-      "tabcoins": 6,
-      "children_deep_count": 5,
-      "published_at": "2026-10-15T13:14:18.780Z",
-      "url": "https://www.tabnews.com.br/plugandship/pitch-juntei-22-mil-servidores-mcp-e-skills-de-agentes-num-lugar-so-com-o-comando-de-instalacao-pronto"
-    },
-    {
-      "id": "0f64f989-a062-4764-9233-0a3ece154a4a",
-      "title": "Pitch: Plataforma CVE Intelligence",
-      "slug": "plataforma-cve-intelligence",
-      "owner_username": "janeiaraujo",
-      "source_url": "https://cve.inmanager.com.br/",
-      "tabcoins": 6,
-      "children_deep_count": 2,
-      "published_at": "2026-10-15T23:25:18.832Z",
-      "url": "https://www.tabnews.com.br/janeiaraujo/plataforma-cve-intelligence"
-    },
-    {
-      "id": "d507e815-e6c5-471e-ad3f-93fa11021555",
-      "title": "Dev Pleno pós Layoff",
-      "slug": "dev-pleno-pos-layoff",
-      "owner_username": "krhuhun",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-10-15T15:52:22.708Z",
-      "url": "https://www.tabnews.com.br/krhuhun/dev-pleno-pos-layoff"
-    },
-    {
-      "id": "c229f399-53c8-4d05-8219-7ce363e882f7",
-      "title": "LLMO sem teste quebra: Playwright CI em 7 passos",
-      "slug": "llmo-sem-teste-quebra-playwright-ci-em-7-passos",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/playwright-ci-llmo-7-passos/",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-10-16T12:00:03.956Z",
-      "url": "https://www.tabnews.com.br/kenimo49/llmo-sem-teste-quebra-playwright-ci-em-7-passos"
-    },
-    {
-      "id": "67b46c26-fdc0-44f0-8521-6924d5a204fc",
-      "title": "Pitch: Por que ainda é tão difícil substituir o AutoCAD por um CAD 2D open source?",
-      "slug": "por-que-ainda-e-tao-dificil-substituir-o-autocad-por-um-cad-2d-open-source",
-      "owner_username": "GokuCartasLokas",
-      "source_url": null,
-      "tabcoins": 20,
-      "children_deep_count": 5,
-      "published_at": "2026-10-12T21:31:31.818Z",
-      "url": "https://www.tabnews.com.br/GokuCartasLokas/por-que-ainda-e-tao-dificil-substituir-o-autocad-por-um-cad-2d-open-source"
     }
   ]
 }
