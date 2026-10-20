@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:02:27.934Z",
+  "updated_at": "2026-10-20T13:59:10.048Z",
   "posts": [
     {
       "id": "4b5727c0-9c5b-4630-947b-87dfa7533b42",
@@ -7,32 +7,10 @@
       "slug": "pitch-vibe-codei-um-plugin-para-ler-o-tabnews-no-kindle-e-ele-se-atualiza-sozinho",
       "owner_username": "DougNeo",
       "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 3,
+      "tabcoins": 10,
+      "children_deep_count": 6,
       "published_at": "2026-10-19T02:20:29.603Z",
       "url": "https://www.tabnews.com.br/DougNeo/pitch-vibe-codei-um-plugin-para-ler-o-tabnews-no-kindle-e-ele-se-atualiza-sozinho"
-    },
-    {
-      "id": "531ced56-dee4-40a3-92e1-82ff5e0dad8a",
-      "title": "Sou dev e quero aprofundar meus conhecimentos em Pentest e Segurança: o que vocês recomendam?",
-      "slug": "sou-dev-e-quero-aprofundar-meus-conhecimentos-em-pentest-e-seguranca-o-que-voces-recomendam",
-      "owner_username": "DougNeo",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 6,
-      "published_at": "2026-10-18T05:02:11.494Z",
-      "url": "https://www.tabnews.com.br/DougNeo/sou-dev-e-quero-aprofundar-meus-conhecimentos-em-pentest-e-seguranca-o-que-voces-recomendam"
-    },
-    {
-      "id": "f4c7fbc3-3a70-4f78-a958-bbebe9cea5d3",
-      "title": "Pitch: Criei o AI gateway mais rápido do mundo (e ele é open source)",
-      "slug": "criei-o-ai-gateway-mais-rapido-do-mundo-e-ele-e-open-source",
-      "owner_username": "biondoel",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 1,
-      "published_at": "2026-10-18T15:38:16.130Z",
-      "url": "https://www.tabnews.com.br/biondoel/criei-o-ai-gateway-mais-rapido-do-mundo-e-ele-e-open-source"
     },
     {
       "id": "98c6ffdc-fb66-4062-bbeb-52276d2a847b",
@@ -40,65 +18,87 @@
       "slug": "como-coloquei-em-producao-um-ecossistema-de-76-modulos-v3-0-8-em-par-com-agentes-de-ia-usando-memory-driven-development-e-por-que-virei-o-gargalo-humano",
       "owner_username": "otavioserra",
       "source_url": null,
-      "tabcoins": 5,
+      "tabcoins": 6,
       "children_deep_count": 2,
       "published_at": "2026-10-19T13:54:06.545Z",
       "url": "https://www.tabnews.com.br/otavioserra/como-coloquei-em-producao-um-ecossistema-de-76-modulos-v3-0-8-em-par-com-agentes-de-ia-usando-memory-driven-development-e-por-que-virei-o-gargalo-humano"
     },
     {
-      "id": "40ac3ee5-d8ea-4d8b-b00e-2779352c3ae6",
-      "title": "[RELATO] Post-mortem de um golpe: quando a ganância desliga o senso crítico de um DEV (e cai num golpe de crypto)",
-      "slug": "relato-post-mortem-de-um-golpe-quando-a-ganancia-desliga-o-senso-critico-de-um-dev-e-cai-num-golpe-de-crypto",
-      "owner_username": "postmortemdev",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-10-19T15:19:28.554Z",
-      "url": "https://www.tabnews.com.br/postmortemdev/relato-post-mortem-de-um-golpe-quando-a-ganancia-desliga-o-senso-critico-de-um-dev-e-cai-num-golpe-de-crypto"
-    },
-    {
-      "id": "a2867195-ad4e-4780-af81-204dba391084",
-      "title": "A Frustração de Criar Algo que Ninguém Usa",
-      "slug": "a-frustracao-de-criar-algo-que-ninguem-usa",
-      "owner_username": "hugomos",
-      "source_url": "https://www.tabnews.com.br/hugomos/verbum-uma-plataforma-de-estudo-biblico-construida-por-frustracao",
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-10-19T13:47:45.425Z",
-      "url": "https://www.tabnews.com.br/hugomos/a-frustracao-de-criar-algo-que-ninguem-usa"
-    },
-    {
-      "id": "5ac5c422-dd7e-464c-aafd-dd028055906c",
-      "title": "Site que reunia projetos de descompilação de jogos anuncia encerramento devido ao avanço da IA",
-      "slug": "site-que-reunia-projetos-de-descompilacao-de-jogos-anuncia-encerramento-devido-ao-avanco-da-ia",
+      "id": "01129710-e8ef-4583-81f7-134ae303a445",
+      "title": "Padrão internacional de horário deixará de receber ajustes ligados à rotação da Terra em 20 de maio de 2027",
+      "slug": "padrao-internacional-de-horario-deixara-de-receber-ajustes-ligados-a-rotacao-da-terra-em-20-de-maio-de-2027",
       "owner_username": "NewsletterOficial",
+      "source_url": "http://archive.today/2026.10.19-112940/https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-10-19T14:40:04.833Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/padrao-internacional-de-horario-deixara-de-receber-ajustes-ligados-a-rotacao-da-terra-em-20-de-maio-de-2027"
+    },
+    {
+      "id": "fbea1fe2-4ab4-4c74-aa45-814b6e9392c1",
+      "title": "Juntei 2,7 milhões de guias de ITBI de São Paulo (2006–2026) num mapa de preço real do m²",
+      "slug": "juntei-2-7-milhoes-de-guias-de-itbi-de-sao-paulo-20062026-num-mapa-de-preco-real-do-m",
+      "owner_username": "itbisp",
+      "source_url": "https://itbisp.com",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-10-19T23:16:03.950Z",
+      "url": "https://www.tabnews.com.br/itbisp/juntei-2-7-milhoes-de-guias-de-itbi-de-sao-paulo-20062026-num-mapa-de-preco-real-do-m"
+    },
+    {
+      "id": "76f51126-237e-478d-9f6c-3528bf076540",
+      "title": "Lancei um app pra barra de menus do macOS 27 sem pagar a conta de desenvolvedor da Apple",
+      "slug": "lancei-um-app-pra-barra-de-menus-do-macos-27-sem-pagar-a-conta-de-desenvolvedor-da-apple",
+      "owner_username": "jvzaniolo",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-19T15:05:07.332Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/site-que-reunia-projetos-de-descompilacao-de-jogos-anuncia-encerramento-devido-ao-avanco-da-ia"
+      "published_at": "2026-10-20T13:33:38.017Z",
+      "url": "https://www.tabnews.com.br/jvzaniolo/lancei-um-app-pra-barra-de-menus-do-macos-27-sem-pagar-a-conta-de-desenvolvedor-da-apple"
     },
     {
-      "id": "949c36b3-7dd6-468c-a8b5-6f685a678b37",
-      "title": "O que aprendi construindo um servidor MCP para o agente de IA fazer deploy e ler os erros de produção",
-      "slug": "o-que-aprendi-construindo-um-servidor-mcp-para-o-agente-de-ia-fazer-deploy-e-ler-os-erros-de-producao",
-      "owner_username": "csbills",
-      "source_url": null,
+      "id": "f5fac708-49fd-48df-982e-b84218308b0c",
+      "title": "Quanto custa um clipe de 8 segundos de vídeo com IA em cada app (outubro de 2026)",
+      "slug": "quanto-custa-um-clipe-de-8-segundos-de-video-com-ia-em-cada-app-outubro-de-2026",
+      "owner_username": "SundreamTeam",
+      "source_url": "https://sundream.studio/blog/ai-video-pricing-comparison-october-2026",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-19T14:15:03.134Z",
-      "url": "https://www.tabnews.com.br/csbills/o-que-aprendi-construindo-um-servidor-mcp-para-o-agente-de-ia-fazer-deploy-e-ler-os-erros-de-producao"
+      "published_at": "2026-10-20T13:24:43.762Z",
+      "url": "https://www.tabnews.com.br/SundreamTeam/quanto-custa-um-clipe-de-8-segundos-de-video-com-ia-em-cada-app-outubro-de-2026"
     },
     {
-      "id": "667bb930-7e03-44cd-bf52-b76ad6d19988",
-      "title": "Como o nome da minha máquina Fedora colocou um usuário de 2015 no meu repositório e o que descobri abrindo a API do GitHub",
-      "slug": "como-o-nome-da-minha-maquina-fedora-colocou-um-usuario-de-2015-no-meu-repositorio-e-o-que-descobri-abrindo-a-api-do-github",
-      "owner_username": "lipebarbosa",
+      "id": "13441424-f1ce-48e1-9677-16345ce1a054",
+      "title": "Pitch: comecei a evoluir o meu harness com determinismo ao invés de feeling",
+      "slug": "pitch-comecei-a-evoluir-o-meu-harness-com-determinismo-ao-inves-de-feeling",
+      "owner_username": "guilhermebkel",
+      "source_url": "https://github.com/guilhermebkel/harness-ledger",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-20T13:20:47.288Z",
+      "url": "https://www.tabnews.com.br/guilhermebkel/pitch-comecei-a-evoluir-o-meu-harness-com-determinismo-ao-inves-de-feeling"
+    },
+    {
+      "id": "9e5760ad-8820-47ab-a6b5-92ed37f6489e",
+      "title": "Pitch:  Fiz um diário privado para mim e minha namorada e coloquei no ar. O que aprendi na primeira semana",
+      "slug": "pitch-fiz-um-diario-privado-para-mim-e-minha-namorada-e-coloquei-no-ar-o-que-aprendi-na-primeira-semana",
+      "owner_username": "brunogcpinheiro",
+      "source_url": "https://lovnote.app/pt",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-20T12:36:06.773Z",
+      "url": "https://www.tabnews.com.br/brunogcpinheiro/pitch-fiz-um-diario-privado-para-mim-e-minha-namorada-e-coloquei-no-ar-o-que-aprendi-na-primeira-semana"
+    },
+    {
+      "id": "f4c7fbc3-3a70-4f78-a958-bbebe9cea5d3",
+      "title": "Pitch: Criei o AI gateway mais rápido do mundo (e ele é open source)",
+      "slug": "criei-o-ai-gateway-mais-rapido-do-mundo-e-ele-e-open-source",
+      "owner_username": "biondoel",
       "source_url": null,
-      "tabcoins": 12,
-      "children_deep_count": 5,
-      "published_at": "2026-10-17T08:45:03.905Z",
-      "url": "https://www.tabnews.com.br/lipebarbosa/como-o-nome-da-minha-maquina-fedora-colocou-um-usuario-de-2015-no-meu-repositorio-e-o-que-descobri-abrindo-a-api-do-github"
+      "tabcoins": 13,
+      "children_deep_count": 1,
+      "published_at": "2026-10-18T15:38:16.130Z",
+      "url": "https://www.tabnews.com.br/biondoel/criei-o-ai-gateway-mais-rapido-do-mundo-e-ele-e-open-source"
     },
     {
       "id": "8487a516-860b-42ed-a424-6e4151071b4a",
