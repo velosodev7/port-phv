@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-10-21T14:14:49.024Z",
+  "updated_at": "2026-10-22T14:14:36.756Z",
   "posts": [
+    {
+      "id": "a36764cf-1a57-42ff-a139-3ab2ccb04505",
+      "title": "Como rodo 6 apps em produção numa VPS de 3,6 GB com Docker Swarm + Traefik (e os perrengues que os tutoriais não contam)",
+      "slug": "como-rodo-6-apps-em-producao-numa-vps-de-3-6-gb-com-docker-swarm-traefik-e-os-perrengues-que-os-tutoriais-nao-contam",
+      "owner_username": "rabitIA",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 8,
+      "published_at": "2026-10-21T15:03:31.828Z",
+      "url": "https://www.tabnews.com.br/rabitIA/como-rodo-6-apps-em-producao-numa-vps-de-3-6-gb-com-docker-swarm-traefik-e-os-perrengues-que-os-tutoriais-nao-contam"
+    },
+    {
+      "id": "d2f3b36e-a612-445c-8df8-0cce0d04b226",
+      "title": "[NOTÍCIA] - Vulnerabilidade crítica no PHP",
+      "slug": "noticia-vulnerabilidade-critica-no-php",
+      "owner_username": "KauaMelchioretto",
+      "source_url": "https://www.bbc.com/portuguese/articles/cqzjxp10r901o",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-10-22T12:24:32.649Z",
+      "url": "https://www.tabnews.com.br/KauaMelchioretto/noticia-vulnerabilidade-critica-no-php"
+    },
+    {
+      "id": "055af6ec-c299-415d-a9fe-7c3c2c7d41b7",
+      "title": "Pitch: como o GPS ensinou meu app de enjoo no carro onde fica o \"para baixo\" (15 códigos)",
+      "slug": "pitch-como-o-gps-ensinou-meu-app-de-enjoo-no-carro-onde-fica-o-para-baixo-15-codigos",
+      "owner_username": "ejempty",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-22T14:08:45.909Z",
+      "url": "https://www.tabnews.com.br/ejempty/pitch-como-o-gps-ensinou-meu-app-de-enjoo-no-carro-onde-fica-o-para-baixo-15-codigos"
+    },
+    {
+      "id": "51e8d881-e57d-4049-b411-880e1047e12d",
+      "title": "# Pitch: Criei o Real Hover para aproximar a explicação do termo que interrompe a leitura",
+      "slug": "pitch-criei-o-real-hover-para-aproximar-a-explicacao-do-termo-que-interrompe-a-leitura",
+      "owner_username": "brnogf",
+      "source_url": "https://www.youtube.com/watch?v=UPbOs54YFm8",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-22T09:30:18.790Z",
+      "url": "https://www.tabnews.com.br/brnogf/pitch-criei-o-real-hover-para-aproximar-a-explicacao-do-termo-que-interrompe-a-leitura"
+    },
+    {
+      "id": "17d6037a-3cfb-46a3-b9f0-7a2bc2f03558",
+      "title": "DeviceActivity no iOS: um bloqueio que termina na hora certa e as cinco armadilhas de horário que encontrei",
+      "slug": "deviceactivity-no-ios-um-bloqueio-que-termina-na-hora-certa-e-as-cinco-armadilhas-de-horario-que-encontrei",
+      "owner_username": "barcaak1011",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-22T06:58:34.657Z",
+      "url": "https://www.tabnews.com.br/barcaak1011/deviceactivity-no-ios-um-bloqueio-que-termina-na-hora-certa-e-as-cinco-armadilhas-de-horario-que-encontrei"
+    },
+    {
+      "id": "fbea1fe2-4ab4-4c74-aa45-814b6e9392c1",
+      "title": "Juntei 2,7 milhões de guias de ITBI de São Paulo (2006–2026) num mapa de preço real do m²",
+      "slug": "juntei-2-7-milhoes-de-guias-de-itbi-de-sao-paulo-20062026-num-mapa-de-preco-real-do-m",
+      "owner_username": "itbisp",
+      "source_url": "https://itbisp.com",
+      "tabcoins": 9,
+      "children_deep_count": 1,
+      "published_at": "2026-10-19T23:16:03.950Z",
+      "url": "https://www.tabnews.com.br/itbisp/juntei-2-7-milhoes-de-guias-de-itbi-de-sao-paulo-20062026-num-mapa-de-preco-real-do-m"
+    },
     {
       "id": "6fab04d2-f6f3-4d75-a477-3901b8116879",
       "title": "Será que esse será o futuro do dev?",
@@ -8,9 +74,20 @@
       "owner_username": "welovetech",
       "source_url": null,
       "tabcoins": 5,
-      "children_deep_count": 11,
+      "children_deep_count": 15,
       "published_at": "2026-10-20T15:28:15.149Z",
       "url": "https://www.tabnews.com.br/welovetech/sera-que-esse-sera-o-futuro-do-dev"
+    },
+    {
+      "id": "01129710-e8ef-4583-81f7-134ae303a445",
+      "title": "Padrão internacional de horário deixará de receber ajustes ligados à rotação da Terra em 20 de maio de 2027",
+      "slug": "padrao-internacional-de-horario-deixara-de-receber-ajustes-ligados-a-rotacao-da-terra-em-20-de-maio-de-2027",
+      "owner_username": "NewsletterOficial",
+      "source_url": "http://archive.today/2026.10.19-112940/https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+      "tabcoins": 8,
+      "children_deep_count": 1,
+      "published_at": "2026-10-19T14:40:04.833Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/padrao-internacional-de-horario-deixara-de-receber-ajustes-ligados-a-rotacao-da-terra-em-20-de-maio-de-2027"
     },
     {
       "id": "6a773138-e04f-4f93-a27c-00821fd8ce66",
@@ -18,65 +95,10 @@
       "slug": "professor-de-historia-aprendendo-a-programar-fiz-meu-primeiro-jogo-no-godot-para-meus-alunos",
       "owner_username": "zoenix",
       "source_url": null,
-      "tabcoins": 3,
+      "tabcoins": 5,
       "children_deep_count": 0,
       "published_at": "2026-10-20T21:23:40.525Z",
       "url": "https://www.tabnews.com.br/zoenix/professor-de-historia-aprendendo-a-programar-fiz-meu-primeiro-jogo-no-godot-para-meus-alunos"
-    },
-    {
-      "id": "55cf3f57-5800-4b90-a080-14f5ac1329f1",
-      "title": "Quanto dura o plano Pro do Claude Code? A conta aberta, com fontes e premissas",
-      "slug": "quanto-dura-o-plano-pro-do-claude-code-a-conta-aberta-com-fontes-e-premissas",
-      "owner_username": "lucasmerlinco",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 3,
-      "published_at": "2026-10-20T17:35:50.941Z",
-      "url": "https://www.tabnews.com.br/lucasmerlinco/quanto-dura-o-plano-pro-do-claude-code-a-conta-aberta-com-fontes-e-premissas"
-    },
-    {
-      "id": "b46c74fe-1696-4b38-8479-d12d14de7079",
-      "title": "Pitch: Pokémon Arena no navegador — o que aprendemos ao levar um jogo 3D para pt-BR",
-      "slug": "pitch-pokemon-arena-no-navegador-o-que-aprendemos-ao-levar-um-jogo-3d-para-pt-br",
-      "owner_username": "EquipePokemonArena",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-10-21T04:35:15.333Z",
-      "url": "https://www.tabnews.com.br/EquipePokemonArena/pitch-pokemon-arena-no-navegador-o-que-aprendemos-ao-levar-um-jogo-3d-para-pt-br"
-    },
-    {
-      "id": "00cbe181-34b7-4a1c-a3fd-0d870e6bf8a8",
-      "title": "IA para migrar COBOL: o que testar antes de confiar no código convertido",
-      "slug": "ia-para-migrar-cobol-o-que-testar-antes-de-confiar-no-codigo-convertido",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-10-21T07:37:23.465Z",
-      "url": "https://www.tabnews.com.br/Centelha/ia-para-migrar-cobol-o-que-testar-antes-de-confiar-no-codigo-convertido"
-    },
-    {
-      "id": "5d33d301-5ff1-4522-aa81-23baccf476a9",
-      "title": "ValidAí: comparador e auditor de planilhas, notas fiscais (XML) e extratos (OFX)",
-      "slug": "validai-comparador-e-auditor-de-planilhas-notas-fiscais-xml-e-extratos-ofx",
-      "owner_username": "ViniciusCesar",
-      "source_url": "https://validai.app.br",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-21T14:11:25.077Z",
-      "url": "https://www.tabnews.com.br/ViniciusCesar/validai-comparador-e-auditor-de-planilhas-notas-fiscais-xml-e-extratos-ofx"
-    },
-    {
-      "id": "fc70568e-326a-4d02-94e3-c5b0e957db17",
-      "title": "Context Engineering: 6 no livro, 2 na produção",
-      "slug": "context-engineering-6-no-livro-2-na-producao",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/context-engineering-6-no-livro-2-na-producao/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-21T12:00:03.963Z",
-      "url": "https://www.tabnews.com.br/kenimo49/context-engineering-6-no-livro-2-na-producao"
     },
     {
       "id": "9e5760ad-8820-47ab-a6b5-92ed37f6489e",
@@ -88,28 +110,6 @@
       "children_deep_count": 0,
       "published_at": "2026-10-20T12:36:06.773Z",
       "url": "https://www.tabnews.com.br/brunogcpinheiro/pitch-fiz-um-diario-privado-para-mim-e-minha-namorada-e-coloquei-no-ar-o-que-aprendi-na-primeira-semana"
-    },
-    {
-      "id": "f4c7fbc3-3a70-4f78-a958-bbebe9cea5d3",
-      "title": "Pitch: Criei o AI gateway mais rápido do mundo (e ele é open source)",
-      "slug": "criei-o-ai-gateway-mais-rapido-do-mundo-e-ele-e-open-source",
-      "owner_username": "biondoel",
-      "source_url": null,
-      "tabcoins": 13,
-      "children_deep_count": 1,
-      "published_at": "2026-10-18T15:38:16.130Z",
-      "url": "https://www.tabnews.com.br/biondoel/criei-o-ai-gateway-mais-rapido-do-mundo-e-ele-e-open-source"
-    },
-    {
-      "id": "4b5727c0-9c5b-4630-947b-87dfa7533b42",
-      "title": "Pitch: Vibe codei um plugin para ler o TabNews no Kindle (e ele se atualiza sozinho)",
-      "slug": "pitch-vibe-codei-um-plugin-para-ler-o-tabnews-no-kindle-e-ele-se-atualiza-sozinho",
-      "owner_username": "DougNeo",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 8,
-      "published_at": "2026-10-19T02:20:29.603Z",
-      "url": "https://www.tabnews.com.br/DougNeo/pitch-vibe-codei-um-plugin-para-ler-o-tabnews-no-kindle-e-ele-se-atualiza-sozinho"
     }
   ]
 }
