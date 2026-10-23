@@ -1,71 +1,93 @@
 {
-  "updated_at": "2026-10-22T14:14:36.756Z",
+  "updated_at": "2026-10-23T13:57:51.947Z",
   "posts": [
     {
-      "id": "a36764cf-1a57-42ff-a139-3ab2ccb04505",
-      "title": "Como rodo 6 apps em produção numa VPS de 3,6 GB com Docker Swarm + Traefik (e os perrengues que os tutoriais não contam)",
-      "slug": "como-rodo-6-apps-em-producao-numa-vps-de-3-6-gb-com-docker-swarm-traefik-e-os-perrengues-que-os-tutoriais-nao-contam",
-      "owner_username": "rabitIA",
+      "id": "645470ce-6f0c-42c7-b10d-644508fbdcb2",
+      "title": "Como sobreviver a um RCE",
+      "slug": "como-sobreviver-a-um-rce",
+      "owner_username": "Silva97",
+      "source_url": "https://blog.freedev.com.br/como-sobreviver-a-um-rce-833d5c6bc1f1",
+      "tabcoins": 12,
+      "children_deep_count": 5,
+      "published_at": "2026-10-22T19:15:06.540Z",
+      "url": "https://www.tabnews.com.br/Silva97/como-sobreviver-a-um-rce"
+    },
+    {
+      "id": "bc576616-8555-42e8-9e68-2b66240300dd",
+      "title": "Fiz um e-mail descartável com foco em zero retenção",
+      "slug": "fiz-um-e-mail-descartavel-com-foco-em-zero-retencao",
+      "owner_username": "hitmasu",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 8,
-      "published_at": "2026-10-21T15:03:31.828Z",
-      "url": "https://www.tabnews.com.br/rabitIA/como-rodo-6-apps-em-producao-numa-vps-de-3-6-gb-com-docker-swarm-traefik-e-os-perrengues-que-os-tutoriais-nao-contam"
+      "tabcoins": 7,
+      "children_deep_count": 2,
+      "published_at": "2026-10-22T22:44:53.206Z",
+      "url": "https://www.tabnews.com.br/hitmasu/fiz-um-e-mail-descartavel-com-foco-em-zero-retencao"
     },
     {
-      "id": "d2f3b36e-a612-445c-8df8-0cce0d04b226",
-      "title": "[NOTÍCIA] - Vulnerabilidade crítica no PHP",
-      "slug": "noticia-vulnerabilidade-critica-no-php",
-      "owner_username": "KauaMelchioretto",
-      "source_url": "https://www.bbc.com/portuguese/articles/cqzjxp10r901o",
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-10-22T12:24:32.649Z",
-      "url": "https://www.tabnews.com.br/KauaMelchioretto/noticia-vulnerabilidade-critica-no-php"
+      "id": "287c2dca-1e33-442c-a8ca-0af19b547674",
+      "title": "🎬 Kdenlive MCP Plus: deixei a IA editar vídeo de verdade no Kdenlive - 93 ferramentas, 103 testes, formato nativo .kdenlive, render sem interface - 3 vídeos feitos por Sonnet, Opus e Haiku - Peça ao agente e o kdenlive app atualiza na hora - Rust",
+      "slug": "kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos-feitos-por-sonnet-opus-e-haiku-peca-ao-agente-e-o-kdenlive-app-atualiza-na-hora-rust",
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-10-23T09:32:14.348Z",
+      "url": "https://www.tabnews.com.br/MrJ/kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos"
     },
     {
-      "id": "055af6ec-c299-415d-a9fe-7c3c2c7d41b7",
-      "title": "Pitch: como o GPS ensinou meu app de enjoo no carro onde fica o \"para baixo\" (15 códigos)",
-      "slug": "pitch-como-o-gps-ensinou-meu-app-de-enjoo-no-carro-onde-fica-o-para-baixo-15-codigos",
-      "owner_username": "ejempty",
+      "id": "e68b7b75-9e42-497a-8447-e717fb358c7d",
+      "title": "Os 7 MCPs que eu deixaria instalados no Claude Code e no Cursor (todos de graça)",
+      "slug": "os-7-mcps-que-eu-deixaria-instalados-no-claude-code-e-no-cursor-todos-de-graca",
+      "owner_username": "plugandship",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-22T14:08:45.909Z",
-      "url": "https://www.tabnews.com.br/ejempty/pitch-como-o-gps-ensinou-meu-app-de-enjoo-no-carro-onde-fica-o-para-baixo-15-codigos"
-    },
-    {
-      "id": "51e8d881-e57d-4049-b411-880e1047e12d",
-      "title": "# Pitch: Criei o Real Hover para aproximar a explicação do termo que interrompe a leitura",
-      "slug": "pitch-criei-o-real-hover-para-aproximar-a-explicacao-do-termo-que-interrompe-a-leitura",
-      "owner_username": "brnogf",
-      "source_url": "https://www.youtube.com/watch?v=UPbOs54YFm8",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-22T09:30:18.790Z",
-      "url": "https://www.tabnews.com.br/brnogf/pitch-criei-o-real-hover-para-aproximar-a-explicacao-do-termo-que-interrompe-a-leitura"
-    },
-    {
-      "id": "17d6037a-3cfb-46a3-b9f0-7a2bc2f03558",
-      "title": "DeviceActivity no iOS: um bloqueio que termina na hora certa e as cinco armadilhas de horário que encontrei",
-      "slug": "deviceactivity-no-ios-um-bloqueio-que-termina-na-hora-certa-e-as-cinco-armadilhas-de-horario-que-encontrei",
-      "owner_username": "barcaak1011",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-22T06:58:34.657Z",
-      "url": "https://www.tabnews.com.br/barcaak1011/deviceactivity-no-ios-um-bloqueio-que-termina-na-hora-certa-e-as-cinco-armadilhas-de-horario-que-encontrei"
-    },
-    {
-      "id": "fbea1fe2-4ab4-4c74-aa45-814b6e9392c1",
-      "title": "Juntei 2,7 milhões de guias de ITBI de São Paulo (2006–2026) num mapa de preço real do m²",
-      "slug": "juntei-2-7-milhoes-de-guias-de-itbi-de-sao-paulo-20062026-num-mapa-de-preco-real-do-m",
-      "owner_username": "itbisp",
-      "source_url": "https://itbisp.com",
-      "tabcoins": 9,
+      "tabcoins": 5,
       "children_deep_count": 1,
-      "published_at": "2026-10-19T23:16:03.950Z",
-      "url": "https://www.tabnews.com.br/itbisp/juntei-2-7-milhoes-de-guias-de-itbi-de-sao-paulo-20062026-num-mapa-de-preco-real-do-m"
+      "published_at": "2026-10-22T22:08:10.303Z",
+      "url": "https://www.tabnews.com.br/plugandship/os-7-mcps-que-eu-deixaria-instalados-no-claude-code-e-no-cursor-todos-de-graca"
+    },
+    {
+      "id": "b9ee477a-23c5-48c0-bb70-d7e9f7f78038",
+      "title": "CodeRabbit em pt-BR: 3 defaults que fazem ruído",
+      "slug": "coderabbit-em-pt-br-3-defaults-que-fazem-ruido",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/coderabbit-pt-br-3-defaults-fazem-ruido/",
+      "tabcoins": 2,
+      "children_deep_count": 1,
+      "published_at": "2026-10-23T12:00:04.721Z",
+      "url": "https://www.tabnews.com.br/kenimo49/coderabbit-em-pt-br-3-defaults-que-fazem-ruido"
+    },
+    {
+      "id": "cd34adb8-6364-4657-8de4-6217a0d575b5",
+      "title": "Apresentando agentes de revisão de código com IA personalizados para Pull Requests",
+      "slug": "apresentando-agentes-de-revisao-de-codigo-com-ia-personalizados-para-pull-requests",
+      "owner_username": "edfreitas",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-23T13:45:03.234Z",
+      "url": "https://www.tabnews.com.br/edfreitas/apresentando-agentes-de-revisao-de-codigo-com-ia-personalizados-para-pull-requests"
+    },
+    {
+      "id": "780c106b-736d-4f04-9062-0c7453c680f1",
+      "title": "Feedback sem contas: o que a caixa de entrada não guarda",
+      "slug": "feedback-sem-contas-o-que-a-caixa-de-entrada-nao-guarda",
+      "owner_username": "plopino",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-23T13:12:31.508Z",
+      "url": "https://www.tabnews.com.br/plopino/feedback-sem-contas-o-que-a-caixa-de-entrada-nao-guarda"
+    },
+    {
+      "id": "5d1557c1-193f-4266-a1ae-c8d88f8e0dd4",
+      "title": "is-kit chegou a 100 stars ⭐🎉 O que mudou desde os 50?",
+      "slug": "is-kit-chegou-a-100-stars-o-que-mudou-desde-os-50",
+      "owner_username": "nyaomaru",
+      "source_url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-23T12:19:45.673Z",
+      "url": "https://www.tabnews.com.br/nyaomaru/is-kit-chegou-a-100-stars-o-que-mudou-desde-os-50"
     },
     {
       "id": "6fab04d2-f6f3-4d75-a477-3901b8116879",
@@ -79,37 +101,15 @@
       "url": "https://www.tabnews.com.br/welovetech/sera-que-esse-sera-o-futuro-do-dev"
     },
     {
-      "id": "01129710-e8ef-4583-81f7-134ae303a445",
-      "title": "Padrão internacional de horário deixará de receber ajustes ligados à rotação da Terra em 20 de maio de 2027",
-      "slug": "padrao-internacional-de-horario-deixara-de-receber-ajustes-ligados-a-rotacao-da-terra-em-20-de-maio-de-2027",
-      "owner_username": "NewsletterOficial",
-      "source_url": "http://archive.today/2026.10.19-112940/https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
-      "tabcoins": 8,
-      "children_deep_count": 1,
-      "published_at": "2026-10-19T14:40:04.833Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/padrao-internacional-de-horario-deixara-de-receber-ajustes-ligados-a-rotacao-da-terra-em-20-de-maio-de-2027"
-    },
-    {
-      "id": "6a773138-e04f-4f93-a27c-00821fd8ce66",
-      "title": "Pitch: Professor de História aprendendo a programar: fiz meu primeiro jogo no Godot para meus alunos",
-      "slug": "professor-de-historia-aprendendo-a-programar-fiz-meu-primeiro-jogo-no-godot-para-meus-alunos",
-      "owner_username": "zoenix",
+      "id": "a36764cf-1a57-42ff-a139-3ab2ccb04505",
+      "title": "Como rodo 6 apps em produção numa VPS de 3,6 GB com Docker Swarm + Traefik (e os perrengues que os tutoriais não contam)",
+      "slug": "como-rodo-6-apps-em-producao-numa-vps-de-3-6-gb-com-docker-swarm-traefik-e-os-perrengues-que-os-tutoriais-nao-contam",
+      "owner_username": "rabitIA",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-10-20T21:23:40.525Z",
-      "url": "https://www.tabnews.com.br/zoenix/professor-de-historia-aprendendo-a-programar-fiz-meu-primeiro-jogo-no-godot-para-meus-alunos"
-    },
-    {
-      "id": "9e5760ad-8820-47ab-a6b5-92ed37f6489e",
-      "title": "Pitch:  Fiz um diário privado para mim e minha namorada e coloquei no ar. O que aprendi na primeira semana",
-      "slug": "pitch-fiz-um-diario-privado-para-mim-e-minha-namorada-e-coloquei-no-ar-o-que-aprendi-na-primeira-semana",
-      "owner_username": "brunogcpinheiro",
-      "source_url": "https://lovnote.app/pt",
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-10-20T12:36:06.773Z",
-      "url": "https://www.tabnews.com.br/brunogcpinheiro/pitch-fiz-um-diario-privado-para-mim-e-minha-namorada-e-coloquei-no-ar-o-que-aprendi-na-primeira-semana"
+      "tabcoins": 6,
+      "children_deep_count": 13,
+      "published_at": "2026-10-21T15:03:31.828Z",
+      "url": "https://www.tabnews.com.br/rabitIA/como-rodo-6-apps-em-producao-numa-vps-de-3-6-gb-com-docker-swarm-traefik-e-os-perrengues-que-os-tutoriais-nao-contam"
     }
   ]
 }
