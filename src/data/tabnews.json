@@ -1,14 +1,102 @@
 {
-  "updated_at": "2026-10-23T13:57:51.947Z",
+  "updated_at": "2026-10-24T13:00:23.418Z",
   "posts": [
+    {
+      "id": "16ff7b9e-5613-4c8c-b135-1599e0e5ccd3",
+      "title": "Pitch: Vibecodei um \"Mario Kart\" com personagens da política brasileira (Tem até um banqueiro famoso... 😏)",
+      "slug": "vibecodei-um-mario-kart-com-personagens-da-politica-brasileira-tem-ate-um-banqueiro-famoso",
+      "owner_username": "leonardorib",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 4,
+      "published_at": "2026-10-23T03:01:09.265Z",
+      "url": "https://www.tabnews.com.br/leonardorib/vibecodei-um-mario-kart-com-personagens-da-politica-brasileira-tem-ate-um-banqueiro-famoso"
+    },
+    {
+      "id": "287c2dca-1e33-442c-a8ca-0af19b547674",
+      "title": "Pitch: 🎬 Kdenlive MCP Plus: deixei a IA editar vídeo de verdade no Kdenlive - 93 ferramentas, 103 testes, formato nativo .kdenlive, render sem interface - 3 vídeos feitos por Sonnet, Opus e Haiku - Peça ao agente e o kdenlive app atualiza na hora - Rust",
+      "slug": "kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos-feitos-por-sonnet-opus-e-haiku-peca-ao-agente-e-o-kdenlive-app-atualiza-na-hora-rust",
+      "tabcoins": 4,
+      "children_deep_count": 5,
+      "published_at": "2026-10-23T09:32:14.348Z",
+      "url": "https://www.tabnews.com.br/MrJ/kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos"
+    },
+    {
+      "id": "be6c6125-91ad-4539-9827-7e179a7b9c1e",
+      "title": "Não sou programador e fiz mais de 70 jogos no navegador com IA para os meus filhos",
+      "slug": "nao-sou-programador-e-fiz-mais-de-70-jogos-no-navegador-com-ia-para-os-meus-filhos",
+      "owner_username": "PaiVelmoxia",
+      "source_url": "https://velmoxia.com/pt-br/jogos-online/",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-10-24T11:43:11.650Z",
+      "url": "https://www.tabnews.com.br/PaiVelmoxia/nao-sou-programador-e-fiz-mais-de-70-jogos-no-navegador-com-ia-para-os-meus-filhos"
+    },
+    {
+      "id": "571b4529-b068-466b-8423-84e18296f34b",
+      "title": "Decidi parar de escrever minha newsletter",
+      "slug": "decidi-parar-de-escrever-minha-newsletter",
+      "owner_username": "moacirmoda",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-10-23T23:00:04.614Z",
+      "url": "https://www.tabnews.com.br/moacirmoda/decidi-parar-de-escrever-minha-newsletter"
+    },
+    {
+      "id": "ec226aa0-9d1e-4a37-b46f-44573d367f49",
+      "title": "Pitch: Fiz um programa de projeção para a minha igreja e abri o código: U-Control",
+      "slug": "fiz-um-programa-de-projecao-para-a-minha-igreja-e-abri-o-codigo-u-control",
+      "owner_username": "brunomint",
+      "source_url": "https://github.com/brunomint/U-Control",
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-10-24T10:31:35.304Z",
+      "url": "https://www.tabnews.com.br/brunomint/fiz-um-programa-de-projecao-para-a-minha-igreja-e-abri-o-codigo-u-control"
+    },
+    {
+      "id": "846344f6-7a32-453b-886c-9a29918f502d",
+      "title": "Antes de confiar no agente de código, confira onde ele roda e o que executa",
+      "slug": "antes-de-confiar-no-agente-de-codigo-confira-onde-ele-roda-e-o-que-executa",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-24T12:34:13.638Z",
+      "url": "https://www.tabnews.com.br/Centelha/antes-de-confiar-no-agente-de-codigo-confira-onde-ele-roda-e-o-que-executa"
+    },
+    {
+      "id": "f7bd9d65-d89b-451b-b232-9d61a924f2d2",
+      "title": "[PITCH] - Geração de Avatar Aleatório",
+      "slug": "pitch-geracao-de-avatar-aleatorio",
+      "owner_username": "RodrigoSchioMuniz",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-24T10:55:07.550Z",
+      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/pitch-geracao-de-avatar-aleatorio"
+    },
+    {
+      "id": "5b8d59c7-fa52-4c84-91a7-f627e3327142",
+      "title": "Projeto feito com Cursor, Lovable ou Bolt não funciona? Por onde começar",
+      "slug": "projeto-feito-com-cursor-lovable-ou-bolt-nao-funciona-por-onde-comecar",
+      "owner_username": "ofers",
+      "source_url": "https://ofershap.github.io/en/posts/vibe-code-project-rescue/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-24T08:20:59.983Z",
+      "url": "https://www.tabnews.com.br/ofers/projeto-feito-com-cursor-lovable-ou-bolt-nao-funciona-por-onde-comecar"
+    },
     {
       "id": "645470ce-6f0c-42c7-b10d-644508fbdcb2",
       "title": "Como sobreviver a um RCE",
       "slug": "como-sobreviver-a-um-rce",
       "owner_username": "Silva97",
       "source_url": "https://blog.freedev.com.br/como-sobreviver-a-um-rce-833d5c6bc1f1",
-      "tabcoins": 12,
-      "children_deep_count": 5,
+      "tabcoins": 14,
+      "children_deep_count": 8,
       "published_at": "2026-10-22T19:15:06.540Z",
       "url": "https://www.tabnews.com.br/Silva97/como-sobreviver-a-um-rce"
     },
@@ -18,98 +106,10 @@
       "slug": "fiz-um-e-mail-descartavel-com-foco-em-zero-retencao",
       "owner_username": "hitmasu",
       "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 2,
+      "tabcoins": 8,
+      "children_deep_count": 7,
       "published_at": "2026-10-22T22:44:53.206Z",
       "url": "https://www.tabnews.com.br/hitmasu/fiz-um-e-mail-descartavel-com-foco-em-zero-retencao"
-    },
-    {
-      "id": "287c2dca-1e33-442c-a8ca-0af19b547674",
-      "title": "🎬 Kdenlive MCP Plus: deixei a IA editar vídeo de verdade no Kdenlive - 93 ferramentas, 103 testes, formato nativo .kdenlive, render sem interface - 3 vídeos feitos por Sonnet, Opus e Haiku - Peça ao agente e o kdenlive app atualiza na hora - Rust",
-      "slug": "kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/blog/kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos-feitos-por-sonnet-opus-e-haiku-peca-ao-agente-e-o-kdenlive-app-atualiza-na-hora-rust",
-      "tabcoins": 6,
-      "children_deep_count": 3,
-      "published_at": "2026-10-23T09:32:14.348Z",
-      "url": "https://www.tabnews.com.br/MrJ/kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos"
-    },
-    {
-      "id": "e68b7b75-9e42-497a-8447-e717fb358c7d",
-      "title": "Os 7 MCPs que eu deixaria instalados no Claude Code e no Cursor (todos de graça)",
-      "slug": "os-7-mcps-que-eu-deixaria-instalados-no-claude-code-e-no-cursor-todos-de-graca",
-      "owner_username": "plugandship",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-10-22T22:08:10.303Z",
-      "url": "https://www.tabnews.com.br/plugandship/os-7-mcps-que-eu-deixaria-instalados-no-claude-code-e-no-cursor-todos-de-graca"
-    },
-    {
-      "id": "b9ee477a-23c5-48c0-bb70-d7e9f7f78038",
-      "title": "CodeRabbit em pt-BR: 3 defaults que fazem ruído",
-      "slug": "coderabbit-em-pt-br-3-defaults-que-fazem-ruido",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/coderabbit-pt-br-3-defaults-fazem-ruido/",
-      "tabcoins": 2,
-      "children_deep_count": 1,
-      "published_at": "2026-10-23T12:00:04.721Z",
-      "url": "https://www.tabnews.com.br/kenimo49/coderabbit-em-pt-br-3-defaults-que-fazem-ruido"
-    },
-    {
-      "id": "cd34adb8-6364-4657-8de4-6217a0d575b5",
-      "title": "Apresentando agentes de revisão de código com IA personalizados para Pull Requests",
-      "slug": "apresentando-agentes-de-revisao-de-codigo-com-ia-personalizados-para-pull-requests",
-      "owner_username": "edfreitas",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-23T13:45:03.234Z",
-      "url": "https://www.tabnews.com.br/edfreitas/apresentando-agentes-de-revisao-de-codigo-com-ia-personalizados-para-pull-requests"
-    },
-    {
-      "id": "780c106b-736d-4f04-9062-0c7453c680f1",
-      "title": "Feedback sem contas: o que a caixa de entrada não guarda",
-      "slug": "feedback-sem-contas-o-que-a-caixa-de-entrada-nao-guarda",
-      "owner_username": "plopino",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-23T13:12:31.508Z",
-      "url": "https://www.tabnews.com.br/plopino/feedback-sem-contas-o-que-a-caixa-de-entrada-nao-guarda"
-    },
-    {
-      "id": "5d1557c1-193f-4266-a1ae-c8d88f8e0dd4",
-      "title": "is-kit chegou a 100 stars ⭐🎉 O que mudou desde os 50?",
-      "slug": "is-kit-chegou-a-100-stars-o-que-mudou-desde-os-50",
-      "owner_username": "nyaomaru",
-      "source_url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-23T12:19:45.673Z",
-      "url": "https://www.tabnews.com.br/nyaomaru/is-kit-chegou-a-100-stars-o-que-mudou-desde-os-50"
-    },
-    {
-      "id": "6fab04d2-f6f3-4d75-a477-3901b8116879",
-      "title": "Será que esse será o futuro do dev?",
-      "slug": "sera-que-esse-sera-o-futuro-do-dev",
-      "owner_username": "welovetech",
-      "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 15,
-      "published_at": "2026-10-20T15:28:15.149Z",
-      "url": "https://www.tabnews.com.br/welovetech/sera-que-esse-sera-o-futuro-do-dev"
-    },
-    {
-      "id": "a36764cf-1a57-42ff-a139-3ab2ccb04505",
-      "title": "Como rodo 6 apps em produção numa VPS de 3,6 GB com Docker Swarm + Traefik (e os perrengues que os tutoriais não contam)",
-      "slug": "como-rodo-6-apps-em-producao-numa-vps-de-3-6-gb-com-docker-swarm-traefik-e-os-perrengues-que-os-tutoriais-nao-contam",
-      "owner_username": "rabitIA",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 13,
-      "published_at": "2026-10-21T15:03:31.828Z",
-      "url": "https://www.tabnews.com.br/rabitIA/como-rodo-6-apps-em-producao-numa-vps-de-3-6-gb-com-docker-swarm-traefik-e-os-perrengues-que-os-tutoriais-nao-contam"
     }
   ]
 }
