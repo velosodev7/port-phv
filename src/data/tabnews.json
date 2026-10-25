@@ -1,93 +1,104 @@
 {
-  "updated_at": "2026-10-24T13:00:23.418Z",
+  "updated_at": "2026-10-25T13:27:40.694Z",
   "posts": [
-    {
-      "id": "16ff7b9e-5613-4c8c-b135-1599e0e5ccd3",
-      "title": "Pitch: Vibecodei um \"Mario Kart\" com personagens da política brasileira (Tem até um banqueiro famoso... 😏)",
-      "slug": "vibecodei-um-mario-kart-com-personagens-da-politica-brasileira-tem-ate-um-banqueiro-famoso",
-      "owner_username": "leonardorib",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 4,
-      "published_at": "2026-10-23T03:01:09.265Z",
-      "url": "https://www.tabnews.com.br/leonardorib/vibecodei-um-mario-kart-com-personagens-da-politica-brasileira-tem-ate-um-banqueiro-famoso"
-    },
-    {
-      "id": "287c2dca-1e33-442c-a8ca-0af19b547674",
-      "title": "Pitch: 🎬 Kdenlive MCP Plus: deixei a IA editar vídeo de verdade no Kdenlive - 93 ferramentas, 103 testes, formato nativo .kdenlive, render sem interface - 3 vídeos feitos por Sonnet, Opus e Haiku - Peça ao agente e o kdenlive app atualiza na hora - Rust",
-      "slug": "kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/blog/kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos-feitos-por-sonnet-opus-e-haiku-peca-ao-agente-e-o-kdenlive-app-atualiza-na-hora-rust",
-      "tabcoins": 4,
-      "children_deep_count": 5,
-      "published_at": "2026-10-23T09:32:14.348Z",
-      "url": "https://www.tabnews.com.br/MrJ/kdenlive-mcp-plus-deixei-a-ia-editar-video-de-verdade-no-kdenlive-93-ferramentas-103-testes-formato-nativo-kdenlive-render-sem-interface-3-videos"
-    },
     {
       "id": "be6c6125-91ad-4539-9827-7e179a7b9c1e",
       "title": "Não sou programador e fiz mais de 70 jogos no navegador com IA para os meus filhos",
       "slug": "nao-sou-programador-e-fiz-mais-de-70-jogos-no-navegador-com-ia-para-os-meus-filhos",
       "owner_username": "PaiVelmoxia",
       "source_url": "https://velmoxia.com/pt-br/jogos-online/",
-      "tabcoins": 5,
-      "children_deep_count": 1,
+      "tabcoins": 8,
+      "children_deep_count": 8,
       "published_at": "2026-10-24T11:43:11.650Z",
       "url": "https://www.tabnews.com.br/PaiVelmoxia/nao-sou-programador-e-fiz-mais-de-70-jogos-no-navegador-com-ia-para-os-meus-filhos"
     },
     {
-      "id": "571b4529-b068-466b-8423-84e18296f34b",
-      "title": "Decidi parar de escrever minha newsletter",
-      "slug": "decidi-parar-de-escrever-minha-newsletter",
-      "owner_username": "moacirmoda",
+      "id": "30d30053-1fb6-479a-aac6-7b611c608d8f",
+      "title": "Postei uma solução em PHP, a comunidade sugeriu Go, e eu fui atrás: o \"Drop-in Buffer\" de webhooks agora é um binário único",
+      "slug": "postei-uma-solucao-em-php-a-comunidade-sugeriu-go-e-eu-fui-atras-o-drop-in-buffer-de-webhooks-agora-e-um-binario-unico",
+      "owner_username": "EdsonFerreira",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-10-23T23:00:04.614Z",
-      "url": "https://www.tabnews.com.br/moacirmoda/decidi-parar-de-escrever-minha-newsletter"
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-10-24T16:55:48.391Z",
+      "url": "https://www.tabnews.com.br/EdsonFerreira/postei-uma-solucao-em-php-a-comunidade-sugeriu-go-e-eu-fui-atras-o-drop-in-buffer-de-webhooks-agora-e-um-binario-unico"
     },
     {
-      "id": "ec226aa0-9d1e-4a37-b46f-44573d367f49",
-      "title": "Pitch: Fiz um programa de projeção para a minha igreja e abri o código: U-Control",
-      "slug": "fiz-um-programa-de-projecao-para-a-minha-igreja-e-abri-o-codigo-u-control",
-      "owner_username": "brunomint",
-      "source_url": "https://github.com/brunomint/U-Control",
+      "id": "bd6ed50b-aedb-4741-b1c7-667fdfb7bce2",
+      "title": "Podem está espionando você nesse momento. Anúncio que infecta o celular: o spyware \"sem clique\" que o Citizen Lab expôs - Leon e Nilce[Cortes]",
+      "slug": "conteudo-bobo-pode-ignoravel-culinaria-de-cozinha-seo-nao-qualificado-para-registro",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/conteudo-bobo-pode-ignoravel-culinaria-de-cozinha-seo-nao-qualificado-para-registro",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-10-25T00:45:07.753Z",
+      "url": "https://www.tabnews.com.br/MrJ/conteudo-bobo-pode-ignoravel-culinaria-de-cozinha-seo-nao-qualificado-para-registro"
+    },
+    {
+      "id": "47fa2d32-48cb-4822-9e5b-2b29137d689d",
+      "title": "Pitch: Como construí um ad server em Bun e Cloudflare Workers (<5KB e CLS Zero) para monetização direta no Brasil",
+      "slug": "como-construi-um-ad-server-em-bun-e-cloudflare-workers-5kb-e-cls-zero-para-monetizacao-direta-no-brasil",
+      "owner_username": "Guicezafe",
+      "source_url": "https://www.directad.com.br/",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-10-24T21:40:06.269Z",
+      "url": "https://www.tabnews.com.br/Guicezafe/como-construi-um-ad-server-em-bun-e-cloudflare-workers-5kb-e-cls-zero-para-monetizacao-direta-no-brasil"
+    },
+    {
+      "id": "96ef5ca0-6e1a-48c7-9639-1abb7457f1c6",
+      "title": "APURADOR DE URNA COM MASCOTE",
+      "slug": "apurador-de-urna-com-mascote",
+      "owner_username": "omarquera",
+      "source_url": "https://www.instagram.com/reel/De5X_rUNlaJ/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==",
       "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-10-24T10:31:35.304Z",
-      "url": "https://www.tabnews.com.br/brunomint/fiz-um-programa-de-projecao-para-a-minha-igreja-e-abri-o-codigo-u-control"
+      "children_deep_count": 1,
+      "published_at": "2026-10-25T08:01:43.743Z",
+      "url": "https://www.tabnews.com.br/omarquera/apurador-de-urna-com-mascote"
     },
     {
-      "id": "846344f6-7a32-453b-886c-9a29918f502d",
-      "title": "Antes de confiar no agente de código, confira onde ele roda e o que executa",
-      "slug": "antes-de-confiar-no-agente-de-codigo-confira-onde-ele-roda-e-o-que-executa",
-      "owner_username": "Centelha",
+      "id": "22f01c1f-4646-46bc-8a81-5afe29834bbc",
+      "title": "Calculando o limite do MEI e o DAS de 2026 em ~30 linhas de JavaScript (com o que muda pela LC 238/2026)",
+      "slug": "calculando-o-limite-do-mei-e-o-das-de-2026-em-30-linhas-de-javascript-com-o-que-muda-pela-lc-238-2026",
+      "owner_username": "cairolabs",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-10-25T12:34:17.292Z",
+      "url": "https://www.tabnews.com.br/cairolabs/calculando-o-limite-do-mei-e-o-das-de-2026-em-30-linhas-de-javascript-com-o-que-muda-pela-lc-238-2026"
+    },
+    {
+      "id": "400a9513-a663-4025-8ae4-ff524f1c6891",
+      "title": "Como tirar a seção de Shorts do Início do YouTube no navegador (e por que ela volta)",
+      "slug": "como-tirar-a-secao-de-shorts-do-inicio-do-youtube-no-navegador-e-por-que-ela-volta",
+      "owner_username": "barcaak1011",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-24T12:34:13.638Z",
-      "url": "https://www.tabnews.com.br/Centelha/antes-de-confiar-no-agente-de-codigo-confira-onde-ele-roda-e-o-que-executa"
+      "published_at": "2026-10-25T12:46:41.171Z",
+      "url": "https://www.tabnews.com.br/barcaak1011/como-tirar-a-secao-de-shorts-do-inicio-do-youtube-no-navegador-e-por-que-ela-volta"
     },
     {
-      "id": "f7bd9d65-d89b-451b-b232-9d61a924f2d2",
-      "title": "[PITCH] - Geração de Avatar Aleatório",
-      "slug": "pitch-geracao-de-avatar-aleatorio",
-      "owner_username": "RodrigoSchioMuniz",
+      "id": "616a5e9f-7be3-4da7-bf93-8e743402d409",
+      "title": "Pitch: Calculadora de Horas — calculadoras da CLT grátis que rodam só no navegador",
+      "slug": "pitch-calculadora-de-horas-calculadoras-da-clt-gratis-que-rodam-so-no-navegador",
+      "owner_username": "daudzafar",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-24T10:55:07.550Z",
-      "url": "https://www.tabnews.com.br/RodrigoSchioMuniz/pitch-geracao-de-avatar-aleatorio"
+      "published_at": "2026-10-25T08:02:09.764Z",
+      "url": "https://www.tabnews.com.br/daudzafar/pitch-calculadora-de-horas-calculadoras-da-clt-gratis-que-rodam-so-no-navegador"
     },
     {
-      "id": "5b8d59c7-fa52-4c84-91a7-f627e3327142",
-      "title": "Projeto feito com Cursor, Lovable ou Bolt não funciona? Por onde começar",
-      "slug": "projeto-feito-com-cursor-lovable-ou-bolt-nao-funciona-por-onde-comecar",
-      "owner_username": "ofers",
-      "source_url": "https://ofershap.github.io/en/posts/vibe-code-project-rescue/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-24T08:20:59.983Z",
-      "url": "https://www.tabnews.com.br/ofers/projeto-feito-com-cursor-lovable-ou-bolt-nao-funciona-por-onde-comecar"
+      "id": "b0b7f980-e074-494f-8221-6cd926bce7fe",
+      "title": "Como vocês fazem a governança do uso de IA nas empresas?",
+      "slug": "como-voces-fazem-a-governanca-do-uso-de-ia-nas-empresas",
+      "owner_username": "GianMilani",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 6,
+      "published_at": "2026-10-24T13:18:21.857Z",
+      "url": "https://www.tabnews.com.br/GianMilani/como-voces-fazem-a-governanca-do-uso-de-ia-nas-empresas"
     },
     {
       "id": "645470ce-6f0c-42c7-b10d-644508fbdcb2",
@@ -99,17 +110,6 @@
       "children_deep_count": 8,
       "published_at": "2026-10-22T19:15:06.540Z",
       "url": "https://www.tabnews.com.br/Silva97/como-sobreviver-a-um-rce"
-    },
-    {
-      "id": "bc576616-8555-42e8-9e68-2b66240300dd",
-      "title": "Fiz um e-mail descartável com foco em zero retenção",
-      "slug": "fiz-um-e-mail-descartavel-com-foco-em-zero-retencao",
-      "owner_username": "hitmasu",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 7,
-      "published_at": "2026-10-22T22:44:53.206Z",
-      "url": "https://www.tabnews.com.br/hitmasu/fiz-um-e-mail-descartavel-com-foco-em-zero-retencao"
     }
   ]
 }
