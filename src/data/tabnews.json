@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-10-25T13:27:40.694Z",
+  "updated_at": "2026-10-26T15:39:12.485Z",
   "posts": [
+    {
+      "id": "72b222cb-9250-470a-81d4-33ed32e77714",
+      "title": "Cansei dos clientes de e-mail que usava e comecei a escrever EpistulaMail",
+      "slug": "cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail",
+      "owner_username": "elyosemite",
+      "source_url": "https://github.com/elyosemite/epistulamail",
+      "tabcoins": 11,
+      "children_deep_count": 13,
+      "published_at": "2026-10-25T16:06:44.214Z",
+      "url": "https://www.tabnews.com.br/elyosemite/cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail"
+    },
+    {
+      "id": "9405bf68-262b-4cfa-8ec3-1a963c4e384d",
+      "title": "GraphQL para Iniciantes: Guia Completo com .NET",
+      "slug": "graphql-para-iniciantes-guia-completo-com-net",
+      "owner_username": "lzocateli",
+      "source_url": "https://zocate.li/posts/2026/graphql-tutorial/",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-10-26T09:01:29.352Z",
+      "url": "https://www.tabnews.com.br/lzocateli/graphql-para-iniciantes-guia-completo-com-net"
+    },
+    {
+      "id": "98da6883-71ef-410c-add9-b97ff5321943",
+      "title": "Quando o gfix não resolve: lendo um banco Firebird corrompido na unha",
+      "slug": "quando-o-gfix-nao-resolve-lendo-um-banco-firebird-corrompido-na-unha",
+      "owner_username": "formeo",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 1,
+      "published_at": "2026-10-26T05:52:38.431Z",
+      "url": "https://www.tabnews.com.br/formeo/quando-o-gfix-nao-resolve-lendo-um-banco-firebird-corrompido-na-unha"
+    },
+    {
+      "id": "539be787-54fe-4a65-b560-de9a1bacba54",
+      "title": "Message As a Service — Service Bus",
+      "slug": "message-as-a-service-service-bus",
+      "owner_username": "raffaeleloi",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-10-26T12:24:03.809Z",
+      "url": "https://www.tabnews.com.br/raffaeleloi/message-as-a-service-service-bus"
+    },
+    {
+      "id": "1b18eda3-d1a8-4b01-8eab-fd2e576a27df",
+      "title": "EUA propõem uso de luzes na cor ciano em carros autônomos para indicar quando eles estão operando sozinhos",
+      "slug": "eua-propoem-uso-de-luzes-na-cor-ciano-em-carros-autonomos-para-indicar-quando-eles-estao-operando-sozinhos",
+      "owner_username": "NewsletterOficial",
+      "source_url": "http://archive.today/2026.10.26-114911/https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-26T15:05:08.191Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/eua-propoem-uso-de-luzes-na-cor-ciano-em-carros-autonomos-para-indicar-quando-eles-estao-operando-sozinhos"
+    },
+    {
+      "id": "468df754-c5ab-4eb0-97e4-150491f85972",
+      "title": "MCP no Google Workspace: seu agente usa o mesmo cliente OAuth do app?",
+      "slug": "mcp-no-google-workspace-seu-agente-usa-o-mesmo-cliente-oauth-do-app",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-26T13:11:36.729Z",
+      "url": "https://www.tabnews.com.br/Centelha/mcp-no-google-workspace-seu-agente-usa-o-mesmo-cliente-oauth-do-app"
+    },
     {
       "id": "be6c6125-91ad-4539-9827-7e179a7b9c1e",
       "title": "Não sou programador e fiz mais de 70 jogos no navegador com IA para os meus filhos",
@@ -8,9 +74,20 @@
       "owner_username": "PaiVelmoxia",
       "source_url": "https://velmoxia.com/pt-br/jogos-online/",
       "tabcoins": 8,
-      "children_deep_count": 8,
+      "children_deep_count": 13,
       "published_at": "2026-10-24T11:43:11.650Z",
       "url": "https://www.tabnews.com.br/PaiVelmoxia/nao-sou-programador-e-fiz-mais-de-70-jogos-no-navegador-com-ia-para-os-meus-filhos"
+    },
+    {
+      "id": "b0b7f980-e074-494f-8221-6cd926bce7fe",
+      "title": "Como vocês fazem a governança do uso de IA nas empresas?",
+      "slug": "como-voces-fazem-a-governanca-do-uso-de-ia-nas-empresas",
+      "owner_username": "GianMilani",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 8,
+      "published_at": "2026-10-24T13:18:21.857Z",
+      "url": "https://www.tabnews.com.br/GianMilani/como-voces-fazem-a-governanca-do-uso-de-ia-nas-empresas"
     },
     {
       "id": "30d30053-1fb6-479a-aac6-7b611c608d8f",
@@ -33,83 +110,6 @@
       "children_deep_count": 1,
       "published_at": "2026-10-25T00:45:07.753Z",
       "url": "https://www.tabnews.com.br/MrJ/conteudo-bobo-pode-ignoravel-culinaria-de-cozinha-seo-nao-qualificado-para-registro"
-    },
-    {
-      "id": "47fa2d32-48cb-4822-9e5b-2b29137d689d",
-      "title": "Pitch: Como construí um ad server em Bun e Cloudflare Workers (<5KB e CLS Zero) para monetização direta no Brasil",
-      "slug": "como-construi-um-ad-server-em-bun-e-cloudflare-workers-5kb-e-cls-zero-para-monetizacao-direta-no-brasil",
-      "owner_username": "Guicezafe",
-      "source_url": "https://www.directad.com.br/",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-10-24T21:40:06.269Z",
-      "url": "https://www.tabnews.com.br/Guicezafe/como-construi-um-ad-server-em-bun-e-cloudflare-workers-5kb-e-cls-zero-para-monetizacao-direta-no-brasil"
-    },
-    {
-      "id": "96ef5ca0-6e1a-48c7-9639-1abb7457f1c6",
-      "title": "APURADOR DE URNA COM MASCOTE",
-      "slug": "apurador-de-urna-com-mascote",
-      "owner_username": "omarquera",
-      "source_url": "https://www.instagram.com/reel/De5X_rUNlaJ/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==",
-      "tabcoins": 2,
-      "children_deep_count": 1,
-      "published_at": "2026-10-25T08:01:43.743Z",
-      "url": "https://www.tabnews.com.br/omarquera/apurador-de-urna-com-mascote"
-    },
-    {
-      "id": "22f01c1f-4646-46bc-8a81-5afe29834bbc",
-      "title": "Calculando o limite do MEI e o DAS de 2026 em ~30 linhas de JavaScript (com o que muda pela LC 238/2026)",
-      "slug": "calculando-o-limite-do-mei-e-o-das-de-2026-em-30-linhas-de-javascript-com-o-que-muda-pela-lc-238-2026",
-      "owner_username": "cairolabs",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-10-25T12:34:17.292Z",
-      "url": "https://www.tabnews.com.br/cairolabs/calculando-o-limite-do-mei-e-o-das-de-2026-em-30-linhas-de-javascript-com-o-que-muda-pela-lc-238-2026"
-    },
-    {
-      "id": "400a9513-a663-4025-8ae4-ff524f1c6891",
-      "title": "Como tirar a seção de Shorts do Início do YouTube no navegador (e por que ela volta)",
-      "slug": "como-tirar-a-secao-de-shorts-do-inicio-do-youtube-no-navegador-e-por-que-ela-volta",
-      "owner_username": "barcaak1011",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-25T12:46:41.171Z",
-      "url": "https://www.tabnews.com.br/barcaak1011/como-tirar-a-secao-de-shorts-do-inicio-do-youtube-no-navegador-e-por-que-ela-volta"
-    },
-    {
-      "id": "616a5e9f-7be3-4da7-bf93-8e743402d409",
-      "title": "Pitch: Calculadora de Horas — calculadoras da CLT grátis que rodam só no navegador",
-      "slug": "pitch-calculadora-de-horas-calculadoras-da-clt-gratis-que-rodam-so-no-navegador",
-      "owner_username": "daudzafar",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-25T08:02:09.764Z",
-      "url": "https://www.tabnews.com.br/daudzafar/pitch-calculadora-de-horas-calculadoras-da-clt-gratis-que-rodam-so-no-navegador"
-    },
-    {
-      "id": "b0b7f980-e074-494f-8221-6cd926bce7fe",
-      "title": "Como vocês fazem a governança do uso de IA nas empresas?",
-      "slug": "como-voces-fazem-a-governanca-do-uso-de-ia-nas-empresas",
-      "owner_username": "GianMilani",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 6,
-      "published_at": "2026-10-24T13:18:21.857Z",
-      "url": "https://www.tabnews.com.br/GianMilani/como-voces-fazem-a-governanca-do-uso-de-ia-nas-empresas"
-    },
-    {
-      "id": "645470ce-6f0c-42c7-b10d-644508fbdcb2",
-      "title": "Como sobreviver a um RCE",
-      "slug": "como-sobreviver-a-um-rce",
-      "owner_username": "Silva97",
-      "source_url": "https://blog.freedev.com.br/como-sobreviver-a-um-rce-833d5c6bc1f1",
-      "tabcoins": 14,
-      "children_deep_count": 8,
-      "published_at": "2026-10-22T19:15:06.540Z",
-      "url": "https://www.tabnews.com.br/Silva97/como-sobreviver-a-um-rce"
     }
   ]
 }
