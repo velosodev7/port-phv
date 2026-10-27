@@ -1,16 +1,93 @@
 {
-  "updated_at": "2026-10-26T15:39:12.485Z",
+  "updated_at": "2026-10-27T15:02:04.687Z",
   "posts": [
     {
-      "id": "72b222cb-9250-470a-81d4-33ed32e77714",
-      "title": "Cansei dos clientes de e-mail que usava e comecei a escrever EpistulaMail",
-      "slug": "cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail",
-      "owner_username": "elyosemite",
-      "source_url": "https://github.com/elyosemite/epistulamail",
-      "tabcoins": 11,
-      "children_deep_count": 13,
-      "published_at": "2026-10-25T16:06:44.214Z",
-      "url": "https://www.tabnews.com.br/elyosemite/cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail"
+      "id": "3c8253bd-4dc8-4b96-a416-655d9b12780c",
+      "title": "Pitch: Criei uma rede social católica inspirada no TabNews",
+      "slug": "criei-uma-rede-social-catolica-inspirada-no-tabnews",
+      "owner_username": "jairotunisse",
+      "source_url": "https://thecatnews.com.br",
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-10-27T03:27:11.016Z",
+      "url": "https://www.tabnews.com.br/jairotunisse/criei-uma-rede-social-catolica-inspirada-no-tabnews"
+    },
+    {
+      "id": "2de80c17-6cc4-4332-a8cb-5dd2058d82e3",
+      "title": "Como implementei IA corporativa para 15 funcionários e um fluxo contínuo de clientes",
+      "slug": "como-implementei-ia-corporativa-para-15-funcionarios-e-um-fluxo-continuo-de-clientes",
+      "owner_username": "denisostapenko",
+      "source_url": "https://denisostapenko.com/pt/blog/corporate-ai-gemma-15-employees",
+      "tabcoins": 6,
+      "children_deep_count": 1,
+      "published_at": "2026-10-26T20:57:17.880Z",
+      "url": "https://www.tabnews.com.br/denisostapenko/como-implementei-ia-corporativa-para-15-funcionarios-e-um-fluxo-continuo-de-clientes"
+    },
+    {
+      "id": "b5498c6a-6c54-473a-9351-049d540cc034",
+      "title": "PORTFÓLIO FINALIZADO",
+      "slug": "portfolio-finalizado",
+      "owner_username": "MatheusManuel",
+      "source_url": "https://matheusmanuel.com/",
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-10-27T00:05:12.821Z",
+      "url": "https://www.tabnews.com.br/MatheusManuel/portfolio-finalizado"
+    },
+    {
+      "id": "4931f7f9-5e64-48de-a593-8b1f1f400980",
+      "title": "Pitch: O que aprendi lendo os logs não documentados do Claude Code, Codex e Mistral Vibe",
+      "slug": "pitch-o-que-aprendi-lendo-os-logs-nao-documentados-do-claude-code-codex-e-mistral-vibe",
+      "owner_username": "atoll92",
+      "source_url": "https://github.com/Atoll92/agent-standup",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-10-27T01:01:32.381Z",
+      "url": "https://www.tabnews.com.br/atoll92/pitch-o-que-aprendi-lendo-os-logs-nao-documentados-do-claude-code-codex-e-mistral-vibe"
+    },
+    {
+      "id": "583e2e6b-c391-4615-ac07-ba7de4640cf1",
+      "title": "Anthropic protocola oficialmente pedido de abertura de capital nos EUA",
+      "slug": "anthropic-protocola-oficialmente-pedido-de-abertura-de-capital-nos-eua",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-27T15:00:07.385Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/anthropic-protocola-oficialmente-pedido-de-abertura-de-capital-nos-eua"
+    },
+    {
+      "id": "4ac364c3-5e43-441b-a6c0-42ea3f617c63",
+      "title": "[Pitch] Criei um gateway de APIs de IA para o Brasil e descobri que o maior problema não era a IA",
+      "slug": "pitch-criei-um-gateway-de-apis-de-ia-para-o-brasil-e-descobri-que-o-maior-problema-nao-era-a-ia",
+      "owner_username": "mandapi",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-27T14:48:14.778Z",
+      "url": "https://www.tabnews.com.br/mandapi/pitch-criei-um-gateway-de-apis-de-ia-para-o-brasil-e-descobri-que-o-maior-problema-nao-era-a-ia"
+    },
+    {
+      "id": "2fedc36b-345f-40bf-a05d-cab5bd8d80ff",
+      "title": "Fiz um notch estilo Dynamic Island para o Windows, de código aberto",
+      "slug": "fiz-um-notch-estilo-dynamic-island-para-o-windows-de-codigo-aberto",
+      "owner_username": "akaneni",
+      "source_url": "https://getyata.app/pt/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-27T14:45:47.968Z",
+      "url": "https://www.tabnews.com.br/akaneni/fiz-um-notch-estilo-dynamic-island-para-o-windows-de-codigo-aberto"
+    },
+    {
+      "id": "c7c98d0f-5641-4573-85cd-18cfafcdd191",
+      "title": "\"O que é n8n? Automatize tarefas conectando serviços com nós\"",
+      "slug": "o-que-e-n8n-automatize-tarefas-conectando-servicos-com-nos",
+      "owner_username": "anderslee",
+      "source_url": "https://codingkit.com/pt/n8n/what-is-n8n/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-27T14:00:05.912Z",
+      "url": "https://www.tabnews.com.br/anderslee/o-que-e-n8n-automatize-tarefas-conectando-servicos-com-nos"
     },
     {
       "id": "9405bf68-262b-4cfa-8ec3-1a963c4e384d",
@@ -24,92 +101,15 @@
       "url": "https://www.tabnews.com.br/lzocateli/graphql-para-iniciantes-guia-completo-com-net"
     },
     {
-      "id": "98da6883-71ef-410c-add9-b97ff5321943",
-      "title": "Quando o gfix não resolve: lendo um banco Firebird corrompido na unha",
-      "slug": "quando-o-gfix-nao-resolve-lendo-um-banco-firebird-corrompido-na-unha",
-      "owner_username": "formeo",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 1,
-      "published_at": "2026-10-26T05:52:38.431Z",
-      "url": "https://www.tabnews.com.br/formeo/quando-o-gfix-nao-resolve-lendo-um-banco-firebird-corrompido-na-unha"
-    },
-    {
-      "id": "539be787-54fe-4a65-b560-de9a1bacba54",
-      "title": "Message As a Service — Service Bus",
-      "slug": "message-as-a-service-service-bus",
-      "owner_username": "raffaeleloi",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-10-26T12:24:03.809Z",
-      "url": "https://www.tabnews.com.br/raffaeleloi/message-as-a-service-service-bus"
-    },
-    {
-      "id": "1b18eda3-d1a8-4b01-8eab-fd2e576a27df",
-      "title": "EUA propõem uso de luzes na cor ciano em carros autônomos para indicar quando eles estão operando sozinhos",
-      "slug": "eua-propoem-uso-de-luzes-na-cor-ciano-em-carros-autonomos-para-indicar-quando-eles-estao-operando-sozinhos",
-      "owner_username": "NewsletterOficial",
-      "source_url": "http://archive.today/2026.10.26-114911/https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-26T15:05:08.191Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/eua-propoem-uso-de-luzes-na-cor-ciano-em-carros-autonomos-para-indicar-quando-eles-estao-operando-sozinhos"
-    },
-    {
-      "id": "468df754-c5ab-4eb0-97e4-150491f85972",
-      "title": "MCP no Google Workspace: seu agente usa o mesmo cliente OAuth do app?",
-      "slug": "mcp-no-google-workspace-seu-agente-usa-o-mesmo-cliente-oauth-do-app",
-      "owner_username": "Centelha",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-26T13:11:36.729Z",
-      "url": "https://www.tabnews.com.br/Centelha/mcp-no-google-workspace-seu-agente-usa-o-mesmo-cliente-oauth-do-app"
-    },
-    {
-      "id": "be6c6125-91ad-4539-9827-7e179a7b9c1e",
-      "title": "Não sou programador e fiz mais de 70 jogos no navegador com IA para os meus filhos",
-      "slug": "nao-sou-programador-e-fiz-mais-de-70-jogos-no-navegador-com-ia-para-os-meus-filhos",
-      "owner_username": "PaiVelmoxia",
-      "source_url": "https://velmoxia.com/pt-br/jogos-online/",
-      "tabcoins": 8,
+      "id": "72b222cb-9250-470a-81d4-33ed32e77714",
+      "title": "Cansei dos clientes de e-mail que usava e comecei a escrever EpistulaMail",
+      "slug": "cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail",
+      "owner_username": "elyosemite",
+      "source_url": "https://github.com/elyosemite/epistulamail",
+      "tabcoins": 13,
       "children_deep_count": 13,
-      "published_at": "2026-10-24T11:43:11.650Z",
-      "url": "https://www.tabnews.com.br/PaiVelmoxia/nao-sou-programador-e-fiz-mais-de-70-jogos-no-navegador-com-ia-para-os-meus-filhos"
-    },
-    {
-      "id": "b0b7f980-e074-494f-8221-6cd926bce7fe",
-      "title": "Como vocês fazem a governança do uso de IA nas empresas?",
-      "slug": "como-voces-fazem-a-governanca-do-uso-de-ia-nas-empresas",
-      "owner_username": "GianMilani",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 8,
-      "published_at": "2026-10-24T13:18:21.857Z",
-      "url": "https://www.tabnews.com.br/GianMilani/como-voces-fazem-a-governanca-do-uso-de-ia-nas-empresas"
-    },
-    {
-      "id": "30d30053-1fb6-479a-aac6-7b611c608d8f",
-      "title": "Postei uma solução em PHP, a comunidade sugeriu Go, e eu fui atrás: o \"Drop-in Buffer\" de webhooks agora é um binário único",
-      "slug": "postei-uma-solucao-em-php-a-comunidade-sugeriu-go-e-eu-fui-atras-o-drop-in-buffer-de-webhooks-agora-e-um-binario-unico",
-      "owner_username": "EdsonFerreira",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-10-24T16:55:48.391Z",
-      "url": "https://www.tabnews.com.br/EdsonFerreira/postei-uma-solucao-em-php-a-comunidade-sugeriu-go-e-eu-fui-atras-o-drop-in-buffer-de-webhooks-agora-e-um-binario-unico"
-    },
-    {
-      "id": "bd6ed50b-aedb-4741-b1c7-667fdfb7bce2",
-      "title": "Podem está espionando você nesse momento. Anúncio que infecta o celular: o spyware \"sem clique\" que o Citizen Lab expôs - Leon e Nilce[Cortes]",
-      "slug": "conteudo-bobo-pode-ignoravel-culinaria-de-cozinha-seo-nao-qualificado-para-registro",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/blog/conteudo-bobo-pode-ignoravel-culinaria-de-cozinha-seo-nao-qualificado-para-registro",
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-10-25T00:45:07.753Z",
-      "url": "https://www.tabnews.com.br/MrJ/conteudo-bobo-pode-ignoravel-culinaria-de-cozinha-seo-nao-qualificado-para-registro"
+      "published_at": "2026-10-25T16:06:44.214Z",
+      "url": "https://www.tabnews.com.br/elyosemite/cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail"
     }
   ]
 }
