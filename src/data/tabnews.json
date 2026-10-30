@@ -1,82 +1,60 @@
 {
-  "updated_at": "2026-10-29T15:44:25.587Z",
+  "updated_at": "2026-10-30T15:26:44.232Z",
   "posts": [
     {
-      "id": "5778aa02-5bf2-458e-979d-b252d7e54884",
-      "title": "EpistulaMail nunca viu tanto downloads",
-      "slug": "epistulamail-nunca-viu-tanto-downloads",
-      "owner_username": "elyosemite",
-      "source_url": "https://github.com/elyosemite/epistulamail",
-      "tabcoins": 1,
-      "children_deep_count": 3,
-      "published_at": "2026-10-29T15:20:44.072Z",
-      "url": "https://www.tabnews.com.br/elyosemite/epistulamail-nunca-viu-tanto-downloads"
+      "id": "c26819ef-aa0a-4b8a-8db5-0f24b62bf887",
+      "title": "VIREI DEV PHP SEM NUNCA TER PROGRAMADO ( EM PHP )",
+      "slug": "virei-dev-php-sem-nunca-ter-programado-em-php",
+      "owner_username": "felipetxapy",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-10-30T12:34:30.799Z",
+      "url": "https://www.tabnews.com.br/felipetxapy/virei-dev-php-sem-nunca-ter-programado-em-php"
     },
     {
-      "id": "1290a33f-8de1-4ba4-a046-a775ed33f404",
-      "title": "Taxa de crescimento anual da receita de buscas do Google desacelera 17,2%",
-      "slug": "taxa-de-crescimento-anual-da-receita-de-buscas-do-google-desacelera-17-2-por-cento",
+      "id": "3121337c-f3ac-41ef-b57f-f7047d27647c",
+      "title": "CIOT no MDF-e: como evitar a rejeição 684 (e o que conferir antes de transmitir)",
+      "slug": "ciot-no-mdf-e-como-evitar-a-rejeicao-684-e-o-que-conferir-antes-de-transmitir",
+      "owner_username": "MateriaisFiscais",
+      "source_url": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ003_26",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-30T15:07:58.242Z",
+      "url": "https://www.tabnews.com.br/MateriaisFiscais/ciot-no-mdf-e-como-evitar-a-rejeicao-684-e-o-que-conferir-antes-de-transmitir"
+    },
+    {
+      "id": "f38e9a7a-7791-4b29-b090-64f7333ca62b",
+      "title": "Claude Code no homelab: CLAUDE.md é pedido, deny no settings.json é trava",
+      "slug": "claude-code-no-homelab-claude-md-e-pedido-deny-no-settings-json-e-trava",
+      "owner_username": "bmarino01",
+      "source_url": "https://blog.brumarino.com/claude-code-regras-homelab/?de=tabnews",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-10-30T15:00:36.591Z",
+      "url": "https://www.tabnews.com.br/bmarino01/claude-code-no-homelab-claude-md-e-pedido-deny-no-settings-json-e-trava"
+    },
+    {
+      "id": "4dd206f0-781b-4301-b297-480a9d315185",
+      "title": "Governo dos EUA classifica importação de robôs industriais como ameaça à segurança nacional",
+      "slug": "governo-dos-eua-classifica-importacao-de-robos-industriais-como-ameaca-a-seguranca-nacional",
       "owner_username": "NewsletterOficial",
-      "source_url": "https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay",
+      "source_url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-29T14:55:06.967Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/taxa-de-crescimento-anual-da-receita-de-buscas-do-google-desacelera-17-2-por-cento"
+      "published_at": "2026-10-30T14:55:07.251Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/governo-dos-eua-classifica-importacao-de-robos-industriais-como-ameaca-a-seguranca-nacional"
     },
     {
-      "id": "42d55e55-f579-401a-a25d-65ce45601dc6",
-      "title": "Pitch: validador open source de Inscrição Estadual para os 27 estados",
-      "slug": "pitch-validar-inscricao-estadual-nos-27-estados-tem-mais-pegadinha-do-que-parece-entao-abrimos-o-codigo-do-nosso-validador",
-      "owner_username": "LuisFiscalAPI",
+      "id": "aba8e8fd-639d-4053-9ae9-95ca5b9f6347",
+      "title": "Pitch: Any2Reel, cole o link do seu site e receba um reel pronto (como fizemos o render e quanto custa cada vídeo)",
+      "slug": "pitch-any2reel-cole-o-link-do-seu-site-e-receba-um-reel-pronto-como-fizemos-o-render-e-quanto-custa-cada-video",
+      "owner_username": "Any2Reels",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-29T14:16:41.765Z",
-      "url": "https://www.tabnews.com.br/LuisFiscalAPI/pitch-validar-inscricao-estadual-nos-27-estados-tem-mais-pegadinha-do-que-parece-entao-abrimos-o-codigo-do-nosso-validador"
-    },
-    {
-      "id": "1458e5cf-1216-4192-8894-bd0a00ca5d82",
-      "title": "Pitch: isolando Androids na nuvem para tarefas de agentes em paralelo",
-      "slug": "pitch-isolando-androids-na-nuvem-para-tarefas-de-agentes-em-paralelo",
-      "owner_username": "foxcloudtab",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-29T14:16:07.390Z",
-      "url": "https://www.tabnews.com.br/foxcloudtab/pitch-isolando-androids-na-nuvem-para-tarefas-de-agentes-em-paralelo"
-    },
-    {
-      "id": "ecd33cb0-4aa8-445d-9129-4f98f396c0e4",
-      "title": "O que me levou ao Folding@home e por que eu quero mais gente da comunidade nisso.",
-      "slug": "o-que-me-levou-ao-folding-home-e-por-que-eu-quero-mais-gente-da-comunidade-nisso",
-      "owner_username": "rodrigocoa",
-      "source_url": null,
-      "tabcoins": 10,
-      "children_deep_count": 2,
-      "published_at": "2026-10-27T15:09:09.053Z",
-      "url": "https://www.tabnews.com.br/rodrigocoa/o-que-me-levou-ao-folding-home-e-por-que-eu-quero-mais-gente-da-comunidade-nisso"
-    },
-    {
-      "id": "710a1d1f-017e-4420-a245-3c5108690652",
-      "title": "O banco de dados que nunca esquece: como o Nubank usa o Datomic (e por que ele não faz UPDATE)",
-      "slug": "o-banco-de-dados-que-nunca-esquece-como-o-nubank-usa-o-datomic-e-por-que-ele-nao-faz-update",
-      "owner_username": "buenodev",
-      "source_url": "https://www.instagram.com/p/De7u4RWNYUk/",
-      "tabcoins": 8,
-      "children_deep_count": 3,
-      "published_at": "2026-10-27T23:31:22.203Z",
-      "url": "https://www.tabnews.com.br/buenodev/o-banco-de-dados-que-nunca-esquece-como-o-nubank-usa-o-datomic-e-por-que-ele-nao-faz-update"
-    },
-    {
-      "id": "3c8253bd-4dc8-4b96-a416-655d9b12780c",
-      "title": "Pitch: Criei uma rede social católica inspirada no TabNews",
-      "slug": "criei-uma-rede-social-catolica-inspirada-no-tabnews",
-      "owner_username": "jairotunisse",
-      "source_url": "https://thecatnews.com.br",
-      "tabcoins": 8,
-      "children_deep_count": 5,
-      "published_at": "2026-10-27T03:27:11.016Z",
-      "url": "https://www.tabnews.com.br/jairotunisse/criei-uma-rede-social-catolica-inspirada-no-tabnews"
+      "published_at": "2026-10-30T14:49:41.496Z",
+      "url": "https://www.tabnews.com.br/Any2Reels/pitch-any2reel-cole-o-link-do-seu-site-e-receba-um-reel-pronto-como-fizemos-o-render-e-quanto-custa-cada-video"
     },
     {
       "id": "93daf939-99c5-41f5-a92a-b8dca2db4256",
@@ -84,21 +62,21 @@
       "slug": "pitch-um-mes-depois-gente-de-outros-paises-aparece-todo-dia-no-nojo-club",
       "owner_username": "banju",
       "source_url": "https://nojo.club/?ref=forum-tabnews",
-      "tabcoins": 7,
+      "tabcoins": 9,
       "children_deep_count": 3,
       "published_at": "2026-10-27T19:29:53.569Z",
       "url": "https://www.tabnews.com.br/banju/pitch-um-mes-depois-gente-de-outros-paises-aparece-todo-dia-no-nojo-club"
     },
     {
-      "id": "4931f7f9-5e64-48de-a593-8b1f1f400980",
-      "title": "Pitch: O que aprendi lendo os logs não documentados do Claude Code, Codex e Mistral Vibe",
-      "slug": "pitch-o-que-aprendi-lendo-os-logs-nao-documentados-do-claude-code-codex-e-mistral-vibe",
-      "owner_username": "atoll92",
-      "source_url": "https://github.com/Atoll92/agent-standup",
-      "tabcoins": 5,
-      "children_deep_count": 5,
-      "published_at": "2026-10-27T01:01:32.381Z",
-      "url": "https://www.tabnews.com.br/atoll92/pitch-o-que-aprendi-lendo-os-logs-nao-documentados-do-claude-code-codex-e-mistral-vibe"
+      "id": "710a1d1f-017e-4420-a245-3c5108690652",
+      "title": "O banco de dados que nunca esquece: como o Nubank usa o Datomic (e por que ele não faz UPDATE)",
+      "slug": "o-banco-de-dados-que-nunca-esquece-como-o-nubank-usa-o-datomic-e-por-que-ele-nao-faz-update",
+      "owner_username": "buenodev",
+      "source_url": "https://www.instagram.com/p/De7u4RWNYUk/",
+      "tabcoins": 7,
+      "children_deep_count": 3,
+      "published_at": "2026-10-27T23:31:22.203Z",
+      "url": "https://www.tabnews.com.br/buenodev/o-banco-de-dados-que-nunca-esquece-como-o-nubank-usa-o-datomic-e-por-que-ele-nao-faz-update"
     },
     {
       "id": "cd8e6374-da9d-4272-9b62-f58670684761",
@@ -106,10 +84,32 @@
       "slug": "epistulamail-ja-da-pra-baixar-e-o-que-mudou-desde-o-primeiro-post",
       "owner_username": "elyosemite",
       "source_url": null,
-      "tabcoins": 5,
+      "tabcoins": 6,
       "children_deep_count": 0,
       "published_at": "2026-10-27T19:19:34.294Z",
       "url": "https://www.tabnews.com.br/elyosemite/epistulamail-ja-da-pra-baixar-e-o-que-mudou-desde-o-primeiro-post"
+    },
+    {
+      "id": "3f793bde-5325-4d75-96f7-9e20ab17ec07",
+      "title": "Acesso Remoto Seguro sem Abrir Portas no Roteador: Implementando Redes Mesh com Tailscale e WireGuard",
+      "slug": "acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-wireguard",
+      "owner_username": "EvandroCarvalho",
+      "source_url": "https://sentinel.vexisone.com/tutoriais/acesso-remoto-seguro-tailscale-wireguard-sem-abrir-portas-2026",
+      "tabcoins": 4,
+      "children_deep_count": 8,
+      "published_at": "2026-10-27T21:38:53.743Z",
+      "url": "https://www.tabnews.com.br/EvandroCarvalho/acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-wireguard"
+    },
+    {
+      "id": "35060854-13a5-4d70-8367-140d27fd16cf",
+      "title": "[News] Nova rede social para devs:  /dev/null",
+      "slug": "news-nova-rede-social-dev-null-para-devs",
+      "owner_username": "teknolista",
+      "source_url": "https://www.producthunt.com/products/dev-null",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-10-28T10:09:55.257Z",
+      "url": "https://www.tabnews.com.br/teknolista/news-nova-rede-social-dev-null-para-devs"
     }
   ]
 }
