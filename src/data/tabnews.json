@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T15:26:44.232Z",
+  "updated_at": "2026-10-31T14:54:54.001Z",
   "posts": [
     {
       "id": "c26819ef-aa0a-4b8a-8db5-0f24b62bf887",
@@ -7,54 +7,76 @@
       "slug": "virei-dev-php-sem-nunca-ter-programado-em-php",
       "owner_username": "felipetxapy",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
+      "tabcoins": 7,
+      "children_deep_count": 1,
       "published_at": "2026-10-30T12:34:30.799Z",
       "url": "https://www.tabnews.com.br/felipetxapy/virei-dev-php-sem-nunca-ter-programado-em-php"
     },
     {
-      "id": "3121337c-f3ac-41ef-b57f-f7047d27647c",
-      "title": "CIOT no MDF-e: como evitar a rejeição 684 (e o que conferir antes de transmitir)",
-      "slug": "ciot-no-mdf-e-como-evitar-a-rejeicao-684-e-o-que-conferir-antes-de-transmitir",
-      "owner_username": "MateriaisFiscais",
-      "source_url": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ003_26",
-      "tabcoins": 1,
+      "id": "929842da-c4d2-4a83-8ada-e86a4be068e7",
+      "title": "Somar e subtrair horas em JavaScript sem Date: o truque de converter tudo para segundos",
+      "slug": "somar-e-subtrair-horas-em-javascript-sem-date-o-truque-de-converter-tudo-para-segundos",
+      "owner_username": "versemedia",
+      "source_url": null,
+      "tabcoins": 2,
       "children_deep_count": 0,
-      "published_at": "2026-10-30T15:07:58.242Z",
-      "url": "https://www.tabnews.com.br/MateriaisFiscais/ciot-no-mdf-e-como-evitar-a-rejeicao-684-e-o-que-conferir-antes-de-transmitir"
+      "published_at": "2026-10-31T14:08:14.706Z",
+      "url": "https://www.tabnews.com.br/versemedia/somar-e-subtrair-horas-em-javascript-sem-date-o-truque-de-converter-tudo-para-segundos"
     },
     {
-      "id": "f38e9a7a-7791-4b29-b090-64f7333ca62b",
-      "title": "Claude Code no homelab: CLAUDE.md é pedido, deny no settings.json é trava",
-      "slug": "claude-code-no-homelab-claude-md-e-pedido-deny-no-settings-json-e-trava",
-      "owner_username": "bmarino01",
-      "source_url": "https://blog.brumarino.com/claude-code-regras-homelab/?de=tabnews",
+      "id": "c76f29df-1e09-4310-b906-a4d059eb5782",
+      "title": "O que é ComfyUI? Entenda workflows de geração de imagens com IA",
+      "slug": "o-que-e-comfyui-entenda-workflows-de-geracao-de-imagens-com-ia",
+      "owner_username": "anderslee",
+      "source_url": "https://codingkit.com/pt/comfyui/what-is-comfyui/",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-30T15:00:36.591Z",
-      "url": "https://www.tabnews.com.br/bmarino01/claude-code-no-homelab-claude-md-e-pedido-deny-no-settings-json-e-trava"
+      "published_at": "2026-10-31T14:00:05.856Z",
+      "url": "https://www.tabnews.com.br/anderslee/o-que-e-comfyui-entenda-workflows-de-geracao-de-imagens-com-ia"
     },
     {
-      "id": "4dd206f0-781b-4301-b297-480a9d315185",
-      "title": "Governo dos EUA classifica importação de robôs industriais como ameaça à segurança nacional",
-      "slug": "governo-dos-eua-classifica-importacao-de-robos-industriais-como-ameaca-a-seguranca-nacional",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "id": "f58ee3cc-ee3d-4ced-8fdc-3e4c831e3a6d",
+      "title": "Next.js middleware e sessão do Supabase: 6 erros que deslogam o usuário depois do deploy",
+      "slug": "next-js-middleware-e-sessao-do-supabase-6-erros-que-deslogam-o-usuario-depois-do-deploy",
+      "owner_username": "massvaiteam",
+      "source_url": "https://massvai.com",
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-30T14:55:07.251Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/governo-dos-eua-classifica-importacao-de-robos-industriais-como-ameaca-a-seguranca-nacional"
+      "published_at": "2026-10-31T13:19:13.625Z",
+      "url": "https://www.tabnews.com.br/massvaiteam/next-js-middleware-e-sessao-do-supabase-6-erros-que-deslogam-o-usuario-depois-do-deploy"
     },
     {
-      "id": "aba8e8fd-639d-4053-9ae9-95ca5b9f6347",
-      "title": "Pitch: Any2Reel, cole o link do seu site e receba um reel pronto (como fizemos o render e quanto custa cada vídeo)",
-      "slug": "pitch-any2reel-cole-o-link-do-seu-site-e-receba-um-reel-pronto-como-fizemos-o-render-e-quanto-custa-cada-video",
-      "owner_username": "Any2Reels",
+      "id": "51be4763-b8c1-4824-947c-005ca86bc449",
+      "title": "Pitch: uma API para o seu app consultar a memória do próprio usuário, com consentimento por fonte e citação das fontes",
+      "slug": "pitch-uma-api-para-o-seu-app-consultar-a-memoria-do-proprio-usuario-com-consentimento-por-fonte-e-citacao-das-fontes",
+      "owner_username": "AdaCognitiaAI",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-10-30T14:49:41.496Z",
-      "url": "https://www.tabnews.com.br/Any2Reels/pitch-any2reel-cole-o-link-do-seu-site-e-receba-um-reel-pronto-como-fizemos-o-render-e-quanto-custa-cada-video"
+      "published_at": "2026-10-31T12:25:41.421Z",
+      "url": "https://www.tabnews.com.br/AdaCognitiaAI/pitch-uma-api-para-o-seu-app-consultar-a-memoria-do-proprio-usuario-com-consentimento-por-fonte-e-citacao-das-fontes"
+    },
+    {
+      "id": "72b222cb-9250-470a-81d4-33ed32e77714",
+      "title": "Cansei dos clientes de e-mail que usava e comecei a escrever EpistulaMail",
+      "slug": "cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail",
+      "owner_username": "elyosemite",
+      "source_url": "https://github.com/elyosemite/epistulamail",
+      "tabcoins": 13,
+      "children_deep_count": 17,
+      "published_at": "2026-10-25T16:06:44.214Z",
+      "url": "https://www.tabnews.com.br/elyosemite/cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail"
+    },
+    {
+      "id": "2de80c17-6cc4-4332-a8cb-5dd2058d82e3",
+      "title": "Como implementei IA corporativa para 15 funcionários e um fluxo contínuo de clientes",
+      "slug": "como-implementei-ia-corporativa-para-15-funcionarios-e-um-fluxo-continuo-de-clientes",
+      "owner_username": "denisostapenko",
+      "source_url": "https://denisostapenko.com/pt/blog/corporate-ai-gemma-15-employees",
+      "tabcoins": 11,
+      "children_deep_count": 1,
+      "published_at": "2026-10-26T20:57:17.880Z",
+      "url": "https://www.tabnews.com.br/denisostapenko/como-implementei-ia-corporativa-para-15-funcionarios-e-um-fluxo-continuo-de-clientes"
     },
     {
       "id": "93daf939-99c5-41f5-a92a-b8dca2db4256",
@@ -68,6 +90,17 @@
       "url": "https://www.tabnews.com.br/banju/pitch-um-mes-depois-gente-de-outros-paises-aparece-todo-dia-no-nojo-club"
     },
     {
+      "id": "3c8253bd-4dc8-4b96-a416-655d9b12780c",
+      "title": "Pitch: Criei uma rede social católica inspirada no TabNews",
+      "slug": "criei-uma-rede-social-catolica-inspirada-no-tabnews",
+      "owner_username": "jairotunisse",
+      "source_url": "https://thecatnews.com.br",
+      "tabcoins": 8,
+      "children_deep_count": 6,
+      "published_at": "2026-10-27T03:27:11.016Z",
+      "url": "https://www.tabnews.com.br/jairotunisse/criei-uma-rede-social-catolica-inspirada-no-tabnews"
+    },
+    {
       "id": "710a1d1f-017e-4420-a245-3c5108690652",
       "title": "O banco de dados que nunca esquece: como o Nubank usa o Datomic (e por que ele não faz UPDATE)",
       "slug": "o-banco-de-dados-que-nunca-esquece-como-o-nubank-usa-o-datomic-e-por-que-ele-nao-faz-update",
@@ -77,39 +110,6 @@
       "children_deep_count": 3,
       "published_at": "2026-10-27T23:31:22.203Z",
       "url": "https://www.tabnews.com.br/buenodev/o-banco-de-dados-que-nunca-esquece-como-o-nubank-usa-o-datomic-e-por-que-ele-nao-faz-update"
-    },
-    {
-      "id": "cd8e6374-da9d-4272-9b62-f58670684761",
-      "title": "EpistulaMail: já dá pra baixar (e o que mudou desde o primeiro post)",
-      "slug": "epistulamail-ja-da-pra-baixar-e-o-que-mudou-desde-o-primeiro-post",
-      "owner_username": "elyosemite",
-      "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-10-27T19:19:34.294Z",
-      "url": "https://www.tabnews.com.br/elyosemite/epistulamail-ja-da-pra-baixar-e-o-que-mudou-desde-o-primeiro-post"
-    },
-    {
-      "id": "3f793bde-5325-4d75-96f7-9e20ab17ec07",
-      "title": "Acesso Remoto Seguro sem Abrir Portas no Roteador: Implementando Redes Mesh com Tailscale e WireGuard",
-      "slug": "acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-wireguard",
-      "owner_username": "EvandroCarvalho",
-      "source_url": "https://sentinel.vexisone.com/tutoriais/acesso-remoto-seguro-tailscale-wireguard-sem-abrir-portas-2026",
-      "tabcoins": 4,
-      "children_deep_count": 8,
-      "published_at": "2026-10-27T21:38:53.743Z",
-      "url": "https://www.tabnews.com.br/EvandroCarvalho/acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-wireguard"
-    },
-    {
-      "id": "35060854-13a5-4d70-8367-140d27fd16cf",
-      "title": "[News] Nova rede social para devs:  /dev/null",
-      "slug": "news-nova-rede-social-dev-null-para-devs",
-      "owner_username": "teknolista",
-      "source_url": "https://www.producthunt.com/products/dev-null",
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-10-28T10:09:55.257Z",
-      "url": "https://www.tabnews.com.br/teknolista/news-nova-rede-social-dev-null-para-devs"
     }
   ]
 }
