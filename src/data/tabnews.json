@@ -1,27 +1,71 @@
 {
-  "updated_at": "2026-10-31T14:54:54.001Z",
+  "updated_at": "2026-11-01T15:37:20.421Z",
   "posts": [
     {
-      "id": "c26819ef-aa0a-4b8a-8db5-0f24b62bf887",
-      "title": "VIREI DEV PHP SEM NUNCA TER PROGRAMADO ( EM PHP )",
-      "slug": "virei-dev-php-sem-nunca-ter-programado-em-php",
-      "owner_username": "felipetxapy",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-10-30T12:34:30.799Z",
-      "url": "https://www.tabnews.com.br/felipetxapy/virei-dev-php-sem-nunca-ter-programado-em-php"
+      "id": "11a25203-3eb0-4a0e-ba61-dc25b2403ced",
+      "title": "CrowdSec no Linux: Como Substituir o Fail2ban por Defesa Colaborativa contra IPs Maliciosos",
+      "slug": "crowdsec-no-linux-como-substituir-o-fail2ban-por-defesa-colaborativa-contra-ips-maliciosos",
+      "owner_username": "EvandroCarvalho",
+      "source_url": "https://sentinel.vexisone.com/ciberseguranca/crowdsec-linux-defesa-colaborativa-ips-maliciosos-2026",
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-10-31T15:20:01.631Z",
+      "url": "https://www.tabnews.com.br/EvandroCarvalho/crowdsec-no-linux-como-substituir-o-fail2ban-por-defesa-colaborativa-contra-ips-maliciosos"
     },
     {
-      "id": "929842da-c4d2-4a83-8ada-e86a4be068e7",
-      "title": "Somar e subtrair horas em JavaScript sem Date: o truque de converter tudo para segundos",
-      "slug": "somar-e-subtrair-horas-em-javascript-sem-date-o-truque-de-converter-tudo-para-segundos",
-      "owner_username": "versemedia",
+      "id": "c34cc5ad-8e75-479e-b0da-89b33318b481",
+      "title": "Pitch: ChillCoffee: Recriei o Café Mania no navegador. Como um simulador de cafeteria no browser separa regra de jogo e render",
+      "slug": "chillcoffee-recriei-o-cafe-mania-no-navegador-como-um-simulador-de-cafeteria-no-browser-separa-regra-de-jogo-e-render",
+      "owner_username": "ClaudioCassimiro",
+      "source_url": "https://chillcoffee-wine.vercel.app/",
+      "tabcoins": 5,
+      "children_deep_count": 3,
+      "published_at": "2026-10-31T17:41:51.008Z",
+      "url": "https://www.tabnews.com.br/ClaudioCassimiro/chillcoffee-recriei-o-cafe-mania-no-navegador-como-um-simulador-de-cafeteria-no-browser-separa-regra-de-jogo-e-render"
+    },
+    {
+      "id": "01534d39-e224-40de-a4ef-c7f228ea9f17",
+      "title": "[Pitch] Redesenhei o Quickpost inteiro e lancei a versão 2.0",
+      "slug": "pitch-redesenhei-o-quickpost-inteiro-e-lancei-a-versao-2-0",
+      "owner_username": "Random241",
       "source_url": null,
       "tabcoins": 2,
       "children_deep_count": 0,
-      "published_at": "2026-10-31T14:08:14.706Z",
-      "url": "https://www.tabnews.com.br/versemedia/somar-e-subtrair-horas-em-javascript-sem-date-o-truque-de-converter-tudo-para-segundos"
+      "published_at": "2026-11-01T11:46:03.011Z",
+      "url": "https://www.tabnews.com.br/Random241/pitch-redesenhei-o-quickpost-inteiro-e-lancei-a-versao-2-0"
+    },
+    {
+      "id": "829158f3-52d5-459c-8ed5-23d644c37506",
+      "title": "Jogo Guerra do Paraguai",
+      "slug": "jogo-guerra-do-paraguai",
+      "owner_username": "zoenix",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-01T12:54:15.423Z",
+      "url": "https://www.tabnews.com.br/zoenix/jogo-guerra-do-paraguai"
+    },
+    {
+      "id": "4db77f8b-e0d5-4e88-aa8c-ff836d2b6f58",
+      "title": "Pitch: Plain Deck, flashcards no Obsidian - com progresso salvo na própria nota",
+      "slug": "pitch-plain-deck-flashcards-no-obsidian-com-progresso-salvo-na-propria-nota",
+      "owner_username": "willybr",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-01T12:44:08.055Z",
+      "url": "https://www.tabnews.com.br/willybr/pitch-plain-deck-flashcards-no-obsidian-com-progresso-salvo-na-propria-nota"
+    },
+    {
+      "id": "4312ecb1-b207-4b22-9c9d-a62ce729364f",
+      "title": "Cache busting com ?v=: como uma URL nova prendeu a versão antiga por até um ano",
+      "slug": "cache-busting-com-v-como-uma-url-nova-prendeu-a-versao-antiga-por-ate-um-ano",
+      "owner_username": "katiabelokon",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-01T09:05:17.448Z",
+      "url": "https://www.tabnews.com.br/katiabelokon/cache-busting-com-v-como-uma-url-nova-prendeu-a-versao-antiga-por-ate-um-ano"
     },
     {
       "id": "c76f29df-1e09-4310-b906-a4d059eb5782",
@@ -29,32 +73,21 @@
       "slug": "o-que-e-comfyui-entenda-workflows-de-geracao-de-imagens-com-ia",
       "owner_username": "anderslee",
       "source_url": "https://codingkit.com/pt/comfyui/what-is-comfyui/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 5,
+      "children_deep_count": 1,
       "published_at": "2026-10-31T14:00:05.856Z",
       "url": "https://www.tabnews.com.br/anderslee/o-que-e-comfyui-entenda-workflows-de-geracao-de-imagens-com-ia"
     },
     {
-      "id": "f58ee3cc-ee3d-4ced-8fdc-3e4c831e3a6d",
-      "title": "Next.js middleware e sessão do Supabase: 6 erros que deslogam o usuário depois do deploy",
-      "slug": "next-js-middleware-e-sessao-do-supabase-6-erros-que-deslogam-o-usuario-depois-do-deploy",
-      "owner_username": "massvaiteam",
-      "source_url": "https://massvai.com",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-31T13:19:13.625Z",
-      "url": "https://www.tabnews.com.br/massvaiteam/next-js-middleware-e-sessao-do-supabase-6-erros-que-deslogam-o-usuario-depois-do-deploy"
-    },
-    {
-      "id": "51be4763-b8c1-4824-947c-005ca86bc449",
-      "title": "Pitch: uma API para o seu app consultar a memória do próprio usuário, com consentimento por fonte e citação das fontes",
-      "slug": "pitch-uma-api-para-o-seu-app-consultar-a-memoria-do-proprio-usuario-com-consentimento-por-fonte-e-citacao-das-fontes",
-      "owner_username": "AdaCognitiaAI",
+      "id": "c26819ef-aa0a-4b8a-8db5-0f24b62bf887",
+      "title": "VIREI DEV PHP SEM NUNCA TER PROGRAMADO ( EM PHP )",
+      "slug": "virei-dev-php-sem-nunca-ter-programado-em-php",
+      "owner_username": "felipetxapy",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-10-31T12:25:41.421Z",
-      "url": "https://www.tabnews.com.br/AdaCognitiaAI/pitch-uma-api-para-o-seu-app-consultar-a-memoria-do-proprio-usuario-com-consentimento-por-fonte-e-citacao-das-fontes"
+      "tabcoins": 10,
+      "children_deep_count": 1,
+      "published_at": "2026-10-30T12:34:30.799Z",
+      "url": "https://www.tabnews.com.br/felipetxapy/virei-dev-php-sem-nunca-ter-programado-em-php"
     },
     {
       "id": "72b222cb-9250-470a-81d4-33ed32e77714",
@@ -62,7 +95,7 @@
       "slug": "cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail",
       "owner_username": "elyosemite",
       "source_url": "https://github.com/elyosemite/epistulamail",
-      "tabcoins": 13,
+      "tabcoins": 14,
       "children_deep_count": 17,
       "published_at": "2026-10-25T16:06:44.214Z",
       "url": "https://www.tabnews.com.br/elyosemite/cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail"
@@ -77,39 +110,6 @@
       "children_deep_count": 1,
       "published_at": "2026-10-26T20:57:17.880Z",
       "url": "https://www.tabnews.com.br/denisostapenko/como-implementei-ia-corporativa-para-15-funcionarios-e-um-fluxo-continuo-de-clientes"
-    },
-    {
-      "id": "93daf939-99c5-41f5-a92a-b8dca2db4256",
-      "title": "Pitch: um mês depois, gente de outros países aparece todo dia no nojo.club",
-      "slug": "pitch-um-mes-depois-gente-de-outros-paises-aparece-todo-dia-no-nojo-club",
-      "owner_username": "banju",
-      "source_url": "https://nojo.club/?ref=forum-tabnews",
-      "tabcoins": 9,
-      "children_deep_count": 3,
-      "published_at": "2026-10-27T19:29:53.569Z",
-      "url": "https://www.tabnews.com.br/banju/pitch-um-mes-depois-gente-de-outros-paises-aparece-todo-dia-no-nojo-club"
-    },
-    {
-      "id": "3c8253bd-4dc8-4b96-a416-655d9b12780c",
-      "title": "Pitch: Criei uma rede social católica inspirada no TabNews",
-      "slug": "criei-uma-rede-social-catolica-inspirada-no-tabnews",
-      "owner_username": "jairotunisse",
-      "source_url": "https://thecatnews.com.br",
-      "tabcoins": 8,
-      "children_deep_count": 6,
-      "published_at": "2026-10-27T03:27:11.016Z",
-      "url": "https://www.tabnews.com.br/jairotunisse/criei-uma-rede-social-catolica-inspirada-no-tabnews"
-    },
-    {
-      "id": "710a1d1f-017e-4420-a245-3c5108690652",
-      "title": "O banco de dados que nunca esquece: como o Nubank usa o Datomic (e por que ele não faz UPDATE)",
-      "slug": "o-banco-de-dados-que-nunca-esquece-como-o-nubank-usa-o-datomic-e-por-que-ele-nao-faz-update",
-      "owner_username": "buenodev",
-      "source_url": "https://www.instagram.com/p/De7u4RWNYUk/",
-      "tabcoins": 7,
-      "children_deep_count": 3,
-      "published_at": "2026-10-27T23:31:22.203Z",
-      "url": "https://www.tabnews.com.br/buenodev/o-banco-de-dados-que-nunca-esquece-como-o-nubank-usa-o-datomic-e-por-que-ele-nao-faz-update"
     }
   ]
 }
