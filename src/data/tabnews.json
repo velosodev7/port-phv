@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-11-01T15:37:20.421Z",
+  "updated_at": "2026-11-02T18:59:10.445Z",
   "posts": [
+    {
+      "id": "9bca25c0-65ec-458c-aff6-42117f376f16",
+      "title": "Seu primeiro teste automatizado com Cypress, explicado pra quem nunca programou",
+      "slug": "seu-primeiro-teste-automatizado-com-cypress-explicado-pra-quem-nunca-programou",
+      "owner_username": "ViniQA",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-02T18:09:18.832Z",
+      "url": "https://www.tabnews.com.br/ViniQA/seu-primeiro-teste-automatizado-com-cypress-explicado-pra-quem-nunca-programou"
+    },
+    {
+      "id": "9b28abcb-4c4e-4161-a7ce-674e15964781",
+      "title": "Pitch: Assimetria de Roteamento e a Inviabilidade Matemática da Taxação por Gigabyte em Redes P2P",
+      "slug": "pitch-assimetria-de-roteamento-e-a-inviabilidade-matematica-da-taxacao-por-gigabyte-em-redes-p2p",
+      "owner_username": "leonardobdev",
+      "source_url": "https://nosparlementaires.fr/actualites/taxe-gigaoctet-budget-2027-assemblee-adopte-hemicycle-vide",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-02T17:47:29.379Z",
+      "url": "https://www.tabnews.com.br/leonardobdev/pitch-assimetria-de-roteamento-e-a-inviabilidade-matematica-da-taxacao-por-gigabyte-em-redes-p2p"
+    },
+    {
+      "id": "71a6640e-c084-4969-a042-3f9fb5b64a3c",
+      "title": "Fiz um jogo de navegador onde você tenta fraudar a urna eletrônica (sem framework, som sintetizado na hora e uma regra: nenhuma defesa inventada)",
+      "slug": "fiz-um-jogo-de-navegador-onde-voce-tenta-fraudar-a-urna-eletronica-sem-framework-som-sintetizado-na-hora-e-uma-regra-nenhuma-defesa-inventada",
+      "owner_username": "nuvemdepassagem",
+      "source_url": "https://tentefraudar.com",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-02T17:46:14.578Z",
+      "url": "https://www.tabnews.com.br/nuvemdepassagem/fiz-um-jogo-de-navegador-onde-voce-tenta-fraudar-a-urna-eletronica-sem-framework-som-sintetizado-na-hora-e-uma-regra-nenhuma-defesa-inventada"
+    },
+    {
+      "id": "8e60f48a-3808-4aea-bfd0-60e24821ea5b",
+      "title": "SignalR no .NET: do primeiro Hub à produção",
+      "slug": "signalr-no-net-do-primeiro-hub-a-producao",
+      "owner_username": "lzocateli",
+      "source_url": "https://zocate.li/posts/2026/signalr-aspnet-core-guia/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-02T17:31:34.026Z",
+      "url": "https://www.tabnews.com.br/lzocateli/signalr-no-net-do-primeiro-hub-a-producao"
+    },
     {
       "id": "11a25203-3eb0-4a0e-ba61-dc25b2403ced",
       "title": "CrowdSec no Linux: Como Substituir o Fail2ban por Defesa Colaborativa contra IPs Maliciosos",
       "slug": "crowdsec-no-linux-como-substituir-o-fail2ban-por-defesa-colaborativa-contra-ips-maliciosos",
       "owner_username": "EvandroCarvalho",
       "source_url": "https://sentinel.vexisone.com/ciberseguranca/crowdsec-linux-defesa-colaborativa-ips-maliciosos-2026",
-      "tabcoins": 6,
-      "children_deep_count": 2,
+      "tabcoins": 7,
+      "children_deep_count": 3,
       "published_at": "2026-10-31T15:20:01.631Z",
       "url": "https://www.tabnews.com.br/EvandroCarvalho/crowdsec-no-linux-como-substituir-o-fail2ban-por-defesa-colaborativa-contra-ips-maliciosos"
     },
@@ -19,53 +63,9 @@
       "owner_username": "ClaudioCassimiro",
       "source_url": "https://chillcoffee-wine.vercel.app/",
       "tabcoins": 5,
-      "children_deep_count": 3,
+      "children_deep_count": 4,
       "published_at": "2026-10-31T17:41:51.008Z",
       "url": "https://www.tabnews.com.br/ClaudioCassimiro/chillcoffee-recriei-o-cafe-mania-no-navegador-como-um-simulador-de-cafeteria-no-browser-separa-regra-de-jogo-e-render"
-    },
-    {
-      "id": "01534d39-e224-40de-a4ef-c7f228ea9f17",
-      "title": "[Pitch] Redesenhei o Quickpost inteiro e lancei a versão 2.0",
-      "slug": "pitch-redesenhei-o-quickpost-inteiro-e-lancei-a-versao-2-0",
-      "owner_username": "Random241",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-11-01T11:46:03.011Z",
-      "url": "https://www.tabnews.com.br/Random241/pitch-redesenhei-o-quickpost-inteiro-e-lancei-a-versao-2-0"
-    },
-    {
-      "id": "829158f3-52d5-459c-8ed5-23d644c37506",
-      "title": "Jogo Guerra do Paraguai",
-      "slug": "jogo-guerra-do-paraguai",
-      "owner_username": "zoenix",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-01T12:54:15.423Z",
-      "url": "https://www.tabnews.com.br/zoenix/jogo-guerra-do-paraguai"
-    },
-    {
-      "id": "4db77f8b-e0d5-4e88-aa8c-ff836d2b6f58",
-      "title": "Pitch: Plain Deck, flashcards no Obsidian - com progresso salvo na própria nota",
-      "slug": "pitch-plain-deck-flashcards-no-obsidian-com-progresso-salvo-na-propria-nota",
-      "owner_username": "willybr",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-01T12:44:08.055Z",
-      "url": "https://www.tabnews.com.br/willybr/pitch-plain-deck-flashcards-no-obsidian-com-progresso-salvo-na-propria-nota"
-    },
-    {
-      "id": "4312ecb1-b207-4b22-9c9d-a62ce729364f",
-      "title": "Cache busting com ?v=: como uma URL nova prendeu a versão antiga por até um ano",
-      "slug": "cache-busting-com-v-como-uma-url-nova-prendeu-a-versao-antiga-por-ate-um-ano",
-      "owner_username": "katiabelokon",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-01T09:05:17.448Z",
-      "url": "https://www.tabnews.com.br/katiabelokon/cache-busting-com-v-como-uma-url-nova-prendeu-a-versao-antiga-por-ate-um-ano"
     },
     {
       "id": "c76f29df-1e09-4310-b906-a4d059eb5782",
@@ -79,6 +79,17 @@
       "url": "https://www.tabnews.com.br/anderslee/o-que-e-comfyui-entenda-workflows-de-geracao-de-imagens-com-ia"
     },
     {
+      "id": "2de80c17-6cc4-4332-a8cb-5dd2058d82e3",
+      "title": "Como implementei IA corporativa para 15 funcionários e um fluxo contínuo de clientes",
+      "slug": "como-implementei-ia-corporativa-para-15-funcionarios-e-um-fluxo-continuo-de-clientes",
+      "owner_username": "denisostapenko",
+      "source_url": "https://denisostapenko.com/pt/blog/corporate-ai-gemma-15-employees",
+      "tabcoins": 11,
+      "children_deep_count": 1,
+      "published_at": "2026-10-26T20:57:17.880Z",
+      "url": "https://www.tabnews.com.br/denisostapenko/como-implementei-ia-corporativa-para-15-funcionarios-e-um-fluxo-continuo-de-clientes"
+    },
+    {
       "id": "c26819ef-aa0a-4b8a-8db5-0f24b62bf887",
       "title": "VIREI DEV PHP SEM NUNCA TER PROGRAMADO ( EM PHP )",
       "slug": "virei-dev-php-sem-nunca-ter-programado-em-php",
@@ -90,26 +101,15 @@
       "url": "https://www.tabnews.com.br/felipetxapy/virei-dev-php-sem-nunca-ter-programado-em-php"
     },
     {
-      "id": "72b222cb-9250-470a-81d4-33ed32e77714",
-      "title": "Cansei dos clientes de e-mail que usava e comecei a escrever EpistulaMail",
-      "slug": "cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail",
-      "owner_username": "elyosemite",
-      "source_url": "https://github.com/elyosemite/epistulamail",
-      "tabcoins": 14,
-      "children_deep_count": 17,
-      "published_at": "2026-10-25T16:06:44.214Z",
-      "url": "https://www.tabnews.com.br/elyosemite/cansei-dos-clientes-de-e-mail-que-usava-e-comecei-a-escrever-o-meu-epistulamail"
-    },
-    {
-      "id": "2de80c17-6cc4-4332-a8cb-5dd2058d82e3",
-      "title": "Como implementei IA corporativa para 15 funcionários e um fluxo contínuo de clientes",
-      "slug": "como-implementei-ia-corporativa-para-15-funcionarios-e-um-fluxo-continuo-de-clientes",
-      "owner_username": "denisostapenko",
-      "source_url": "https://denisostapenko.com/pt/blog/corporate-ai-gemma-15-employees",
-      "tabcoins": 11,
-      "children_deep_count": 1,
-      "published_at": "2026-10-26T20:57:17.880Z",
-      "url": "https://www.tabnews.com.br/denisostapenko/como-implementei-ia-corporativa-para-15-funcionarios-e-um-fluxo-continuo-de-clientes"
+      "id": "5809493c-22d2-4c2a-8e62-de3d1b12250e",
+      "title": "[Dúvida] É possível desenvolver um validador de e-mail altamente preciso sem recorrer a APIs externas?",
+      "slug": "duvida-e-possivel-desenvolver-um-validador-de-e-mail-altamente-preciso-sem-recorrer-a-apis-externas",
+      "owner_username": "EduardoM",
+      "source_url": null,
+      "tabcoins": 7,
+      "children_deep_count": 10,
+      "published_at": "2023-10-02T21:07:03.117Z",
+      "url": "https://www.tabnews.com.br/EduardoM/duvida-e-possivel-desenvolver-um-validador-de-e-mail-altamente-preciso-sem-recorrer-a-apis-externas"
     }
   ]
 }
