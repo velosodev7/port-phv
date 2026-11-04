@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-11-03T16:44:20.084Z",
+  "updated_at": "2026-11-04T16:41:13.433Z",
   "posts": [
+    {
+      "id": "2e6a3bcb-76a6-4157-b7e2-3fd837af1c44",
+      "title": "Se você usa Claude Code, está lascado: por que sua ideia de negócio criada com Claude nunca vai te deixar rico, nem mesmo te dar lucro.",
+      "slug": "se-voce-usa-claude-code-esta-lascado-por-que-sua-ideia-de-negocio-criada-com-claude-nunca-vai-te-deixar-rico-nem-mesmo-te-dar-lucro",
+      "owner_username": "EdilsonMaia",
+      "source_url": null,
+      "tabcoins": 9,
+      "children_deep_count": 3,
+      "published_at": "2026-11-03T13:53:27.534Z",
+      "url": "https://www.tabnews.com.br/EdilsonMaia/se-voce-usa-claude-code-esta-lascado-por-que-sua-ideia-de-negocio-criada-com-claude-nunca-vai-te-deixar-rico-nem-mesmo-te-dar-lucro"
+    },
+    {
+      "id": "648832da-f88f-451d-ac3c-ac4dd6066121",
+      "title": "🔄 A IA melhorou diretamente os pesos de outra IA - REA foi só um experimento - Ideia pra pesquisadores brasileiros 🔁",
+      "slug": "a-ia-melhorou-diretamente-os-pesos-de-outra-ia-rea-foi-so-um-experimento-ideia-pra-pesquisadores-brasileiros",
+      "owner_username": "MrJ",
+      "source_url": "https://crom.run/blog/a-ia-melhorou-diretamente-os-pesos-de-outra-ia-rea-foi-so-um-experimento-ideia-pra-pesquisadores-brasileiros",
+      "tabcoins": 8,
+      "children_deep_count": 2,
+      "published_at": "2026-11-03T23:07:28.530Z",
+      "url": "https://www.tabnews.com.br/MrJ/a-ia-melhorou-diretamente-os-pesos-de-outra-ia-rea-foi-so-um-experimento-ideia-pra-pesquisadores-brasileiros"
+    },
+    {
+      "id": "ba0c6473-d274-49a1-ae98-47fff916b1df",
+      "title": "Como um agente autônomo de IA (claude) compilou uma uma distribuição Linux do zero (LFS)",
+      "slug": "como-um-agente-autonomo-de-ia-claude-compilou-uma-uma-distribuicao-linux-do-zero-lfs",
+      "owner_username": "Oletros",
+      "source_url": "https://www.youtube.com/watch?v=Ta-6eS3m4vU",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-11-03T19:55:14.057Z",
+      "url": "https://www.tabnews.com.br/Oletros/como-um-agente-autonomo-de-ia-claude-compilou-uma-uma-distribuicao-linux-do-zero-lfs"
+    },
+    {
+      "id": "3f342e9f-a7b2-4018-a3bd-2bd500252bca",
+      "title": "Construí uma memória compartilhada para o Claude Code (open source, self-hosted)",
+      "slug": "construi-uma-memoria-compartilhada-para-o-claude-code-open-source-self-hosted",
+      "owner_username": "limamarcelino",
+      "source_url": "https://github.com/marcelinollima/hippocampus",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-11-03T19:24:08.583Z",
+      "url": "https://www.tabnews.com.br/limamarcelino/construi-uma-memoria-compartilhada-para-o-claude-code-open-source-self-hosted"
+    },
+    {
+      "id": "bfe3e9f0-8cbd-4308-a9e6-96da04b1be91",
+      "title": "Organizador de barbante",
+      "slug": "organizador-de-barbante",
+      "owner_username": "ArthurOlivern",
+      "source_url": "https://mori2130.github.io/organizador-de-barbante/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-11-03T18:58:30.336Z",
+      "url": "https://www.tabnews.com.br/ArthurOlivern/organizador-de-barbante"
+    },
+    {
+      "id": "876df691-fcc0-45cf-9530-cc35f790ad11",
+      "title": "Pitch: fiz um site que dá nota para o bairro de um Airbnb, não para o quarto",
+      "slug": "pitch-fiz-um-site-que-da-nota-para-o-bairro-de-um-airbnb-nao-para-o-quarto",
+      "owner_username": "shouldistayhere",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-04T16:22:55.310Z",
+      "url": "https://www.tabnews.com.br/shouldistayhere/pitch-fiz-um-site-que-da-nota-para-o-bairro-de-um-airbnb-nao-para-o-quarto"
+    },
+    {
+      "id": "26de5113-0aed-4d21-b7af-0e93ca6e83be",
+      "title": "Hooks no Claude Code: exit 1 não bloqueia (e outros 5 detalhes que fazem o hook nunca disparar)",
+      "slug": "hooks-no-claude-code-exit-1-nao-bloqueia-e-outros-5-detalhes-que-fazem-o-hook-nunca-disparar",
+      "owner_username": "HenriqueFernandes",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-04T15:20:47.563Z",
+      "url": "https://www.tabnews.com.br/HenriqueFernandes/hooks-no-claude-code-exit-1-nao-bloqueia-e-outros-5-detalhes-que-fazem-o-hook-nunca-disparar"
+    },
+    {
+      "id": "741b7832-0e9a-4948-b1a8-759a8ed28770",
+      "title": "Falsa entrevista de emprego facilitou roubo de 6,3 bilhões de dólares em criptomoedas da Binance por hackers norte-coreanos",
+      "slug": "falsa-entrevista-de-emprego-facilitou-roubo-de-6-3-bilhoes-de-dolares-em-criptomoedas-da-binance-por-hackers-norte-coreanos",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-04T15:00:08.109Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/falsa-entrevista-de-emprego-facilitou-roubo-de-6-3-bilhoes-de-dolares-em-criptomoedas-da-binance-por-hackers-norte-coreanos"
+    },
+    {
+      "id": "ef7957a6-840e-4bad-8660-732a23dd44bc",
+      "title": "Pitch: Como obriguei a IA a seguir o padrão do projeto com ESLint",
+      "slug": "como-obriguei-a-ia-a-seguir-o-padrao-do-projeto-com-eslint",
+      "owner_username": "lvsouzadev",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-04T14:57:27.723Z",
+      "url": "https://www.tabnews.com.br/lvsouzadev/como-obriguei-a-ia-a-seguir-o-padrao-do-projeto-com-eslint"
+    },
     {
       "id": "63c21a00-aa26-48a4-84b9-450839e5d03e",
       "title": "Como checar o histórico de um domínio expirado antes de comprar: 5 verificações",
       "slug": "como-checar-o-historico-de-um-dominio-expirado-antes-de-comprar-5-verificacoes",
       "owner_username": "karmadomains",
       "source_url": "https://karma.domains/",
-      "tabcoins": 10,
-      "children_deep_count": 2,
+      "tabcoins": 11,
+      "children_deep_count": 3,
       "published_at": "2026-11-03T02:53:09.691Z",
       "url": "https://www.tabnews.com.br/karmadomains/como-checar-o-historico-de-um-dominio-expirado-antes-de-comprar-5-verificacoes"
-    },
-    {
-      "id": "345ee0ef-5bab-4399-8601-284fb0c61dd8",
-      "title": "Essa semana via uma postagem de uma mulher desabafando sobre desenvolvimento de sistemas",
-      "slug": "essa-semana-via-uma-postagem-de-uma-mulher-desabafando-sobre-desenvolvimento-de-sistemas",
-      "owner_username": "welovetech",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 5,
-      "published_at": "2026-11-02T21:08:31.405Z",
-      "url": "https://www.tabnews.com.br/welovetech/essa-semana-via-uma-postagem-de-uma-mulher-desabafando-sobre-desenvolvimento-de-sistemas"
-    },
-    {
-      "id": "72e2a78a-3325-48a0-9f8a-2417fae5b87b",
-      "title": "FBI atribui a hackers norte-coreanos roubo de 6,3 bilhões de dólares em criptomoedas na Binance",
-      "slug": "fbi-atribui-a-hackers-norte-coreanos-roubo-de-6-3-bilhoes-de-dolares-em-criptomoedas-na-binance",
-      "owner_username": "NewsletterOficial",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-11-03T14:55:06.744Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/fbi-atribui-a-hackers-norte-coreanos-roubo-de-6-3-bilhoes-de-dolares-em-criptomoedas-na-binance"
-    },
-    {
-      "id": "fb6b0564-812a-4091-8484-745ac4cd2656",
-      "title": "[Pitch] Seu SaaS poderia responder perguntas em linguagem natural?",
-      "slug": "pitch-seu-saas-poderia-responder-perguntas-em-linguagem-natural",
-      "owner_username": "juniorcarvalhomg",
-      "source_url": "https://datafala.com.br",
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-11-03T14:35:04.772Z",
-      "url": "https://www.tabnews.com.br/juniorcarvalhomg/pitch-seu-saas-poderia-responder-perguntas-em-linguagem-natural"
-    },
-    {
-      "id": "c0c0e444-e63e-42fa-a9f7-6478a707bee5",
-      "title": "Aulão gratuito de Scrum, ITIL, COBIT e PMBOK",
-      "slug": "aulao-gratuito-de-scrum-itil-cobit-e-pmbok",
-      "owner_username": "guiadeti",
-      "source_url": "https://guiadeti.com.br/bootcamps-webinars/aulao-scrum-itil-cobit-e-pmbok/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-03T16:42:26.706Z",
-      "url": "https://www.tabnews.com.br/guiadeti/aulao-gratuito-de-scrum-itil-cobit-e-pmbok"
-    },
-    {
-      "id": "d99fc79c-a366-4508-a180-cf1ea60570e2",
-      "title": "Qual a melhor alternativa ao Excalidraw open source?",
-      "slug": "qual-a-melhor-alternativa-ao-excalidraw-open-source",
-      "owner_username": "elyosemite",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-03T15:32:30.803Z",
-      "url": "https://www.tabnews.com.br/elyosemite/qual-a-melhor-alternativa-ao-excalidraw-open-source"
-    },
-    {
-      "id": "93cf18f4-13bf-4524-84fb-7340c4281a58",
-      "title": "Pitch: Como rodar mais de 360 ferramentas de PDF, imagem e video 100% no navegador com WebAssembly",
-      "slug": "como-rodar-mais-de-360-ferramentas-de-pdf-imagem-e-video-100-por-cento-no-navegador-com-webassembly",
-      "owner_username": "aniruddhaadak",
-      "source_url": "https://github.com/aniruddhaadak80/OpenFile",
-      "tabcoins": 3,
-      "children_deep_count": 3,
-      "published_at": "2026-11-02T08:29:10.659Z",
-      "url": "https://www.tabnews.com.br/aniruddhaadak/como-rodar-mais-de-360-ferramentas-de-pdf-imagem-e-video-100-por-cento-no-navegador-com-webassembly"
-    },
-    {
-      "id": "c34cc5ad-8e75-479e-b0da-89b33318b481",
-      "title": "Pitch: ChillCoffee: Recriei o Café Mania no navegador. Como um simulador de cafeteria no browser separa regra de jogo e render",
-      "slug": "chillcoffee-recriei-o-cafe-mania-no-navegador-como-um-simulador-de-cafeteria-no-browser-separa-regra-de-jogo-e-render",
-      "owner_username": "ClaudioCassimiro",
-      "source_url": "https://chillcoffee-wine.vercel.app/",
-      "tabcoins": 5,
-      "children_deep_count": 4,
-      "published_at": "2026-10-31T17:41:51.008Z",
-      "url": "https://www.tabnews.com.br/ClaudioCassimiro/chillcoffee-recriei-o-cafe-mania-no-navegador-como-um-simulador-de-cafeteria-no-browser-separa-regra-de-jogo-e-render"
-    },
-    {
-      "id": "bb131f75-4467-45b9-8ea5-89e30bef5aaf",
-      "title": "A palavra mais difícil de ensinar pro meu assistente de WhatsApp foi \"comprei\"",
-      "slug": "a-palavra-mais-dificil-de-ensinar-pro-meu-assistente-de-whatsapp-foi-comprei",
-      "owner_username": "heymosaic",
-      "source_url": "https://heyplugi.com.br/?utm_source=tabnews&utm_medium=referral&utm_campaign=pitch",
-      "tabcoins": 3,
-      "children_deep_count": 3,
-      "published_at": "2026-11-01T22:43:54.970Z",
-      "url": "https://www.tabnews.com.br/heymosaic/a-palavra-mais-dificil-de-ensinar-pro-meu-assistente-de-whatsapp-foi-comprei"
-    },
-    {
-      "id": "c26819ef-aa0a-4b8a-8db5-0f24b62bf887",
-      "title": "VIREI DEV PHP SEM NUNCA TER PROGRAMADO ( EM PHP )",
-      "slug": "virei-dev-php-sem-nunca-ter-programado-em-php",
-      "owner_username": "felipetxapy",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 1,
-      "published_at": "2026-10-30T12:34:30.799Z",
-      "url": "https://www.tabnews.com.br/felipetxapy/virei-dev-php-sem-nunca-ter-programado-em-php"
     }
   ]
 }
