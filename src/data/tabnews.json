@@ -1,104 +1,93 @@
 {
-  "updated_at": "2026-11-04T16:41:13.433Z",
+  "updated_at": "2026-11-05T16:58:10.756Z",
   "posts": [
+    {
+      "id": "d55be7ab-c0c2-4262-936c-45730bcc598b",
+      "title": "Pitch: Criamos um cliente de WhatsApp em Rust, sem Electron, com tradução offline e integração com IA",
+      "slug": "criamos-um-cliente-de-whatsapp-em-rust-sem-electron-com-traducao-offline-e-integracao-com-ia",
+      "owner_username": "rocha",
+      "source_url": "https://github.com/wilssola/zapive",
+      "tabcoins": 12,
+      "children_deep_count": 10,
+      "published_at": "2026-11-04T19:50:25.673Z",
+      "url": "https://www.tabnews.com.br/rocha/criamos-um-cliente-de-whatsapp-em-rust-sem-electron-com-traducao-offline-e-integracao-com-ia"
+    },
+    {
+      "id": "8f5a08e4-06ad-4856-ba21-f48e4234b09c",
+      "title": "[AJUDA] Uma necessidade da minha família virou um problema de engenharia: SFCC — Sistema Familiar de Coordenação do Cuidado",
+      "slug": "ajuda-uma-necessidade-da-minha-familia-virou-um-problema-de-engenharia-sfcc-sistema-familiar-de-coordenacao-do-cuidado",
+      "owner_username": "JuanGuerra",
+      "source_url": null,
+      "tabcoins": 6,
+      "children_deep_count": 2,
+      "published_at": "2026-11-05T00:33:24.929Z",
+      "url": "https://www.tabnews.com.br/JuanGuerra/ajuda-uma-necessidade-da-minha-familia-virou-um-problema-de-engenharia-sfcc-sistema-familiar-de-coordenacao-do-cuidado"
+    },
+    {
+      "id": "101e26ce-d81c-446b-b81c-e0e1a8db4a9b",
+      "title": "Fiz uma IA de sobrevivência que roda 100% offline, até num pendrive",
+      "slug": "fiz-uma-ia-de-sobrevivencia-que-roda-100-por-cento-offline-ate-num-pendrive",
+      "owner_username": "soloo",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-11-05T15:31:03.280Z",
+      "url": "https://www.tabnews.com.br/soloo/fiz-uma-ia-de-sobrevivencia-que-roda-100-por-cento-offline-ate-num-pendrive"
+    },
+    {
+      "id": "251b0892-a5b5-4a85-b3a2-e139e4441fda",
+      "title": "Concord: Como criei do zero um clone do Discord em Go e Tauri para contornar o bloqueio de streaming no Brasil",
+      "slug": "concord-como-criei-do-zero-um-clone-do-discord-em-go-e-tauri-para-contornar-o-bloqueio-de-streaming-no-brasil",
+      "owner_username": "MatheusCorrea",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-11-05T15:20:01.108Z",
+      "url": "https://www.tabnews.com.br/MatheusCorrea/concord-como-criei-do-zero-um-clone-do-discord-em-go-e-tauri-para-contornar-o-bloqueio-de-streaming-no-brasil"
+    },
+    {
+      "id": "241f061c-166c-40c0-9623-c5d7f664eeb8",
+      "title": "Pitch: FitStreak, treinos de 5 minutos com um bichinho que cresce, e o bug do iOS 27 que quase nos derrubou",
+      "slug": "pitch-fitstreak-treinos-de-5-minutos-com-um-bichinho-que-cresce-e-o-bug-do-ios-27-que-quase-nos-derrubou",
+      "owner_username": "FitStreak",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-05T16:05:20.926Z",
+      "url": "https://www.tabnews.com.br/FitStreak/pitch-fitstreak-treinos-de-5-minutos-com-um-bichinho-que-cresce-e-o-bug-do-ios-27-que-quase-nos-derrubou"
+    },
+    {
+      "id": "dcc3c505-65bd-44e7-b497-fd460f651b47",
+      "title": "O melhor tower defense aberto que vc consegue jogar hoje",
+      "slug": "o-melhor-tower-defense-aberto-que-vc-consegue-jogar-hoje",
+      "owner_username": "AlexandreZanata",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-05T15:56:14.262Z",
+      "url": "https://www.tabnews.com.br/AlexandreZanata/o-melhor-tower-defense-aberto-que-vc-consegue-jogar-hoje"
+    },
+    {
+      "id": "873ac391-f4fc-46f9-965f-fbb4cd23c8d9",
+      "title": "OpenAI lança Images 2.6 com geração de imagens 50% mais rápida e criação de GIFs",
+      "slug": "openai-lanca-images-2-6-com-geracao-de-imagens-50-por-cento-mais-rapida-e-criacao-de-gifs",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://openai.com/index/introducing-images-2-6/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-05T15:05:08.924Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/openai-lanca-images-2-6-com-geracao-de-imagens-50-por-cento-mais-rapida-e-criacao-de-gifs"
+    },
     {
       "id": "2e6a3bcb-76a6-4157-b7e2-3fd837af1c44",
       "title": "Se você usa Claude Code, está lascado: por que sua ideia de negócio criada com Claude nunca vai te deixar rico, nem mesmo te dar lucro.",
       "slug": "se-voce-usa-claude-code-esta-lascado-por-que-sua-ideia-de-negocio-criada-com-claude-nunca-vai-te-deixar-rico-nem-mesmo-te-dar-lucro",
       "owner_username": "EdilsonMaia",
       "source_url": null,
-      "tabcoins": 9,
-      "children_deep_count": 3,
+      "tabcoins": 10,
+      "children_deep_count": 6,
       "published_at": "2026-11-03T13:53:27.534Z",
       "url": "https://www.tabnews.com.br/EdilsonMaia/se-voce-usa-claude-code-esta-lascado-por-que-sua-ideia-de-negocio-criada-com-claude-nunca-vai-te-deixar-rico-nem-mesmo-te-dar-lucro"
-    },
-    {
-      "id": "648832da-f88f-451d-ac3c-ac4dd6066121",
-      "title": "🔄 A IA melhorou diretamente os pesos de outra IA - REA foi só um experimento - Ideia pra pesquisadores brasileiros 🔁",
-      "slug": "a-ia-melhorou-diretamente-os-pesos-de-outra-ia-rea-foi-so-um-experimento-ideia-pra-pesquisadores-brasileiros",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/blog/a-ia-melhorou-diretamente-os-pesos-de-outra-ia-rea-foi-so-um-experimento-ideia-pra-pesquisadores-brasileiros",
-      "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-11-03T23:07:28.530Z",
-      "url": "https://www.tabnews.com.br/MrJ/a-ia-melhorou-diretamente-os-pesos-de-outra-ia-rea-foi-so-um-experimento-ideia-pra-pesquisadores-brasileiros"
-    },
-    {
-      "id": "ba0c6473-d274-49a1-ae98-47fff916b1df",
-      "title": "Como um agente autônomo de IA (claude) compilou uma uma distribuição Linux do zero (LFS)",
-      "slug": "como-um-agente-autonomo-de-ia-claude-compilou-uma-uma-distribuicao-linux-do-zero-lfs",
-      "owner_username": "Oletros",
-      "source_url": "https://www.youtube.com/watch?v=Ta-6eS3m4vU",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-11-03T19:55:14.057Z",
-      "url": "https://www.tabnews.com.br/Oletros/como-um-agente-autonomo-de-ia-claude-compilou-uma-uma-distribuicao-linux-do-zero-lfs"
-    },
-    {
-      "id": "3f342e9f-a7b2-4018-a3bd-2bd500252bca",
-      "title": "Construí uma memória compartilhada para o Claude Code (open source, self-hosted)",
-      "slug": "construi-uma-memoria-compartilhada-para-o-claude-code-open-source-self-hosted",
-      "owner_username": "limamarcelino",
-      "source_url": "https://github.com/marcelinollima/hippocampus",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-11-03T19:24:08.583Z",
-      "url": "https://www.tabnews.com.br/limamarcelino/construi-uma-memoria-compartilhada-para-o-claude-code-open-source-self-hosted"
-    },
-    {
-      "id": "bfe3e9f0-8cbd-4308-a9e6-96da04b1be91",
-      "title": "Organizador de barbante",
-      "slug": "organizador-de-barbante",
-      "owner_username": "ArthurOlivern",
-      "source_url": "https://mori2130.github.io/organizador-de-barbante/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-11-03T18:58:30.336Z",
-      "url": "https://www.tabnews.com.br/ArthurOlivern/organizador-de-barbante"
-    },
-    {
-      "id": "876df691-fcc0-45cf-9530-cc35f790ad11",
-      "title": "Pitch: fiz um site que dá nota para o bairro de um Airbnb, não para o quarto",
-      "slug": "pitch-fiz-um-site-que-da-nota-para-o-bairro-de-um-airbnb-nao-para-o-quarto",
-      "owner_username": "shouldistayhere",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-04T16:22:55.310Z",
-      "url": "https://www.tabnews.com.br/shouldistayhere/pitch-fiz-um-site-que-da-nota-para-o-bairro-de-um-airbnb-nao-para-o-quarto"
-    },
-    {
-      "id": "26de5113-0aed-4d21-b7af-0e93ca6e83be",
-      "title": "Hooks no Claude Code: exit 1 não bloqueia (e outros 5 detalhes que fazem o hook nunca disparar)",
-      "slug": "hooks-no-claude-code-exit-1-nao-bloqueia-e-outros-5-detalhes-que-fazem-o-hook-nunca-disparar",
-      "owner_username": "HenriqueFernandes",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-04T15:20:47.563Z",
-      "url": "https://www.tabnews.com.br/HenriqueFernandes/hooks-no-claude-code-exit-1-nao-bloqueia-e-outros-5-detalhes-que-fazem-o-hook-nunca-disparar"
-    },
-    {
-      "id": "741b7832-0e9a-4948-b1a8-759a8ed28770",
-      "title": "Falsa entrevista de emprego facilitou roubo de 6,3 bilhões de dólares em criptomoedas da Binance por hackers norte-coreanos",
-      "slug": "falsa-entrevista-de-emprego-facilitou-roubo-de-6-3-bilhoes-de-dolares-em-criptomoedas-da-binance-por-hackers-norte-coreanos",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-04T15:00:08.109Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/falsa-entrevista-de-emprego-facilitou-roubo-de-6-3-bilhoes-de-dolares-em-criptomoedas-da-binance-por-hackers-norte-coreanos"
-    },
-    {
-      "id": "ef7957a6-840e-4bad-8660-732a23dd44bc",
-      "title": "Pitch: Como obriguei a IA a seguir o padrão do projeto com ESLint",
-      "slug": "como-obriguei-a-ia-a-seguir-o-padrao-do-projeto-com-eslint",
-      "owner_username": "lvsouzadev",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-04T14:57:27.723Z",
-      "url": "https://www.tabnews.com.br/lvsouzadev/como-obriguei-a-ia-a-seguir-o-padrao-do-projeto-com-eslint"
     },
     {
       "id": "63c21a00-aa26-48a4-84b9-450839e5d03e",
@@ -110,6 +99,17 @@
       "children_deep_count": 3,
       "published_at": "2026-11-03T02:53:09.691Z",
       "url": "https://www.tabnews.com.br/karmadomains/como-checar-o-historico-de-um-dominio-expirado-antes-de-comprar-5-verificacoes"
+    },
+    {
+      "id": "bfe3e9f0-8cbd-4308-a9e6-96da04b1be91",
+      "title": "Organizador de barbante",
+      "slug": "organizador-de-barbante",
+      "owner_username": "ArthurOlivern",
+      "source_url": "https://mori2130.github.io/organizador-de-barbante/",
+      "tabcoins": 8,
+      "children_deep_count": 0,
+      "published_at": "2026-11-03T18:58:30.336Z",
+      "url": "https://www.tabnews.com.br/ArthurOlivern/organizador-de-barbante"
     }
   ]
 }
