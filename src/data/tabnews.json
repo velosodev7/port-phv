@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-11-06T16:30:07.484Z",
+  "updated_at": "2026-11-07T15:17:04.530Z",
   "posts": [
-    {
-      "id": "101e26ce-d81c-446b-b81c-e0e1a8db4a9b",
-      "title": "Fiz uma IA de sobrevivência que roda 100% offline, até num pendrive",
-      "slug": "fiz-uma-ia-de-sobrevivencia-que-roda-100-por-cento-offline-ate-num-pendrive",
-      "owner_username": "soloo",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 6,
-      "published_at": "2026-11-05T15:31:03.280Z",
-      "url": "https://www.tabnews.com.br/soloo/fiz-uma-ia-de-sobrevivencia-que-roda-100-por-cento-offline-ate-num-pendrive"
-    },
     {
       "id": "dea5e2ce-ce13-423b-9fe3-2f4d3601ac76",
       "title": "Entre R$ 5.000 e R$ 7.350, metade de cada aumento some na folha em 2026",
       "slug": "entre-r-5-000-e-r-7-350-metade-de-cada-aumento-some-na-folha-em-2026",
       "owner_username": "aftabfalak",
       "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 2,
+      "tabcoins": 7,
+      "children_deep_count": 8,
       "published_at": "2026-11-06T10:45:59.107Z",
       "url": "https://www.tabnews.com.br/aftabfalak/entre-r-5-000-e-r-7-350-metade-de-cada-aumento-some-na-folha-em-2026"
     },
     {
-      "id": "c9d2f934-aafb-49ee-9eb7-b588c4f11839",
-      "title": "Texto raiz sem uso de IA - Verdades que ninguem fala: Minha transição de estágiário para Junior em uma empresa nova e a verdadeira dependencia de IA que se criou",
-      "slug": "texto-raiz-sem-uso-de-ia-verdades-que-ninguem-fala-minha-transicao-de-estagiario-para-junior-em-uma-empresa-nova-e-a-verdadeira-dependencia-de-ia-que-se-c",
-      "owner_username": "gustavor04",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-11-06T00:46:45.820Z",
-      "url": "https://www.tabnews.com.br/gustavor04/texto-raiz-sem-uso-de-ia-verdades-que-ninguem-fala-minha-transicao-de-estagiario-para-junior-em-uma-empresa-nova-e-a-verdadeira-dependencia-de-ia-que-se-c"
-    },
-    {
-      "id": "04b55ed5-fb8d-4d5d-8bee-9c4927fbaec4",
-      "title": "A imprensa disse que a falha zero-click do Android (CVE-2026-58868) está sob ataque. Fui ler o boletim oficial — não está.",
-      "slug": "a-imprensa-disse-que-a-falha-zero-click-do-android-cve-2026-58868-esta-sob-ataque-fui-ler-o-boletim-oficial-nao-esta",
-      "owner_username": "gabrielfbaiano",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-06T15:31:28.933Z",
-      "url": "https://www.tabnews.com.br/gabrielfbaiano/a-imprensa-disse-que-a-falha-zero-click-do-android-cve-2026-58868-esta-sob-ataque-fui-ler-o-boletim-oficial-nao-esta"
-    },
-    {
-      "id": "530dd60a-e221-44d6-b648-65682f877d1d",
-      "title": "Claude Code pelo celular: tmux mantém o processo, /resume traz a conversa e /remote-control dá a interface",
-      "slug": "claude-code-pelo-celular-tmux-mantem-o-processo-resume-traz-a-conversa-e-remote-control-da-a-interface",
-      "owner_username": "bmarino01",
-      "source_url": "https://blog.brumarino.com/claude-code-celular-tmux-resume/?de=tabnews",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-06T15:21:02.844Z",
-      "url": "https://www.tabnews.com.br/bmarino01/claude-code-pelo-celular-tmux-mantem-o-processo-resume-traz-a-conversa-e-remote-control-da-a-interface"
-    },
-    {
-      "id": "06e679fa-1b30-48f9-bb92-08f1a4f5f396",
-      "title": "OpenAI lança GPT-6 Cyber, focado em identificação e correção de vulnerabilidades",
-      "slug": "openai-lanca-gpt-6-cyber-focado-em-identificacao-e-correcao-de-vulnerabilidades",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-06T15:00:09.553Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/openai-lanca-gpt-6-cyber-focado-em-identificacao-e-correcao-de-vulnerabilidades"
-    },
-    {
-      "id": "2a9b179f-c9ce-4cec-8615-03180c2c9929",
-      "title": "Curso gratuito de IA, LGPD e Compliance | USP/ESALQ",
-      "slug": "curso-gratuito-de-ia-lgpd-e-compliance-usp-esalq",
+      "id": "e370722c-d2cd-41e7-a290-a498599a5daf",
+      "title": "Treinamento gratuito de cibersegurança da ESET",
+      "slug": "treinamento-gratuito-de-ciberseguranca-da-eset",
       "owner_username": "guiadeti",
-      "source_url": "https://guiadeti.com.br/cursos/ia-lgpd-e-compliance-o-que-toda-empresa-precisa-saber/",
+      "source_url": "https://guiadeti.com.br/cursos/treinamento-gratuito-de-ciberseguranca-da-eset/",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-11-06T16:30:22.576Z",
+      "url": "https://www.tabnews.com.br/guiadeti/treinamento-gratuito-de-ciberseguranca-da-eset"
+    },
+    {
+      "id": "9de1baca-69ac-482d-8a77-fd72ecf14711",
+      "title": "Pitch: Criei uma plataforma de Estudos open source para o ENEM (OpENEM)",
+      "slug": "criei-uma-plataforma-de-estudos-open-source-para-o-enem-openem",
+      "owner_username": "migueldsants",
+      "source_url": "https://lnkd.in/p/dzD-Xufr",
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-11-06T20:58:05.418Z",
+      "url": "https://www.tabnews.com.br/migueldsants/criei-uma-plataforma-de-estudos-open-source-para-o-enem-openem"
+    },
+    {
+      "id": "eabeba85-0c0d-41e2-9c1e-507559b3846d",
+      "title": "Roteiros oficiais e gratuitos da Microsoft para aprender IA Generativa, Python e Nuvem sem pagar por cursos desatualizados",
+      "slug": "roteiros-oficiais-e-gratuitos-da-microsoft-para-aprender-ia-generativa-python-e-nuvem-sem-pagar-por-cursos-desatualizados",
+      "owner_username": "hom3ground",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-11-07T03:52:51.890Z",
+      "url": "https://www.tabnews.com.br/hom3ground/roteiros-oficiais-e-gratuitos-da-microsoft-para-aprender-ia-generativa-python-e-nuvem-sem-pagar-por-cursos-desatualizados"
+    },
+    {
+      "id": "7a37932d-eb28-434f-bfd3-2b7ba89be939",
+      "title": "Iluminura: um editor Markdown com cara de Word para revisar mudanças de agentes de IA",
+      "slug": "iluminura-um-editor-markdown-com-cara-de-word-para-revisar-mudancas-de-agentes-de-ia",
+      "owner_username": "samuelcsantos",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-11-06T23:03:39.082Z",
+      "url": "https://www.tabnews.com.br/samuelcsantos/iluminura-um-editor-markdown-com-cara-de-word-para-revisar-mudancas-de-agentes-de-ia"
+    },
+    {
+      "id": "343efe19-210b-4515-96b0-5e699c0b483a",
+      "title": "Conheça a Necoz! 😸 Small. Simple. Useful.",
+      "slug": "conheca-a-necoz-small-simple-useful",
+      "owner_username": "nyaomaru",
+      "source_url": "https://dev.to/nyaomaru/meet-necoz-small-simple-useful-ppo",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-11-06T17:47:14.787Z",
+      "url": "https://www.tabnews.com.br/nyaomaru/conheca-a-necoz-small-simple-useful"
+    },
+    {
+      "id": "d372c1b0-e8c6-4fd9-be6b-4ed9faf7caf6",
+      "title": "Fiz um MMO idle de ninja que roda no navegador: Godot 4 + Node.js + SQLite num servidor de US$ 7",
+      "slug": "fiz-um-mmo-idle-de-ninja-que-roda-no-navegador-godot-4-node-js-sqlite-num-servidor-de-us-7",
+      "owner_username": "ninjaLegendsOficial",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 0,
+      "published_at": "2026-11-07T12:08:42.005Z",
+      "url": "https://www.tabnews.com.br/ninjaLegendsOficial/fiz-um-mmo-idle-de-ninja-que-roda-no-navegador-godot-4-node-js-sqlite-num-servidor-de-us-7"
+    },
+    {
+      "id": "d540ffb9-8994-462f-abdb-bec5ac317df8",
+      "title": "Slack é caro demais",
+      "slug": "slack-e-caro-demais",
+      "owner_username": "Jonhvmp",
+      "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-11-06T14:12:47.303Z",
-      "url": "https://www.tabnews.com.br/guiadeti/curso-gratuito-de-ia-lgpd-e-compliance-usp-esalq"
+      "published_at": "2026-11-07T14:39:54.910Z",
+      "url": "https://www.tabnews.com.br/Jonhvmp/slack-e-caro-demais"
     },
     {
-      "id": "d55be7ab-c0c2-4262-936c-45730bcc598b",
-      "title": "Pitch: Criamos um cliente de WhatsApp em Rust, sem Electron, com tradução offline e integração com IA",
-      "slug": "criamos-um-cliente-de-whatsapp-em-rust-sem-electron-com-traducao-offline-e-integracao-com-ia",
-      "owner_username": "rocha",
-      "source_url": "https://github.com/wilssola/zapive",
-      "tabcoins": 14,
-      "children_deep_count": 13,
-      "published_at": "2026-11-04T19:50:25.673Z",
-      "url": "https://www.tabnews.com.br/rocha/criamos-um-cliente-de-whatsapp-em-rust-sem-electron-com-traducao-offline-e-integracao-com-ia"
-    },
-    {
-      "id": "8f5a08e4-06ad-4856-ba21-f48e4234b09c",
-      "title": "[AJUDA] Uma necessidade da minha família virou um problema de engenharia: SFCC — Sistema Familiar de Coordenação do Cuidado",
-      "slug": "ajuda-uma-necessidade-da-minha-familia-virou-um-problema-de-engenharia-sfcc-sistema-familiar-de-coordenacao-do-cuidado",
-      "owner_username": "JuanGuerra",
+      "id": "0796a4d6-0cac-4ef3-82f5-34c20871878a",
+      "title": "Pitch: Minha cópia de Project Zomboid é da GOG, então criei uma CLI para baixar mods do Steam Workshop",
+      "slug": "minha-copia-de-project-zomboid-e-da-gog-entao-criei-uma-cli-para-baixar-mods-do-steam-workshop",
+      "owner_username": "jvnascimento",
       "source_url": null,
-      "tabcoins": 10,
-      "children_deep_count": 2,
-      "published_at": "2026-11-05T00:33:24.929Z",
-      "url": "https://www.tabnews.com.br/JuanGuerra/ajuda-uma-necessidade-da-minha-familia-virou-um-problema-de-engenharia-sfcc-sistema-familiar-de-coordenacao-do-cuidado"
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-07T13:32:00.793Z",
+      "url": "https://www.tabnews.com.br/jvnascimento/minha-copia-de-project-zomboid-e-da-gog-entao-criei-uma-cli-para-baixar-mods-do-steam-workshop"
     },
     {
-      "id": "bfe3e9f0-8cbd-4308-a9e6-96da04b1be91",
-      "title": "Organizador de barbante",
-      "slug": "organizador-de-barbante",
-      "owner_username": "ArthurOlivern",
-      "source_url": "https://mori2130.github.io/organizador-de-barbante/",
-      "tabcoins": 9,
+      "id": "a77681c4-8f76-4501-871f-ffff485434d4",
+      "title": "\"Como instalar o ComfyUI: Desktop, portátil ou manual\"",
+      "slug": "como-instalar-o-comfyui-desktop-portatil-ou-manual",
+      "owner_username": "anderslee",
+      "source_url": "https://codingkit.com/pt/comfyui/install/",
+      "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-11-03T18:58:30.336Z",
-      "url": "https://www.tabnews.com.br/ArthurOlivern/organizador-de-barbante"
+      "published_at": "2026-11-07T13:00:04.689Z",
+      "url": "https://www.tabnews.com.br/anderslee/como-instalar-o-comfyui-desktop-portatil-ou-manual"
     }
   ]
 }
