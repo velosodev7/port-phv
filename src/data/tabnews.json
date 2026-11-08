@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-11-07T15:17:04.530Z",
+  "updated_at": "2026-11-08T15:40:38.597Z",
   "posts": [
+    {
+      "id": "78e395db-aa6b-4a50-87b5-fa039b7d59da",
+      "title": "Uma conversa com uma servidora do IFMT virou uma extensão do Chrome com mais de 150 usuários",
+      "slug": "uma-conversa-com-uma-servidora-do-ifmt-virou-uma-extensao-do-chrome-com-mais-de-150-usuarios",
+      "owner_username": "RyamSoares",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-11-07T23:36:28.151Z",
+      "url": "https://www.tabnews.com.br/RyamSoares/uma-conversa-com-uma-servidora-do-ifmt-virou-uma-extensao-do-chrome-com-mais-de-150-usuarios"
+    },
+    {
+      "id": "d024d6d4-3311-4614-b1df-00e491e79dcb",
+      "title": "Simcuit - um simulador web de circuitos digitais",
+      "slug": "simcuit-um-simulador-web-de-circuitos-digitais",
+      "owner_username": "deto",
+      "source_url": "https://github.com/d3tu/simcuit/",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-11-07T17:14:33.452Z",
+      "url": "https://www.tabnews.com.br/deto/simcuit-um-simulador-web-de-circuitos-digitais"
+    },
+    {
+      "id": "cd5631bb-8881-481a-8f18-727cd988fc34",
+      "title": "Pitch: Ed, um assistente de IA que roda offline no Windows (Ollama + qwen2.5 + Wikipédia local)",
+      "slug": "pitch-ed-um-assistente-de-ia-que-roda-offline-no-windows-ollama-qwen2-5-wikipedia-local",
+      "owner_username": "cobxars",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 2,
+      "published_at": "2026-11-08T05:34:40.948Z",
+      "url": "https://www.tabnews.com.br/cobxars/pitch-ed-um-assistente-de-ia-que-roda-offline-no-windows-ollama-qwen2-5-wikipedia-local"
+    },
+    {
+      "id": "cd98e4a6-aa4f-4df3-bb25-903ab25c937b",
+      "title": "Como cobrar por uso numa API: contagem, limites e Stripe",
+      "slug": "como-cobrar-por-uso-numa-api-contagem-limites-e-stripe",
+      "owner_username": "usagerail",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-08T15:20:30.018Z",
+      "url": "https://www.tabnews.com.br/usagerail/como-cobrar-por-uso-numa-api-contagem-limites-e-stripe"
+    },
     {
       "id": "dea5e2ce-ce13-423b-9fe3-2f4d3601ac76",
       "title": "Entre R$ 5.000 e R$ 7.350, metade de cada aumento some na folha em 2026",
@@ -13,6 +57,17 @@
       "url": "https://www.tabnews.com.br/aftabfalak/entre-r-5-000-e-r-7-350-metade-de-cada-aumento-some-na-folha-em-2026"
     },
     {
+      "id": "c9d2f934-aafb-49ee-9eb7-b588c4f11839",
+      "title": "Texto raiz sem uso de IA - Verdades que ninguem fala: Minha transição de estágiário para Junior em uma empresa nova e a verdadeira dependencia de IA que se criou",
+      "slug": "texto-raiz-sem-uso-de-ia-verdades-que-ninguem-fala-minha-transicao-de-estagiario-para-junior-em-uma-empresa-nova-e-a-verdadeira-dependencia-de-ia-que-se-c",
+      "owner_username": "gustavor04",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 3,
+      "published_at": "2026-11-06T00:46:45.820Z",
+      "url": "https://www.tabnews.com.br/gustavor04/texto-raiz-sem-uso-de-ia-verdades-que-ninguem-fala-minha-transicao-de-estagiario-para-junior-em-uma-empresa-nova-e-a-verdadeira-dependencia-de-ia-que-se-c"
+    },
+    {
       "id": "e370722c-d2cd-41e7-a290-a498599a5daf",
       "title": "Treinamento gratuito de cibersegurança da ESET",
       "slug": "treinamento-gratuito-de-ciberseguranca-da-eset",
@@ -22,6 +77,17 @@
       "children_deep_count": 1,
       "published_at": "2026-11-06T16:30:22.576Z",
       "url": "https://www.tabnews.com.br/guiadeti/treinamento-gratuito-de-ciberseguranca-da-eset"
+    },
+    {
+      "id": "b6e2a751-a857-4ad7-b44b-e43b8fd4366b",
+      "title": "Gestão de documentação",
+      "slug": "gestao-de-documentacao",
+      "owner_username": "SrVinicius",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 4,
+      "published_at": "2026-11-06T13:18:24.736Z",
+      "url": "https://www.tabnews.com.br/SrVinicius/gestao-de-documentacao"
     },
     {
       "id": "9de1baca-69ac-482d-8a77-fd72ecf14711",
@@ -41,75 +107,9 @@
       "owner_username": "hom3ground",
       "source_url": null,
       "tabcoins": 3,
-      "children_deep_count": 1,
+      "children_deep_count": 2,
       "published_at": "2026-11-07T03:52:51.890Z",
       "url": "https://www.tabnews.com.br/hom3ground/roteiros-oficiais-e-gratuitos-da-microsoft-para-aprender-ia-generativa-python-e-nuvem-sem-pagar-por-cursos-desatualizados"
-    },
-    {
-      "id": "7a37932d-eb28-434f-bfd3-2b7ba89be939",
-      "title": "Iluminura: um editor Markdown com cara de Word para revisar mudanças de agentes de IA",
-      "slug": "iluminura-um-editor-markdown-com-cara-de-word-para-revisar-mudancas-de-agentes-de-ia",
-      "owner_username": "samuelcsantos",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-11-06T23:03:39.082Z",
-      "url": "https://www.tabnews.com.br/samuelcsantos/iluminura-um-editor-markdown-com-cara-de-word-para-revisar-mudancas-de-agentes-de-ia"
-    },
-    {
-      "id": "343efe19-210b-4515-96b0-5e699c0b483a",
-      "title": "Conheça a Necoz! 😸 Small. Simple. Useful.",
-      "slug": "conheca-a-necoz-small-simple-useful",
-      "owner_username": "nyaomaru",
-      "source_url": "https://dev.to/nyaomaru/meet-necoz-small-simple-useful-ppo",
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-11-06T17:47:14.787Z",
-      "url": "https://www.tabnews.com.br/nyaomaru/conheca-a-necoz-small-simple-useful"
-    },
-    {
-      "id": "d372c1b0-e8c6-4fd9-be6b-4ed9faf7caf6",
-      "title": "Fiz um MMO idle de ninja que roda no navegador: Godot 4 + Node.js + SQLite num servidor de US$ 7",
-      "slug": "fiz-um-mmo-idle-de-ninja-que-roda-no-navegador-godot-4-node-js-sqlite-num-servidor-de-us-7",
-      "owner_username": "ninjaLegendsOficial",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 0,
-      "published_at": "2026-11-07T12:08:42.005Z",
-      "url": "https://www.tabnews.com.br/ninjaLegendsOficial/fiz-um-mmo-idle-de-ninja-que-roda-no-navegador-godot-4-node-js-sqlite-num-servidor-de-us-7"
-    },
-    {
-      "id": "d540ffb9-8994-462f-abdb-bec5ac317df8",
-      "title": "Slack é caro demais",
-      "slug": "slack-e-caro-demais",
-      "owner_username": "Jonhvmp",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-07T14:39:54.910Z",
-      "url": "https://www.tabnews.com.br/Jonhvmp/slack-e-caro-demais"
-    },
-    {
-      "id": "0796a4d6-0cac-4ef3-82f5-34c20871878a",
-      "title": "Pitch: Minha cópia de Project Zomboid é da GOG, então criei uma CLI para baixar mods do Steam Workshop",
-      "slug": "minha-copia-de-project-zomboid-e-da-gog-entao-criei-uma-cli-para-baixar-mods-do-steam-workshop",
-      "owner_username": "jvnascimento",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-07T13:32:00.793Z",
-      "url": "https://www.tabnews.com.br/jvnascimento/minha-copia-de-project-zomboid-e-da-gog-entao-criei-uma-cli-para-baixar-mods-do-steam-workshop"
-    },
-    {
-      "id": "a77681c4-8f76-4501-871f-ffff485434d4",
-      "title": "\"Como instalar o ComfyUI: Desktop, portátil ou manual\"",
-      "slug": "como-instalar-o-comfyui-desktop-portatil-ou-manual",
-      "owner_username": "anderslee",
-      "source_url": "https://codingkit.com/pt/comfyui/install/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-07T13:00:04.689Z",
-      "url": "https://www.tabnews.com.br/anderslee/como-instalar-o-comfyui-desktop-portatil-ou-manual"
     }
   ]
 }
