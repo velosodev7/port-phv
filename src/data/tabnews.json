@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:21:33.760Z",
+  "updated_at": "2026-11-10T16:41:12.009Z",
   "posts": [
     {
       "id": "5a084d0d-207f-459f-83a8-4bce7fab8f73",
@@ -7,32 +7,10 @@
       "slug": "como-uma-pessoa-cega-chama-uber-como-sabe-que-esta-pedindo-pizza-e-nao-hamburguer-pelo-ifood",
       "owner_username": "eduardocorreas",
       "source_url": "https://eduardocorreas.com",
-      "tabcoins": 10,
-      "children_deep_count": 1,
+      "tabcoins": 12,
+      "children_deep_count": 6,
       "published_at": "2026-11-09T12:54:41.289Z",
       "url": "https://www.tabnews.com.br/eduardocorreas/como-uma-pessoa-cega-chama-uber-como-sabe-que-esta-pedindo-pizza-e-nao-hamburguer-pelo-ifood"
-    },
-    {
-      "id": "792b3b0d-8400-4c0c-b951-d9dd0e1e8f86",
-      "title": "🗺️O Mapa das Associações de Jogos no Brasil: Como se Conectar, Conseguir Apoio e Fortalecer a Cena Local 🇧🇷 - GAMEDEV",
-      "slug": "o-mapa-das-associacoes-de-jogos-no-brasil-como-se-conectar-conseguir-apoio-e-fortalecer-a-cena-local-gamedev",
-      "owner_username": "MrJ",
-      "source_url": "https://crom.run/blog/o-mapa-das-associacoes-de-jogos-no-brasil-como-se-conectar-conseguir-apoio-e-fortalecer-a-cena-local-gamedev",
-      "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-11-09T15:08:06.719Z",
-      "url": "https://www.tabnews.com.br/MrJ/o-mapa-das-associacoes-de-jogos-no-brasil-como-se-conectar-conseguir-apoio-e-fortalecer-a-cena-local-gamedev"
-    },
-    {
-      "id": "b32e80a7-df37-46bf-a0f5-802e4e70818a",
-      "title": "212 comentários do revisor de IA em 38 PRs: 47 viraram mudança de código antes do merge",
-      "slug": "212-comentarios-do-revisor-de-ia-em-38-prs-47-viraram-mudanca-de-codigo-antes-do-merge",
-      "owner_username": "revinsoftware",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-11-09T15:40:50.960Z",
-      "url": "https://www.tabnews.com.br/revinsoftware/212-comentarios-do-revisor-de-ia-em-38-prs-47-viraram-mudanca-de-codigo-antes-do-merge"
     },
     {
       "id": "01aa7226-9f99-4bd1-a9be-8601ca53da92",
@@ -40,43 +18,76 @@
       "slug": "lancei-o-superfik-um-canvas-nativo-e-open-source-para-trabalhar-com-agentes-de-ia",
       "owner_username": "brunozilio",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
+      "tabcoins": 7,
+      "children_deep_count": 1,
       "published_at": "2026-11-09T17:18:43.544Z",
       "url": "https://www.tabnews.com.br/brunozilio/lancei-o-superfik-um-canvas-nativo-e-open-source-para-trabalhar-com-agentes-de-ia"
     },
     {
-      "id": "786267dc-b53d-4134-81dc-f23985300879",
-      "title": "Curso gratuito de AutoCAD: instalação e interface",
-      "slug": "curso-gratuito-de-autocad-instalacao-e-interface",
-      "owner_username": "guiadeti",
-      "source_url": "https://guiadeti.com.br/cursos/curso-gratuito-de-autocad/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-09T17:11:37.540Z",
-      "url": "https://www.tabnews.com.br/guiadeti/curso-gratuito-de-autocad-instalacao-e-interface"
+      "id": "c1927882-8744-47be-8092-dca222871f56",
+      "title": "Fiz um filme de 8 minutos renderizado só com código Python e IA, sem editor de vídeo",
+      "slug": "fiz-um-filme-de-8-minutos-renderizado-so-com-codigo-python-e-ia-sem-editor-de-video",
+      "owner_username": "PaiVelmoxia",
+      "source_url": "https://youtu.be/RSlctyQmVSE",
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-11-10T14:47:27.907Z",
+      "url": "https://www.tabnews.com.br/PaiVelmoxia/fiz-um-filme-de-8-minutos-renderizado-so-com-codigo-python-e-ia-sem-editor-de-video"
     },
     {
-      "id": "cfce2fc3-a587-441e-b943-c18de2dfd943",
-      "title": "5 fontes de dados abertos que pouca gente usa (com código Python curto para cada)",
-      "slug": "5-fontes-de-dados-abertos-que-pouca-gente-usa-com-codigo-python-curto-para-cada",
-      "owner_username": "jeffev",
+      "id": "29847b0d-ba7a-4be4-b5e4-71099ae5e394",
+      "title": "A persona travou no pedido. Como eu transformaria isso em teste",
+      "slug": "a-persona-travou-no-pedido-como-eu-transformaria-isso-em-teste",
+      "owner_username": "alexandremaiorano",
       "source_url": null,
       "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-11-09T17:00:52.968Z",
-      "url": "https://www.tabnews.com.br/jeffev/5-fontes-de-dados-abertos-que-pouca-gente-usa-com-codigo-python-curto-para-cada"
+      "published_at": "2026-11-10T16:06:45.497Z",
+      "url": "https://www.tabnews.com.br/alexandremaiorano/a-persona-travou-no-pedido-como-eu-transformaria-isso-em-teste"
     },
     {
-      "id": "9de1baca-69ac-482d-8a77-fd72ecf14711",
-      "title": "Pitch: Criei uma plataforma de Estudos open source para o ENEM (OpENEM)",
-      "slug": "criei-uma-plataforma-de-estudos-open-source-para-o-enem-openem",
-      "owner_username": "migueldsants",
-      "source_url": "https://lnkd.in/p/dzD-Xufr",
-      "tabcoins": 5,
+      "id": "a83aac26-fc0f-4370-9f97-061244388706",
+      "title": "Pitch: listas curadas em português de Pix, NF-e, pagamentos, Open Finance, WhatsApp e APIs brasileiras",
+      "slug": "pitch-listas-curadas-em-portugues-de-pix-nf-e-pagamentos-open-finance-whatsapp-e-apis-brasileiras",
+      "owner_username": "ciromaciel",
+      "source_url": null,
+      "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-11-06T20:58:05.418Z",
-      "url": "https://www.tabnews.com.br/migueldsants/criei-uma-plataforma-de-estudos-open-source-para-o-enem-openem"
+      "published_at": "2026-11-10T15:18:37.109Z",
+      "url": "https://www.tabnews.com.br/ciromaciel/pitch-listas-curadas-em-portugues-de-pix-nf-e-pagamentos-open-finance-whatsapp-e-apis-brasileiras"
+    },
+    {
+      "id": "9b95051d-15e2-491e-8ddb-62f9c615930b",
+      "title": "Automattic, dona do WordPress, lança plataforma para hospedar sites e aplicativos criados com IA",
+      "slug": "automattic-dona-do-wordpress-lanca-plataforma-para-hospedar-sites-e-aplicativos-criados-com-ia",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-10T15:05:12.920Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/automattic-dona-do-wordpress-lanca-plataforma-para-hospedar-sites-e-aplicativos-criados-com-ia"
+    },
+    {
+      "id": "4cd0778d-6d7a-4041-97df-75a07b15c7d6",
+      "title": "Pitch: Lancei o meu primeiro jogo para iOS — Clean The Map: City Cleanup",
+      "slug": "pitch-lancei-o-meu-primeiro-jogo-para-ios-clean-the-map-city-cleanup",
+      "owner_username": "CleanTheMapDev",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-10T13:52:32.711Z",
+      "url": "https://www.tabnews.com.br/CleanTheMapDev/pitch-lancei-o-meu-primeiro-jogo-para-ios-clean-the-map-city-cleanup"
+    },
+    {
+      "id": "d024d6d4-3311-4614-b1df-00e491e79dcb",
+      "title": "Simcuit - um simulador web de circuitos digitais",
+      "slug": "simcuit-um-simulador-web-de-circuitos-digitais",
+      "owner_username": "deto",
+      "source_url": "https://github.com/d3tu/simcuit/",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-11-07T17:14:33.452Z",
+      "url": "https://www.tabnews.com.br/deto/simcuit-um-simulador-web-de-circuitos-digitais"
     },
     {
       "id": "78e395db-aa6b-4a50-87b5-fa039b7d59da",
@@ -85,31 +96,20 @@
       "owner_username": "RyamSoares",
       "source_url": null,
       "tabcoins": 4,
-      "children_deep_count": 2,
+      "children_deep_count": 3,
       "published_at": "2026-11-07T23:36:28.151Z",
       "url": "https://www.tabnews.com.br/RyamSoares/uma-conversa-com-uma-servidora-do-ifmt-virou-uma-extensao-do-chrome-com-mais-de-150-usuarios"
     },
     {
-      "id": "d024d6d4-3311-4614-b1df-00e491e79dcb",
-      "title": "Simcuit - um simulador web de circuitos digitais",
-      "slug": "simcuit-um-simulador-web-de-circuitos-digitais",
-      "owner_username": "deto",
-      "source_url": "https://github.com/d3tu/simcuit/",
-      "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-11-07T17:14:33.452Z",
-      "url": "https://www.tabnews.com.br/deto/simcuit-um-simulador-web-de-circuitos-digitais"
-    },
-    {
-      "id": "eabeba85-0c0d-41e2-9c1e-507559b3846d",
-      "title": "Roteiros oficiais e gratuitos da Microsoft para aprender IA Generativa, Python e Nuvem sem pagar por cursos desatualizados",
-      "slug": "roteiros-oficiais-e-gratuitos-da-microsoft-para-aprender-ia-generativa-python-e-nuvem-sem-pagar-por-cursos-desatualizados",
-      "owner_username": "hom3ground",
+      "id": "af6e5b9a-00c0-4665-b75a-eb0af18f0840",
+      "title": "Resolvendo tela preta no Linux",
+      "slug": "resolvendo-tela-preta-no-linux",
+      "owner_username": "HenriqueGomes",
       "source_url": null,
       "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-11-07T03:52:51.890Z",
-      "url": "https://www.tabnews.com.br/hom3ground/roteiros-oficiais-e-gratuitos-da-microsoft-para-aprender-ia-generativa-python-e-nuvem-sem-pagar-por-cursos-desatualizados"
+      "children_deep_count": 1,
+      "published_at": "2026-11-08T18:08:03.185Z",
+      "url": "https://www.tabnews.com.br/HenriqueGomes/resolvendo-tela-preta-no-linux"
     }
   ]
 }
