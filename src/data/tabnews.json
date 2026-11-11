@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-11-10T16:41:12.009Z",
+  "updated_at": "2026-11-11T16:46:29.926Z",
   "posts": [
-    {
-      "id": "5a084d0d-207f-459f-83a8-4bce7fab8f73",
-      "title": "Como uma pessoa cega chama Uber? Como sabe que está pedindo pizza e não hamburguer pelo iFood?",
-      "slug": "como-uma-pessoa-cega-chama-uber-como-sabe-que-esta-pedindo-pizza-e-nao-hamburguer-pelo-ifood",
-      "owner_username": "eduardocorreas",
-      "source_url": "https://eduardocorreas.com",
-      "tabcoins": 12,
-      "children_deep_count": 6,
-      "published_at": "2026-11-09T12:54:41.289Z",
-      "url": "https://www.tabnews.com.br/eduardocorreas/como-uma-pessoa-cega-chama-uber-como-sabe-que-esta-pedindo-pizza-e-nao-hamburguer-pelo-ifood"
-    },
-    {
-      "id": "01aa7226-9f99-4bd1-a9be-8601ca53da92",
-      "title": "Pitch: Lancei o Superfik: um canvas nativo e open source para trabalhar com agentes de IA",
-      "slug": "lancei-o-superfik-um-canvas-nativo-e-open-source-para-trabalhar-com-agentes-de-ia",
-      "owner_username": "brunozilio",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 1,
-      "published_at": "2026-11-09T17:18:43.544Z",
-      "url": "https://www.tabnews.com.br/brunozilio/lancei-o-superfik-um-canvas-nativo-e-open-source-para-trabalhar-com-agentes-de-ia"
-    },
     {
       "id": "c1927882-8744-47be-8092-dca222871f56",
       "title": "Fiz um filme de 8 minutos renderizado só com código Python e IA, sem editor de vídeo",
       "slug": "fiz-um-filme-de-8-minutos-renderizado-so-com-codigo-python-e-ia-sem-editor-de-video",
       "owner_username": "PaiVelmoxia",
       "source_url": "https://youtu.be/RSlctyQmVSE",
-      "tabcoins": 4,
-      "children_deep_count": 1,
+      "tabcoins": 6,
+      "children_deep_count": 4,
       "published_at": "2026-11-10T14:47:27.907Z",
       "url": "https://www.tabnews.com.br/PaiVelmoxia/fiz-um-filme-de-8-minutos-renderizado-so-com-codigo-python-e-ia-sem-editor-de-video"
     },
     {
-      "id": "29847b0d-ba7a-4be4-b5e4-71099ae5e394",
-      "title": "A persona travou no pedido. Como eu transformaria isso em teste",
-      "slug": "a-persona-travou-no-pedido-como-eu-transformaria-isso-em-teste",
-      "owner_username": "alexandremaiorano",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-10T16:06:45.497Z",
-      "url": "https://www.tabnews.com.br/alexandremaiorano/a-persona-travou-no-pedido-como-eu-transformaria-isso-em-teste"
-    },
-    {
-      "id": "a83aac26-fc0f-4370-9f97-061244388706",
-      "title": "Pitch: listas curadas em português de Pix, NF-e, pagamentos, Open Finance, WhatsApp e APIs brasileiras",
-      "slug": "pitch-listas-curadas-em-portugues-de-pix-nf-e-pagamentos-open-finance-whatsapp-e-apis-brasileiras",
-      "owner_username": "ciromaciel",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-10T15:18:37.109Z",
-      "url": "https://www.tabnews.com.br/ciromaciel/pitch-listas-curadas-em-portugues-de-pix-nf-e-pagamentos-open-finance-whatsapp-e-apis-brasileiras"
-    },
-    {
-      "id": "9b95051d-15e2-491e-8ddb-62f9c615930b",
-      "title": "Automattic, dona do WordPress, lança plataforma para hospedar sites e aplicativos criados com IA",
-      "slug": "automattic-dona-do-wordpress-lanca-plataforma-para-hospedar-sites-e-aplicativos-criados-com-ia",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-10T15:05:12.920Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/automattic-dona-do-wordpress-lanca-plataforma-para-hospedar-sites-e-aplicativos-criados-com-ia"
-    },
-    {
-      "id": "4cd0778d-6d7a-4041-97df-75a07b15c7d6",
-      "title": "Pitch: Lancei o meu primeiro jogo para iOS — Clean The Map: City Cleanup",
-      "slug": "pitch-lancei-o-meu-primeiro-jogo-para-ios-clean-the-map-city-cleanup",
-      "owner_username": "CleanTheMapDev",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-10T13:52:32.711Z",
-      "url": "https://www.tabnews.com.br/CleanTheMapDev/pitch-lancei-o-meu-primeiro-jogo-para-ios-clean-the-map-city-cleanup"
-    },
-    {
-      "id": "d024d6d4-3311-4614-b1df-00e491e79dcb",
-      "title": "Simcuit - um simulador web de circuitos digitais",
-      "slug": "simcuit-um-simulador-web-de-circuitos-digitais",
-      "owner_username": "deto",
-      "source_url": "https://github.com/d3tu/simcuit/",
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-11-07T17:14:33.452Z",
-      "url": "https://www.tabnews.com.br/deto/simcuit-um-simulador-web-de-circuitos-digitais"
-    },
-    {
-      "id": "78e395db-aa6b-4a50-87b5-fa039b7d59da",
-      "title": "Uma conversa com uma servidora do IFMT virou uma extensão do Chrome com mais de 150 usuários",
-      "slug": "uma-conversa-com-uma-servidora-do-ifmt-virou-uma-extensao-do-chrome-com-mais-de-150-usuarios",
-      "owner_username": "RyamSoares",
-      "source_url": null,
+      "id": "60118895-14f7-45d7-aedd-9a935b219bdb",
+      "title": "Eletrônica: conceitos e componentes básicos | Curso gratuito",
+      "slug": "eletronica-conceitos-e-componentes-basicos-curso-gratuito",
+      "owner_username": "guiadeti",
+      "source_url": "https://guiadeti.com.br/cursos/eletronica-conceitos-e-componentes-basicos/",
       "tabcoins": 4,
-      "children_deep_count": 3,
-      "published_at": "2026-11-07T23:36:28.151Z",
-      "url": "https://www.tabnews.com.br/RyamSoares/uma-conversa-com-uma-servidora-do-ifmt-virou-uma-extensao-do-chrome-com-mais-de-150-usuarios"
+      "children_deep_count": 0,
+      "published_at": "2026-11-10T16:47:04.653Z",
+      "url": "https://www.tabnews.com.br/guiadeti/eletronica-conceitos-e-componentes-basicos-curso-gratuito"
     },
     {
-      "id": "af6e5b9a-00c0-4665-b75a-eb0af18f0840",
-      "title": "Resolvendo tela preta no Linux",
-      "slug": "resolvendo-tela-preta-no-linux",
-      "owner_username": "HenriqueGomes",
-      "source_url": null,
+      "id": "861af67f-7852-4884-81ca-3b5b85a7f865",
+      "title": "Papel milimetrado em PDF na escala exata: 469 linhas, 15 KB e nenhum pixel",
+      "slug": "papel-milimetrado-em-pdf-na-escala-exata-469-linhas-15-kb-e-nenhum-pixel",
+      "owner_username": "anderslee",
+      "source_url": "https://graphpaperpdf.net/1mm-graph-paper/",
       "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-11-08T18:08:03.185Z",
-      "url": "https://www.tabnews.com.br/HenriqueGomes/resolvendo-tela-preta-no-linux"
+      "children_deep_count": 2,
+      "published_at": "2026-11-11T01:05:04.402Z",
+      "url": "https://www.tabnews.com.br/anderslee/papel-milimetrado-em-pdf-na-escala-exata-469-linhas-15-kb-e-nenhum-pixel"
+    },
+    {
+      "id": "737e19c7-1691-4efe-abf3-ad89ea4eef78",
+      "title": "IPs públicos sem uso: quanto AWS e GCP cobram e como encontrá-los",
+      "slug": "ips-publicos-sem-uso-quanto-aws-e-gcp-cobram-e-como-encontra-los",
+      "owner_username": "gonzalogjuka",
+      "source_url": "https://controlcloud.dev/pt/blog/ips-publicas-que-cobran-aws-gcp",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-11-10T17:57:38.101Z",
+      "url": "https://www.tabnews.com.br/gonzalogjuka/ips-publicos-sem-uso-quanto-aws-e-gcp-cobram-e-como-encontra-los"
+    },
+    {
+      "id": "0cc86658-2ba3-401c-a808-441f04e63f7f",
+      "title": "Pedir pro modelo não usar seu e-mail não é controle",
+      "slug": "pedir-pro-modelo-nao-usar-seu-e-mail-nao-e-controle",
+      "owner_username": "jarbasgouveia",
+      "source_url": "https://github.com/anthropics/claude-code/issues/101659",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-11-11T01:56:23.696Z",
+      "url": "https://www.tabnews.com.br/jarbasgouveia/pedir-pro-modelo-nao-usar-seu-e-mail-nao-e-controle"
+    },
+    {
+      "id": "0ae0bbfe-fea2-4535-8833-ffd3771e9fbc",
+      "title": "Introdução a Ciência da Computação: curso gratuito de 40h",
+      "slug": "introducao-a-ciencia-da-computacao-curso-gratuito-de-40h",
+      "owner_username": "guiadeti",
+      "source_url": "https://guiadeti.com.br/cursos/introducao-a-ciencia-da-computacao/",
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-11-10T20:08:01.025Z",
+      "url": "https://www.tabnews.com.br/guiadeti/introducao-a-ciencia-da-computacao-curso-gratuito-de-40h"
+    },
+    {
+      "id": "a318a9de-a503-4b9b-b6b4-dbe4ba66b6dd",
+      "title": "Pitch: GPLWPPass — Por que criamos um repositório de temas e plugins WordPress 100% limpo focado em agências e freelas",
+      "slug": "pitch-gplwppass-por-que-criamos-um-repositorio-de-temas-e-plugins-wordpress-100-por-cento-limpo-focado-em-agencias-e-freelas",
+      "owner_username": "mwcbpuroyt7e",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-11T16:37:59.336Z",
+      "url": "https://www.tabnews.com.br/mwcbpuroyt7e/pitch-gplwppass-por-que-criamos-um-repositorio-de-temas-e-plugins-wordpress-100-por-cento-limpo-focado-em-agencias-e-freelas"
+    },
+    {
+      "id": "d70e4ac1-3e1f-4d3c-a82b-6e41b455f6e9",
+      "title": "Pitch: como testar OTP por SMS no Postman e no Newman (CI) com número real",
+      "slug": "pitch-como-testar-otp-por-sms-no-postman-e-no-newman-ci-com-numero-real",
+      "owner_username": "IIolaser",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-11T16:12:32.233Z",
+      "url": "https://www.tabnews.com.br/IIolaser/pitch-como-testar-otp-por-sms-no-postman-e-no-newman-ci-com-numero-real"
+    },
+    {
+      "id": "de977320-ddf9-45d1-91af-854c39626f48",
+      "title": "Fraude em iGaming: tipos principais e abordagens de detecção (KYC, pagamentos, AML)",
+      "slug": "fraude-em-igaming-tipos-principais-e-abordagens-de-deteccao-kyc-pagamentos-aml",
+      "owner_username": "biometricvision",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-11T16:02:14.804Z",
+      "url": "https://www.tabnews.com.br/biometricvision/fraude-em-igaming-tipos-principais-e-abordagens-de-deteccao-kyc-pagamentos-aml"
+    },
+    {
+      "id": "31ccfd6f-7e94-4aeb-b1ef-15e62eeb5ad2",
+      "title": "SSD não morre só de repente: como ler o desgaste no Proxmox antes de perder tudo de novo",
+      "slug": "ssd-nao-morre-so-de-repente-como-ler-o-desgaste-no-proxmox-antes-de-perder-tudo-de-novo",
+      "owner_username": "bmarino01",
+      "source_url": "https://blog.brumarino.com/saude-ssd-proxmox-smart/?de=tabnews",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-11T15:56:02.869Z",
+      "url": "https://www.tabnews.com.br/bmarino01/ssd-nao-morre-so-de-repente-como-ler-o-desgaste-no-proxmox-antes-de-perder-tudo-de-novo"
     }
   ]
 }
