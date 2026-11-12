@@ -1,16 +1,104 @@
 {
-  "updated_at": "2026-11-11T16:46:29.926Z",
+  "updated_at": "2026-11-12T17:15:28.881Z",
   "posts": [
+    {
+      "id": "97ea69b3-9e1f-4c96-964d-3643a69310bb",
+      "title": "Existe algum framework pra não ficar burro?",
+      "slug": "existe-algum-framework-pra-nao-ficar-burro",
+      "owner_username": "PedroDalMoro",
+      "source_url": null,
+      "tabcoins": 7,
+      "children_deep_count": 16,
+      "published_at": "2026-11-11T18:55:36.195Z",
+      "url": "https://www.tabnews.com.br/PedroDalMoro/existe-algum-framework-pra-nao-ficar-burro"
+    },
+    {
+      "id": "f0e9e517-80ea-4ebc-929f-dac9ce987c4f",
+      "title": "Fiz um negócio que obriga o Python a ter tipo em tudo",
+      "slug": "fiz-um-negocio-que-obriga-o-python-a-ter-tipo-em-tudo",
+      "owner_username": "MarinhoD",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-11-12T14:01:43.116Z",
+      "url": "https://www.tabnews.com.br/MarinhoD/fiz-um-negocio-que-obriga-o-python-a-ter-tipo-em-tudo"
+    },
+    {
+      "id": "91c7fe92-22bc-436c-a6f2-6420bc74cebb",
+      "title": "Documentação - Laravel",
+      "slug": "documentacao-laravel",
+      "owner_username": "Br3",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 2,
+      "published_at": "2026-11-12T16:16:15.305Z",
+      "url": "https://www.tabnews.com.br/Br3/documentacao-laravel"
+    },
+    {
+      "id": "beeace98-a335-4701-8286-daee70730c8f",
+      "title": "Vocês deixam agentes de IA rodarem comandos sozinhos no terminal?",
+      "slug": "voces-deixam-agentes-de-ia-rodarem-comandos-sozinhos-no-terminal",
+      "owner_username": "melteam",
+      "source_url": "https://www.openmel.dev/",
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-11-12T16:56:38.971Z",
+      "url": "https://www.tabnews.com.br/melteam/voces-deixam-agentes-de-ia-rodarem-comandos-sozinhos-no-terminal"
+    },
+    {
+      "id": "386e8764-d6dc-4f5f-976e-8cd33bdf3d08",
+      "title": "Night Nabbers chegou ao CrazyGames (jogo 3D de guaxinins, grátis)",
+      "slug": "night-nabbers-chegou-ao-crazygames-jogo-3d-de-guaxinins-gratis",
+      "owner_username": "nightnabbers",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-12T16:57:12.992Z",
+      "url": "https://www.tabnews.com.br/nightnabbers/night-nabbers-chegou-ao-crazygames-jogo-3d-de-guaxinins-gratis"
+    },
+    {
+      "id": "794cb713-35a4-4815-b339-a63ac1553400",
+      "title": "Confira o recorte depois do primeiro segundo de movimento, só então aumente a câmera",
+      "slug": "confira-o-recorte-depois-do-primeiro-segundo-de-movimento-so-entao-aumente-a-camera",
+      "owner_username": "flowaistudio",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-12T16:10:12.475Z",
+      "url": "https://www.tabnews.com.br/flowaistudio/confira-o-recorte-depois-do-primeiro-segundo-de-movimento-so-entao-aumente-a-camera"
+    },
+    {
+      "id": "01aa7226-9f99-4bd1-a9be-8601ca53da92",
+      "title": "Pitch: Lancei o Superfik: um canvas nativo e open source para trabalhar com agentes de IA",
+      "slug": "lancei-o-superfik-um-canvas-nativo-e-open-source-para-trabalhar-com-agentes-de-ia",
+      "owner_username": "brunozilio",
+      "source_url": null,
+      "tabcoins": 9,
+      "children_deep_count": 1,
+      "published_at": "2026-11-09T17:18:43.544Z",
+      "url": "https://www.tabnews.com.br/brunozilio/lancei-o-superfik-um-canvas-nativo-e-open-source-para-trabalhar-com-agentes-de-ia"
+    },
     {
       "id": "c1927882-8744-47be-8092-dca222871f56",
       "title": "Fiz um filme de 8 minutos renderizado só com código Python e IA, sem editor de vídeo",
       "slug": "fiz-um-filme-de-8-minutos-renderizado-so-com-codigo-python-e-ia-sem-editor-de-video",
       "owner_username": "PaiVelmoxia",
       "source_url": "https://youtu.be/RSlctyQmVSE",
-      "tabcoins": 6,
-      "children_deep_count": 4,
+      "tabcoins": 5,
+      "children_deep_count": 5,
       "published_at": "2026-11-10T14:47:27.907Z",
       "url": "https://www.tabnews.com.br/PaiVelmoxia/fiz-um-filme-de-8-minutos-renderizado-so-com-codigo-python-e-ia-sem-editor-de-video"
+    },
+    {
+      "id": "737e19c7-1691-4efe-abf3-ad89ea4eef78",
+      "title": "IPs públicos sem uso: quanto AWS e GCP cobram e como encontrá-los",
+      "slug": "ips-publicos-sem-uso-quanto-aws-e-gcp-cobram-e-como-encontra-los",
+      "owner_username": "gonzalogjuka",
+      "source_url": "https://controlcloud.dev/pt/blog/ips-publicas-que-cobran-aws-gcp",
+      "tabcoins": 4,
+      "children_deep_count": 4,
+      "published_at": "2026-11-10T17:57:38.101Z",
+      "url": "https://www.tabnews.com.br/gonzalogjuka/ips-publicos-sem-uso-quanto-aws-e-gcp-cobram-e-como-encontra-los"
     },
     {
       "id": "60118895-14f7-45d7-aedd-9a935b219bdb",
@@ -22,94 +110,6 @@
       "children_deep_count": 0,
       "published_at": "2026-11-10T16:47:04.653Z",
       "url": "https://www.tabnews.com.br/guiadeti/eletronica-conceitos-e-componentes-basicos-curso-gratuito"
-    },
-    {
-      "id": "861af67f-7852-4884-81ca-3b5b85a7f865",
-      "title": "Papel milimetrado em PDF na escala exata: 469 linhas, 15 KB e nenhum pixel",
-      "slug": "papel-milimetrado-em-pdf-na-escala-exata-469-linhas-15-kb-e-nenhum-pixel",
-      "owner_username": "anderslee",
-      "source_url": "https://graphpaperpdf.net/1mm-graph-paper/",
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-11-11T01:05:04.402Z",
-      "url": "https://www.tabnews.com.br/anderslee/papel-milimetrado-em-pdf-na-escala-exata-469-linhas-15-kb-e-nenhum-pixel"
-    },
-    {
-      "id": "737e19c7-1691-4efe-abf3-ad89ea4eef78",
-      "title": "IPs públicos sem uso: quanto AWS e GCP cobram e como encontrá-los",
-      "slug": "ips-publicos-sem-uso-quanto-aws-e-gcp-cobram-e-como-encontra-los",
-      "owner_username": "gonzalogjuka",
-      "source_url": "https://controlcloud.dev/pt/blog/ips-publicas-que-cobran-aws-gcp",
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-11-10T17:57:38.101Z",
-      "url": "https://www.tabnews.com.br/gonzalogjuka/ips-publicos-sem-uso-quanto-aws-e-gcp-cobram-e-como-encontra-los"
-    },
-    {
-      "id": "0cc86658-2ba3-401c-a808-441f04e63f7f",
-      "title": "Pedir pro modelo não usar seu e-mail não é controle",
-      "slug": "pedir-pro-modelo-nao-usar-seu-e-mail-nao-e-controle",
-      "owner_username": "jarbasgouveia",
-      "source_url": "https://github.com/anthropics/claude-code/issues/101659",
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-11-11T01:56:23.696Z",
-      "url": "https://www.tabnews.com.br/jarbasgouveia/pedir-pro-modelo-nao-usar-seu-e-mail-nao-e-controle"
-    },
-    {
-      "id": "0ae0bbfe-fea2-4535-8833-ffd3771e9fbc",
-      "title": "Introdução a Ciência da Computação: curso gratuito de 40h",
-      "slug": "introducao-a-ciencia-da-computacao-curso-gratuito-de-40h",
-      "owner_username": "guiadeti",
-      "source_url": "https://guiadeti.com.br/cursos/introducao-a-ciencia-da-computacao/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-11-10T20:08:01.025Z",
-      "url": "https://www.tabnews.com.br/guiadeti/introducao-a-ciencia-da-computacao-curso-gratuito-de-40h"
-    },
-    {
-      "id": "a318a9de-a503-4b9b-b6b4-dbe4ba66b6dd",
-      "title": "Pitch: GPLWPPass — Por que criamos um repositório de temas e plugins WordPress 100% limpo focado em agências e freelas",
-      "slug": "pitch-gplwppass-por-que-criamos-um-repositorio-de-temas-e-plugins-wordpress-100-por-cento-limpo-focado-em-agencias-e-freelas",
-      "owner_username": "mwcbpuroyt7e",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-11T16:37:59.336Z",
-      "url": "https://www.tabnews.com.br/mwcbpuroyt7e/pitch-gplwppass-por-que-criamos-um-repositorio-de-temas-e-plugins-wordpress-100-por-cento-limpo-focado-em-agencias-e-freelas"
-    },
-    {
-      "id": "d70e4ac1-3e1f-4d3c-a82b-6e41b455f6e9",
-      "title": "Pitch: como testar OTP por SMS no Postman e no Newman (CI) com número real",
-      "slug": "pitch-como-testar-otp-por-sms-no-postman-e-no-newman-ci-com-numero-real",
-      "owner_username": "IIolaser",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-11T16:12:32.233Z",
-      "url": "https://www.tabnews.com.br/IIolaser/pitch-como-testar-otp-por-sms-no-postman-e-no-newman-ci-com-numero-real"
-    },
-    {
-      "id": "de977320-ddf9-45d1-91af-854c39626f48",
-      "title": "Fraude em iGaming: tipos principais e abordagens de detecção (KYC, pagamentos, AML)",
-      "slug": "fraude-em-igaming-tipos-principais-e-abordagens-de-deteccao-kyc-pagamentos-aml",
-      "owner_username": "biometricvision",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-11T16:02:14.804Z",
-      "url": "https://www.tabnews.com.br/biometricvision/fraude-em-igaming-tipos-principais-e-abordagens-de-deteccao-kyc-pagamentos-aml"
-    },
-    {
-      "id": "31ccfd6f-7e94-4aeb-b1ef-15e62eeb5ad2",
-      "title": "SSD não morre só de repente: como ler o desgaste no Proxmox antes de perder tudo de novo",
-      "slug": "ssd-nao-morre-so-de-repente-como-ler-o-desgaste-no-proxmox-antes-de-perder-tudo-de-novo",
-      "owner_username": "bmarino01",
-      "source_url": "https://blog.brumarino.com/saude-ssd-proxmox-smart/?de=tabnews",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-11T15:56:02.869Z",
-      "url": "https://www.tabnews.com.br/bmarino01/ssd-nao-morre-so-de-repente-como-ler-o-desgaste-no-proxmox-antes-de-perder-tudo-de-novo"
     }
   ]
 }
