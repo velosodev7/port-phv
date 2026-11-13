@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-11-12T17:15:28.881Z",
+  "updated_at": "2026-11-13T16:51:40.446Z",
   "posts": [
+    {
+      "id": "beeace98-a335-4701-8286-daee70730c8f",
+      "title": "Vocês deixam agentes de IA rodarem comandos sozinhos no terminal?",
+      "slug": "voces-deixam-agentes-de-ia-rodarem-comandos-sozinhos-no-terminal",
+      "owner_username": "melteam",
+      "source_url": "https://www.openmel.dev/",
+      "tabcoins": 3,
+      "children_deep_count": 6,
+      "published_at": "2026-11-12T16:56:38.971Z",
+      "url": "https://www.tabnews.com.br/melteam/voces-deixam-agentes-de-ia-rodarem-comandos-sozinhos-no-terminal"
+    },
+    {
+      "id": "54207a19-cc66-4f4e-b725-4dce9d99c067",
+      "title": "Fiz uma IA de 19 neurônios em JS puro que zerou o Snake. Depois testei de verdade e ela nunca mais zerou.",
+      "slug": "fiz-uma-ia-de-19-neuronios-em-js-puro-que-zerou-o-snake-depois-testei-de-verdade-e-ela-nunca-mais-zerou",
+      "owner_username": "fernandomorais",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-11-13T15:30:48.902Z",
+      "url": "https://www.tabnews.com.br/fernandomorais/fiz-uma-ia-de-19-neuronios-em-js-puro-que-zerou-o-snake-depois-testei-de-verdade-e-ela-nunca-mais-zerou"
+    },
+    {
+      "id": "87078030-9a31-40fc-9cc3-d0fe5ea7f5d4",
+      "title": "[PITCH] ShieldAgent: Ecossistema de Cibersegurança e LGPD em Python/Flask rodando 24/7",
+      "slug": "pitch-shieldagent-ecossistema-de-ciberseguranca-e-lgpd-em-python-flask-rodando-24-7",
+      "owner_username": "hxjhosue",
+      "source_url": "https://shieldagent-server.onrender.com",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-13T16:44:25.835Z",
+      "url": "https://www.tabnews.com.br/hxjhosue/pitch-shieldagent-ecossistema-de-ciberseguranca-e-lgpd-em-python-flask-rodando-24-7"
+    },
+    {
+      "id": "9b416e1a-305a-4139-a1e6-0f7f4f0fbed5",
+      "title": "react-native-iap + StoreKit 2: a compra pedia a senha da Apple 4 vezes — a causa era a ordem de inicialização",
+      "slug": "react-native-iap-storekit-2-a-compra-pedia-a-senha-da-apple-4-vezes-a-causa-era-a-ordem-de-inicializacao",
+      "owner_username": "caccac",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-13T16:38:29.083Z",
+      "url": "https://www.tabnews.com.br/caccac/react-native-iap-storekit-2-a-compra-pedia-a-senha-da-apple-4-vezes-a-causa-era-a-ordem-de-inicializacao"
+    },
+    {
+      "id": "16154ef0-8753-4310-890e-75b25d891c50",
+      "title": "Pitch: Plataforma de auditoria pública",
+      "slug": "plataforma-de-auditoria-publica",
+      "owner_username": "leogm360",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-13T16:04:23.638Z",
+      "url": "https://www.tabnews.com.br/leogm360/plataforma-de-auditoria-publica"
+    },
+    {
+      "id": "01e464cf-80a4-4c01-b9dd-b8b727fff3ea",
+      "title": "Queda de energia no homelab: a BIOS em Last State pode deixar o servidor desligado de propósito",
+      "slug": "queda-de-energia-no-homelab-a-bios-em-last-state-pode-deixar-o-servidor-desligado-de-proposito",
+      "owner_username": "bmarino01",
+      "source_url": "https://blog.brumarino.com/homelab-voltar-sozinho-queda-energia/?de=tabnews",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-13T15:03:02.374Z",
+      "url": "https://www.tabnews.com.br/bmarino01/queda-de-energia-no-homelab-a-bios-em-last-state-pode-deixar-o-servidor-desligado-de-proposito"
+    },
+    {
+      "id": "607357de-9d92-43e9-a1cf-c49795d654de",
+      "title": "[ PITCH ] xCPFuzz 💚 Gera CPFs válidos por máscara e verifica vínculos no Portal da Transparência",
+      "slug": "pitch-xcpfuzz-gera-cpfs-validos-por-mascara-e-verifica-vinculos-no-portal-da-transparencia",
+      "owner_username": "RavenaStar",
+      "source_url": "https://github.com/ravenastar-js/xcpfuzz",
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-11-12T09:27:38.381Z",
+      "url": "https://www.tabnews.com.br/RavenaStar/pitch-xcpfuzz-gera-cpfs-validos-por-mascara-e-verifica-vinculos-no-portal-da-transparencia"
+    },
     {
       "id": "97ea69b3-9e1f-4c96-964d-3643a69310bb",
       "title": "Existe algum framework pra não ficar burro?",
@@ -8,86 +85,9 @@
       "owner_username": "PedroDalMoro",
       "source_url": null,
       "tabcoins": 7,
-      "children_deep_count": 16,
+      "children_deep_count": 18,
       "published_at": "2026-11-11T18:55:36.195Z",
       "url": "https://www.tabnews.com.br/PedroDalMoro/existe-algum-framework-pra-nao-ficar-burro"
-    },
-    {
-      "id": "f0e9e517-80ea-4ebc-929f-dac9ce987c4f",
-      "title": "Fiz um negócio que obriga o Python a ter tipo em tudo",
-      "slug": "fiz-um-negocio-que-obriga-o-python-a-ter-tipo-em-tudo",
-      "owner_username": "MarinhoD",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-11-12T14:01:43.116Z",
-      "url": "https://www.tabnews.com.br/MarinhoD/fiz-um-negocio-que-obriga-o-python-a-ter-tipo-em-tudo"
-    },
-    {
-      "id": "91c7fe92-22bc-436c-a6f2-6420bc74cebb",
-      "title": "Documentação - Laravel",
-      "slug": "documentacao-laravel",
-      "owner_username": "Br3",
-      "source_url": null,
-      "tabcoins": 2,
-      "children_deep_count": 2,
-      "published_at": "2026-11-12T16:16:15.305Z",
-      "url": "https://www.tabnews.com.br/Br3/documentacao-laravel"
-    },
-    {
-      "id": "beeace98-a335-4701-8286-daee70730c8f",
-      "title": "Vocês deixam agentes de IA rodarem comandos sozinhos no terminal?",
-      "slug": "voces-deixam-agentes-de-ia-rodarem-comandos-sozinhos-no-terminal",
-      "owner_username": "melteam",
-      "source_url": "https://www.openmel.dev/",
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-11-12T16:56:38.971Z",
-      "url": "https://www.tabnews.com.br/melteam/voces-deixam-agentes-de-ia-rodarem-comandos-sozinhos-no-terminal"
-    },
-    {
-      "id": "386e8764-d6dc-4f5f-976e-8cd33bdf3d08",
-      "title": "Night Nabbers chegou ao CrazyGames (jogo 3D de guaxinins, grátis)",
-      "slug": "night-nabbers-chegou-ao-crazygames-jogo-3d-de-guaxinins-gratis",
-      "owner_username": "nightnabbers",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-12T16:57:12.992Z",
-      "url": "https://www.tabnews.com.br/nightnabbers/night-nabbers-chegou-ao-crazygames-jogo-3d-de-guaxinins-gratis"
-    },
-    {
-      "id": "794cb713-35a4-4815-b339-a63ac1553400",
-      "title": "Confira o recorte depois do primeiro segundo de movimento, só então aumente a câmera",
-      "slug": "confira-o-recorte-depois-do-primeiro-segundo-de-movimento-so-entao-aumente-a-camera",
-      "owner_username": "flowaistudio",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-12T16:10:12.475Z",
-      "url": "https://www.tabnews.com.br/flowaistudio/confira-o-recorte-depois-do-primeiro-segundo-de-movimento-so-entao-aumente-a-camera"
-    },
-    {
-      "id": "01aa7226-9f99-4bd1-a9be-8601ca53da92",
-      "title": "Pitch: Lancei o Superfik: um canvas nativo e open source para trabalhar com agentes de IA",
-      "slug": "lancei-o-superfik-um-canvas-nativo-e-open-source-para-trabalhar-com-agentes-de-ia",
-      "owner_username": "brunozilio",
-      "source_url": null,
-      "tabcoins": 9,
-      "children_deep_count": 1,
-      "published_at": "2026-11-09T17:18:43.544Z",
-      "url": "https://www.tabnews.com.br/brunozilio/lancei-o-superfik-um-canvas-nativo-e-open-source-para-trabalhar-com-agentes-de-ia"
-    },
-    {
-      "id": "c1927882-8744-47be-8092-dca222871f56",
-      "title": "Fiz um filme de 8 minutos renderizado só com código Python e IA, sem editor de vídeo",
-      "slug": "fiz-um-filme-de-8-minutos-renderizado-so-com-codigo-python-e-ia-sem-editor-de-video",
-      "owner_username": "PaiVelmoxia",
-      "source_url": "https://youtu.be/RSlctyQmVSE",
-      "tabcoins": 5,
-      "children_deep_count": 5,
-      "published_at": "2026-11-10T14:47:27.907Z",
-      "url": "https://www.tabnews.com.br/PaiVelmoxia/fiz-um-filme-de-8-minutos-renderizado-so-com-codigo-python-e-ia-sem-editor-de-video"
     },
     {
       "id": "737e19c7-1691-4efe-abf3-ad89ea4eef78",
@@ -96,20 +96,20 @@
       "owner_username": "gonzalogjuka",
       "source_url": "https://controlcloud.dev/pt/blog/ips-publicas-que-cobran-aws-gcp",
       "tabcoins": 4,
-      "children_deep_count": 4,
+      "children_deep_count": 5,
       "published_at": "2026-11-10T17:57:38.101Z",
       "url": "https://www.tabnews.com.br/gonzalogjuka/ips-publicos-sem-uso-quanto-aws-e-gcp-cobram-e-como-encontra-los"
     },
     {
-      "id": "60118895-14f7-45d7-aedd-9a935b219bdb",
-      "title": "Eletrônica: conceitos e componentes básicos | Curso gratuito",
-      "slug": "eletronica-conceitos-e-componentes-basicos-curso-gratuito",
-      "owner_username": "guiadeti",
-      "source_url": "https://guiadeti.com.br/cursos/eletronica-conceitos-e-componentes-basicos/",
-      "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-11-10T16:47:04.653Z",
-      "url": "https://www.tabnews.com.br/guiadeti/eletronica-conceitos-e-componentes-basicos-curso-gratuito"
+      "id": "0cc86658-2ba3-401c-a808-441f04e63f7f",
+      "title": "Pedir pro modelo não usar seu e-mail não é controle",
+      "slug": "pedir-pro-modelo-nao-usar-seu-e-mail-nao-e-controle",
+      "owner_username": "jarbasgouveia",
+      "source_url": "https://github.com/anthropics/claude-code/issues/101659",
+      "tabcoins": 3,
+      "children_deep_count": 2,
+      "published_at": "2026-11-11T01:56:23.696Z",
+      "url": "https://www.tabnews.com.br/jarbasgouveia/pedir-pro-modelo-nao-usar-seu-e-mail-nao-e-controle"
     }
   ]
 }
