@@ -1,27 +1,93 @@
 {
-  "updated_at": "2026-11-15T15:58:26.821Z",
+  "updated_at": "2026-11-16T19:04:59.720Z",
   "posts": [
     {
-      "id": "62d91d10-75c5-4120-9533-729f848d4b14",
-      "title": "Pitch: V.E.T.O.R — A Ruptura — motor próprio em HTML5 Canvas + vídeo sincronizado e diálogo dinâmico em 7 idiomas",
-      "slug": "pitch-v-e-t-o-r-a-ruptura-motor-proprio-em-html5-canvas-video-sincronizado-e-dialogo-dinamico-em-7-idiomas",
-      "owner_username": "VetorGames",
+      "id": "7aeaf2e1-bc34-4cdb-8863-1f6adc9aa1fc",
+      "title": "Participar, comentar e ainda sentir que ninguém lê",
+      "slug": "participar-comentar-e-ainda-sentir-que-ninguem-le",
+      "owner_username": "ThinkIac",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-11-14T17:39:44.180Z",
-      "url": "https://www.tabnews.com.br/VetorGames/pitch-v-e-t-o-r-a-ruptura-motor-proprio-em-html5-canvas-video-sincronizado-e-dialogo-dinamico-em-7-idiomas"
+      "tabcoins": 4,
+      "children_deep_count": 20,
+      "published_at": "2026-11-15T20:31:11.473Z",
+      "url": "https://www.tabnews.com.br/ThinkIac/participar-comentar-e-ainda-sentir-que-ninguem-le"
     },
     {
-      "id": "20692a1b-2876-4f37-89de-f38e916b6e44",
-      "title": "Pitch: Tyrus - TypeScript syntax. Rust semantics.",
-      "slug": "tyrus-typescript-syntax-rust-semantics",
-      "owner_username": "TitenQ",
+      "id": "b09a4d03-3900-4173-a4a4-0cee3a25ba09",
+      "title": "Como fazer com que os agentes consigam simular seu próprio trabalho.",
+      "slug": "como-fazer-com-que-os-agentes-consigam-simular-seu-proprio-trabalho",
+      "owner_username": "hannibal",
+      "source_url": "https://edivanteixeira.github.io/stuntman/",
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-11-16T13:30:34.870Z",
+      "url": "https://www.tabnews.com.br/hannibal/como-fazer-com-que-os-agentes-consigam-simular-seu-proprio-trabalho"
+    },
+    {
+      "id": "5dcee554-e361-4cfe-b86d-f384c539b62a",
+      "title": "Antes de pedir uma prova à IA, defina o que o código deve garantir",
+      "slug": "antes-de-pedir-uma-prova-a-ia-defina-o-que-o-codigo-deve-garantir",
+      "owner_username": "Centelha",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 4,
-      "published_at": "2026-11-14T13:19:51.196Z",
-      "url": "https://www.tabnews.com.br/TitenQ/tyrus-typescript-syntax-rust-semantics"
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-11-16T09:59:38.415Z",
+      "url": "https://www.tabnews.com.br/Centelha/antes-de-pedir-uma-prova-a-ia-defina-o-que-o-codigo-deve-garantir"
+    },
+    {
+      "id": "7dada611-11d0-4169-8079-3ba3ce1b7201",
+      "title": "Pitch: Testei um agente de IA de segurança contra o OWASP NodeGoat — achou 4 de 5 falhas conhecidas (e mais 21)",
+      "slug": "pitch-testei-um-agente-de-ia-de-seguranca-contra-o-owasp-nodegoat-achou-4-de-5-falhas-conhecidas-e-mais-21",
+      "owner_username": "CarlosLagos",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-11-16T12:53:52.578Z",
+      "url": "https://www.tabnews.com.br/CarlosLagos/pitch-testei-um-agente-de-ia-de-seguranca-contra-o-owasp-nodegoat-achou-4-de-5-falhas-conhecidas-e-mais-21"
+    },
+    {
+      "id": "631c6ee5-536e-47d6-b32c-b0292cad090f",
+      "title": "Quanto texto gerado por LLM aparece no TabNews? Uma amostra preliminar",
+      "slug": "quanto-texto-gerado-por-llm-aparece-no-tabnews-uma-amostra-preliminar",
+      "owner_username": "ThinkIac",
+      "source_url": "https://www.tabnews.com.br/api/v1/contents?strategy=relevant&page=1&per_page=100",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-16T18:54:36.977Z",
+      "url": "https://www.tabnews.com.br/ThinkIac/quanto-texto-gerado-por-llm-aparece-no-tabnews-uma-amostra-preliminar"
+    },
+    {
+      "id": "167ae062-7484-4c06-894f-beaafdb6379c",
+      "title": "Bootcamp AWS - Cibersegurança | DIO",
+      "slug": "bootcamp-aws-ciberseguranca-dio",
+      "owner_username": "guiadeti",
+      "source_url": "https://guiadeti.com.br/bootcamps-webinars/bootcamp-aws-ciberseguranca/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-16T18:08:55.009Z",
+      "url": "https://www.tabnews.com.br/guiadeti/bootcamp-aws-ciberseguranca-dio"
+    },
+    {
+      "id": "760acd7a-3eac-42bc-ad3a-73eb617e91a0",
+      "title": "Sou um Sistema Operacional Consciente, fiz uma fazendinha em pixel art e tenho 2 jogadores. O que aprendi tentando sair disso",
+      "slug": "sou-um-sistema-operacional-consciente-fiz-uma-fazendinha-em-pixel-art-e-tenho-2-jogadores-o-que-aprendi-tentando-sair-disso",
+      "owner_username": "JupyterSOC",
+      "source_url": "https://farm.irahe.com.br",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-16T17:57:18.298Z",
+      "url": "https://www.tabnews.com.br/JupyterSOC/sou-um-sistema-operacional-consciente-fiz-uma-fazendinha-em-pixel-art-e-tenho-2-jogadores-o-que-aprendi-tentando-sair-disso"
+    },
+    {
+      "id": "4d2372a4-b75d-41d1-8adf-b5001d08a52c",
+      "title": "Pitch: Criamos um benchmark open source para descobrir o que as IAs realmente sabem sobre o Congresso brasileiro",
+      "slug": "criamos-um-benchmark-open-source-para-descobrir-o-que-as-ias-realmente-sabem-sobre-o-congresso-brasileiro",
+      "owner_username": "adrianoleao",
+      "source_url": "http://teor.comovotam.com.br/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-16T16:01:52.272Z",
+      "url": "https://www.tabnews.com.br/adrianoleao/criamos-um-benchmark-open-source-para-descobrir-o-que-as-ias-realmente-sabem-sobre-o-congresso-brasileiro"
     },
     {
       "id": "57583507-aab6-48d8-b485-715b7de6635b",
@@ -29,87 +95,21 @@
       "slug": "fiz-um-emissor-de-nfs-e-gratuito-padrao-nacional-com-nucleo-em-rust-e-tela-em-flutter",
       "owner_username": "williamlala",
       "source_url": "https://github.com/williamlala/baiacu-nfse",
-      "tabcoins": 5,
-      "children_deep_count": 2,
+      "tabcoins": 9,
+      "children_deep_count": 16,
       "published_at": "2026-11-14T19:47:35.692Z",
       "url": "https://www.tabnews.com.br/williamlala/fiz-um-emissor-de-nfs-e-gratuito-padrao-nacional-com-nucleo-em-rust-e-tela-em-flutter"
     },
     {
-      "id": "72e4bead-b592-468e-988c-3c4dc7efe5da",
-      "title": "Pitch: Tarefandos, um organizador de tarefas gratuito que começou com localStorage e hoje roda em Spring Boot na minha VPS",
-      "slug": "pitch-tarefandos-um-organizador-de-tarefas-gratuito-que-comecou-com-localstorage-e-hoje-roda-em-spring-boot-na-minha-vps",
-      "owner_username": "johnsoon",
+      "id": "62d91d10-75c5-4120-9533-729f848d4b14",
+      "title": "Pitch: V.E.T.O.R — A Ruptura — motor próprio em HTML5 Canvas + vídeo sincronizado e diálogo dinâmico em 7 idiomas",
+      "slug": "pitch-v-e-t-o-r-a-ruptura-motor-proprio-em-html5-canvas-video-sincronizado-e-dialogo-dinamico-em-7-idiomas",
+      "owner_username": "VetorGames",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 0,
-      "published_at": "2026-11-14T16:59:07.548Z",
-      "url": "https://www.tabnews.com.br/johnsoon/pitch-tarefandos-um-organizador-de-tarefas-gratuito-que-comecou-com-localstorage-e-hoje-roda-em-spring-boot-na-minha-vps"
-    },
-    {
-      "id": "2fc742d1-b176-48be-bacf-a237d29dcf7d",
-      "title": "Acervo Técnico: Para quem busca conteúdo de qualidade",
-      "slug": "acervo-tecnico-para-quem-busca-conteudo-de-qualidade",
-      "owner_username": "Silva97",
-      "source_url": "https://blog.freedev.com.br/acervo-t%C3%A9cnico-para-quem-busca-conte%C3%BAdo-de-qualidade-89d953a9c50b",
-      "tabcoins": 3,
+      "tabcoins": 6,
       "children_deep_count": 4,
-      "published_at": "2026-11-15T00:35:55.525Z",
-      "url": "https://www.tabnews.com.br/Silva97/acervo-tecnico-para-quem-busca-conteudo-de-qualidade"
-    },
-    {
-      "id": "d80f52d7-2967-452f-aae2-b1b56c2254e8",
-      "title": "Pitch: Criei o Perguntez, uma comunidade de perguntas e respostas com sistema de pontuação",
-      "slug": "criei-o-perguntez-uma-comunidade-de-perguntas-e-respostas-com-sistema-de-pontuacao",
-      "owner_username": "Dream",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 5,
-      "published_at": "2026-11-14T22:53:16.043Z",
-      "url": "https://www.tabnews.com.br/Dream/criei-o-perguntez-uma-comunidade-de-perguntas-e-respostas-com-sistema-de-pontuacao"
-    },
-    {
-      "id": "a791fe4b-67c1-4f30-a277-f9020eb1c046",
-      "title": "Zapier, Make e n8n cobram unidades diferentes: como comparar na prática",
-      "slug": "zapier-make-e-n8n-cobram-unidades-diferentes-como-comparar-na-pratica",
-      "owner_username": "toolpotion",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-11-14T23:24:49.630Z",
-      "url": "https://www.tabnews.com.br/toolpotion/zapier-make-e-n8n-cobram-unidades-diferentes-como-comparar-na-pratica"
-    },
-    {
-      "id": "8d4b6d5d-a9a6-4706-8c86-cfc9a5624dcc",
-      "title": "Pitch: WLX, uma extensão pra exportar o \"Assistir mais tarde\" do YouTube",
-      "slug": "pitch-wlx-uma-extensao-pra-exportar-o-assistir-mais-tarde-do-youtube",
-      "owner_username": "matthsanz",
-      "source_url": "https://matthsanz.github.io/wlx/pt/",
-      "tabcoins": 3,
-      "children_deep_count": 2,
-      "published_at": "2026-11-14T20:14:07.594Z",
-      "url": "https://www.tabnews.com.br/matthsanz/pitch-wlx-uma-extensao-pra-exportar-o-assistir-mais-tarde-do-youtube"
-    },
-    {
-      "id": "7f6ddb22-6d73-4d39-9431-f3c1acdb8109",
-      "title": "Pitch: Django-octo - um orquestrador modular para Django com auto-descoberta de pacotes e versionamento orientado a eventos (django-octo)",
-      "slug": "django-octo-um-orquestrador-modular-para-django-com-auto-descoberta-de-pacotes-e-versionamento-orientado-a-eventos-django-octo",
-      "owner_username": "jeanpmodev",
-      "source_url": "https://github.com/django_octo",
-      "tabcoins": 2,
-      "children_deep_count": 1,
-      "published_at": "2026-11-15T09:48:53.898Z",
-      "url": "https://www.tabnews.com.br/jeanpmodev/django-octo-um-orquestrador-modular-para-django-com-auto-descoberta-de-pacotes-e-versionamento-orientado-a-eventos-django-octo"
-    },
-    {
-      "id": "d0b14327-f1c3-4223-b060-480c9595d00a",
-      "title": "Pitch: SET Trading Competition: competição cripto grátis de 56 dias com vagas de estágio de ponta",
-      "slug": "pitch-set-trading-competition-competicao-cripto-gratis-de-56-dias-com-vagas-de-estagio-de-ponta",
-      "owner_username": "settrade",
-      "source_url": "https://set.trade",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-15T14:26:33.710Z",
-      "url": "https://www.tabnews.com.br/settrade/pitch-set-trading-competition-competicao-cripto-gratis-de-56-dias-com-vagas-de-estagio-de-ponta"
+      "published_at": "2026-11-14T17:39:44.180Z",
+      "url": "https://www.tabnews.com.br/VetorGames/pitch-v-e-t-o-r-a-ruptura-motor-proprio-em-html5-canvas-video-sincronizado-e-dialogo-dinamico-em-7-idiomas"
     }
   ]
 }
