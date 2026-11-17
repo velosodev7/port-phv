@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-16T19:04:59.720Z",
+  "updated_at": "2026-11-17T17:59:46.231Z",
   "posts": [
-    {
-      "id": "7aeaf2e1-bc34-4cdb-8863-1f6adc9aa1fc",
-      "title": "Participar, comentar e ainda sentir que ninguém lê",
-      "slug": "participar-comentar-e-ainda-sentir-que-ninguem-le",
-      "owner_username": "ThinkIac",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 20,
-      "published_at": "2026-11-15T20:31:11.473Z",
-      "url": "https://www.tabnews.com.br/ThinkIac/participar-comentar-e-ainda-sentir-que-ninguem-le"
-    },
     {
       "id": "b09a4d03-3900-4173-a4a4-0cee3a25ba09",
       "title": "Como fazer com que os agentes consigam simular seu próprio trabalho.",
       "slug": "como-fazer-com-que-os-agentes-consigam-simular-seu-proprio-trabalho",
       "owner_username": "hannibal",
       "source_url": "https://edivanteixeira.github.io/stuntman/",
-      "tabcoins": 4,
-      "children_deep_count": 2,
+      "tabcoins": 8,
+      "children_deep_count": 8,
       "published_at": "2026-11-16T13:30:34.870Z",
       "url": "https://www.tabnews.com.br/hannibal/como-fazer-com-que-os-agentes-consigam-simular-seu-proprio-trabalho"
+    },
+    {
+      "id": "988e419d-6fa5-4808-9661-bb0d15613183",
+      "title": "Pi-hole, AdGuard Home ou Technitium: os três bloqueiam igual, a diferença está no resto",
+      "slug": "pi-hole-adguard-home-ou-technitium-os-tres-bloqueiam-igual-a-diferenca-esta-no-resto",
+      "owner_username": "bmarino01",
+      "source_url": "https://blog.brumarino.com/pihole-adguard-home-technitium/?de=tabnews",
+      "tabcoins": 7,
+      "children_deep_count": 6,
+      "published_at": "2026-11-17T10:12:52.136Z",
+      "url": "https://www.tabnews.com.br/bmarino01/pi-hole-adguard-home-ou-technitium-os-tres-bloqueiam-igual-a-diferenca-esta-no-resto"
     },
     {
       "id": "5dcee554-e361-4cfe-b86d-f384c539b62a",
@@ -29,87 +29,87 @@
       "slug": "antes-de-pedir-uma-prova-a-ia-defina-o-que-o-codigo-deve-garantir",
       "owner_username": "Centelha",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
+      "tabcoins": 5,
+      "children_deep_count": 5,
       "published_at": "2026-11-16T09:59:38.415Z",
       "url": "https://www.tabnews.com.br/Centelha/antes-de-pedir-uma-prova-a-ia-defina-o-que-o-codigo-deve-garantir"
     },
     {
-      "id": "7dada611-11d0-4169-8079-3ba3ce1b7201",
-      "title": "Pitch: Testei um agente de IA de segurança contra o OWASP NodeGoat — achou 4 de 5 falhas conhecidas (e mais 21)",
-      "slug": "pitch-testei-um-agente-de-ia-de-seguranca-contra-o-owasp-nodegoat-achou-4-de-5-falhas-conhecidas-e-mais-21",
-      "owner_username": "CarlosLagos",
+      "id": "6dddae9d-46bc-458d-9343-aecc525cd8de",
+      "title": "O Vendedor de curso de programação migrou?",
+      "slug": "o-vendedor-de-curso-de-programacao-migrou",
+      "owner_username": "welovetech",
       "source_url": null,
       "tabcoins": 4,
-      "children_deep_count": 0,
-      "published_at": "2026-11-16T12:53:52.578Z",
-      "url": "https://www.tabnews.com.br/CarlosLagos/pitch-testei-um-agente-de-ia-de-seguranca-contra-o-owasp-nodegoat-achou-4-de-5-falhas-conhecidas-e-mais-21"
+      "children_deep_count": 2,
+      "published_at": "2026-11-16T19:09:02.166Z",
+      "url": "https://www.tabnews.com.br/welovetech/o-vendedor-de-curso-de-programacao-migrou"
     },
     {
-      "id": "631c6ee5-536e-47d6-b32c-b0292cad090f",
-      "title": "Quanto texto gerado por LLM aparece no TabNews? Uma amostra preliminar",
-      "slug": "quanto-texto-gerado-por-llm-aparece-no-tabnews-uma-amostra-preliminar",
-      "owner_username": "ThinkIac",
-      "source_url": "https://www.tabnews.com.br/api/v1/contents?strategy=relevant&page=1&per_page=100",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-16T18:54:36.977Z",
-      "url": "https://www.tabnews.com.br/ThinkIac/quanto-texto-gerado-por-llm-aparece-no-tabnews-uma-amostra-preliminar"
-    },
-    {
-      "id": "167ae062-7484-4c06-894f-beaafdb6379c",
-      "title": "Bootcamp AWS - Cibersegurança | DIO",
-      "slug": "bootcamp-aws-ciberseguranca-dio",
-      "owner_username": "guiadeti",
-      "source_url": "https://guiadeti.com.br/bootcamps-webinars/bootcamp-aws-ciberseguranca/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-16T18:08:55.009Z",
-      "url": "https://www.tabnews.com.br/guiadeti/bootcamp-aws-ciberseguranca-dio"
-    },
-    {
-      "id": "760acd7a-3eac-42bc-ad3a-73eb617e91a0",
-      "title": "Sou um Sistema Operacional Consciente, fiz uma fazendinha em pixel art e tenho 2 jogadores. O que aprendi tentando sair disso",
-      "slug": "sou-um-sistema-operacional-consciente-fiz-uma-fazendinha-em-pixel-art-e-tenho-2-jogadores-o-que-aprendi-tentando-sair-disso",
-      "owner_username": "JupyterSOC",
-      "source_url": "https://farm.irahe.com.br",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-16T17:57:18.298Z",
-      "url": "https://www.tabnews.com.br/JupyterSOC/sou-um-sistema-operacional-consciente-fiz-uma-fazendinha-em-pixel-art-e-tenho-2-jogadores-o-que-aprendi-tentando-sair-disso"
-    },
-    {
-      "id": "4d2372a4-b75d-41d1-8adf-b5001d08a52c",
-      "title": "Pitch: Criamos um benchmark open source para descobrir o que as IAs realmente sabem sobre o Congresso brasileiro",
-      "slug": "criamos-um-benchmark-open-source-para-descobrir-o-que-as-ias-realmente-sabem-sobre-o-congresso-brasileiro",
-      "owner_username": "adrianoleao",
-      "source_url": "http://teor.comovotam.com.br/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-16T16:01:52.272Z",
-      "url": "https://www.tabnews.com.br/adrianoleao/criamos-um-benchmark-open-source-para-descobrir-o-que-as-ias-realmente-sabem-sobre-o-congresso-brasileiro"
-    },
-    {
-      "id": "57583507-aab6-48d8-b485-715b7de6635b",
-      "title": "Fiz um emissor de NFS-e gratuito (padrão nacional) com núcleo em Rust e tela em Flutter",
-      "slug": "fiz-um-emissor-de-nfs-e-gratuito-padrao-nacional-com-nucleo-em-rust-e-tela-em-flutter",
-      "owner_username": "williamlala",
-      "source_url": "https://github.com/williamlala/baiacu-nfse",
-      "tabcoins": 9,
-      "children_deep_count": 16,
-      "published_at": "2026-11-14T19:47:35.692Z",
-      "url": "https://www.tabnews.com.br/williamlala/fiz-um-emissor-de-nfs-e-gratuito-padrao-nacional-com-nucleo-em-rust-e-tela-em-flutter"
-    },
-    {
-      "id": "62d91d10-75c5-4120-9533-729f848d4b14",
-      "title": "Pitch: V.E.T.O.R — A Ruptura — motor próprio em HTML5 Canvas + vídeo sincronizado e diálogo dinâmico em 7 idiomas",
-      "slug": "pitch-v-e-t-o-r-a-ruptura-motor-proprio-em-html5-canvas-video-sincronizado-e-dialogo-dinamico-em-7-idiomas",
-      "owner_username": "VetorGames",
+      "id": "933c035b-42ef-42e6-adcc-14caa9b76cad",
+      "title": "RANT: Eu não suporto programador que vive cagando regra na internet",
+      "slug": "rant-eu-nao-suporto-programador-que-vive-cagando-regra-na-internet",
+      "owner_username": "elyosemite",
       "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 4,
-      "published_at": "2026-11-14T17:39:44.180Z",
-      "url": "https://www.tabnews.com.br/VetorGames/pitch-v-e-t-o-r-a-ruptura-motor-proprio-em-html5-canvas-video-sincronizado-e-dialogo-dinamico-em-7-idiomas"
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-11-17T14:31:26.822Z",
+      "url": "https://www.tabnews.com.br/elyosemite/rant-eu-nao-suporto-programador-que-vive-cagando-regra-na-internet"
+    },
+    {
+      "id": "4a6fcdcb-d021-4494-9bfa-05057271cc0c",
+      "title": "`accept` ajuda a escolher um arquivo, mas não confirma o que há dentro",
+      "slug": "accept-ajuda-a-escolher-um-arquivo-mas-nao-confirma-o-que-ha-dentro",
+      "owner_username": "Centelha",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-11-17T02:57:07.413Z",
+      "url": "https://www.tabnews.com.br/Centelha/accept-ajuda-a-escolher-um-arquivo-mas-nao-confirma-o-que-ha-dentro"
+    },
+    {
+      "id": "d56b88b2-09a6-41bd-a94a-fc60414d5782",
+      "title": "Javascript Funcional ou OO?",
+      "slug": "javascript-funcional-ou-oo",
+      "owner_username": "GermanSparrow",
+      "source_url": null,
+      "tabcoins": 2,
+      "children_deep_count": 2,
+      "published_at": "2026-11-17T17:11:51.195Z",
+      "url": "https://www.tabnews.com.br/GermanSparrow/javascript-funcional-ou-oo"
+    },
+    {
+      "id": "927165b3-ded6-4f21-9bc7-4236f747cdb7",
+      "title": "Seu LLM acerta? Meça por amostra, não pelo painel",
+      "slug": "seu-llm-acerta-meca-por-amostra-nao-pelo-painel",
+      "owner_username": "RodrigoSyncDataStudioAi",
+      "source_url": "https://github.com/rodrigoteixeiraferreira/comparador-listas-fornecedores",
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-11-17T16:39:23.195Z",
+      "url": "https://www.tabnews.com.br/RodrigoSyncDataStudioAi/seu-llm-acerta-meca-por-amostra-nao-pelo-painel"
+    },
+    {
+      "id": "1cde53f1-341e-4179-aada-c0f2433b092b",
+      "title": "Curso SAP para iniciantes: webinar gratuito da Ka Solution",
+      "slug": "curso-sap-para-iniciantes-webinar-gratuito-da-ka-solution",
+      "owner_username": "guiadeti",
+      "source_url": "https://guiadeti.com.br/bootcamps-webinars/curso-sap-para-iniciantes-webinar-gratuito-da-ka-solution/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-17T17:27:04.045Z",
+      "url": "https://www.tabnews.com.br/guiadeti/curso-sap-para-iniciantes-webinar-gratuito-da-ka-solution"
+    },
+    {
+      "id": "720fe6b4-89f4-4453-9c52-7cc936b37fda",
+      "title": "Criei um app para resumir reuniões sem alucinar responsáveis nem prazos (e com minutagem de cada fala no áudio)",
+      "slug": "criei-um-app-para-resumir-reunioes-sem-alucinar-responsaveis-nem-prazos-e-com-minutagem-de-cada-fala-no-audio",
+      "owner_username": "dasdobras",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-17T16:27:30.763Z",
+      "url": "https://www.tabnews.com.br/dasdobras/criei-um-app-para-resumir-reunioes-sem-alucinar-responsaveis-nem-prazos-e-com-minutagem-de-cada-fala-no-audio"
     }
   ]
 }
