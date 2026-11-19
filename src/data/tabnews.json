@@ -1,38 +1,16 @@
 {
-  "updated_at": "2026-11-18T17:41:19.904Z",
+  "updated_at": "2026-11-19T17:50:42.627Z",
   "posts": [
     {
-      "id": "988e419d-6fa5-4808-9661-bb0d15613183",
-      "title": "Pi-hole, AdGuard Home ou Technitium: os três bloqueiam igual, a diferença está no resto",
-      "slug": "pi-hole-adguard-home-ou-technitium-os-tres-bloqueiam-igual-a-diferenca-esta-no-resto",
-      "owner_username": "bmarino01",
-      "source_url": "https://blog.brumarino.com/pihole-adguard-home-technitium/?de=tabnews",
-      "tabcoins": 9,
-      "children_deep_count": 6,
-      "published_at": "2026-11-17T10:12:52.136Z",
-      "url": "https://www.tabnews.com.br/bmarino01/pi-hole-adguard-home-ou-technitium-os-tres-bloqueiam-igual-a-diferenca-esta-no-resto"
-    },
-    {
-      "id": "8ffa88d2-6331-422f-8cdc-3dee051a5f03",
-      "title": "Bora fortalecer a rede e trocar seguidores no GitHub? 🚀",
-      "slug": "bora-fortalecer-a-rede-e-trocar-seguidores-no-github",
-      "owner_username": "kalleo",
+      "id": "ecc49f69-7505-4f79-8db5-a6937abd20a7",
+      "title": "Inteligência artificial realmente mudou algo no seu dia a dia?",
+      "slug": "inteligencia-artificial-realmente-mudou-algo-no-seu-dia-a-dia",
+      "owner_username": "Programmer404",
       "source_url": null,
-      "tabcoins": 5,
-      "children_deep_count": 3,
-      "published_at": "2026-11-18T04:59:45.721Z",
-      "url": "https://www.tabnews.com.br/kalleo/bora-fortalecer-a-rede-e-trocar-seguidores-no-github"
-    },
-    {
-      "id": "f253db8b-54bc-4f60-8a02-f0c870fb1b84",
-      "title": "Recebi um golpe de recrutador falso. O teste técnico era um repositório com malware",
-      "slug": "recebi-um-golpe-de-recrutador-falso-o-teste-tecnico-era-um-repositorio-com-malware",
-      "owner_username": "guilhermemichels",
-      "source_url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-      "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-11-17T19:45:42.269Z",
-      "url": "https://www.tabnews.com.br/guilhermemichels/recebi-um-golpe-de-recrutador-falso-o-teste-tecnico-era-um-repositorio-com-malware"
+      "tabcoins": 9,
+      "children_deep_count": 7,
+      "published_at": "2026-11-18T19:55:41.889Z",
+      "url": "https://www.tabnews.com.br/Programmer404/inteligencia-artificial-realmente-mudou-algo-no-seu-dia-a-dia"
     },
     {
       "id": "ebf3ba56-1c71-4eca-98cd-793d94e53a1c",
@@ -40,76 +18,98 @@
       "slug": "pitch-transformei-meu-site-de-pdf-num-app-de-windows-que-converte-arrastando-o-arquivo-e-tocando-no-shift",
       "owner_username": "Zengkkj",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 2,
+      "tabcoins": 8,
+      "children_deep_count": 10,
       "published_at": "2026-11-18T14:13:44.004Z",
       "url": "https://www.tabnews.com.br/Zengkkj/pitch-transformei-meu-site-de-pdf-num-app-de-windows-que-converte-arrastando-o-arquivo-e-tocando-no-shift"
     },
     {
-      "id": "29fa0d97-0632-4342-b7a5-025d216d084a",
-      "title": "GitLab corrige duas falhas XSS armazenadas com CVSS 8,7",
-      "slug": "gitlab-corrige-duas-falhas-xss-armazenadas-com-cvss-8-7",
-      "owner_username": "guiadeti",
-      "source_url": "https://guiadeti.com.br/noticias/gitlab-corrige-falhas-xss-cve-2026-105739-cve-2026-108153/",
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-11-18T03:34:07.324Z",
-      "url": "https://www.tabnews.com.br/guiadeti/gitlab-corrige-duas-falhas-xss-armazenadas-com-cvss-8-7"
+      "id": "ccf268f1-9528-4051-be5c-b3b39fd82f8b",
+      "title": "Pitch: Meus agentes de IA seguiam decisões que eu já tinha abandonado",
+      "slug": "pitch-meus-agentes-de-ia-seguiam-decisoes-que-eu-ja-tinha-abandonado",
+      "owner_username": "henriquesk",
+      "source_url": "https://github.com/henriquesakata/cerne",
+      "tabcoins": 6,
+      "children_deep_count": 3,
+      "published_at": "2026-11-19T12:34:47.574Z",
+      "url": "https://www.tabnews.com.br/henriquesk/pitch-meus-agentes-de-ia-seguiam-decisoes-que-eu-ja-tinha-abandonado"
     },
     {
-      "id": "7bb57c56-e5c3-464a-a7f4-b92466939c70",
-      "title": "Pitch: [open-source] Meu SSD vivia cheio por causa do DerivedData do Xcode, então criei um store global (estilo pnpm/puro) para o SwiftPM",
-      "slug": "open-source-meu-ssd-vivia-cheio-por-causa-do-deriveddata-do-xcode-entao-criei-um-store-global-estilo-pnpm-puro-para-o-swiftpm",
-      "owner_username": "LuisRibeiroo",
-      "source_url": "https://spmx.io",
+      "id": "333d8a1f-b6c8-4414-a1d2-269d003da2e8",
+      "title": "Como montar um portfólio de Engenharia de Dados do zero (com projetos práticos)",
+      "slug": "como-montar-um-portfolio-de-engenharia-de-dados-do-zero-com-projetos-praticos",
+      "owner_username": "aureliowozhiak",
+      "source_url": "https://dataengineer.help/",
       "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-11-18T02:53:21.524Z",
-      "url": "https://www.tabnews.com.br/LuisRibeiroo/open-source-meu-ssd-vivia-cheio-por-causa-do-deriveddata-do-xcode-entao-criei-um-store-global-estilo-pnpm-puro-para-o-swiftpm"
-    },
-    {
-      "id": "6b3da8fd-ccc2-4b49-abae-4b3f900c5b4e",
-      "title": "Webhook do WhatsApp Cloud API | como validar o X-Hub-Signature-256 em Node.js e PHP e os 3 erros que quebram a assinatura",
-      "slug": "webhook-do-whatsapp-cloud-api-como-validar-o-x-hub-signature-256-em-node-js-e-php-e-os-3-erros-que-quebram-a-assinatura",
-      "owner_username": "rodriggopda",
-      "source_url": null,
-      "tabcoins": 1,
       "children_deep_count": 1,
-      "published_at": "2026-11-18T16:58:56.681Z",
-      "url": "https://www.tabnews.com.br/rodriggopda/webhook-do-whatsapp-cloud-api-como-validar-o-x-hub-signature-256-em-node-js-e-php-e-os-3-erros-que-quebram-a-assinatura"
+      "published_at": "2026-11-19T11:54:57.538Z",
+      "url": "https://www.tabnews.com.br/aureliowozhiak/como-montar-um-portfolio-de-engenharia-de-dados-do-zero-com-projetos-praticos"
     },
     {
-      "id": "94fae047-9d89-42f9-b292-26c450f1726d",
-      "title": "Curso gratuito Fundamentos do Power BI | Santander Open Academy",
-      "slug": "curso-gratuito-fundamentos-do-power-bi-santander-open-academy",
-      "owner_username": "guiadeti",
-      "source_url": "https://guiadeti.com.br/cursos/fundamentos-do-power-bi-santander-open-academy/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-18T16:37:26.960Z",
-      "url": "https://www.tabnews.com.br/guiadeti/curso-gratuito-fundamentos-do-power-bi-santander-open-academy"
+      "id": "64a5e460-25ad-47af-aebc-855cc54f8cf4",
+      "title": "O checklist que eu sigo antes de aceitar código que a IA escreveu",
+      "slug": "o-checklist-que-eu-sigo-antes-de-aceitar-codigo-que-a-ia-escreveu",
+      "owner_username": "Valmirmd",
+      "source_url": "https://github.com/valmirjunior2109-spec/stillworks",
+      "tabcoins": 2,
+      "children_deep_count": 5,
+      "published_at": "2026-11-19T13:24:52.957Z",
+      "url": "https://www.tabnews.com.br/Valmirmd/o-checklist-que-eu-sigo-antes-de-aceitar-codigo-que-a-ia-escreveu"
     },
     {
-      "id": "c570b2ab-6eeb-4823-930a-9d1d94d5ce48",
-      "title": "Principais conclusões do estudo Organizing Intelligence: Futuro da Programação e TI",
-      "slug": "principais-conclusoes-do-estudo-organizing-intelligence-google-deepmind-2026",
-      "owner_username": "teknolista",
-      "source_url": "https://arxiv.org/pdf/2611.05417",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-18T16:18:19.265Z",
-      "url": "https://www.tabnews.com.br/teknolista/principais-conclusoes-do-estudo-organizing-intelligence-google-deepmind-2026"
-    },
-    {
-      "id": "a939d77d-7456-46e2-88f5-1475be290850",
-      "title": "Pitch: Cirql – um timer de intervalos para iPhone, Apple Watch e Garmin (e o que aprendi sincronizando os relógios)",
-      "slug": "pitch-cirql-um-timer-de-intervalos-para-iphone-apple-watch-e-garmin-e-o-que-aprendi-sincronizando-os-relogios",
-      "owner_username": "psorowka",
+      "id": "a3f74d5a-a83d-4528-8242-85c16c0556b1",
+      "title": "Agente com tool use (API do Claude) gasta muitos tokens ao gerar documentos técnicos grandes: como reaproveitar blocos prontos em vez de gerar do zero",
+      "slug": "agente-com-tool-use-api-do-claude-gasta-muitos-tokens-ao-gerar-documentos-tecnicos-grandes-como-reaproveitar-blocos-prontos-em-vez-de-gerar-do-zero",
+      "owner_username": "charada8012",
       "source_url": null,
       "tabcoins": 1,
+      "children_deep_count": 2,
+      "published_at": "2026-11-19T14:06:27.624Z",
+      "url": "https://www.tabnews.com.br/charada8012/agente-com-tool-use-api-do-claude-gasta-muitos-tokens-ao-gerar-documentos-tecnicos-grandes-como-reaproveitar-blocos-prontos-em-vez-de-gerar-do-zero"
+    },
+    {
+      "id": "e4070c5c-5968-46a7-b9cf-26b38e4e8c88",
+      "title": "Satélites já superam estrelas visíveis a olho nu em várias regiões da Europa e dos EUA",
+      "slug": "satelites-ja-superam-estrelas-visiveis-a-olho-nu-em-varias-regioes-da-europa-e-dos-eua",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
+      "tabcoins": 1,
       "children_deep_count": 0,
-      "published_at": "2026-11-18T15:56:00.871Z",
-      "url": "https://www.tabnews.com.br/psorowka/pitch-cirql-um-timer-de-intervalos-para-iphone-apple-watch-e-garmin-e-o-que-aprendi-sincronizando-os-relogios"
+      "published_at": "2026-11-19T17:21:27.184Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/satelites-ja-superam-estrelas-visiveis-a-olho-nu-em-varias-regioes-da-europa-e-dos-eua"
+    },
+    {
+      "id": "22085a21-0a39-4c57-a601-d0800a418f7c",
+      "title": "Qu Wenruo propõe regras para patches de humanos e agentes de IA no Btrfs",
+      "slug": "qu-wenruo-propoe-regras-para-patches-de-humanos-e-agentes-de-ia-no-btrfs",
+      "owner_username": "guiadeti",
+      "source_url": "https://guiadeti.com.br/noticias/btrfs-propoe-manual-para-contribuicoes-de-agentes-ia-linux/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-19T16:46:14.856Z",
+      "url": "https://www.tabnews.com.br/guiadeti/qu-wenruo-propoe-regras-para-patches-de-humanos-e-agentes-de-ia-no-btrfs"
+    },
+    {
+      "id": "3b32a533-e63f-47ae-8b03-af8b3e9742c9",
+      "title": "A fatura do NAT Gateway é uma linha e o tráfego é de doze times: quem paga o NAT compartilhado na AWS, no Azure, no GCP e na OCI",
+      "slug": "a-fatura-do-nat-gateway-e-uma-linha-e-o-trafego-e-de-doze-times-quem-paga-o-nat-compartilhado-na-aws-no-azure-no-gcp-e-na-oci",
+      "owner_username": "gonzalogjuka",
+      "source_url": "https://controlcloud.dev/pt/blog/nat-gateway-compartido-quien-paga-aws-azure-gcp-oci",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-19T16:34:40.542Z",
+      "url": "https://www.tabnews.com.br/gonzalogjuka/a-fatura-do-nat-gateway-e-uma-linha-e-o-trafego-e-de-doze-times-quem-paga-o-nat-compartilhado-na-aws-no-azure-no-gcp-e-na-oci"
+    },
+    {
+      "id": "8ffa88d2-6331-422f-8cdc-3dee051a5f03",
+      "title": "Bora fortalecer a rede e trocar seguidores no GitHub? 🚀",
+      "slug": "bora-fortalecer-a-rede-e-trocar-seguidores-no-github",
+      "owner_username": "kalleo",
+      "source_url": null,
+      "tabcoins": 11,
+      "children_deep_count": 13,
+      "published_at": "2026-11-18T04:59:45.721Z",
+      "url": "https://www.tabnews.com.br/kalleo/bora-fortalecer-a-rede-e-trocar-seguidores-no-github"
     }
   ]
 }
