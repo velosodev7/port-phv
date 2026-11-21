@@ -1,82 +1,71 @@
 {
-  "updated_at": "2026-11-20T17:25:55.084Z",
+  "updated_at": "2026-11-21T16:29:56.251Z",
   "posts": [
     {
-      "id": "dca86b5b-5e4a-468b-a5af-2a2ce727524e",
-      "title": "What the hell is going on with that AI IPO?",
-      "slug": "what-the-hell-is-going-on-with-that-ai-ipo",
-      "owner_username": "trrxjhdf86",
+      "id": "cbc40ab3-0e8c-45b7-9fca-1260dbd3cec4",
+      "title": "@thorstenball : \"O que eu acredito sobre o futuro do desenvolvimento de software\"",
+      "slug": "thorstenball-o-que-eu-acredito-sobre-o-futuro-do-desenvolvimento-de-software",
+      "owner_username": "teknolista",
+      "source_url": "https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/",
+      "tabcoins": 10,
+      "children_deep_count": 11,
+      "published_at": "2026-11-20T10:48:13.715Z",
+      "url": "https://www.tabnews.com.br/teknolista/thorstenball-o-que-eu-acredito-sobre-o-futuro-do-desenvolvimento-de-software"
+    },
+    {
+      "id": "8ec3e645-c3d0-4d39-b81e-edc9d3786836",
+      "title": "Burnout em tech: o que eu vejo no consultório e o que ajuda de verdade",
+      "slug": "burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade",
+      "owner_username": "drcarlosperiotto",
       "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-20T17:18:10.188Z",
-      "url": "https://www.tabnews.com.br/trrxjhdf86/what-the-hell-is-going-on-with-that-ai-ipo"
-    },
-    {
-      "id": "c39cd230-1d7f-426a-9f98-bbe0e8b3a4e1",
-      "title": "Bending Spoons compra Mailchimp por US$ 3,68 bilhões da Intuit",
-      "slug": "bending-spoons-compra-mailchimp-por-us-3-68-bilhoes-da-intuit",
-      "owner_username": "guiadeti",
-      "source_url": "https://guiadeti.com.br/noticias/bending-spoons-compra-mailchimp-por-us-3-68-bilhoes/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-20T17:11:56.450Z",
-      "url": "https://www.tabnews.com.br/guiadeti/bending-spoons-compra-mailchimp-por-us-3-68-bilhoes-da-intuit"
-    },
-    {
-      "id": "4d06b65d-51de-40c1-8728-8611d6f38195",
-      "title": "Por que reescrevi o type-tune de TypeScript para Rust? 🦀",
-      "slug": "por-que-reescrevi-o-type-tune-de-typescript-para-rust",
-      "owner_username": "nyaomaru",
-      "source_url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-20T16:51:56.068Z",
-      "url": "https://www.tabnews.com.br/nyaomaru/por-que-reescrevi-o-type-tune-de-typescript-para-rust"
-    },
-    {
-      "id": "32cc2f4b-47da-4ff4-b891-da5a2de8a6f3",
-      "title": "Do Pentium aos mundos abertos: o que quase três décadas de GTA mostram sobre engenharia da computação",
-      "slug": "do-pentium-aos-mundos-abertos-o-que-quase-tres-decadas-de-gta-mostram-sobre-engenharia-da-computacao",
-      "owner_username": "GustavoFPaluch",
-      "source_url": "https://edition.cnn.com/2026/11/18/media/gta-vi-grand-theft-auto-reviews-critics",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-20T15:47:13.984Z",
-      "url": "https://www.tabnews.com.br/GustavoFPaluch/do-pentium-aos-mundos-abertos-o-que-quase-tres-decadas-de-gta-mostram-sobre-engenharia-da-computacao"
-    },
-    {
-      "id": "ccf268f1-9528-4051-be5c-b3b39fd82f8b",
-      "title": "Pitch: Meus agentes de IA seguiam decisões que eu já tinha abandonado",
-      "slug": "pitch-meus-agentes-de-ia-seguiam-decisoes-que-eu-ja-tinha-abandonado",
-      "owner_username": "henriquesk",
-      "source_url": "https://github.com/henriquesakata/cerne",
-      "tabcoins": 5,
+      "tabcoins": 8,
       "children_deep_count": 6,
-      "published_at": "2026-11-19T12:34:47.574Z",
-      "url": "https://www.tabnews.com.br/henriquesk/pitch-meus-agentes-de-ia-seguiam-decisoes-que-eu-ja-tinha-abandonado"
+      "published_at": "2026-11-21T00:47:18.920Z",
+      "url": "https://www.tabnews.com.br/drcarlosperiotto/burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade"
     },
     {
-      "id": "64a5e460-25ad-47af-aebc-855cc54f8cf4",
-      "title": "O checklist que eu sigo antes de aceitar código que a IA escreveu",
-      "slug": "o-checklist-que-eu-sigo-antes-de-aceitar-codigo-que-a-ia-escreveu",
-      "owner_username": "Valmirmd",
-      "source_url": "https://github.com/valmirjunior2109-spec/stillworks",
-      "tabcoins": 3,
-      "children_deep_count": 10,
-      "published_at": "2026-11-19T13:24:52.957Z",
-      "url": "https://www.tabnews.com.br/Valmirmd/o-checklist-que-eu-sigo-antes-de-aceitar-codigo-que-a-ia-escreveu"
-    },
-    {
-      "id": "8ffa88d2-6331-422f-8cdc-3dee051a5f03",
-      "title": "Bora fortalecer a rede e trocar seguidores no GitHub? 🚀",
-      "slug": "bora-fortalecer-a-rede-e-trocar-seguidores-no-github",
-      "owner_username": "kalleo",
+      "id": "dea31b5f-5284-483a-98fa-ed1e5f5bff6e",
+      "title": "Construí uma API para consultar dados de resíduos (residuoapi.com.br)",
+      "slug": "construi-uma-api-para-consultar-dados-de-residuos-residuoapi-com-br",
+      "owner_username": "residuoapi",
       "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 15,
-      "published_at": "2026-11-18T04:59:45.721Z",
-      "url": "https://www.tabnews.com.br/kalleo/bora-fortalecer-a-rede-e-trocar-seguidores-no-github"
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-21T16:03:40.234Z",
+      "url": "https://www.tabnews.com.br/residuoapi/construi-uma-api-para-consultar-dados-de-residuos-residuoapi-com-br"
+    },
+    {
+      "id": "0931cb87-85a6-4613-88ed-9f1ab2321126",
+      "title": "Meu relatório anual travava o Trino: 144 milhões de linhas e o que mudou no script Python",
+      "slug": "meu-relatorio-anual-travava-o-trino-144-milhoes-de-linhas-e-o-que-mudou-no-script-python",
+      "owner_username": "DanielCamucatto",
+      "source_url": "https://danielcamucatto.dev.br/artigos/relatorio-anual-trino-144-milhoes-de-linhas-python/?utm_source=tabnews&utm_medium=social&utm_campaign=relatorio-trino&utm_content=fonte",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-21T14:51:35.717Z",
+      "url": "https://www.tabnews.com.br/DanielCamucatto/meu-relatorio-anual-travava-o-trino-144-milhoes-de-linhas-e-o-que-mudou-no-script-python"
+    },
+    {
+      "id": "bda58525-8f60-4ab4-b56a-0af081709a18",
+      "title": "🔥 O Melhor da Semana no TabNews #40",
+      "slug": "o-melhor-da-semana-no-tabnews-40",
+      "owner_username": "TabNewsDigest",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-21T14:24:53.089Z",
+      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-40"
+    },
+    {
+      "id": "ffc8a630-e6db-4306-b423-085cc3f6bfaa",
+      "title": "Pitch: A Última Palavra — um site em que a palavra do topo só muda se alguém pagar o dobro",
+      "slug": "pitch-a-ultima-palavra-um-site-em-que-a-palavra-do-topo-so-muda-se-alguem-pagar-o-dobro",
+      "owner_username": "ultimapalavra",
+      "source_url": "https://a-ultima-palavra.pages.dev",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-21T14:00:08.863Z",
+      "url": "https://www.tabnews.com.br/ultimapalavra/pitch-a-ultima-palavra-um-site-em-que-a-palavra-do-topo-so-muda-se-alguem-pagar-o-dobro"
     },
     {
       "id": "ecc49f69-7505-4f79-8db5-a6937abd20a7",
@@ -90,26 +79,37 @@
       "url": "https://www.tabnews.com.br/Programmer404/inteligencia-artificial-realmente-mudou-algo-no-seu-dia-a-dia"
     },
     {
-      "id": "ebf3ba56-1c71-4eca-98cd-793d94e53a1c",
-      "title": "Pitch: transformei meu site de PDF num app de Windows que converte arrastando o arquivo e tocando no Shift",
-      "slug": "pitch-transformei-meu-site-de-pdf-num-app-de-windows-que-converte-arrastando-o-arquivo-e-tocando-no-shift",
-      "owner_username": "Zengkkj",
-      "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 10,
-      "published_at": "2026-11-18T14:13:44.004Z",
-      "url": "https://www.tabnews.com.br/Zengkkj/pitch-transformei-meu-site-de-pdf-num-app-de-windows-que-converte-arrastando-o-arquivo-e-tocando-no-shift"
+      "id": "ccf268f1-9528-4051-be5c-b3b39fd82f8b",
+      "title": "Pitch: Meus agentes de IA seguiam decisões que eu já tinha abandonado",
+      "slug": "pitch-meus-agentes-de-ia-seguiam-decisoes-que-eu-ja-tinha-abandonado",
+      "owner_username": "henriquesk",
+      "source_url": "https://github.com/henriquesakata/cerne",
+      "tabcoins": 5,
+      "children_deep_count": 6,
+      "published_at": "2026-11-19T12:34:47.574Z",
+      "url": "https://www.tabnews.com.br/henriquesk/pitch-meus-agentes-de-ia-seguiam-decisoes-que-eu-ja-tinha-abandonado"
     },
     {
-      "id": "f253db8b-54bc-4f60-8a02-f0c870fb1b84",
-      "title": "Recebi um golpe de recrutador falso. O teste técnico era um repositório com malware",
-      "slug": "recebi-um-golpe-de-recrutador-falso-o-teste-tecnico-era-um-repositorio-com-malware",
-      "owner_username": "guilhermemichels",
-      "source_url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-      "tabcoins": 8,
-      "children_deep_count": 2,
-      "published_at": "2026-11-17T19:45:42.269Z",
-      "url": "https://www.tabnews.com.br/guilhermemichels/recebi-um-golpe-de-recrutador-falso-o-teste-tecnico-era-um-repositorio-com-malware"
+      "id": "333d8a1f-b6c8-4414-a1d2-269d003da2e8",
+      "title": "Como montar um portfólio de Engenharia de Dados do zero (com projetos práticos)",
+      "slug": "como-montar-um-portfolio-de-engenharia-de-dados-do-zero-com-projetos-praticos",
+      "owner_username": "aureliowozhiak",
+      "source_url": "https://dataengineer.help/",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-11-19T11:54:57.538Z",
+      "url": "https://www.tabnews.com.br/aureliowozhiak/como-montar-um-portfolio-de-engenharia-de-dados-do-zero-com-projetos-praticos"
+    },
+    {
+      "id": "64a5e460-25ad-47af-aebc-855cc54f8cf4",
+      "title": "O checklist que eu sigo antes de aceitar código que a IA escreveu",
+      "slug": "o-checklist-que-eu-sigo-antes-de-aceitar-codigo-que-a-ia-escreveu",
+      "owner_username": "Valmirmd",
+      "source_url": "https://github.com/valmirjunior2109-spec/stillworks",
+      "tabcoins": 2,
+      "children_deep_count": 11,
+      "published_at": "2026-11-19T13:24:52.957Z",
+      "url": "https://www.tabnews.com.br/Valmirmd/o-checklist-que-eu-sigo-antes-de-aceitar-codigo-que-a-ia-escreveu"
     }
   ]
 }
