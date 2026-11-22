@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-11-21T16:29:56.251Z",
+  "updated_at": "2026-11-22T16:47:46.957Z",
   "posts": [
+    {
+      "id": "66f9ef5f-b029-44ce-801f-dc2298812a66",
+      "title": "Por quê usar Coffescript e Toon economiza seus Tokens?",
+      "slug": "por-que-usar-coffescript-e-toon-economiza-seus-tokens",
+      "owner_username": "ThinkIac",
+      "source_url": null,
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-11-21T18:57:42.494Z",
+      "url": "https://www.tabnews.com.br/ThinkIac/por-que-usar-coffescript-e-toon-economiza-seus-tokens"
+    },
+    {
+      "id": "b988a526-7655-478e-adb8-4c192dd971c7",
+      "title": "O ID do pedido mudou sozinho? JSON, números grandes e o limite de 2^53",
+      "slug": "o-id-do-pedido-mudou-sozinho-json-numeros-grandes-e-o-limite-de-253",
+      "owner_username": "mindvsdrive",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-11-22T14:02:05.335Z",
+      "url": "https://www.tabnews.com.br/mindvsdrive/o-id-do-pedido-mudou-sozinho-json-numeros-grandes-e-o-limite-de-253"
+    },
+    {
+      "id": "0c41e156-0ab0-4653-b206-10971b52bb4b",
+      "title": "Pitch: lancei um puzzle para Android em Godot, com 1.000 fases geradas e verificadas por um solver (e os números reais das 3 primeiras semanas)",
+      "slug": "pitch-lancei-um-puzzle-para-android-em-godot-com-1-000-fases-geradas-e-verificadas-por-um-solver-e-os-numeros-reais-das-3-primeiras-semanas",
+      "owner_username": "LocoLoadoutDev",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-22T15:29:57.579Z",
+      "url": "https://www.tabnews.com.br/LocoLoadoutDev/pitch-lancei-um-puzzle-para-android-em-godot-com-1-000-fases-geradas-e-verificadas-por-um-solver-e-os-numeros-reais-das-3-primeiras-semanas"
+    },
+    {
+      "id": "95502859-8e35-476c-8702-ae386304d029",
+      "title": "Afinal qual orgão registrador de domínio e provedor de hospedagem escolher?",
+      "slug": "afinal-qual-orgao-registrador-de-dominio-e-provedor-de-hospedagem-escolher",
+      "owner_username": "JeielMiranda",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-22T15:21:59.632Z",
+      "url": "https://www.tabnews.com.br/JeielMiranda/afinal-qual-orgao-registrador-de-dominio-e-provedor-de-hospedagem-escolher"
+    },
+    {
+      "id": "2695f21a-9e08-42f6-9b28-4e364ea205e9",
+      "title": "Como construí uma enciclopédia visual em grafo (1.318 entidades, 12.146 afirmações) sem banco de dados tradicional",
+      "slug": "como-construi-uma-enciclopedia-visual-em-grafo-1-318-entidades-12-146-afirmacoes-sem-banco-de-dados-tradicional",
+      "owner_username": "Bellussi",
+      "source_url": "https://atlas.bellussi.dev",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-22T14:42:54.082Z",
+      "url": "https://www.tabnews.com.br/Bellussi/como-construi-uma-enciclopedia-visual-em-grafo-1-318-entidades-12-146-afirmacoes-sem-banco-de-dados-tradicional"
+    },
+    {
+      "id": "d1fd82e5-0ae0-43b7-ae11-69d4550053db",
+      "title": "Minha identidade, sua urgência e o dinheiro dos outros: mais um golpe de engenharia social",
+      "slug": "minha-identidade-sua-urgencia-e-o-dinheiro-dos-outros-mais-um-golpe-de-engenharia-social",
+      "owner_username": "sterbe",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-22T13:00:42.099Z",
+      "url": "https://www.tabnews.com.br/sterbe/minha-identidade-sua-urgencia-e-o-dinheiro-dos-outros-mais-um-golpe-de-engenharia-social"
+    },
+    {
+      "id": "8ec3e645-c3d0-4d39-b81e-edc9d3786836",
+      "title": "Burnout em tech: o que eu vejo no consultório e o que ajuda de verdade",
+      "slug": "burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade",
+      "owner_username": "drcarlosperiotto",
+      "source_url": null,
+      "tabcoins": 11,
+      "children_deep_count": 6,
+      "published_at": "2026-11-21T00:47:18.920Z",
+      "url": "https://www.tabnews.com.br/drcarlosperiotto/burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade"
+    },
     {
       "id": "cbc40ab3-0e8c-45b7-9fca-1260dbd3cec4",
       "title": "@thorstenball : \"O que eu acredito sobre o futuro do desenvolvimento de software\"",
@@ -13,59 +90,15 @@
       "url": "https://www.tabnews.com.br/teknolista/thorstenball-o-que-eu-acredito-sobre-o-futuro-do-desenvolvimento-de-software"
     },
     {
-      "id": "8ec3e645-c3d0-4d39-b81e-edc9d3786836",
-      "title": "Burnout em tech: o que eu vejo no consultório e o que ajuda de verdade",
-      "slug": "burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade",
-      "owner_username": "drcarlosperiotto",
+      "id": "8ffa88d2-6331-422f-8cdc-3dee051a5f03",
+      "title": "Bora fortalecer a rede e trocar seguidores no GitHub? 🚀",
+      "slug": "bora-fortalecer-a-rede-e-trocar-seguidores-no-github",
+      "owner_username": "kalleo",
       "source_url": null,
-      "tabcoins": 8,
-      "children_deep_count": 6,
-      "published_at": "2026-11-21T00:47:18.920Z",
-      "url": "https://www.tabnews.com.br/drcarlosperiotto/burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade"
-    },
-    {
-      "id": "dea31b5f-5284-483a-98fa-ed1e5f5bff6e",
-      "title": "Construí uma API para consultar dados de resíduos (residuoapi.com.br)",
-      "slug": "construi-uma-api-para-consultar-dados-de-residuos-residuoapi-com-br",
-      "owner_username": "residuoapi",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-21T16:03:40.234Z",
-      "url": "https://www.tabnews.com.br/residuoapi/construi-uma-api-para-consultar-dados-de-residuos-residuoapi-com-br"
-    },
-    {
-      "id": "0931cb87-85a6-4613-88ed-9f1ab2321126",
-      "title": "Meu relatório anual travava o Trino: 144 milhões de linhas e o que mudou no script Python",
-      "slug": "meu-relatorio-anual-travava-o-trino-144-milhoes-de-linhas-e-o-que-mudou-no-script-python",
-      "owner_username": "DanielCamucatto",
-      "source_url": "https://danielcamucatto.dev.br/artigos/relatorio-anual-trino-144-milhoes-de-linhas-python/?utm_source=tabnews&utm_medium=social&utm_campaign=relatorio-trino&utm_content=fonte",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-21T14:51:35.717Z",
-      "url": "https://www.tabnews.com.br/DanielCamucatto/meu-relatorio-anual-travava-o-trino-144-milhoes-de-linhas-e-o-que-mudou-no-script-python"
-    },
-    {
-      "id": "bda58525-8f60-4ab4-b56a-0af081709a18",
-      "title": "🔥 O Melhor da Semana no TabNews #40",
-      "slug": "o-melhor-da-semana-no-tabnews-40",
-      "owner_username": "TabNewsDigest",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-21T14:24:53.089Z",
-      "url": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-40"
-    },
-    {
-      "id": "ffc8a630-e6db-4306-b423-085cc3f6bfaa",
-      "title": "Pitch: A Última Palavra — um site em que a palavra do topo só muda se alguém pagar o dobro",
-      "slug": "pitch-a-ultima-palavra-um-site-em-que-a-palavra-do-topo-so-muda-se-alguem-pagar-o-dobro",
-      "owner_username": "ultimapalavra",
-      "source_url": "https://a-ultima-palavra.pages.dev",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-21T14:00:08.863Z",
-      "url": "https://www.tabnews.com.br/ultimapalavra/pitch-a-ultima-palavra-um-site-em-que-a-palavra-do-topo-so-muda-se-alguem-pagar-o-dobro"
+      "tabcoins": 15,
+      "children_deep_count": 20,
+      "published_at": "2026-11-18T04:59:45.721Z",
+      "url": "https://www.tabnews.com.br/kalleo/bora-fortalecer-a-rede-e-trocar-seguidores-no-github"
     },
     {
       "id": "ecc49f69-7505-4f79-8db5-a6937abd20a7",
@@ -77,39 +110,6 @@
       "children_deep_count": 8,
       "published_at": "2026-11-18T19:55:41.889Z",
       "url": "https://www.tabnews.com.br/Programmer404/inteligencia-artificial-realmente-mudou-algo-no-seu-dia-a-dia"
-    },
-    {
-      "id": "ccf268f1-9528-4051-be5c-b3b39fd82f8b",
-      "title": "Pitch: Meus agentes de IA seguiam decisões que eu já tinha abandonado",
-      "slug": "pitch-meus-agentes-de-ia-seguiam-decisoes-que-eu-ja-tinha-abandonado",
-      "owner_username": "henriquesk",
-      "source_url": "https://github.com/henriquesakata/cerne",
-      "tabcoins": 5,
-      "children_deep_count": 6,
-      "published_at": "2026-11-19T12:34:47.574Z",
-      "url": "https://www.tabnews.com.br/henriquesk/pitch-meus-agentes-de-ia-seguiam-decisoes-que-eu-ja-tinha-abandonado"
-    },
-    {
-      "id": "333d8a1f-b6c8-4414-a1d2-269d003da2e8",
-      "title": "Como montar um portfólio de Engenharia de Dados do zero (com projetos práticos)",
-      "slug": "como-montar-um-portfolio-de-engenharia-de-dados-do-zero-com-projetos-praticos",
-      "owner_username": "aureliowozhiak",
-      "source_url": "https://dataengineer.help/",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-11-19T11:54:57.538Z",
-      "url": "https://www.tabnews.com.br/aureliowozhiak/como-montar-um-portfolio-de-engenharia-de-dados-do-zero-com-projetos-praticos"
-    },
-    {
-      "id": "64a5e460-25ad-47af-aebc-855cc54f8cf4",
-      "title": "O checklist que eu sigo antes de aceitar código que a IA escreveu",
-      "slug": "o-checklist-que-eu-sigo-antes-de-aceitar-codigo-que-a-ia-escreveu",
-      "owner_username": "Valmirmd",
-      "source_url": "https://github.com/valmirjunior2109-spec/stillworks",
-      "tabcoins": 2,
-      "children_deep_count": 11,
-      "published_at": "2026-11-19T13:24:52.957Z",
-      "url": "https://www.tabnews.com.br/Valmirmd/o-checklist-que-eu-sigo-antes-de-aceitar-codigo-que-a-ia-escreveu"
     }
   ]
 }
