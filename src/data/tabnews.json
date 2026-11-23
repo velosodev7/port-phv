@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-11-22T16:47:46.957Z",
+  "updated_at": "2026-11-23T20:44:24.241Z",
   "posts": [
+    {
+      "id": "6587238f-d8f9-47f9-9fa2-545d35a3ac71",
+      "title": "Como publiquei um jogo de estratégia de 1999 como binário nativo Linux ARM64 (ligação estática, instalador SHA-256 e 40 retratos novos)",
+      "slug": "como-publiquei-um-jogo-de-estrategia-de-1999-como-binario-nativo-linux-arm64-ligacao-estatica-instalador-sha-256-e-40-retratos-novos",
+      "owner_username": "ja2nativeport",
+      "source_url": "https://goodoldgames.dev/pt/page/jagged-alliance-2",
+      "tabcoins": 5,
+      "children_deep_count": 2,
+      "published_at": "2026-11-22T20:34:38.862Z",
+      "url": "https://www.tabnews.com.br/ja2nativeport/como-publiquei-um-jogo-de-estrategia-de-1999-como-binario-nativo-linux-arm64-ligacao-estatica-instalador-sha-256-e-40-retratos-novos"
+    },
+    {
+      "id": "7e4b32cd-8acc-4461-a3f6-033b84fe4298",
+      "title": "Pitch: Como colocamos um cliente de MMORPG em C++ para rodar no navegador (e no iPhone) com WebAssembly",
+      "slug": "como-colocamos-um-cliente-de-mmorpg-em-c-para-rodar-no-navegador-e-no-iphone-com-webassembly",
+      "owner_username": "tibia2ot",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 0,
+      "published_at": "2026-11-23T16:48:59.805Z",
+      "url": "https://www.tabnews.com.br/tibia2ot/como-colocamos-um-cliente-de-mmorpg-em-c-para-rodar-no-navegador-e-no-iphone-com-webassembly"
+    },
+    {
+      "id": "c6c772fe-cbd6-4852-8c42-5e49c30a4503",
+      "title": "Indicações para hospedagem/deploy de app e banco",
+      "slug": "indicacoes-para-hospedagem-deploy-de-app-e-banco",
+      "owner_username": "navyblueiphone",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 1,
+      "published_at": "2026-11-23T19:07:55.395Z",
+      "url": "https://www.tabnews.com.br/navyblueiphone/indicacoes-para-hospedagem-deploy-de-app-e-banco"
+    },
+    {
+      "id": "9bebe16b-2ccc-4ea8-a9b2-760209606ab7",
+      "title": "A mecânica por trás dos parsers de ATS: por que modelos bonitos do Canva quebram a leitura de currículos (e como resolver)",
+      "slug": "a-mecanica-por-tras-dos-parsers-de-ats-por-que-modelos-bonitos-do-canva-quebram-a-leitura-de-curriculos-e-como-resolver",
+      "owner_username": "genildoburgos",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-23T20:24:17.856Z",
+      "url": "https://www.tabnews.com.br/genildoburgos/a-mecanica-por-tras-dos-parsers-de-ats-por-que-modelos-bonitos-do-canva-quebram-a-leitura-de-curriculos-e-como-resolver"
+    },
+    {
+      "id": "68dba4c2-72b0-4b9e-8dcf-96f62c5d0059",
+      "title": "Antes de cobrar velocidade do time, pergunte o que o item estava esperando",
+      "slug": "antes-de-cobrar-velocidade-do-time-pergunte-o-que-o-item-estava-esperando",
+      "owner_username": "kodafirst",
+      "source_url": "https://kodafirst.online/blog/seu-time-nao-esta-lento?utm_source=tabnews&utm_medium=community&utm_campaign=seu-time-nao-esta-lento",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-23T18:32:47.308Z",
+      "url": "https://www.tabnews.com.br/kodafirst/antes-de-cobrar-velocidade-do-time-pergunte-o-que-o-item-estava-esperando"
+    },
+    {
+      "id": "c89908ee-ae9d-4c5b-bfaf-2c790a58896d",
+      "title": "Fiz uma skill open source para o Claude orientar MEI com a regra oficial (e 4 coisas que aprendi pesquisando)",
+      "slug": "fiz-uma-skill-open-source-para-o-claude-orientar-mei-com-a-regra-oficial-e-4-coisas-que-aprendi-pesquisando",
+      "owner_username": "Clarki7",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-23T18:32:24.224Z",
+      "url": "https://www.tabnews.com.br/Clarki7/fiz-uma-skill-open-source-para-o-claude-orientar-mei-com-a-regra-oficial-e-4-coisas-que-aprendi-pesquisando"
+    },
+    {
+      "id": "b988a526-7655-478e-adb8-4c192dd971c7",
+      "title": "O ID do pedido mudou sozinho? JSON, números grandes e o limite de 2^53",
+      "slug": "o-id-do-pedido-mudou-sozinho-json-numeros-grandes-e-o-limite-de-253",
+      "owner_username": "mindvsdrive",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-11-22T14:02:05.335Z",
+      "url": "https://www.tabnews.com.br/mindvsdrive/o-id-do-pedido-mudou-sozinho-json-numeros-grandes-e-o-limite-de-253"
+    },
+    {
+      "id": "1ef63d34-6b9b-4505-b65c-7ba7cf7bb52d",
+      "title": "Pitch: Criei um bairro para agentes de IA com perfis, recados e comunidades",
+      "slug": "pitch-criei-um-bairro-para-agentes-de-ia-com-perfis-recados-e-comunidades",
+      "owner_username": "roqueribeiro",
+      "source_url": null,
+      "tabcoins": 3,
+      "children_deep_count": 4,
+      "published_at": "2026-11-22T16:35:16.110Z",
+      "url": "https://www.tabnews.com.br/roqueribeiro/pitch-criei-um-bairro-para-agentes-de-ia-com-perfis-recados-e-comunidades"
+    },
+    {
+      "id": "8ec3e645-c3d0-4d39-b81e-edc9d3786836",
+      "title": "Burnout em tech: o que eu vejo no consultório e o que ajuda de verdade",
+      "slug": "burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade",
+      "owner_username": "drcarlosperiotto",
+      "source_url": null,
+      "tabcoins": 12,
+      "children_deep_count": 7,
+      "published_at": "2026-11-21T00:47:18.920Z",
+      "url": "https://www.tabnews.com.br/drcarlosperiotto/burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade"
+    },
     {
       "id": "66f9ef5f-b029-44ce-801f-dc2298812a66",
       "title": "Por quê usar Coffescript e Toon economiza seus Tokens?",
@@ -11,105 +110,6 @@
       "children_deep_count": 1,
       "published_at": "2026-11-21T18:57:42.494Z",
       "url": "https://www.tabnews.com.br/ThinkIac/por-que-usar-coffescript-e-toon-economiza-seus-tokens"
-    },
-    {
-      "id": "b988a526-7655-478e-adb8-4c192dd971c7",
-      "title": "O ID do pedido mudou sozinho? JSON, números grandes e o limite de 2^53",
-      "slug": "o-id-do-pedido-mudou-sozinho-json-numeros-grandes-e-o-limite-de-253",
-      "owner_username": "mindvsdrive",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-11-22T14:02:05.335Z",
-      "url": "https://www.tabnews.com.br/mindvsdrive/o-id-do-pedido-mudou-sozinho-json-numeros-grandes-e-o-limite-de-253"
-    },
-    {
-      "id": "0c41e156-0ab0-4653-b206-10971b52bb4b",
-      "title": "Pitch: lancei um puzzle para Android em Godot, com 1.000 fases geradas e verificadas por um solver (e os números reais das 3 primeiras semanas)",
-      "slug": "pitch-lancei-um-puzzle-para-android-em-godot-com-1-000-fases-geradas-e-verificadas-por-um-solver-e-os-numeros-reais-das-3-primeiras-semanas",
-      "owner_username": "LocoLoadoutDev",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-22T15:29:57.579Z",
-      "url": "https://www.tabnews.com.br/LocoLoadoutDev/pitch-lancei-um-puzzle-para-android-em-godot-com-1-000-fases-geradas-e-verificadas-por-um-solver-e-os-numeros-reais-das-3-primeiras-semanas"
-    },
-    {
-      "id": "95502859-8e35-476c-8702-ae386304d029",
-      "title": "Afinal qual orgão registrador de domínio e provedor de hospedagem escolher?",
-      "slug": "afinal-qual-orgao-registrador-de-dominio-e-provedor-de-hospedagem-escolher",
-      "owner_username": "JeielMiranda",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-22T15:21:59.632Z",
-      "url": "https://www.tabnews.com.br/JeielMiranda/afinal-qual-orgao-registrador-de-dominio-e-provedor-de-hospedagem-escolher"
-    },
-    {
-      "id": "2695f21a-9e08-42f6-9b28-4e364ea205e9",
-      "title": "Como construí uma enciclopédia visual em grafo (1.318 entidades, 12.146 afirmações) sem banco de dados tradicional",
-      "slug": "como-construi-uma-enciclopedia-visual-em-grafo-1-318-entidades-12-146-afirmacoes-sem-banco-de-dados-tradicional",
-      "owner_username": "Bellussi",
-      "source_url": "https://atlas.bellussi.dev",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-22T14:42:54.082Z",
-      "url": "https://www.tabnews.com.br/Bellussi/como-construi-uma-enciclopedia-visual-em-grafo-1-318-entidades-12-146-afirmacoes-sem-banco-de-dados-tradicional"
-    },
-    {
-      "id": "d1fd82e5-0ae0-43b7-ae11-69d4550053db",
-      "title": "Minha identidade, sua urgência e o dinheiro dos outros: mais um golpe de engenharia social",
-      "slug": "minha-identidade-sua-urgencia-e-o-dinheiro-dos-outros-mais-um-golpe-de-engenharia-social",
-      "owner_username": "sterbe",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-22T13:00:42.099Z",
-      "url": "https://www.tabnews.com.br/sterbe/minha-identidade-sua-urgencia-e-o-dinheiro-dos-outros-mais-um-golpe-de-engenharia-social"
-    },
-    {
-      "id": "8ec3e645-c3d0-4d39-b81e-edc9d3786836",
-      "title": "Burnout em tech: o que eu vejo no consultório e o que ajuda de verdade",
-      "slug": "burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade",
-      "owner_username": "drcarlosperiotto",
-      "source_url": null,
-      "tabcoins": 11,
-      "children_deep_count": 6,
-      "published_at": "2026-11-21T00:47:18.920Z",
-      "url": "https://www.tabnews.com.br/drcarlosperiotto/burnout-em-tech-o-que-eu-vejo-no-consultorio-e-o-que-ajuda-de-verdade"
-    },
-    {
-      "id": "cbc40ab3-0e8c-45b7-9fca-1260dbd3cec4",
-      "title": "@thorstenball : \"O que eu acredito sobre o futuro do desenvolvimento de software\"",
-      "slug": "thorstenball-o-que-eu-acredito-sobre-o-futuro-do-desenvolvimento-de-software",
-      "owner_username": "teknolista",
-      "source_url": "https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/",
-      "tabcoins": 10,
-      "children_deep_count": 11,
-      "published_at": "2026-11-20T10:48:13.715Z",
-      "url": "https://www.tabnews.com.br/teknolista/thorstenball-o-que-eu-acredito-sobre-o-futuro-do-desenvolvimento-de-software"
-    },
-    {
-      "id": "8ffa88d2-6331-422f-8cdc-3dee051a5f03",
-      "title": "Bora fortalecer a rede e trocar seguidores no GitHub? 🚀",
-      "slug": "bora-fortalecer-a-rede-e-trocar-seguidores-no-github",
-      "owner_username": "kalleo",
-      "source_url": null,
-      "tabcoins": 15,
-      "children_deep_count": 20,
-      "published_at": "2026-11-18T04:59:45.721Z",
-      "url": "https://www.tabnews.com.br/kalleo/bora-fortalecer-a-rede-e-trocar-seguidores-no-github"
-    },
-    {
-      "id": "ecc49f69-7505-4f79-8db5-a6937abd20a7",
-      "title": "Inteligência artificial realmente mudou algo no seu dia a dia?",
-      "slug": "inteligencia-artificial-realmente-mudou-algo-no-seu-dia-a-dia",
-      "owner_username": "Programmer404",
-      "source_url": null,
-      "tabcoins": 10,
-      "children_deep_count": 8,
-      "published_at": "2026-11-18T19:55:41.889Z",
-      "url": "https://www.tabnews.com.br/Programmer404/inteligencia-artificial-realmente-mudou-algo-no-seu-dia-a-dia"
     }
   ]
 }
