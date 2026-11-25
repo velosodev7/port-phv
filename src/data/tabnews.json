@@ -1,115 +1,115 @@
 {
-  "updated_at": "2026-11-24T19:49:14.294Z",
+  "updated_at": "2026-11-25T18:54:29.746Z",
   "posts": [
     {
-      "id": "c6c772fe-cbd6-4852-8c42-5e49c30a4503",
-      "title": "Indicações para hospedagem/deploy de app e banco",
-      "slug": "indicacoes-para-hospedagem-deploy-de-app-e-banco",
-      "owner_username": "navyblueiphone",
+      "id": "6ac5cded-28f4-4cf4-8dcf-1b8a9dc67126",
+      "title": "Ser proativo é algo ruim. Foi isso que escutei",
+      "slug": "ser-proativo-e-algo-ruim-foi-isso-que-escutei",
+      "owner_username": "UsuarioM",
       "source_url": null,
       "tabcoins": 4,
       "children_deep_count": 8,
-      "published_at": "2026-11-23T19:07:55.395Z",
-      "url": "https://www.tabnews.com.br/navyblueiphone/indicacoes-para-hospedagem-deploy-de-app-e-banco"
+      "published_at": "2026-11-25T11:50:41.964Z",
+      "url": "https://www.tabnews.com.br/UsuarioM/ser-proativo-e-algo-ruim-foi-isso-que-escutei"
     },
     {
-      "id": "7e4b32cd-8acc-4461-a3f6-033b84fe4298",
-      "title": "Pitch: Como colocamos um cliente de MMORPG em C++ para rodar no navegador (e no iPhone) com WebAssembly",
-      "slug": "como-colocamos-um-cliente-de-mmorpg-em-c-para-rodar-no-navegador-e-no-iphone-com-webassembly",
-      "owner_username": "tibia2ot",
+      "id": "2d57fb07-d965-40a8-9b15-d7ca79c41bc6",
+      "title": "A Crom acabou? Pausei os servidores, segurei o domínio e vou continuar construindo aberto -",
+      "slug": "a-crom-acabou-pausei-os-servidores-segurei-o-dominio-e-vou-continuar-construindo-aberto",
+      "owner_username": "MrJ",
       "source_url": null,
-      "tabcoins": 6,
-      "children_deep_count": 0,
-      "published_at": "2026-11-23T16:48:59.805Z",
-      "url": "https://www.tabnews.com.br/tibia2ot/como-colocamos-um-cliente-de-mmorpg-em-c-para-rodar-no-navegador-e-no-iphone-com-webassembly"
-    },
-    {
-      "id": "c87619be-cdb1-4753-a107-d5ad4d4a720e",
-      "title": "Pitch: Como desenhei um globo histórico em canvas, sem biblioteca de mapas (140 territórios, 271 conexões)",
-      "slug": "como-desenhei-um-globo-historico-em-canvas-sem-biblioteca-de-mapas-140-territorios-271-conexoes",
-      "owner_username": "Bellussi",
-      "source_url": "https://atlas.bellussi.dev/mapa/?utm_source=tabnews&utm_medium=article&utm_campaign=mapa",
-      "tabcoins": 1,
-      "children_deep_count": 1,
-      "published_at": "2026-11-24T17:05:33.393Z",
-      "url": "https://www.tabnews.com.br/Bellussi/como-desenhei-um-globo-historico-em-canvas-sem-biblioteca-de-mapas-140-territorios-271-conexoes"
-    },
-    {
-      "id": "1c41fb57-1e4d-446b-818a-eb959b89fd9b",
-      "title": "Sentinel: CLI extremamente rápida",
-      "slug": "sentinel-cli-extremamente-rapida",
-      "owner_username": "sebastianjnuwu",
-      "source_url": "https://github.com/sebastianjnuwu/sentinel",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-24T19:19:14.353Z",
-      "url": "https://www.tabnews.com.br/sebastianjnuwu/sentinel-cli-extremamente-rapida"
-    },
-    {
-      "id": "f5f15cc1-0112-4b94-9d39-0681237b3ed1",
-      "title": "Como conferir se o Mac ficou acordado enquanto o Claude Code ou o Codex rodava com a tampa fechada",
-      "slug": "como-conferir-se-o-mac-ficou-acordado-enquanto-o-claude-code-ou-o-codex-rodava-com-a-tampa-fechada",
-      "owner_username": "KeepMacAwake",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-24T16:11:47.311Z",
-      "url": "https://www.tabnews.com.br/KeepMacAwake/como-conferir-se-o-mac-ficou-acordado-enquanto-o-claude-code-ou-o-codex-rodava-com-a-tampa-fechada"
-    },
-    {
-      "id": "4e416115-d82b-4922-868f-3efaab7bb063",
-      "title": "Pitch: Transformei meu script de Markdown → PDF numa ferramenta open source: o que aprendi no caminho",
-      "slug": "transformei-meu-script-de-markdown-pdf-numa-ferramenta-open-source-o-que-aprendi-no-caminho",
-      "owner_username": "Fransuelton",
-      "source_url": "https://github.com/prelum/prelum",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-24T15:45:32.568Z",
-      "url": "https://www.tabnews.com.br/Fransuelton/transformei-meu-script-de-markdown-pdf-numa-ferramenta-open-source-o-que-aprendi-no-caminho"
-    },
-    {
-      "id": "6587238f-d8f9-47f9-9fa2-545d35a3ac71",
-      "title": "Como publiquei um jogo de estratégia de 1999 como binário nativo Linux ARM64 (ligação estática, instalador SHA-256 e 40 retratos novos)",
-      "slug": "como-publiquei-um-jogo-de-estrategia-de-1999-como-binario-nativo-linux-arm64-ligacao-estatica-instalador-sha-256-e-40-retratos-novos",
-      "owner_username": "ja2nativeport",
-      "source_url": "https://goodoldgames.dev/pt/page/jagged-alliance-2",
       "tabcoins": 5,
-      "children_deep_count": 2,
-      "published_at": "2026-11-22T20:34:38.862Z",
-      "url": "https://www.tabnews.com.br/ja2nativeport/como-publiquei-um-jogo-de-estrategia-de-1999-como-binario-nativo-linux-arm64-ligacao-estatica-instalador-sha-256-e-40-retratos-novos"
+      "children_deep_count": 1,
+      "published_at": "2026-11-25T12:33:13.688Z",
+      "url": "https://www.tabnews.com.br/MrJ/a-crom-acabou-pausei-os-servidores-segurei-o-dominio-e-vou-continuar-construindo-aberto"
     },
     {
-      "id": "1ef63d34-6b9b-4505-b65c-7ba7cf7bb52d",
-      "title": "Pitch: Criei um bairro para agentes de IA com perfis, recados e comunidades",
-      "slug": "pitch-criei-um-bairro-para-agentes-de-ia-com-perfis-recados-e-comunidades",
-      "owner_username": "roqueribeiro",
+      "id": "53ae2da4-61d4-4684-b9b7-89e51c0969ff",
+      "title": "Manifestos que Encontrei pela Web: No AI Slop + HUMAN.md",
+      "slug": "manifestos-que-encontrei-pela-web-no-ai-slop-human-md-faster-dev",
+      "owner_username": "teknolista",
       "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 5,
-      "published_at": "2026-11-22T16:35:16.110Z",
-      "url": "https://www.tabnews.com.br/roqueribeiro/pitch-criei-um-bairro-para-agentes-de-ia-com-perfis-recados-e-comunidades"
+      "tabcoins": 5,
+      "children_deep_count": 1,
+      "published_at": "2026-11-25T08:23:38.337Z",
+      "url": "https://www.tabnews.com.br/teknolista/manifestos-que-encontrei-pela-web-no-ai-slop-human-md-faster-dev"
     },
     {
-      "id": "b988a526-7655-478e-adb8-4c192dd971c7",
-      "title": "O ID do pedido mudou sozinho? JSON, números grandes e o limite de 2^53",
-      "slug": "o-id-do-pedido-mudou-sozinho-json-numeros-grandes-e-o-limite-de-253",
-      "owner_username": "mindvsdrive",
+      "id": "a31dd02c-a539-4975-ba65-d36267652f50",
+      "title": "A inteligência artificial e o futuro da cibersegurança, depois da programação!",
+      "slug": "a-inteligencia-artificial-e-o-futuro-da-ciberseguranca-depois-da-programacao",
+      "owner_username": "welovetech",
       "source_url": null,
       "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-11-22T14:02:05.335Z",
-      "url": "https://www.tabnews.com.br/mindvsdrive/o-id-do-pedido-mudou-sozinho-json-numeros-grandes-e-o-limite-de-253"
+      "children_deep_count": 2,
+      "published_at": "2026-11-24T20:37:33.746Z",
+      "url": "https://www.tabnews.com.br/welovetech/a-inteligencia-artificial-e-o-futuro-da-ciberseguranca-depois-da-programacao"
     },
     {
-      "id": "8ffa88d2-6331-422f-8cdc-3dee051a5f03",
-      "title": "Bora fortalecer a rede e trocar seguidores no GitHub? 🚀",
-      "slug": "bora-fortalecer-a-rede-e-trocar-seguidores-no-github",
-      "owner_username": "kalleo",
+      "id": "0a68bdb3-7aaf-47e3-adb9-beab70ddffc1",
+      "title": "Demorei 3 dias pra entender que meu voice agent perdia 300ms esperando o LLM terminar",
+      "slug": "demorei-3-dias-pra-entender-que-meu-voice-agent-perdia-300ms-esperando-o-llm-terminar",
+      "owner_username": "kenimo49",
+      "source_url": "https://kenimoto.dev/pt/blog/streaming-parcial-llm-para-tts-300ms/",
+      "tabcoins": 3,
+      "children_deep_count": 1,
+      "published_at": "2026-11-25T12:00:03.902Z",
+      "url": "https://www.tabnews.com.br/kenimo49/demorei-3-dias-pra-entender-que-meu-voice-agent-perdia-300ms-esperando-o-llm-terminar"
+    },
+    {
+      "id": "cc521638-1724-46c5-850d-58798b9e4036",
+      "title": "Criamos um teste gratuito de perfil empreendedor, com comparação com empreendedores da história. O que aprendemos no caminho",
+      "slug": "criamos-um-teste-gratuito-de-perfil-empreendedor-com-comparacao-com-empreendedores-da-historia-o-que-aprendemos-no-caminho",
+      "owner_username": "ocerebroempreendedor",
       "source_url": null,
-      "tabcoins": 24,
-      "children_deep_count": 24,
-      "published_at": "2026-11-18T04:59:45.721Z",
-      "url": "https://www.tabnews.com.br/kalleo/bora-fortalecer-a-rede-e-trocar-seguidores-no-github"
+      "tabcoins": 3,
+      "children_deep_count": 0,
+      "published_at": "2026-11-25T10:12:42.866Z",
+      "url": "https://www.tabnews.com.br/ocerebroempreendedor/criamos-um-teste-gratuito-de-perfil-empreendedor-com-comparacao-com-empreendedores-da-historia-o-que-aprendemos-no-caminho"
+    },
+    {
+      "id": "3b5bde46-a472-4024-bb23-0d0244b387a5",
+      "title": "Pitch: Criei um site de investimentos sem anúncios com foco em dados reais e custo R$ 0 de infra. Queria feedback técnico!",
+      "slug": "criei-um-site-de-investimentos-sem-anuncios-com-foco-em-dados-reais-e-custo-r-0-de-infra-queria-feedback-tecnico",
+      "owner_username": "lucasbedo",
+      "source_url": "https://hedofinance.vercel.app",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-25T16:27:29.518Z",
+      "url": "https://www.tabnews.com.br/lucasbedo/criei-um-site-de-investimentos-sem-anuncios-com-foco-em-dados-reais-e-custo-r-0-de-infra-queria-feedback-tecnico"
+    },
+    {
+      "id": "76ea9fae-9c85-4e2c-8fca-0c8787890b99",
+      "title": "VLAN para a IoT de casa: criar a VLAN não isola nada, quem isola é a regra no roteador",
+      "slug": "vlan-para-a-iot-de-casa-criar-a-vlan-nao-isola-nada-quem-isola-e-a-regra-no-roteador",
+      "owner_username": "bmarino01",
+      "source_url": "https://blog.brumarino.com/vlan-iot-homelab-proxmox/?de=tabnews",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-25T15:32:03.488Z",
+      "url": "https://www.tabnews.com.br/bmarino01/vlan-para-a-iot-de-casa-criar-a-vlan-nao-isola-nada-quem-isola-e-a-regra-no-roteador"
+    },
+    {
+      "id": "6b8acd5f-7cbb-4e65-bdf2-4deb6a7319f4",
+      "title": "Drone da Amazon cai sobre garagem nos EUA ao entregar xampu",
+      "slug": "drone-da-amazon-cai-sobre-garagem-nos-eua-ao-entregar-xampu",
+      "owner_username": "NewsletterOficial",
+      "source_url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-25T15:05:08.225Z",
+      "url": "https://www.tabnews.com.br/NewsletterOficial/drone-da-amazon-cai-sobre-garagem-nos-eua-ao-entregar-xampu"
+    },
+    {
+      "id": "1dc6d48c-5235-4123-a014-7da3cced1f90",
+      "title": "Pitch: O Monarca, um app de produtividade gamificado estilo Solo Leveling — como construí",
+      "slug": "pitch-o-monarca-um-app-de-produtividade-gamificado-estilo-solo-leveling-como-construi",
+      "owner_username": "PauloVitor",
+      "source_url": "https://omonarkhos.com",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-25T14:50:29.750Z",
+      "url": "https://www.tabnews.com.br/PauloVitor/pitch-o-monarca-um-app-de-produtividade-gamificado-estilo-solo-leveling-como-construi"
     }
   ]
 }
