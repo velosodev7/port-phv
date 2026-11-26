@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T18:54:29.746Z",
+  "updated_at": "2026-11-26T18:43:48.448Z",
   "posts": [
     {
       "id": "6ac5cded-28f4-4cf4-8dcf-1b8a9dc67126",
@@ -7,8 +7,8 @@
       "slug": "ser-proativo-e-algo-ruim-foi-isso-que-escutei",
       "owner_username": "UsuarioM",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 8,
+      "tabcoins": 7,
+      "children_deep_count": 10,
       "published_at": "2026-11-25T11:50:41.964Z",
       "url": "https://www.tabnews.com.br/UsuarioM/ser-proativo-e-algo-ruim-foi-isso-que-escutei"
     },
@@ -18,10 +18,76 @@
       "slug": "a-crom-acabou-pausei-os-servidores-segurei-o-dominio-e-vou-continuar-construindo-aberto",
       "owner_username": "MrJ",
       "source_url": null,
-      "tabcoins": 5,
+      "tabcoins": 7,
       "children_deep_count": 1,
       "published_at": "2026-11-25T12:33:13.688Z",
       "url": "https://www.tabnews.com.br/MrJ/a-crom-acabou-pausei-os-servidores-segurei-o-dominio-e-vou-continuar-construindo-aberto"
+    },
+    {
+      "id": "cb45db60-3c4e-4df7-ba86-2440350d4d37",
+      "title": "Fiz um bot que lê os grupos de promoção do Telegram por mim, e o que aprendi colocando no ar sozinho.",
+      "slug": "fiz-um-bot-que-le-os-grupos-de-promocao-do-telegram-por-mim-e-o-que-aprendi-colocando-no-ar-sozinho",
+      "owner_username": "devcadu",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 6,
+      "published_at": "2026-11-25T21:34:41.361Z",
+      "url": "https://www.tabnews.com.br/devcadu/fiz-um-bot-que-le-os-grupos-de-promocao-do-telegram-por-mim-e-o-que-aprendi-colocando-no-ar-sozinho"
+    },
+    {
+      "id": "81fe1a42-112f-4814-a3a3-5fb468c85372",
+      "title": "Frase Todo Dia, parte 2: coins, loja pro cachorro e um gráfico pra ver se você está melhorando",
+      "slug": "frase-todo-dia-parte-2-coins-loja-pro-cachorro-e-um-grafico-pra-ver-se-voce-esta-melhorando",
+      "owner_username": "xandymelodev",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-11-25T22:37:14.060Z",
+      "url": "https://www.tabnews.com.br/xandymelodev/frase-todo-dia-parte-2-coins-loja-pro-cachorro-e-um-grafico-pra-ver-se-voce-esta-melhorando"
+    },
+    {
+      "id": "0338c533-b724-4977-924a-19a4f0199c97",
+      "title": "Como funciona a integração entre ERP e MES no chão de fábrica?",
+      "slug": "como-funciona-a-integracao-entre-erp-e-mes-no-chao-de-fabrica",
+      "owner_username": "RedInd",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-26T17:46:45.396Z",
+      "url": "https://www.tabnews.com.br/RedInd/como-funciona-a-integracao-entre-erp-e-mes-no-chao-de-fabrica"
+    },
+    {
+      "id": "b27b5752-11c4-45cf-9670-12c78a8127cd",
+      "title": "[PITCH] Flagra: os convidados mandam fotos pelo celular e elas aparecem no telão da festa, ao vivo",
+      "slug": "pitch-flagra-os-convidados-mandam-fotos-pelo-celular-e-elas-aparecem-no-telao-da-festa-ao-vivo",
+      "owner_username": "mmiglioranza",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-26T17:32:09.811Z",
+      "url": "https://www.tabnews.com.br/mmiglioranza/pitch-flagra-os-convidados-mandam-fotos-pelo-celular-e-elas-aparecem-no-telao-da-festa-ao-vivo"
+    },
+    {
+      "id": "8036af26-b458-4ee6-9c8a-d429b6e509d9",
+      "title": "Dúvidas sobre governança de dados, acessos e entregáveis para clientes",
+      "slug": "duvidas-sobre-governanca-de-dados-acessos-e-entregaveis-para-clientes",
+      "owner_username": "navyblueiphone",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-26T17:17:38.591Z",
+      "url": "https://www.tabnews.com.br/navyblueiphone/duvidas-sobre-governanca-de-dados-acessos-e-entregaveis-para-clientes"
+    },
+    {
+      "id": "036ce8a8-cc3a-446d-ba3f-5421f2e84e73",
+      "title": "Pitch: LotoPredict — gerador de jogos com odds transparentes (projeto próprio, sem previsão)",
+      "slug": "pitch-lotopredict-gerador-de-jogos-com-odds-transparentes-projeto-proprio-sem-previsao",
+      "owner_username": "nelsonnedes",
+      "source_url": "https://frontend-delta-six-13.vercel.app/",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-26T15:58:29.717Z",
+      "url": "https://www.tabnews.com.br/nelsonnedes/pitch-lotopredict-gerador-de-jogos-com-odds-transparentes-projeto-proprio-sem-previsao"
     },
     {
       "id": "53ae2da4-61d4-4684-b9b7-89e51c0969ff",
@@ -35,81 +101,15 @@
       "url": "https://www.tabnews.com.br/teknolista/manifestos-que-encontrei-pela-web-no-ai-slop-human-md-faster-dev"
     },
     {
-      "id": "a31dd02c-a539-4975-ba65-d36267652f50",
-      "title": "A inteligência artificial e o futuro da cibersegurança, depois da programação!",
-      "slug": "a-inteligencia-artificial-e-o-futuro-da-ciberseguranca-depois-da-programacao",
-      "owner_username": "welovetech",
+      "id": "c6c772fe-cbd6-4852-8c42-5e49c30a4503",
+      "title": "Indicações para hospedagem/deploy de app e banco",
+      "slug": "indicacoes-para-hospedagem-deploy-de-app-e-banco",
+      "owner_username": "navyblueiphone",
       "source_url": null,
       "tabcoins": 4,
-      "children_deep_count": 2,
-      "published_at": "2026-11-24T20:37:33.746Z",
-      "url": "https://www.tabnews.com.br/welovetech/a-inteligencia-artificial-e-o-futuro-da-ciberseguranca-depois-da-programacao"
-    },
-    {
-      "id": "0a68bdb3-7aaf-47e3-adb9-beab70ddffc1",
-      "title": "Demorei 3 dias pra entender que meu voice agent perdia 300ms esperando o LLM terminar",
-      "slug": "demorei-3-dias-pra-entender-que-meu-voice-agent-perdia-300ms-esperando-o-llm-terminar",
-      "owner_username": "kenimo49",
-      "source_url": "https://kenimoto.dev/pt/blog/streaming-parcial-llm-para-tts-300ms/",
-      "tabcoins": 3,
-      "children_deep_count": 1,
-      "published_at": "2026-11-25T12:00:03.902Z",
-      "url": "https://www.tabnews.com.br/kenimo49/demorei-3-dias-pra-entender-que-meu-voice-agent-perdia-300ms-esperando-o-llm-terminar"
-    },
-    {
-      "id": "cc521638-1724-46c5-850d-58798b9e4036",
-      "title": "Criamos um teste gratuito de perfil empreendedor, com comparação com empreendedores da história. O que aprendemos no caminho",
-      "slug": "criamos-um-teste-gratuito-de-perfil-empreendedor-com-comparacao-com-empreendedores-da-historia-o-que-aprendemos-no-caminho",
-      "owner_username": "ocerebroempreendedor",
-      "source_url": null,
-      "tabcoins": 3,
-      "children_deep_count": 0,
-      "published_at": "2026-11-25T10:12:42.866Z",
-      "url": "https://www.tabnews.com.br/ocerebroempreendedor/criamos-um-teste-gratuito-de-perfil-empreendedor-com-comparacao-com-empreendedores-da-historia-o-que-aprendemos-no-caminho"
-    },
-    {
-      "id": "3b5bde46-a472-4024-bb23-0d0244b387a5",
-      "title": "Pitch: Criei um site de investimentos sem anúncios com foco em dados reais e custo R$ 0 de infra. Queria feedback técnico!",
-      "slug": "criei-um-site-de-investimentos-sem-anuncios-com-foco-em-dados-reais-e-custo-r-0-de-infra-queria-feedback-tecnico",
-      "owner_username": "lucasbedo",
-      "source_url": "https://hedofinance.vercel.app",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-25T16:27:29.518Z",
-      "url": "https://www.tabnews.com.br/lucasbedo/criei-um-site-de-investimentos-sem-anuncios-com-foco-em-dados-reais-e-custo-r-0-de-infra-queria-feedback-tecnico"
-    },
-    {
-      "id": "76ea9fae-9c85-4e2c-8fca-0c8787890b99",
-      "title": "VLAN para a IoT de casa: criar a VLAN não isola nada, quem isola é a regra no roteador",
-      "slug": "vlan-para-a-iot-de-casa-criar-a-vlan-nao-isola-nada-quem-isola-e-a-regra-no-roteador",
-      "owner_username": "bmarino01",
-      "source_url": "https://blog.brumarino.com/vlan-iot-homelab-proxmox/?de=tabnews",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-25T15:32:03.488Z",
-      "url": "https://www.tabnews.com.br/bmarino01/vlan-para-a-iot-de-casa-criar-a-vlan-nao-isola-nada-quem-isola-e-a-regra-no-roteador"
-    },
-    {
-      "id": "6b8acd5f-7cbb-4e65-bdf2-4deb6a7319f4",
-      "title": "Drone da Amazon cai sobre garagem nos EUA ao entregar xampu",
-      "slug": "drone-da-amazon-cai-sobre-garagem-nos-eua-ao-entregar-xampu",
-      "owner_username": "NewsletterOficial",
-      "source_url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-25T15:05:08.225Z",
-      "url": "https://www.tabnews.com.br/NewsletterOficial/drone-da-amazon-cai-sobre-garagem-nos-eua-ao-entregar-xampu"
-    },
-    {
-      "id": "1dc6d48c-5235-4123-a014-7da3cced1f90",
-      "title": "Pitch: O Monarca, um app de produtividade gamificado estilo Solo Leveling — como construí",
-      "slug": "pitch-o-monarca-um-app-de-produtividade-gamificado-estilo-solo-leveling-como-construi",
-      "owner_username": "PauloVitor",
-      "source_url": "https://omonarkhos.com",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-25T14:50:29.750Z",
-      "url": "https://www.tabnews.com.br/PauloVitor/pitch-o-monarca-um-app-de-produtividade-gamificado-estilo-solo-leveling-como-construi"
+      "children_deep_count": 17,
+      "published_at": "2026-11-23T19:07:55.395Z",
+      "url": "https://www.tabnews.com.br/navyblueiphone/indicacoes-para-hospedagem-deploy-de-app-e-banco"
     }
   ]
 }
