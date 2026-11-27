@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-11-26T18:43:48.448Z",
+  "updated_at": "2026-11-27T18:35:16.857Z",
   "posts": [
+    {
+      "id": "e07c91d0-89d4-4a48-aeb1-fca0972096cd",
+      "title": "Pitch: O que aprendi criando um sistema de publicação e login com salt:hash no Cloudflare Workers + D1 sem ser programador",
+      "slug": "pitch-o-que-aprendi-criando-um-sistema-de-publicacao-e-login-com-salthash-no-cloudflare-workers-d1-sem-ser-programador",
+      "owner_username": "Dream",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 1,
+      "published_at": "2026-11-26T23:10:06.776Z",
+      "url": "https://www.tabnews.com.br/Dream/pitch-o-que-aprendi-criando-um-sistema-de-publicacao-e-login-com-salthash-no-cloudflare-workers-d1-sem-ser-programador"
+    },
+    {
+      "id": "d421091f-d05d-4dc1-a0a0-9a14b59c53c3",
+      "title": "Precisa de modelos sem censura (abliterated, para cibersegurança e NSFW) ? Conheça a Venice.ai",
+      "slug": "precisa-de-modelos-sem-censura-abliterated-para-ciberseguranca-e-nsfw-conheca-a-venice-ai",
+      "owner_username": "Oletros",
+      "source_url": "https://venice.ai/pt",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-27T18:19:59.861Z",
+      "url": "https://www.tabnews.com.br/Oletros/precisa-de-modelos-sem-censura-abliterated-para-ciberseguranca-e-nsfw-conheca-a-venice-ai"
+    },
+    {
+      "id": "f50b4d57-8c1b-4598-bcc6-079efb8f9b81",
+      "title": "[Pitch] Tentei acelerar meu código com uma RTX e acabei desenvolvendo um motor computacional em Rust",
+      "slug": "pitch-tentei-acelerar-meu-codigo-com-uma-rtx-e-acabei-desenvolvendo-um-motor-computacional-em-rust",
+      "owner_username": "zNezu",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-27T18:14:57.763Z",
+      "url": "https://www.tabnews.com.br/zNezu/pitch-tentei-acelerar-meu-codigo-com-uma-rtx-e-acabei-desenvolvendo-um-motor-computacional-em-rust"
+    },
+    {
+      "id": "7a1ea1b5-7794-446f-9b39-d6c9217e4105",
+      "title": "Por que decidi implementar MCP no meu SaaS antes mesmo de escalar",
+      "slug": "por-que-decidi-implementar-mcp-no-meu-saas-antes-mesmo-de-escalar",
+      "owner_username": "dougpica",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-27T17:59:08.886Z",
+      "url": "https://www.tabnews.com.br/dougpica/por-que-decidi-implementar-mcp-no-meu-saas-antes-mesmo-de-escalar"
+    },
+    {
+      "id": "f3e24143-b072-4b73-a8b1-4b21aad44250",
+      "title": "Pitch: NativeForge - Nova Era da Programação C/C++ Pelo Celular Android",
+      "slug": "pitch-nativeforge-nova-era-da-programacao-c-c-pelo-celular-android",
+      "owner_username": "deuzivanviana",
+      "source_url": "https://github.com/DeuzivanViana/NativeForge",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-27T17:57:17.058Z",
+      "url": "https://www.tabnews.com.br/deuzivanviana/pitch-nativeforge-nova-era-da-programacao-c-c-pelo-celular-android"
+    },
     {
       "id": "6ac5cded-28f4-4cf4-8dcf-1b8a9dc67126",
       "title": "Ser proativo é algo ruim. Foi isso que escutei",
@@ -8,86 +63,20 @@
       "owner_username": "UsuarioM",
       "source_url": null,
       "tabcoins": 7,
-      "children_deep_count": 10,
+      "children_deep_count": 11,
       "published_at": "2026-11-25T11:50:41.964Z",
       "url": "https://www.tabnews.com.br/UsuarioM/ser-proativo-e-algo-ruim-foi-isso-que-escutei"
     },
     {
       "id": "2d57fb07-d965-40a8-9b15-d7ca79c41bc6",
-      "title": "A Crom acabou? Pausei os servidores, segurei o domínio e vou continuar construindo aberto -",
+      "title": "🚫A Crom acabou? Pausei os servidores, segurei o domínio e vou continuar construindo aberto -",
       "slug": "a-crom-acabou-pausei-os-servidores-segurei-o-dominio-e-vou-continuar-construindo-aberto",
       "owner_username": "MrJ",
       "source_url": null,
-      "tabcoins": 7,
+      "tabcoins": 8,
       "children_deep_count": 1,
       "published_at": "2026-11-25T12:33:13.688Z",
       "url": "https://www.tabnews.com.br/MrJ/a-crom-acabou-pausei-os-servidores-segurei-o-dominio-e-vou-continuar-construindo-aberto"
-    },
-    {
-      "id": "cb45db60-3c4e-4df7-ba86-2440350d4d37",
-      "title": "Fiz um bot que lê os grupos de promoção do Telegram por mim, e o que aprendi colocando no ar sozinho.",
-      "slug": "fiz-um-bot-que-le-os-grupos-de-promocao-do-telegram-por-mim-e-o-que-aprendi-colocando-no-ar-sozinho",
-      "owner_username": "devcadu",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 6,
-      "published_at": "2026-11-25T21:34:41.361Z",
-      "url": "https://www.tabnews.com.br/devcadu/fiz-um-bot-que-le-os-grupos-de-promocao-do-telegram-por-mim-e-o-que-aprendi-colocando-no-ar-sozinho"
-    },
-    {
-      "id": "81fe1a42-112f-4814-a3a3-5fb468c85372",
-      "title": "Frase Todo Dia, parte 2: coins, loja pro cachorro e um gráfico pra ver se você está melhorando",
-      "slug": "frase-todo-dia-parte-2-coins-loja-pro-cachorro-e-um-grafico-pra-ver-se-voce-esta-melhorando",
-      "owner_username": "xandymelodev",
-      "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-11-25T22:37:14.060Z",
-      "url": "https://www.tabnews.com.br/xandymelodev/frase-todo-dia-parte-2-coins-loja-pro-cachorro-e-um-grafico-pra-ver-se-voce-esta-melhorando"
-    },
-    {
-      "id": "0338c533-b724-4977-924a-19a4f0199c97",
-      "title": "Como funciona a integração entre ERP e MES no chão de fábrica?",
-      "slug": "como-funciona-a-integracao-entre-erp-e-mes-no-chao-de-fabrica",
-      "owner_username": "RedInd",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-26T17:46:45.396Z",
-      "url": "https://www.tabnews.com.br/RedInd/como-funciona-a-integracao-entre-erp-e-mes-no-chao-de-fabrica"
-    },
-    {
-      "id": "b27b5752-11c4-45cf-9670-12c78a8127cd",
-      "title": "[PITCH] Flagra: os convidados mandam fotos pelo celular e elas aparecem no telão da festa, ao vivo",
-      "slug": "pitch-flagra-os-convidados-mandam-fotos-pelo-celular-e-elas-aparecem-no-telao-da-festa-ao-vivo",
-      "owner_username": "mmiglioranza",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-26T17:32:09.811Z",
-      "url": "https://www.tabnews.com.br/mmiglioranza/pitch-flagra-os-convidados-mandam-fotos-pelo-celular-e-elas-aparecem-no-telao-da-festa-ao-vivo"
-    },
-    {
-      "id": "8036af26-b458-4ee6-9c8a-d429b6e509d9",
-      "title": "Dúvidas sobre governança de dados, acessos e entregáveis para clientes",
-      "slug": "duvidas-sobre-governanca-de-dados-acessos-e-entregaveis-para-clientes",
-      "owner_username": "navyblueiphone",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-26T17:17:38.591Z",
-      "url": "https://www.tabnews.com.br/navyblueiphone/duvidas-sobre-governanca-de-dados-acessos-e-entregaveis-para-clientes"
-    },
-    {
-      "id": "036ce8a8-cc3a-446d-ba3f-5421f2e84e73",
-      "title": "Pitch: LotoPredict — gerador de jogos com odds transparentes (projeto próprio, sem previsão)",
-      "slug": "pitch-lotopredict-gerador-de-jogos-com-odds-transparentes-projeto-proprio-sem-previsao",
-      "owner_username": "nelsonnedes",
-      "source_url": "https://frontend-delta-six-13.vercel.app/",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-26T15:58:29.717Z",
-      "url": "https://www.tabnews.com.br/nelsonnedes/pitch-lotopredict-gerador-de-jogos-com-odds-transparentes-projeto-proprio-sem-previsao"
     },
     {
       "id": "53ae2da4-61d4-4684-b9b7-89e51c0969ff",
@@ -101,15 +90,26 @@
       "url": "https://www.tabnews.com.br/teknolista/manifestos-que-encontrei-pela-web-no-ai-slop-human-md-faster-dev"
     },
     {
-      "id": "c6c772fe-cbd6-4852-8c42-5e49c30a4503",
-      "title": "Indicações para hospedagem/deploy de app e banco",
-      "slug": "indicacoes-para-hospedagem-deploy-de-app-e-banco",
-      "owner_username": "navyblueiphone",
+      "id": "cb45db60-3c4e-4df7-ba86-2440350d4d37",
+      "title": "Fiz um bot que lê os grupos de promoção do Telegram por mim, e o que aprendi colocando no ar sozinho.",
+      "slug": "fiz-um-bot-que-le-os-grupos-de-promocao-do-telegram-por-mim-e-o-que-aprendi-colocando-no-ar-sozinho",
+      "owner_username": "devcadu",
       "source_url": null,
       "tabcoins": 4,
-      "children_deep_count": 17,
-      "published_at": "2026-11-23T19:07:55.395Z",
-      "url": "https://www.tabnews.com.br/navyblueiphone/indicacoes-para-hospedagem-deploy-de-app-e-banco"
+      "children_deep_count": 8,
+      "published_at": "2026-11-25T21:34:41.361Z",
+      "url": "https://www.tabnews.com.br/devcadu/fiz-um-bot-que-le-os-grupos-de-promocao-do-telegram-por-mim-e-o-que-aprendi-colocando-no-ar-sozinho"
+    },
+    {
+      "id": "81fe1a42-112f-4814-a3a3-5fb468c85372",
+      "title": "Frase Todo Dia, parte 2: coins, loja pro cachorro e um gráfico pra ver se você está melhorando",
+      "slug": "frase-todo-dia-parte-2-coins-loja-pro-cachorro-e-um-grafico-pra-ver-se-voce-esta-melhorando",
+      "owner_username": "xandymelodev",
+      "source_url": null,
+      "tabcoins": 4,
+      "children_deep_count": 2,
+      "published_at": "2026-11-25T22:37:14.060Z",
+      "url": "https://www.tabnews.com.br/xandymelodev/frase-todo-dia-parte-2-coins-loja-pro-cachorro-e-um-grafico-pra-ver-se-voce-esta-melhorando"
     }
   ]
 }
