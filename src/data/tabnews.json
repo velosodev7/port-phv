@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-27T18:35:16.857Z",
+  "updated_at": "2026-11-28T17:15:54.742Z",
   "posts": [
     {
-      "id": "e07c91d0-89d4-4a48-aeb1-fca0972096cd",
-      "title": "Pitch: O que aprendi criando um sistema de publicação e login com salt:hash no Cloudflare Workers + D1 sem ser programador",
-      "slug": "pitch-o-que-aprendi-criando-um-sistema-de-publicacao-e-login-com-salthash-no-cloudflare-workers-d1-sem-ser-programador",
-      "owner_username": "Dream",
+      "id": "1f5b45cb-60d4-4f6d-816d-b9e9e9ae70ee",
+      "title": "Uma página que otimiza EPUB no navegador, com um motor em Rust compilado pra WebAssembly",
+      "slug": "uma-pagina-que-otimiza-epub-no-navegador-com-um-motor-em-rust-compilado-pra-webassembly",
+      "owner_username": "salinas",
       "source_url": null,
-      "tabcoins": 4,
-      "children_deep_count": 1,
-      "published_at": "2026-11-26T23:10:06.776Z",
-      "url": "https://www.tabnews.com.br/Dream/pitch-o-que-aprendi-criando-um-sistema-de-publicacao-e-login-com-salthash-no-cloudflare-workers-d1-sem-ser-programador"
+      "tabcoins": 7,
+      "children_deep_count": 2,
+      "published_at": "2026-11-27T21:41:44.581Z",
+      "url": "https://www.tabnews.com.br/salinas/uma-pagina-que-otimiza-epub-no-navegador-com-um-motor-em-rust-compilado-pra-webassembly"
     },
     {
       "id": "d421091f-d05d-4dc1-a0a0-9a14b59c53c3",
@@ -18,76 +18,76 @@
       "slug": "precisa-de-modelos-sem-censura-abliterated-para-ciberseguranca-e-nsfw-conheca-a-venice-ai",
       "owner_username": "Oletros",
       "source_url": "https://venice.ai/pt",
-      "tabcoins": 1,
+      "tabcoins": 5,
       "children_deep_count": 0,
       "published_at": "2026-11-27T18:19:59.861Z",
       "url": "https://www.tabnews.com.br/Oletros/precisa-de-modelos-sem-censura-abliterated-para-ciberseguranca-e-nsfw-conheca-a-venice-ai"
     },
     {
-      "id": "f50b4d57-8c1b-4598-bcc6-079efb8f9b81",
-      "title": "[Pitch] Tentei acelerar meu código com uma RTX e acabei desenvolvendo um motor computacional em Rust",
-      "slug": "pitch-tentei-acelerar-meu-codigo-com-uma-rtx-e-acabei-desenvolvendo-um-motor-computacional-em-rust",
-      "owner_username": "zNezu",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-27T18:14:57.763Z",
-      "url": "https://www.tabnews.com.br/zNezu/pitch-tentei-acelerar-meu-codigo-com-uma-rtx-e-acabei-desenvolvendo-um-motor-computacional-em-rust"
-    },
-    {
-      "id": "7a1ea1b5-7794-446f-9b39-d6c9217e4105",
-      "title": "Por que decidi implementar MCP no meu SaaS antes mesmo de escalar",
-      "slug": "por-que-decidi-implementar-mcp-no-meu-saas-antes-mesmo-de-escalar",
-      "owner_username": "dougpica",
-      "source_url": null,
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-27T17:59:08.886Z",
-      "url": "https://www.tabnews.com.br/dougpica/por-que-decidi-implementar-mcp-no-meu-saas-antes-mesmo-de-escalar"
-    },
-    {
-      "id": "f3e24143-b072-4b73-a8b1-4b21aad44250",
-      "title": "Pitch: NativeForge - Nova Era da Programação C/C++ Pelo Celular Android",
-      "slug": "pitch-nativeforge-nova-era-da-programacao-c-c-pelo-celular-android",
-      "owner_username": "deuzivanviana",
-      "source_url": "https://github.com/DeuzivanViana/NativeForge",
-      "tabcoins": 1,
-      "children_deep_count": 0,
-      "published_at": "2026-11-27T17:57:17.058Z",
-      "url": "https://www.tabnews.com.br/deuzivanviana/pitch-nativeforge-nova-era-da-programacao-c-c-pelo-celular-android"
-    },
-    {
-      "id": "6ac5cded-28f4-4cf4-8dcf-1b8a9dc67126",
-      "title": "Ser proativo é algo ruim. Foi isso que escutei",
-      "slug": "ser-proativo-e-algo-ruim-foi-isso-que-escutei",
-      "owner_username": "UsuarioM",
-      "source_url": null,
-      "tabcoins": 7,
-      "children_deep_count": 11,
-      "published_at": "2026-11-25T11:50:41.964Z",
-      "url": "https://www.tabnews.com.br/UsuarioM/ser-proativo-e-algo-ruim-foi-isso-que-escutei"
-    },
-    {
-      "id": "2d57fb07-d965-40a8-9b15-d7ca79c41bc6",
-      "title": "🚫A Crom acabou? Pausei os servidores, segurei o domínio e vou continuar construindo aberto -",
-      "slug": "a-crom-acabou-pausei-os-servidores-segurei-o-dominio-e-vou-continuar-construindo-aberto",
+      "id": "3c5d7b9e-46f6-4260-935a-7161cb402167",
+      "title": "🔍 GTA 6: Como jogos coletam dados, a origem do boato no X e o mercado de Data Brokers",
+      "slug": "gta-6-como-jogos-coletam-dados-a-origem-do-boato-no-x-e-o-mercado-de-data-brokers",
       "owner_username": "MrJ",
-      "source_url": null,
-      "tabcoins": 8,
+      "source_url": "https://youtu.be/NTVlWYXjUHE",
+      "tabcoins": 4,
       "children_deep_count": 1,
-      "published_at": "2026-11-25T12:33:13.688Z",
-      "url": "https://www.tabnews.com.br/MrJ/a-crom-acabou-pausei-os-servidores-segurei-o-dominio-e-vou-continuar-construindo-aberto"
+      "published_at": "2026-11-27T21:55:19.392Z",
+      "url": "https://www.tabnews.com.br/MrJ/gta-6-como-jogos-coletam-dados-a-origem-do-boato-no-x-e-o-mercado-de-data-brokers"
     },
     {
-      "id": "53ae2da4-61d4-4684-b9b7-89e51c0969ff",
-      "title": "Manifestos que Encontrei pela Web: No AI Slop + HUMAN.md",
-      "slug": "manifestos-que-encontrei-pela-web-no-ai-slop-human-md-faster-dev",
-      "owner_username": "teknolista",
+      "id": "15ddb1ae-2b04-4f9e-b855-cd6a8aca1267",
+      "title": "Engine44 STUDIO",
+      "slug": "engine44-studio",
+      "owner_username": "Engine44studioIA",
+      "source_url": "https://engine-44.base44.app",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-28T17:03:25.987Z",
+      "url": "https://www.tabnews.com.br/Engine44studioIA/engine44-studio"
+    },
+    {
+      "id": "105cbada-9284-452c-b7bd-d136b5ad6f95",
+      "title": "Como rodar Claude Code e OpenCode pagando por token (cálculo real com 90% de cache e sem trava de 5h)",
+      "slug": "como-rodar-claude-code-e-opencode-pagando-por-token-calculo-real-com-90-por-cento-de-cache-e-sem-trava-de-5h",
+      "owner_username": "proxystacks",
+      "source_url": "https://proxystacks.com/pt-BR/tools/claude-code-cost-calculator",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-28T16:47:11.025Z",
+      "url": "https://www.tabnews.com.br/proxystacks/como-rodar-claude-code-e-opencode-pagando-por-token-calculo-real-com-90-por-cento-de-cache-e-sem-trava-de-5h"
+    },
+    {
+      "id": "b20bf645-6992-457a-88e5-ce73ae6e6552",
+      "title": "Extensão que mostra a tradução embaixo de cada mensagem no WhatsApp Web, Telegram Web e Messenger",
+      "slug": "extensao-que-mostra-a-traducao-embaixo-de-cada-mensagem-no-whatsapp-web-telegram-web-e-messenger",
+      "owner_username": "chuyi",
+      "source_url": null,
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-28T15:59:43.415Z",
+      "url": "https://www.tabnews.com.br/chuyi/extensao-que-mostra-a-traducao-embaixo-de-cada-mensagem-no-whatsapp-web-telegram-web-e-messenger"
+    },
+    {
+      "id": "dcd969e7-3405-4cd8-a8da-b131a7cbaad5",
+      "title": "Pitch: M3D — Desenvolvi minha propria biblioteca grafica 2D e 3D em C/C++",
+      "slug": "m3d-desenvolvi-minha-propria-biblioteca-grafica-2d-e-3d-em-c-c",
+      "owner_username": "TemgDEV",
+      "source_url": "https://github.com/nicezinks/M3D-3D-Graphics-Library",
+      "tabcoins": 1,
+      "children_deep_count": 0,
+      "published_at": "2026-11-28T13:40:35.887Z",
+      "url": "https://www.tabnews.com.br/TemgDEV/m3d-desenvolvi-minha-propria-biblioteca-grafica-2d-e-3d-em-c-c"
+    },
+    {
+      "id": "e07c91d0-89d4-4a48-aeb1-fca0972096cd",
+      "title": "Pitch: O que aprendi criando um sistema de publicação e login com salt:hash no Cloudflare Workers + D1 sem ser programador",
+      "slug": "pitch-o-que-aprendi-criando-um-sistema-de-publicacao-e-login-com-salthash-no-cloudflare-workers-d1-sem-ser-programador",
+      "owner_username": "Dream",
       "source_url": null,
       "tabcoins": 5,
-      "children_deep_count": 1,
-      "published_at": "2026-11-25T08:23:38.337Z",
-      "url": "https://www.tabnews.com.br/teknolista/manifestos-que-encontrei-pela-web-no-ai-slop-human-md-faster-dev"
+      "children_deep_count": 2,
+      "published_at": "2026-11-26T23:10:06.776Z",
+      "url": "https://www.tabnews.com.br/Dream/pitch-o-que-aprendi-criando-um-sistema-de-publicacao-e-login-com-salthash-no-cloudflare-workers-d1-sem-ser-programador"
     },
     {
       "id": "cb45db60-3c4e-4df7-ba86-2440350d4d37",
